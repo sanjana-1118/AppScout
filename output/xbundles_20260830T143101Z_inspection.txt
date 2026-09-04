@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xbundles_20260830T143101Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xbundles_20260830T143101Z.html
+Requested URL    : https://apps.shopify.com/xbundles
+Final URL        : https://apps.shopify.com/xbundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,752 bytes / 192,627 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : xBundles ‑ AI Product Bundle - Boost AOV with AI Volume Discounts, Product Bundles & FBT | Shopify App Store
+meta description : Boost your sales with AI-powered product bundles, Volume Discounts & FBT on various pages. Personalize discounts, colors, and experience lightning-fast setup.
+canonical URL    : https://apps.shopify.com/xbundles
+<h1> tags ( 1)  : 'xBundles ‑ AI Product Bundle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

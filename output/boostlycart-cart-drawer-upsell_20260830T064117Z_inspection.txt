@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostlycart-cart-drawer-upsell_20260830T064117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostlycart-cart-drawer-upsell_20260830T064117Z.html
+Requested URL    : https://apps.shopify.com/boostlycart-cart-drawer-upsell
+Final URL        : https://apps.shopify.com/boostlycart-cart-drawer-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,077 bytes / 264,976 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BoostlyCart Cart Drawer Upsell - Simple Slide Cart Drawer with Discounts & Upsells. | Shopify App Store
+meta description : Enhance your store with a user-friendly slide cart drawer that features upsells, discounts, and more to boost your average order value & customer satisfaction.
+canonical URL    : https://apps.shopify.com/boostlycart-cart-drawer-upsell
+<h1> tags ( 1)  : 'BoostlyCart Cart Drawer Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

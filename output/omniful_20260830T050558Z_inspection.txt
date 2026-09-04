@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omniful_20260830T050558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omniful_20260830T050558Z.html
+Requested URL    : https://apps.shopify.com/omniful
+Final URL        : https://apps.shopify.com/omniful
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,771 bytes / 176,658 chars
+Elapsed          : 0.472s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Omniful - AI-powered fulfillment and inventory for faster scaling. | Shopify App Store
+meta description : Omniful offers a suite of SaaS products for omnichannel retailers, D2C brands, and fulfillment providers. Modules include OMS, WMS, Inventory Management
+canonical URL    : https://apps.shopify.com/omniful
+<h1> tags ( 1)  : 'Omniful'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

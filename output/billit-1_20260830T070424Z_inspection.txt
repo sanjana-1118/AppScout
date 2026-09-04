@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\billit-1_20260830T070424Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\billit-1_20260830T070424Z.html
+Requested URL    : https://apps.shopify.com/billit-1
+Final URL        : https://apps.shopify.com/billit-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,914 bytes / 160,825 chars
+Elapsed          : 0.507s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Billit - Automatically create Billit invoices from your store orders | Shopify App Store
+meta description : Billit connects your store to your Billit account. After installation, authorize Billit, choose when invoices are created, and decide whether docum...
+canonical URL    : https://apps.shopify.com/billit-1
+<h1> tags ( 1)  : 'Billit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

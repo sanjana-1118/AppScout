@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\evri-parcelshop-locator_20260830T145420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\evri-parcelshop-locator_20260830T145420Z.html
+Requested URL    : https://apps.shopify.com/evri-parcelshop-locator
+Final URL        : https://apps.shopify.com/evri-parcelshop-locator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,905 bytes / 207,812 chars
+Elapsed          : 0.528s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EVRi Parcelshop Locator - ParcelShop & Locker finder app, convenient delivery option  | Shopify App Store
+meta description : The app integrates with your checkout to enhance the consumer experience by letting your customer choose from 10,000+ convenient ParcelShops and Lo...
+canonical URL    : https://apps.shopify.com/evri-parcelshop-locator
+<h1> tags ( 1)  : 'EVRi Parcelshop Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uk-subscription-guard_20260830T181343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uk-subscription-guard_20260830T181343Z.html
+Requested URL    : https://apps.shopify.com/uk-subscription-guard
+Final URL        : https://apps.shopify.com/uk-subscription-guard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,404 bytes / 171,289 chars
+Elapsed          : 0.700s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Subscription Guard ‑ Subnotice - Dispute proof + renewal emails for UK and US shops. | Shopify App Store
+meta description : Win disputes with audit trails and renewal proof. Policy score for UK DMCCA and US state ARL. Export for chargebacks. Not legal advice.
+canonical URL    : https://apps.shopify.com/uk-subscription-guard
+<h1> tags ( 1)  : 'Subscription Guard ‑ Subnotice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sizemarker_20260830T170343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sizemarker_20260830T170343Z.html
+Requested URL    : https://apps.shopify.com/sizemarker
+Final URL        : https://apps.shopify.com/sizemarker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,128 bytes / 174,033 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SizeMarker - Add size dimensions & annotations to your product images | Shopify App Store
+meta description : Add size dimensions, labels, and focus annotations to your product images. Help customers understand product sizes with visual markers directly on photos.
+canonical URL    : https://apps.shopify.com/sizemarker
+<h1> tags ( 1)  : 'SizeMarker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

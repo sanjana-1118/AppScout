@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k1-file-uploads-1_20260830T043324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k1-file-uploads-1_20260830T043324Z.html
+Requested URL    : https://apps.shopify.com/k1-file-uploads-1
+Final URL        : https://apps.shopify.com/k1-file-uploads-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,749 bytes / 202,650 chars
+Elapsed          : 1.001s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K1 Photo Upload File Manager - Encrypted & secure upload photo, logo upload picture, any file | Shopify App Store
+meta description : Let buyers upload files, photos, and images per product. Antivirus, AES-256 encryption, 1 GB resumable uploads, 30-day backups. Free plan available.
+canonical URL    : https://apps.shopify.com/k1-file-uploads-1
+<h1> tags ( 1)  : 'K1 Photo Upload File Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

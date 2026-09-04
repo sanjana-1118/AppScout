@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decimal-percentage-discounts_20260830T151346Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decimal-percentage-discounts_20260830T151346Z.html
+Requested URL    : https://apps.shopify.com/decimal-percentage-discounts
+Final URL        : https://apps.shopify.com/decimal-percentage-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,972 bytes / 197,883 chars
+Elapsed          : 1.028s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Numo Decimal Discounts - Set non-whole decimal percentage values for your discounts. | Shopify App Store
+meta description : Modify and manage decimal percentage discounts effortlessly in Shopify. Prevent automatic rounding and keep your discount values consistent across your store.
+canonical URL    : https://apps.shopify.com/decimal-percentage-discounts
+<h1> tags ( 1)  : 'Numo Decimal Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

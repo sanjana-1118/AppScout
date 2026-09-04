@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rios-profit-planning_20260830T074801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rios-profit-planning_20260830T074801Z.html
+Requested URL    : https://apps.shopify.com/rios-profit-planning
+Final URL        : https://apps.shopify.com/rios-profit-planning
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,247 bytes / 178,140 chars
+Elapsed          : 0.634s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RIOS ‑ Profit Planning - Profit forecasts, scenarios, and actions for growing stores | Shopify App Store
+meta description : Forecast store revenue and profit, compare financial scenarios, set targets, and turn Shopify order data into clear actions with RIOS.
+canonical URL    : https://apps.shopify.com/rios-profit-planning
+<h1> tags ( 1)  : 'RIOS ‑ Profit Planning'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

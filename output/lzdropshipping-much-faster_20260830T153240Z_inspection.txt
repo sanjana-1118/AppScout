@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lzdropshipping-much-faster_20260830T153240Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lzdropshipping-much-faster_20260830T153240Z.html
+Requested URL    : https://apps.shopify.com/lzdropshipping-much-faster
+Final URL        : https://apps.shopify.com/lzdropshipping-much-faster
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,413 bytes / 194,302 chars
+Elapsed          : 0.779s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LZdropshipping - Dropshipping Sourcing & Fulfillment Platform | Shopify App Store
+meta description : Launch your dropshipping venture via the LZdropshipping platform. LZdropshipping integrates smoothly with Shopify, offering top - notch dropshippin...
+canonical URL    : https://apps.shopify.com/lzdropshipping-much-faster
+<h1> tags ( 1)  : 'LZdropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

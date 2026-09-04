@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\staxxer_20260830T065857Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\staxxer_20260830T065857Z.html
+Requested URL    : https://apps.shopify.com/staxxer
+Final URL        : https://apps.shopify.com/staxxer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,925 bytes / 191,836 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Staxxer - Easily manage your VAT and EPR with our secure software | Shopify App Store
+meta description : Automate VAT filing, VAT registrations, EPR filings, EPR registrations, One Stop Shop filings & gain insight for sales in the EU.
+canonical URL    : https://apps.shopify.com/staxxer
+<h1> tags ( 1)  : 'Staxxer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

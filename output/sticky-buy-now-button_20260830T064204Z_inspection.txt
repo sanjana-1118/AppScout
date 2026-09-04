@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-buy-now-button_20260830T064204Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-buy-now-button_20260830T064204Z.html
+Requested URL    : https://apps.shopify.com/sticky-buy-now-button
+Final URL        : https://apps.shopify.com/sticky-buy-now-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,655 bytes / 200,556 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Today's Project: Buy Button - Consistently get more shoppers to buy your products: Risk Free | Shopify App Store
+meta description : If you’re looking to increase your sales and boost revenue, then your solution is Sticky Add to Cart, the app designed not only to increase your co...
+canonical URL    : https://apps.shopify.com/sticky-buy-now-button
+<h1> tags ( 1)  : "Today's Project: Buy Button"
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

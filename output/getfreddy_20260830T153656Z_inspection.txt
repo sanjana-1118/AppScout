@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getfreddy_20260830T153656Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getfreddy_20260830T153656Z.html
+Requested URL    : https://apps.shopify.com/getfreddy
+Final URL        : https://apps.shopify.com/getfreddy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,944 bytes / 174,854 chars
+Elapsed          : 0.914s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : getFreddy  - Cart reminders, push slow moving stocks with ai chatbot | Shopify App Store
+meta description : getFreddy is an active sales-assistant chatbot that recovers carts and clears slow-moving inventory.
+
+ Email and SMS recovery only work if a shoppe...
+canonical URL    : https://apps.shopify.com/getfreddy
+<h1> tags ( 1)  : 'getFreddy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

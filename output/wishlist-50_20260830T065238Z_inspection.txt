@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-50_20260830T065238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-50_20260830T065238Z.html
+Requested URL    : https://apps.shopify.com/wishlist-50
+Final URL        : https://apps.shopify.com/wishlist-50
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,008 bytes / 179,242 chars
+Elapsed          : 0.676s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy! Wishlist Counter - No-code wishlist buttons and counts to boost engagement. | Shopify App Store
+meta description : お気に入り数を商品ページや一覧に表示し、人気や注目度を分かりやすく伝えるウィッシュリストアプリ。比較検討中の商品選びをサポートし、購入判断を自然に後押しします。日本語対応で安心して導入できます。
+canonical URL    : https://apps.shopify.com/wishlist-50
+<h1> tags ( 1)  : 'Easy! Wishlist Counter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

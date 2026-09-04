@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\belgepro-sozlesme-yoneticisi_20260830T144610Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\belgepro-sozlesme-yoneticisi_20260830T144610Z.html
+Requested URL    : https://apps.shopify.com/belgepro-sozlesme-yoneticisi
+Final URL        : https://apps.shopify.com/belgepro-sozlesme-yoneticisi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,940 bytes / 194,784 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BelgePro: Contract Manager - Automatic Prior Information and Sales Agreement Sending | Shopify App Store
+meta description : BelgePro ile Shopify üzerinde otomatik olarak ön bilgilendirme ve mesafeli satış sözleşmelerini oluşturun, yönetin ve müşterilere hızlıca gönderin.
+canonical URL    : https://apps.shopify.com/belgepro-sozlesme-yoneticisi
+<h1> tags ( 1)  : 'BelgePro: Contract Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

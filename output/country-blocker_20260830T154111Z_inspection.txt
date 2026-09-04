@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\country-blocker_20260830T154111Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\country-blocker_20260830T154111Z.html
+Requested URL    : https://apps.shopify.com/country-blocker
+Final URL        : https://apps.shopify.com/country-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,624 bytes / 205,531 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Country Blocker - Block or allow store visitors by country or IP with... | Shopify App Store
+meta description : Country Blocker lets you block or allow visitors by country or IP on your Shopify store. Prevent fraud, control traffic, and customize access with easy setup.
+canonical URL    : https://apps.shopify.com/country-blocker
+<h1> tags ( 1)  : 'Country Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

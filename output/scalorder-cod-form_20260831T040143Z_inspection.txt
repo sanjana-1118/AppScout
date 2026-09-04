@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scalorder-cod-form_20260831T040143Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scalorder-cod-form_20260831T040143Z.html
+Requested URL    : https://apps.shopify.com/scalorder-cod-form
+Final URL        : https://apps.shopify.com/scalorder-cod-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,083 bytes / 206,951 chars
+Elapsed          : 0.967s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ScalOrder COD Form & Upsells - Form for stores working with cash on delivery | Shopify App Store
+meta description : With ScalOrder, shoppers can place Cash on Delivery orders instantly through a fast 1-Click order form, available as a popup or embedded layout — n...
+canonical URL    : https://apps.shopify.com/scalorder-cod-form
+<h1> tags ( 1)  : 'ScalOrder COD Form & Upsells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

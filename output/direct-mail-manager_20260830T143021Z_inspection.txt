@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\direct-mail-manager_20260830T143021Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\direct-mail-manager_20260830T143021Z.html
+Requested URL    : https://apps.shopify.com/direct-mail-manager
+Final URL        : https://apps.shopify.com/direct-mail-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,104 bytes / 168,015 chars
+Elapsed          : 0.991s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Direct Mail Manager - Automate postcards and letters to keep customers coming back. | Shopify App Store
+meta description : Trigger postcards and letters from your store. Use it for retention, win-backs, and new customer welcomes. We handle printing, postage, and delivery.
+canonical URL    : https://apps.shopify.com/direct-mail-manager
+<h1> tags ( 1)  : 'Direct Mail Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

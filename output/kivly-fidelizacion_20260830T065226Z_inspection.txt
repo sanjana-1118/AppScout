@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kivly-fidelizacion_20260830T065226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kivly-fidelizacion_20260830T065226Z.html
+Requested URL    : https://apps.shopify.com/kivly-fidelizacion
+Final URL        : https://apps.shopify.com/kivly-fidelizacion
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,697 bytes / 204,543 chars
+Elapsed          : 0.947s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kivly ‑ Fidelización  - Fidelización de clientes con tarjetas digitales | Shopify App Store
+meta description : Crea programas de fidelización en tu tienda Shopify con tarjetas digitales para Apple Wallet y Google Wallet. Aumenta la retención sin apps externas.
+canonical URL    : https://apps.shopify.com/kivly-fidelizacion?locale=es
+<h1> tags ( 1)  : 'Kivly ‑ Fidelización'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

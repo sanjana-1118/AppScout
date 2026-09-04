@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-exit-intent-popup_20260830T061416Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-exit-intent-popup_20260830T061416Z.html
+Requested URL    : https://apps.shopify.com/k-exit-intent-popup
+Final URL        : https://apps.shopify.com/k-exit-intent-popup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,235 bytes / 228,124 chars
+Elapsed          : 0.473s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Exit Intent Popup: Exit Pop Up - Recover Lost Sales and Capture Leads with AI Exit Popups. | Shopify App Store
+meta description : Don’t let visitors leave without action. Improve retention and sales with one simple tool. Display targeted discount popups when visitors show inte...
+canonical URL    : https://apps.shopify.com/k-exit-intent-popup
+<h1> tags ( 1)  : 'Exit Intent Popup: Exit Pop Up'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

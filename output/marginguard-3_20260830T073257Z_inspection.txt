@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marginguard-3_20260830T073257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marginguard-3_20260830T073257Z.html
+Requested URL    : https://apps.shopify.com/marginguard-3
+Final URL        : https://apps.shopify.com/marginguard-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,937 bytes / 177,826 chars
+Elapsed          : 0.548s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MarginGuard ‑ Profit Tracking - Calculate real margins per order with costs, fees and discount | Shopify App Store
+meta description : See your true profit per order. MarginGuard tracks real margins after costs, fees and discounts so you can identify low-margin orders instantly.
+canonical URL    : https://apps.shopify.com/marginguard-3
+<h1> tags ( 1)  : 'MarginGuard ‑ Profit Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

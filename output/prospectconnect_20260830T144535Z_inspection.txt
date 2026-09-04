@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prospectconnect_20260830T144535Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prospectconnect_20260830T144535Z.html
+Requested URL    : https://apps.shopify.com/prospectconnect
+Final URL        : https://apps.shopify.com/prospectconnect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,778 bytes / 156,689 chars
+Elapsed          : 0.694s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProspectConnect - Seamless integration,intuitive management with ProspectConnect | Shopify App Store
+meta description : ProspectConnect is a versatile app designed for businesses of all sizes, specialising in seamless software integration. It excels in managing prosp...
+canonical URL    : https://apps.shopify.com/prospectconnect
+<h1> tags ( 1)  : 'ProspectConnect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

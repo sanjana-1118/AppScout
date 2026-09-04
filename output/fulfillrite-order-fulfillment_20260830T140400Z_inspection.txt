@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfillrite-order-fulfillment_20260830T140400Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfillrite-order-fulfillment_20260830T140400Z.html
+Requested URL    : https://apps.shopify.com/fulfillrite-order-fulfillment
+Final URL        : https://apps.shopify.com/fulfillrite-order-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,229 bytes / 183,138 chars
+Elapsed          : 1.326s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fulfillrite Order Fulfillment - Order fulfillment you can trust for eCommerce and crowdfunding | Shopify App Store
+meta description : Fulfillrite provides complete order fulfillment services. We integrate with your Shopify store to automate order importing. We then pick, pack, and...
+canonical URL    : https://apps.shopify.com/fulfillrite-order-fulfillment
+<h1> tags ( 1)  : 'Fulfillrite Order Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

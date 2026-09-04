@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\original-report_20260830T073436Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\original-report_20260830T073436Z.html
+Requested URL    : https://apps.shopify.com/original-report
+Final URL        : https://apps.shopify.com/original-report
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,528 bytes / 170,427 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Original Report - Pre-built & custom reports with analytics that drive results | Shopify App Store
+meta description : Your Shopify data holds the answers—Original Reports helps you find them. Access
+   powerful pre-built reports to get started instantly, or build c...
+canonical URL    : https://apps.shopify.com/original-report
+<h1> tags ( 1)  : 'Original Report'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

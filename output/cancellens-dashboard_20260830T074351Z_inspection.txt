@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cancellens-dashboard_20260830T074351Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cancellens-dashboard_20260830T074351Z.html
+Requested URL    : https://apps.shopify.com/cancellens-dashboard
+Final URL        : https://apps.shopify.com/cancellens-dashboard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,789 bytes / 169,699 chars
+Elapsed          : 0.801s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CancelLens Dashboard - Cancellation reasons and trends for recent orders. | Shopify App Store
+meta description : Cancellation analytics for recent orders with reasons, product reports, rules, trends, and CSV exports.
+canonical URL    : https://apps.shopify.com/cancellens-dashboard
+<h1> tags ( 1)  : 'CancelLens Dashboard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

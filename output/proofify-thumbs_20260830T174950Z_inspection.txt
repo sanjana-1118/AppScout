@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\proofify-thumbs_20260830T174950Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\proofify-thumbs_20260830T174950Z.html
+Requested URL    : https://apps.shopify.com/proofify-thumbs
+Final URL        : https://apps.shopify.com/proofify-thumbs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,319 bytes / 197,228 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Proofify Thumbs - Collect quick feedback on products and blog articles | Shopify App Store
+meta description : Proofify Thumbs adds thumbs up/down voting to your products and blog articles. Choose from 11 widget styles, customise them in a visual editor with...
+canonical URL    : https://apps.shopify.com/proofify-thumbs
+<h1> tags ( 1)  : 'Proofify Thumbs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

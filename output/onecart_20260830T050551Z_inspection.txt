@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onecart_20260830T050551Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onecart_20260830T050551Z.html
+Requested URL    : https://apps.shopify.com/onecart
+Final URL        : https://apps.shopify.com/onecart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,919 bytes / 225,828 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OneCart: Shopee Lazada TikTok - Sync inventory, manage orders, & sell on multiple channels | Shopify App Store
+meta description : Automate inventory tracking, sync Shopee to Shopify and Lazada to Shopify, and connect multiple ecommerce platforms like TikTok, RedMart, and more!
+canonical URL    : https://apps.shopify.com/onecart
+<h1> tags ( 1)  : 'OneCart: Shopee Lazada TikTok'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

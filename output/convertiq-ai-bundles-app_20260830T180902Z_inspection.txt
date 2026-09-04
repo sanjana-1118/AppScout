@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convertiq-ai-bundles-app_20260830T180902Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convertiq-ai-bundles-app_20260830T180902Z.html
+Requested URL    : https://apps.shopify.com/convertiq-ai-bundles-app
+Final URL        : https://apps.shopify.com/convertiq-ai-bundles-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,963 bytes / 236,846 chars
+Elapsed          : 1.004s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ConvertIQ – AI Bundles App - Boost sales & increase AOV with quantity breaks, bundles &... | Shopify App Store
+meta description : Create quantity breaks, product bundles, mix & match offers, and AI recommendations to boost sales, increase AOV, and track performance with A/B testing.
+canonical URL    : https://apps.shopify.com/convertiq-ai-bundles-app
+<h1> tags ( 1)  : 'ConvertIQ – AI Bundles App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wonder-trigger_20260831T032611Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wonder-trigger_20260831T032611Z.html
+Requested URL    : https://apps.shopify.com/wonder-trigger
+Final URL        : https://apps.shopify.com/wonder-trigger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,994 bytes / 180,905 chars
+Elapsed          : 0.898s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wonder Trigger: API to Flow - API-First Automation | Shopify App Store
+meta description : Wonder Trigger securely receives the request and passes the payload directly into Shopify Flow.
+
+No middleware.
+No custom Shopify app development r...
+canonical URL    : https://apps.shopify.com/wonder-trigger
+<h1> tags ( 1)  : 'Wonder Trigger: API to Flow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onemobile_20260830T034828Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onemobile_20260830T034828Z.html
+Requested URL    : https://apps.shopify.com/onemobile
+Final URL        : https://apps.shopify.com/onemobile
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 281,887 bytes / 281,764 chars
+Elapsed          : 0.580s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OneMobile ‑ Mobile App Builder - Build a stunning and high-converting mobile app in 30 minutes | Shopify App Store
+meta description : Turn your Shopify store into an iOS & Android mobile app with the best Shopify mobile app builder. No code needed. Claim a 14-day free trial!
+canonical URL    : https://apps.shopify.com/onemobile
+<h1> tags ( 1)  : 'OneMobile ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

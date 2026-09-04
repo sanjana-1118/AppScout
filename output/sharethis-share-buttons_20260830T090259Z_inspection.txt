@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sharethis-share-buttons_20260830T090259Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sharethis-share-buttons_20260830T090259Z.html
+Requested URL    : https://apps.shopify.com/sharethis-share-buttons
+Final URL        : https://apps.shopify.com/sharethis-share-buttons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,215 bytes / 199,124 chars
+Elapsed          : 0.655s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShareThis Share Buttons - Grow your site traffic by enabling one-click sharing | Shopify App Store
+meta description : Share Buttons for Shopify. Boost online sales by enabling your audience to share products and services with the click of a button!
+canonical URL    : https://apps.shopify.com/sharethis-share-buttons
+<h1> tags ( 1)  : 'ShareThis Share Buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

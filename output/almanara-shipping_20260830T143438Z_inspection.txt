@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\almanara-shipping_20260830T143438Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\almanara-shipping_20260830T143438Z.html
+Requested URL    : https://apps.shopify.com/almanara-shipping
+Final URL        : https://apps.shopify.com/almanara-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,632 bytes / 168,171 chars
+Elapsed          : 0.670s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Almanara Shipping - Streamline Global Shipping from Turkey with Instant Rates | Shopify App Store
+meta description : شحن المنارة هو الحل النهائي لاحتياجات الشحن، مباشرة من تركيا إلى وجهات في جميع أنحاء العالم. هذا التطبيق الابتكاري في Shopify يحدث ثورة في كيفية التعامل مع الخ
+canonical URL    : https://apps.shopify.com/almanara-shipping
+<h1> tags ( 1)  : 'Almanara Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\itk-reporting_20260830T073256Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\itk-reporting_20260830T073256Z.html
+Requested URL    : https://apps.shopify.com/itk-reporting
+Final URL        : https://apps.shopify.com/itk-reporting
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,732 bytes / 179,617 chars
+Elapsed          : 0.646s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : itk‑reporting  - Connect your store data and plain-English performance reports | Shopify App Store
+meta description : ITK connects your Shopify stores to generate plain-English marketing and sales performance reports.
+canonical URL    : https://apps.shopify.com/itk-reporting
+<h1> tags ( 1)  : 'itk‑reporting'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

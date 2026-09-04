@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\master-shipping_20260830T135808Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\master-shipping_20260830T135808Z.html
+Requested URL    : https://apps.shopify.com/master-shipping
+Final URL        : https://apps.shopify.com/master-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,293 bytes / 204,204 chars
+Elapsed          : 1.144s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Master Shipping - Get maximum profits by shipping rates | Shopify App Store
+meta description : You can get Maximum profits by shipping rates, Which suit your business. Set your shipping rate for each product by country, state, and post/zip co...
+canonical URL    : https://apps.shopify.com/master-shipping
+<h1> tags ( 1)  : 'Master Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

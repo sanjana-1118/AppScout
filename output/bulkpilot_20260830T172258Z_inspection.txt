@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulkpilot_20260830T172258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulkpilot_20260830T172258Z.html
+Requested URL    : https://apps.shopify.com/bulkpilot
+Final URL        : https://apps.shopify.com/bulkpilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,502 bytes / 189,407 chars
+Elapsed          : 0.874s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BulkPilot: Import & Bulk Edit - Bulk import, export, and edit data faster | Shopify App Store
+meta description : BulkPilot helps merchants import, export, and bulk edit products, inventory, and pricing efficiently.Manage large catalogs with faster workflows and fewer steps
+canonical URL    : https://apps.shopify.com/bulkpilot
+<h1> tags ( 1)  : 'BulkPilot: Import & Bulk Edit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

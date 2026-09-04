@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rockit-sales-discounts_20260830T043956Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rockit-sales-discounts_20260830T043956Z.html
+Requested URL    : https://apps.shopify.com/rockit-sales-discounts
+Final URL        : https://apps.shopify.com/rockit-sales-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 256,627 bytes / 256,538 chars
+Elapsed          : 0.721s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rockit Discounts & Sales App - Run Flash Sales & Scheduled Discounts with Bulk Price Editor | Shopify App Store
+meta description : Launch tiered pricing sales campaign, or easy sale with sales manager discount app. Use bulk price editor for price change, price discount, fixed p...
+canonical URL    : https://apps.shopify.com/rockit-sales-discounts
+<h1> tags ( 1)  : 'Rockit Discounts & Sales App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

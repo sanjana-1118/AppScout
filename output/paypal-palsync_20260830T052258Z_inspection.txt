@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paypal-palsync_20260830T052258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paypal-palsync_20260830T052258Z.html
+Requested URL    : https://apps.shopify.com/paypal-palsync
+Final URL        : https://apps.shopify.com/paypal-palsync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,796 bytes / 219,687 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PalSync ‑ PayPal Tracking Sync - Auto-sync PayPal tracking to help reduce holds and disputes | Shopify App Store
+meta description : Auto-sync Shopify order tracking and delivery updates to PayPal. Reduce manual work, respond to disputes, and help release held funds faster.
+canonical URL    : https://apps.shopify.com/paypal-palsync
+<h1> tags ( 1)  : 'PalSync ‑ PayPal Tracking Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

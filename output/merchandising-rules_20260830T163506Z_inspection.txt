@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchandising-rules_20260830T163506Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchandising-rules_20260830T163506Z.html
+Requested URL    : https://apps.shopify.com/merchandising-rules
+Final URL        : https://apps.shopify.com/merchandising-rules
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,146 bytes / 166,057 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Merchandising Rules - Powerful rule-based merchandising engine | Shopify App Store
+meta description : Create smart merchandising rules, auto collections, sales labels on product, increase conversions, and manage product ranking effortlessly,no more manual work.
+canonical URL    : https://apps.shopify.com/merchandising-rules
+<h1> tags ( 1)  : 'Merchandising Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

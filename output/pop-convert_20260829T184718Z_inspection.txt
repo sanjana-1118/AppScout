@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pop-convert_20260829T184718Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pop-convert_20260829T184718Z.html
+Requested URL    : https://apps.shopify.com/pop-convert
+Final URL        : https://apps.shopify.com/pop-convert
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 271,372 bytes / 271,253 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pop Convert ‑ Pop Ups, Banners - Build your email list with popups, banners & free shipping... | Shopify App Store
+meta description : Make storewide announcements, capture emails & phone numbers, recover carts, and boost revenue with beautiful popups, smart bars, banners, and gami...
+canonical URL    : https://apps.shopify.com/pop-convert
+<h1> tags ( 1)  : 'Pop Convert ‑ Pop Ups, Banners'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

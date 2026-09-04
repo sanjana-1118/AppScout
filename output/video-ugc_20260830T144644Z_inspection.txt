@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\video-ugc_20260830T144644Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\video-ugc_20260830T144644Z.html
+Requested URL    : https://apps.shopify.com/video-ugc
+Final URL        : https://apps.shopify.com/video-ugc
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,513 bytes / 204,412 chars
+Elapsed          : 0.603s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Super Shoppable Video UGC - Rich video album styles,Enrich your store content. | Shopify App Store
+meta description : Perfectly adapted to various devices,Perfect display on both computer and mobile phone.
+Rich video album styles,Meet different layout requirements.
+canonical URL    : https://apps.shopify.com/video-ugc
+<h1> tags ( 1)  : 'Super Shoppable Video UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

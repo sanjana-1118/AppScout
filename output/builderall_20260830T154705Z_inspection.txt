@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\builderall_20260830T154705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\builderall_20260830T154705Z.html
+Requested URL    : https://apps.shopify.com/builderall
+Final URL        : https://apps.shopify.com/builderall
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,603 bytes / 167,502 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Builderall - Email automations & social proof popups to boost sales | Shopify App Store
+meta description : Builderall boosts conversions and connects with your visitors. Use social proof to show key actions & follow up with email automations to grow your business
+canonical URL    : https://apps.shopify.com/builderall
+<h1> tags ( 1)  : 'Builderall'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

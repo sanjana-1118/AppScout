@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flowsend_20260830T170213Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flowsend_20260830T170213Z.html
+Requested URL    : https://apps.shopify.com/flowsend
+Final URL        : https://apps.shopify.com/flowsend
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,692 bytes / 218,581 chars
+Elapsed          : 0.846s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FlowSend ‑ Flow Mail App - Send automated Flow emails - transactional email on Flow | Shopify App Store
+meta description : Send transactional emails from Shopify Flow using your own SMTP. Create Liquid templates, add CC and BCC, and track delivery logs easily
+canonical URL    : https://apps.shopify.com/flowsend
+<h1> tags ( 1)  : 'FlowSend ‑ Flow Mail App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

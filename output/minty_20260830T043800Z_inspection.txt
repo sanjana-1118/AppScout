@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\minty_20260830T043800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\minty_20260830T043800Z.html
+Requested URL    : https://apps.shopify.com/minty
+Final URL        : https://apps.shopify.com/minty
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,411 bytes / 206,322 chars
+Elapsed          : 0.998s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Minty - Offer Solana NFT & Meme Token Gated Online Shopping Experience | Shopify App Store
+meta description : Build exclusive communities with Solana token gating. Offer NFT & meme token holders special access to discounts, products & premium content.
+canonical URL    : https://apps.shopify.com/minty
+<h1> tags ( 1)  : 'Minty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

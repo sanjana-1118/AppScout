@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\layerimg-ai_20260830T042751Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\layerimg-ai_20260830T042751Z.html
+Requested URL    : https://apps.shopify.com/layerimg-ai
+Final URL        : https://apps.shopify.com/layerimg-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,967 bytes / 227,868 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Layerimg AI - Let customers personalize products before they buy | Shopify App Store
+meta description : Layerimg is a premier Print on Demand (POD) customization solution built specifically for Shopify merchants.
+canonical URL    : https://apps.shopify.com/layerimg-ai
+<h1> tags ( 1)  : 'Layerimg AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

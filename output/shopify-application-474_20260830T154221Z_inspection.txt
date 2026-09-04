@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-474_20260830T154221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-474_20260830T154221Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-474
+Final URL        : https://apps.shopify.com/shopify-application-474
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,282 bytes / 154,707 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 无忧易售ERP - 支持多订单处理等，帮助卖家无忧高效的运营店铺 | Shopify App Store
+meta description : 无忧易售ERP提供跨境电商一站式运营管理。整合多平台产品采集、刊登、订单处理、物流发货、客服及财务等全运营流程，帮助卖家降低操作复杂度并实时监控利润表现。
+·支持速卖通、eBay、Walmart、Amazon、OZON、Allegro等15+跨境电商平台刊登及订单处理。...
+canonical URL    : https://apps.shopify.com/shopify-application-474?locale=zh-CN
+<h1> tags ( 1)  : '无忧易售ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

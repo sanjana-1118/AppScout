@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zonelogistic-fulfillment_20260830T153236Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zonelogistic-fulfillment_20260830T153236Z.html
+Requested URL    : https://apps.shopify.com/zonelogistic-fulfillment
+Final URL        : https://apps.shopify.com/zonelogistic-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,945 bytes / 155,855 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zonelogistic fulfillment - Fulfillment solutions from Hungary | Shopify App Store
+meta description : Streamline your e-commerce fulfillment with our Hungary-based logistics solution. Our app connects your Shopify store to our advanced warehouse sys...
+canonical URL    : https://apps.shopify.com/zonelogistic-fulfillment
+<h1> tags ( 1)  : 'Zonelogistic fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

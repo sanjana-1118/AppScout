@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-admin_20260830T182423Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-admin_20260830T182423Z.html
+Requested URL    : https://apps.shopify.com/back-in-stock-admin
+Final URL        : https://apps.shopify.com/back-in-stock-admin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,549 bytes / 182,455 chars
+Elapsed          : 1.013s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ND Back in Stock - Customizable back-in-stock alerts for product pages | Shopify App Store
+meta description : Sales from out-of-stock products are often lost because customers have no idea when to come back. ND Back in Stock recaptures those customers by se...
+canonical URL    : https://apps.shopify.com/back-in-stock-admin
+<h1> tags ( 1)  : 'ND Back in Stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

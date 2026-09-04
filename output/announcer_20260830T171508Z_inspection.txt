@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\announcer_20260830T171508Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\announcer_20260830T171508Z.html
+Requested URL    : https://apps.shopify.com/announcer
+Final URL        : https://apps.shopify.com/announcer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,994 bytes / 168,905 chars
+Elapsed          : 0.470s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zeppo: Announcement Bar - Add top bar, announcement banners and more  | Shopify App Store
+meta description : Create responsive announcement bars for your Shopify store with custom styles, pre meda templates, and live preview editing.
+canonical URL    : https://apps.shopify.com/announcer
+<h1> tags ( 1)  : 'Zeppo: Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

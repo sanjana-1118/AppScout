@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anchanto-wms_20260829T192109Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anchanto-wms_20260829T192109Z.html
+Requested URL    : https://apps.shopify.com/anchanto-wms
+Final URL        : https://apps.shopify.com/anchanto-wms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,218 bytes / 175,129 chars
+Elapsed          : 1.353s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Anchanto WMS - Manage seamless warehousing & fulfillment operations | Shopify App Store
+meta description : Manage eCommerce and B2B logistics operations from one single platform, on handheld devices and desktops. Minimized human intervention, reduced err...
+canonical URL    : https://apps.shopify.com/anchanto-wms
+<h1> tags ( 1)  : 'Anchanto WMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

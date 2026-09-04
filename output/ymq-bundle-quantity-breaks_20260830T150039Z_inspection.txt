@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ymq-bundle-quantity-breaks_20260830T150039Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ymq-bundle-quantity-breaks_20260830T150039Z.html
+Requested URL    : https://apps.shopify.com/ymq-bundle-quantity-breaks
+Final URL        : https://apps.shopify.com/ymq-bundle-quantity-breaks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,669 bytes / 233,578 chars
+Elapsed          : 1.108s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ymq Bundle Quantity Breaks - Boost AOV with volume discounts, product bundles & upsells | Shopify App Store
+meta description : Shopify app,Bundle Quantity Breaks
+canonical URL    : https://apps.shopify.com/ymq-bundle-quantity-breaks
+<h1> tags ( 1)  : 'Ymq Bundle Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

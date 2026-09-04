@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-views_20260830T071759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-views_20260830T071759Z.html
+Requested URL    : https://apps.shopify.com/product-views
+Final URL        : https://apps.shopify.com/product-views
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,588 bytes / 181,499 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Octo: Product Views Analytics - Product Analytics: Track product views and visitors' data | Shopify App Store
+meta description : Effortlessly monitor real-time product analytics, with hourly to daily insights. Access essential metrics like Product Views, Carts, Orders, and Conversion Rate
+canonical URL    : https://apps.shopify.com/product-views
+<h1> tags ( 1)  : 'Octo: Product Views Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

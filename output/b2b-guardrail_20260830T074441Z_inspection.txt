@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-guardrail_20260830T074441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-guardrail_20260830T074441Z.html
+Requested URL    : https://apps.shopify.com/b2b-guardrail
+Final URL        : https://apps.shopify.com/b2b-guardrail
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,803 bytes / 168,714 chars
+Elapsed          : 0.564s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Guardrail - Catch wholesale leaks before retail customers find them. | Shopify App Store
+meta description : Audit your Shopify B2B setup and catch wholesale prices leaking to retail shoppers. Protection score, severity-ranked findings, instant alerts.
+canonical URL    : https://apps.shopify.com/b2b-guardrail
+<h1> tags ( 1)  : 'B2B Guardrail'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

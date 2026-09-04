@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-qrcode-barcode_20260830T033912Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-qrcode-barcode_20260830T033912Z.html
+Requested URL    : https://apps.shopify.com/bulk-qrcode-barcode
+Final URL        : https://apps.shopify.com/bulk-qrcode-barcode
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,588 bytes / 178,481 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 2HAC ‑ Bulk QRCode Barcode - Generate bulk qr codes and barcodes quickly | Shopify App Store
+meta description : Bulk QR Code Generator,Bulk Barcode Generators,Print QR Codes labels, Print Barcode labels,QR Code labels,Barcode labels,qr codes products,barcode products
+canonical URL    : https://apps.shopify.com/bulk-qrcode-barcode
+<h1> tags ( 1)  : '2HAC ‑ Bulk QRCode Barcode'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

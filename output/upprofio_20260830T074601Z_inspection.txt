@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upprofio_20260830T074601Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upprofio_20260830T074601Z.html
+Requested URL    : https://apps.shopify.com/upprofio
+Final URL        : https://apps.shopify.com/upprofio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,756 bytes / 178,645 chars
+Elapsed          : 0.707s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UpProfio: Profit Analytics - Real net profit after RTO, COD, GST, shipping & ad... | Shopify App Store
+meta description : See your true net profit after RTO, COD returns, GST, shipping and ad spend — profit analytics built for Indian D2C Shopify stores.
+canonical URL    : https://apps.shopify.com/upprofio
+<h1> tags ( 1)  : 'UpProfio: Profit Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

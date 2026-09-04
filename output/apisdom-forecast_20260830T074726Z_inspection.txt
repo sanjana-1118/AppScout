@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apisdom-forecast_20260830T074726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apisdom-forecast_20260830T074726Z.html
+Requested URL    : https://apps.shopify.com/apisdom-forecast
+Final URL        : https://apps.shopify.com/apisdom-forecast
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,437 bytes / 180,338 chars
+Elapsed          : 0.663s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ApisDom Forecast - Know what you'll sell next. Three scenarios per prediction | Shopify App Store
+meta description : Predict revenue, orders and units sold in 3 scenarios. Quality Shield validates data quality before each prediction. Bilingual EN/ES.
+canonical URL    : https://apps.shopify.com/apisdom-forecast
+<h1> tags ( 1)  : 'ApisDom Forecast'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

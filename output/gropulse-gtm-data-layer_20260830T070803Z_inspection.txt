@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gropulse-gtm-data-layer_20260830T070803Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gropulse-gtm-data-layer_20260830T070803Z.html
+Requested URL    : https://apps.shopify.com/gropulse-gtm-data-layer
+Final URL        : https://apps.shopify.com/gropulse-gtm-data-layer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,624 bytes / 219,535 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GroPulse GTM & Data Layer - Server-Side GTM for GA4, Facebook, TikTok & 5+ Platforms | Shopify App Store
+meta description : Server-side GTM tracking for Shopify with 40+ pre-built tags. Supports GA4, meta API, TikTok, Google Ads & 4+ platforms. Bypass ad blockers for accurate data.
+canonical URL    : https://apps.shopify.com/gropulse-gtm-data-layer
+<h1> tags ( 1)  : 'GroPulse GTM & Data Layer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

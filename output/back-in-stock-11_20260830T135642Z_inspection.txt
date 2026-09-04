@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-11_20260830T135642Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-11_20260830T135642Z.html
+Requested URL    : https://apps.shopify.com/back-in-stock-11
+Final URL        : https://apps.shopify.com/back-in-stock-11
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,383 bytes / 176,280 chars
+Elapsed          : 0.921s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Restockr: Back in Stock Alert - Reclaim lost sales: automated back in stock email alters! | Shopify App Store
+meta description : Add a "Notify me Button” on out-of-stock products. Create customized Email alerts and send them to your customers to recover lost sales!
+canonical URL    : https://apps.shopify.com/back-in-stock-11
+<h1> tags ( 1)  : 'Restockr: Back in Stock Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

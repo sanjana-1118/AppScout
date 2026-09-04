@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-sync_20260830T034228Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-sync_20260830T034228Z.html
+Requested URL    : https://apps.shopify.com/stock-sync
+Final URL        : https://apps.shopify.com/stock-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 260,272 bytes / 260,183 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : syncX: Stock Sync & Inventory - Bulk update, import & sync multiple stores and any connections | Shopify App Store
+meta description : Automate products & inventory import from any suppliers in any format. Stock Sync supports multiple connections and file formats.
+canonical URL    : https://apps.shopify.com/stock-sync
+<h1> tags ( 1)  : 'syncX: Stock Sync & Inventory'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

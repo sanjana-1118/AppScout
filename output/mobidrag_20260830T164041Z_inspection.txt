@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mobidrag_20260830T164041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mobidrag_20260830T164041Z.html
+Requested URL    : https://apps.shopify.com/mobidrag
+Final URL        : https://apps.shopify.com/mobidrag
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,663 bytes / 200,516 chars
+Elapsed          : 0.838s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mobidrag – Mobile App Builder - No Code Mobile App Builder | Shopify App Store
+meta description : Build a Mobile App for Your Shopify Store — Without Code
+
+Mobidrag helps Shopify merchants launch native iOS and Android mobile apps — without writ...
+canonical URL    : https://apps.shopify.com/mobidrag
+<h1> tags ( 1)  : 'Mobidrag – Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

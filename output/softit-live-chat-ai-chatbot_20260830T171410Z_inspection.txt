@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\softit-live-chat-ai-chatbot_20260830T171410Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\softit-live-chat-ai-chatbot_20260830T171410Z.html
+Requested URL    : https://apps.shopify.com/softit-live-chat-ai-chatbot
+Final URL        : https://apps.shopify.com/softit-live-chat-ai-chatbot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,936 bytes / 189,836 chars
+Elapsed          : 0.865s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Softit: AI Sales & Live Chat - AI chatbot trained on your store, sells & supports 24/7 | Shopify App Store
+meta description : Transform support into sales. Softit’s AI agent handles 90% of queries, offers product recommendations, and connects to live chat. Reduce tickets and grow today
+canonical URL    : https://apps.shopify.com/softit-live-chat-ai-chatbot
+<h1> tags ( 1)  : 'Softit: AI Sales & Live Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

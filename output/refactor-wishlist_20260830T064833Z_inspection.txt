@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\refactor-wishlist_20260830T064833Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\refactor-wishlist_20260830T064833Z.html
+Requested URL    : https://apps.shopify.com/refactor-wishlist
+Final URL        : https://apps.shopify.com/refactor-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,401 bytes / 222,312 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : R+ Wishlist | Save for later - Lightweight API-powered Wishlist app | Shopify App Store
+meta description : Allow users to easily add, save, and manage their favorite products while keeping full control over design and behavior.
+canonical URL    : https://apps.shopify.com/refactor-wishlist
+<h1> tags ( 1)  : 'R+ Wishlist | Save for later'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

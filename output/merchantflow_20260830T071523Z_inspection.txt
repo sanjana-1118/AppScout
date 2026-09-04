@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchantflow_20260830T071523Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchantflow_20260830T071523Z.html
+Requested URL    : https://apps.shopify.com/merchantflow
+Final URL        : https://apps.shopify.com/merchantflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,669 bytes / 226,570 chars
+Elapsed          : 0.672s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MerchantFlow: Profit Analytics - Track true profit with blended ROAS and full ad spend | Shopify App Store
+meta description : See your true Shopify profit in real time. MerchantFlow tracks blended ROAS, COGS, and ad spend across every channel. Free trial - install in 2 minutes.
+canonical URL    : https://apps.shopify.com/merchantflow
+<h1> tags ( 1)  : 'MerchantFlow: Profit Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

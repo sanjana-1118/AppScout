@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rh-advance-bulk-tag-editor_20260830T071038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rh-advance-bulk-tag-editor_20260830T071038Z.html
+Requested URL    : https://apps.shopify.com/rh-advance-bulk-tag-editor
+Final URL        : https://apps.shopify.com/rh-advance-bulk-tag-editor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,718 bytes / 211,625 chars
+Elapsed          : 0.618s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RUBIX Bulk Tag Editor - Managing bulk edit product tags with various product filter | Shopify App Store
+meta description : This app aims to make your time more productive. It helps you to add or remove your desired product tag in bulk for your store.No more manual changes are needed
+canonical URL    : https://apps.shopify.com/rh-advance-bulk-tag-editor
+<h1> tags ( 1)  : 'RUBIX Bulk Tag Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

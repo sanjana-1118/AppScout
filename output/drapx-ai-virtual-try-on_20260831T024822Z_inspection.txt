@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\drapx-ai-virtual-try-on_20260831T024822Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\drapx-ai-virtual-try-on_20260831T024822Z.html
+Requested URL    : https://apps.shopify.com/drapx-ai-virtual-try-on
+Final URL        : https://apps.shopify.com/drapx-ai-virtual-try-on
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,828 bytes / 193,731 chars
+Elapsed          : 0.739s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DrapX: AI Virtual Try On - Drive sales and reduce returns with AI Tryon | Shopify App Store
+meta description : Let shoppers try on clothes virtually with AI. Boost conversions, cut returns, and share try-on photos on social with DrapX's virtual fitting room.
+canonical URL    : https://apps.shopify.com/drapx-ai-virtual-try-on
+<h1> tags ( 1)  : 'DrapX: AI Virtual Try On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

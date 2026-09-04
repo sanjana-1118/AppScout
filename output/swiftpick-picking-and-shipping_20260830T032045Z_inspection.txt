@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swiftpick-picking-and-shipping_20260830T032045Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swiftpick-picking-and-shipping_20260830T032045Z.html
+Requested URL    : https://apps.shopify.com/swiftpick-picking-and-shipping
+Final URL        : https://apps.shopify.com/swiftpick-picking-and-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,628 bytes / 181,517 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SwiftPick ‑ Picking & Shipping - Easily manage orders, fulfillment and deliveries | Shopify App Store
+meta description : Connect your store to the SwiftPick platform.
+The ultimate fulfillment solution for merchants - We bridge the gap between your store and your couriers,
+canonical URL    : https://apps.shopify.com/swiftpick-picking-and-shipping
+<h1> tags ( 1)  : 'SwiftPick ‑ Picking & Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

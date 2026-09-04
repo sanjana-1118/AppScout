@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\solora-tierly_20260831T030314Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\solora-tierly_20260831T030314Z.html
+Requested URL    : https://apps.shopify.com/solora-tierly
+Final URL        : https://apps.shopify.com/solora-tierly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,796 bytes / 191,685 chars
+Elapsed          : 1.029s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Solora Tierly: Quantity Breaks - Quantity discounts applied automatically — no codes needed. | Shopify App Store
+meta description : Tierly adds automatic quantity-tier discounts to your Shopify store. No codes, no theme edits — just a savings table shoppers see instantly.
+canonical URL    : https://apps.shopify.com/solora-tierly
+<h1> tags ( 1)  : 'Solora Tierly: Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

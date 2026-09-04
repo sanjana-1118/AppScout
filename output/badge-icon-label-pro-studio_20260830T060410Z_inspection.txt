@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\badge-icon-label-pro-studio_20260830T060410Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\badge-icon-label-pro-studio_20260830T060410Z.html
+Requested URL    : https://apps.shopify.com/badge-icon-label-pro-studio
+Final URL        : https://apps.shopify.com/badge-icon-label-pro-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 255,298 bytes / 255,203 chars
+Elapsed          : 0.504s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Iconify Banners & Trust Badges - Custom Banners, Trust Badges, Icons & Labels for Product Page | Shopify App Store
+meta description : Boost your Shopify store’s appeal with custom badges, icons, labels, and banners. Multi-language support, clickable banners, and rule-based display settings inc
+canonical URL    : https://apps.shopify.com/badge-icon-label-pro-studio
+<h1> tags ( 1)  : 'Iconify Banners & Trust Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

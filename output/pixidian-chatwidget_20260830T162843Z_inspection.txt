@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixidian-chatwidget_20260830T162843Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixidian-chatwidget_20260830T162843Z.html
+Requested URL    : https://apps.shopify.com/pixidian-chatwidget
+Final URL        : https://apps.shopify.com/pixidian-chatwidget
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,254 bytes / 175,160 chars
+Elapsed          : 0.990s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pixidian: WhatsApp Chat Button - WhatsApp and more chat channels in one customizable widget | Shopify App Store
+meta description : Pixidian Chat Widget gives merchants a simple way to offer instant customer contact across multiple channels. Instead of relying on a single inbox ...
+canonical URL    : https://apps.shopify.com/pixidian-chatwidget
+<h1> tags ( 1)  : 'Pixidian: WhatsApp Chat Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

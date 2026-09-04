@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skynet-malaysia_20260830T032729Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skynet-malaysia_20260830T032729Z.html
+Requested URL    : https://apps.shopify.com/skynet-malaysia
+Final URL        : https://apps.shopify.com/skynet-malaysia
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,301 bytes / 169,212 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Skynet Malaysia - Print Single and Bulky Skynet Airwaybills for your orders. | Shopify App Store
+meta description : Skynet Malaysia Shipping help you to integrate your orders with Skynet in terms of printing airwaybills directly inside Shopify without visit neare...
+canonical URL    : https://apps.shopify.com/skynet-malaysia
+<h1> tags ( 1)  : 'Skynet Malaysia'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

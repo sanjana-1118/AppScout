@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sonari_20260830T073617Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sonari_20260830T073617Z.html
+Requested URL    : https://apps.shopify.com/sonari
+Final URL        : https://apps.shopify.com/sonari
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,125 bytes / 169,032 chars
+Elapsed          : 1.232s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sonari: AI Revenue Intel - Track AI revenue and test if AI recommends your products | Shopify App Store
+meta description : Track revenue from ChatGPT, Gemini, Perplexity. Test if AI recommends your products or competitors. Audit product data quality for AI shopping assistants.
+canonical URL    : https://apps.shopify.com/sonari
+<h1> tags ( 1)  : 'Sonari: AI Revenue Intel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

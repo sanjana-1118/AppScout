@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\miaoshou_20260830T045748Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\miaoshou_20260830T045748Z.html
+Requested URL    : https://apps.shopify.com/miaoshou
+Final URL        : https://apps.shopify.com/miaoshou
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,214 bytes / 185,945 chars
+Elapsed          : 1.118s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 妙手 - 支持产品采集、发布和管理，订单同步和处理，帮助中国卖家更好管理店铺 | Shopify App Store
+meta description : 妙手ERP是Saas的专业软件基地，为电子商务卖家提供高质量的服务，支持商家在软件内进行商品刊登、订单处理和物流管理等
+
+产品管理：支持从Aliexpress、eBay、Amazon等一百多家网站进行采集产品，并进行产品编辑，帮助卖家进行产品的SKU、库存、产品图片的处理，发布产品和在线产品的...
+canonical URL    : https://apps.shopify.com/miaoshou?locale=zh-CN
+<h1> tags ( 1)  : '妙手'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\interlinks_20260829T185450Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\interlinks_20260829T185450Z.html
+Requested URL    : https://apps.shopify.com/interlinks
+Final URL        : https://apps.shopify.com/interlinks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,973 bytes / 239,836 chars
+Elapsed          : 0.761s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Automatic Linking ‑ InterLinks - Internal linking automation that drives clicks, sales & SEO | Shopify App Store
+meta description : Keyword Linking App for Shopify. Automates internal linking In-Content Keywords across your product descriptions, pages, posts, and collections.
+canonical URL    : https://apps.shopify.com/interlinks
+<h1> tags ( 1)  : 'Automatic Linking ‑ InterLinks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

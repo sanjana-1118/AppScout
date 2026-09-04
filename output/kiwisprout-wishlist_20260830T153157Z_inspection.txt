@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kiwisprout-wishlist_20260830T153157Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kiwisprout-wishlist_20260830T153157Z.html
+Requested URL    : https://apps.shopify.com/kiwisprout-wishlist
+Final URL        : https://apps.shopify.com/kiwisprout-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,943 bytes / 178,842 chars
+Elapsed          : 0.679s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KiwiSprout Wishlist - Boost conversions with a clean, mobile-friendly wishlist | Shopify App Store
+meta description : Easily add a wishlist to your store. No code needed. Custom branding, mobile-ready, and built to increase customer engagement, retention, and sales.
+canonical URL    : https://apps.shopify.com/kiwisprout-wishlist
+<h1> tags ( 1)  : 'KiwiSprout Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

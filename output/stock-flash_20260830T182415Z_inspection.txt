@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-flash_20260830T182415Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-flash_20260830T182415Z.html
+Requested URL    : https://apps.shopify.com/stock-flash
+Final URL        : https://apps.shopify.com/stock-flash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,454 bytes / 169,333 chars
+Elapsed          : 0.974s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stock Flash: Low Stock Alert - Automatic low inventory badges with variant support | Shopify App Store
+meta description : Stock Flash automatically displays low stock urgency badges on product pages when inventory runs low. Show messages like “Only 3 left” or “Selling ...
+canonical URL    : https://apps.shopify.com/stock-flash
+<h1> tags ( 1)  : 'Stock Flash: Low Stock Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

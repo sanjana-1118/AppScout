@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-subscription_20260830T043855Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-subscription_20260830T043855Z.html
+Requested URL    : https://apps.shopify.com/easy-subscription
+Final URL        : https://apps.shopify.com/easy-subscription
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 276,298 bytes / 276,200 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Subscriptions App - Subscription app for recurring revenue, upsell and bundles | Shopify App Store
+meta description : Easy Subscriptions is the Shopify subscription app for recurring revenue, subscription boxes and bundles that improve retention and increase LTV.
+canonical URL    : https://apps.shopify.com/easy-subscription
+<h1> tags ( 1)  : 'Easy Subscriptions App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

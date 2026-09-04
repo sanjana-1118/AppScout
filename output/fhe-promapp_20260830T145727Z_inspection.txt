@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fhe-promapp_20260830T145727Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fhe-promapp_20260830T145727Z.html
+Requested URL    : https://apps.shopify.com/fhe-promapp
+Final URL        : https://apps.shopify.com/fhe-promapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,824 bytes / 166,735 chars
+Elapsed          : 0.784s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FHE ProMapp  - Import/Update Supplier's (FHE) Products to your Store via API | Shopify App Store
+meta description : ProMapp is a sophisticated application that enables FHE dealer to seamlessly add new products directly to the Shopify store. There are no limitatio...
+canonical URL    : https://apps.shopify.com/fhe-promapp
+<h1> tags ( 1)  : 'FHE ProMapp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

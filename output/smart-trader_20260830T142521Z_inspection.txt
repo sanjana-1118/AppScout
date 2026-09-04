@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-trader_20260830T142521Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-trader_20260830T142521Z.html
+Requested URL    : https://apps.shopify.com/smart-trader
+Final URL        : https://apps.shopify.com/smart-trader
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,384 bytes / 186,099 chars
+Elapsed          : 1.398s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Meet‑bot - WhatsApp渠道互动+营销消息群发+智能客服机器人 | Shopify App Store
+meta description : 为商家提供了通过WhatsApp与客户进行会话互动，群发营销消息，帮助您在whatsapp渠道沉淀私域用户，从而实现客户的持续复购。
+
+1、通过WhatsApp与您的客户互动，通过提升您与客户的沟通效率来获得更好的销售转化。
+2、支持您通过客户的历史交易行为、客户标签做精细化的用户分层，实现对...
+canonical URL    : https://apps.shopify.com/smart-trader?locale=zh-CN
+<h1> tags ( 1)  : 'Meet‑bot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

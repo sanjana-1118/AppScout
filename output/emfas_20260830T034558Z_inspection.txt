@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emfas_20260830T034558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emfas_20260830T034558Z.html
+Requested URL    : https://apps.shopify.com/emfas
+Final URL        : https://apps.shopify.com/emfas
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,526 bytes / 205,437 chars
+Elapsed          : 0.781s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Emfas - Generate unique and branded product content at scale | Shopify App Store
+meta description : Emfas connects with ecommerce platforms to unlock AI-powered workflows across your product catalog. No developers required, no integration costs.
+canonical URL    : https://apps.shopify.com/emfas
+<h1> tags ( 1)  : 'Emfas'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-file-upload_20260830T042936Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-file-upload_20260830T042936Z.html
+Requested URL    : https://apps.shopify.com/k-file-upload
+Final URL        : https://apps.shopify.com/k-file-upload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,951 bytes / 181,858 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Product File Uploads - Easy file image upload on products for personalized orders. | Shopify App Store
+meta description : File Upload makes it simple for customers to upload files on cart, images, and documents directly to orders, supporting a wide range of file format...
+canonical URL    : https://apps.shopify.com/k-file-upload
+<h1> tags ( 1)  : 'K: Product File Uploads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

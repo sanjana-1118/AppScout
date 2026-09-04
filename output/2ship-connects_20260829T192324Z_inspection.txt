@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\2ship-connects_20260829T192324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\2ship-connects_20260829T192324Z.html
+Requested URL    : https://apps.shopify.com/2ship-connects
+Final URL        : https://apps.shopify.com/2ship-connects
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,090 bytes / 189,997 chars
+Elapsed          : 0.801s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 2Ship Connect - Everything you need to handle every kind of order... | Shopify App Store
+meta description : 2Ship is more than your typical online shipping system; it's a full logistics solution that takes care of ALL your shipping needs. 
+
+Connect your S...
+canonical URL    : https://apps.shopify.com/2ship-connects
+<h1> tags ( 1)  : '2Ship Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

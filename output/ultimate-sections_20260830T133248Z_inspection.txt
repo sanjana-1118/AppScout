@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ultimate-sections_20260830T133248Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ultimate-sections_20260830T133248Z.html
+Requested URL    : https://apps.shopify.com/ultimate-sections
+Final URL        : https://apps.shopify.com/ultimate-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,430 bytes / 190,341 chars
+Elapsed          : 0.544s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ultimate Sections - Add beautiful theme sections to your store | Shopify App Store
+meta description : Do you know that Shopify OS 2.0 allowed to use sections everywhere?
+
+But sections of your theme are very messy!
+
+Ultimate Sections will resolve thi...
+canonical URL    : https://apps.shopify.com/ultimate-sections
+<h1> tags ( 1)  : 'Ultimate Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

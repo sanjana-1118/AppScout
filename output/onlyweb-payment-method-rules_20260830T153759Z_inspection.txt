@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onlyweb-payment-method-rules_20260830T153759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onlyweb-payment-method-rules_20260830T153759Z.html
+Requested URL    : https://apps.shopify.com/onlyweb-payment-method-rules
+Final URL        : https://apps.shopify.com/onlyweb-payment-method-rules
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,240 bytes / 170,149 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnlyWeb Payment Method Rules - Hide Cash on Delivery for high-value orders automatically | Shopify App Store
+meta description : Smartly hide Cash on Delivery (COD), UPI, and more based on cart value. Reduce COD fraud and customize checkout with simple payment rules.
+canonical URL    : https://apps.shopify.com/onlyweb-payment-method-rules
+<h1> tags ( 1)  : 'OnlyWeb Payment Method Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

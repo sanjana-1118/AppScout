@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storevitals-speed-pixel-audit_20260831T024520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storevitals-speed-pixel-audit_20260831T024520Z.html
+Requested URL    : https://apps.shopify.com/storevitals-speed-pixel-audit
+Final URL        : https://apps.shopify.com/storevitals-speed-pixel-audit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,118 bytes / 159,029 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreVitals Speed, Pixel Audit - Helps you clean up ghost scripts and pixels. | Shopify App Store
+meta description : Audit your store for ghost scripts, broken tracking pixels, and Core Web Vitals issues. Get an instant health score and fix hidden performance bottlenecks fast.
+canonical URL    : https://apps.shopify.com/storevitals-speed-pixel-audit
+<h1> tags ( 1)  : 'StoreVitals Speed, Pixel Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

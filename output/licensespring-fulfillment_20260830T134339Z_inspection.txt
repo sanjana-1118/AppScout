@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\licensespring-fulfillment_20260830T134339Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\licensespring-fulfillment_20260830T134339Z.html
+Requested URL    : https://apps.shopify.com/licensespring-fulfillment
+Final URL        : https://apps.shopify.com/licensespring-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,037 bytes / 172,950 chars
+Elapsed          : 0.600s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LicenseSpring Fulfillment - Generates license keys and subscriptions on LicenseSpring | Shopify App Store
+meta description : *IMPORTANT: You must have a LicenseSpring account to use this app!
+
+LicenseSpring is a state-of-the-art software licensing platform that provides a...
+canonical URL    : https://apps.shopify.com/licensespring-fulfillment
+<h1> tags ( 1)  : 'LicenseSpring Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

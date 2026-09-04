@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockpalette_20260830T181020Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockpalette_20260830T181020Z.html
+Requested URL    : https://apps.shopify.com/stockpalette
+Final URL        : https://apps.shopify.com/stockpalette
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,906 bytes / 162,797 chars
+Elapsed          : 0.643s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockPalette ‑ Quick Inventory - Search products and update inventory instantly with hotkeys. | Shopify App Store
+meta description : StockPalette is a productivity tool built for Shopify merchants. Instead of clicking through multiple pages or opening dozens of tabs to change a s...
+canonical URL    : https://apps.shopify.com/stockpalette
+<h1> tags ( 1)  : 'StockPalette ‑ Quick Inventory'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

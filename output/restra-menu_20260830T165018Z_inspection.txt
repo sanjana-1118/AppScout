@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restra-menu_20260830T165018Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restra-menu_20260830T165018Z.html
+Requested URL    : https://apps.shopify.com/restra-menu
+Final URL        : https://apps.shopify.com/restra-menu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,413 bytes / 167,324 chars
+Elapsed          : 0.913s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Restra Menu - Restaurant & Liquor Menu Creator with Barcode Scanner | Shopify App Store
+meta description : Restra Menu lets you create professional PDF menus from your product collections with 100+ customizable templates for restaurants, bars, cocktails,...
+canonical URL    : https://apps.shopify.com/restra-menu
+<h1> tags ( 1)  : 'Restra Menu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

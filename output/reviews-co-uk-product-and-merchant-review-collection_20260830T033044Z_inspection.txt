@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reviews-co-uk-product-and-merchant-review-collection_20260830T033044Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reviews-co-uk-product-and-merchant-review-collection_20260830T033044Z.html
+Requested URL    : https://apps.shopify.com/reviews-co-uk-product-and-merchant-review-collection
+Final URL        : https://apps.shopify.com/reviews-co-uk-product-and-merchant-review-collection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,509 bytes / 265,416 chars
+Elapsed          : 0.431s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : REVIEWS.io Product Reviews App - Collect product reviews, star ratings, testimonials, UGC + Q&A | Shopify App Store
+meta description : Upgrade your Shopify experience with Reviews.io. Trusted product reviews app to elevate customer engagement and build brand credibility.
+canonical URL    : https://apps.shopify.com/reviews-co-uk-product-and-merchant-review-collection
+<h1> tags ( 1)  : 'REVIEWS.io Product Reviews App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

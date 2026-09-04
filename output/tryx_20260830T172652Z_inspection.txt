@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tryx_20260830T172652Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tryx_20260830T172652Z.html
+Requested URL    : https://apps.shopify.com/tryx
+Final URL        : https://apps.shopify.com/tryx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,129 bytes / 175,036 chars
+Elapsed          : 0.939s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TryX: Virtual Try On Trialroom - Let shoppers virtually try on clothes and buy with confidence. | Shopify App Store
+meta description : TryX adds a virtual try-on button to your product pages, letting shoppers upload a photo and see your clothes on themselves. Customers try on tops,...
+canonical URL    : https://apps.shopify.com/tryx
+<h1> tags ( 1)  : 'TryX: Virtual Try On Trialroom'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

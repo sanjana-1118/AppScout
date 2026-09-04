@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\furniture-brand-reviews_20260829T184007Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\furniture-brand-reviews_20260829T184007Z.html
+Requested URL    : https://apps.shopify.com/furniture-brand-reviews
+Final URL        : https://apps.shopify.com/furniture-brand-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,095 bytes / 184,002 chars
+Elapsed          : 0.771s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Furniture Brand Reviews - Collect reviews and show trust-building widgets on your store. | Shopify App Store
+meta description : Collect and display furniture product and brand reviews with customizable widgets, photo reviews, Q&A, trust badges, and SEO-rich snippets for Shopify stores.
+canonical URL    : https://apps.shopify.com/furniture-brand-reviews
+<h1> tags ( 1)  : 'Furniture Brand Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

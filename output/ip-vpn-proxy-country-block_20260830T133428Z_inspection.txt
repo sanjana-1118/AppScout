@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ip-vpn-proxy-country-block_20260830T133428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ip-vpn-proxy-country-block_20260830T133428Z.html
+Requested URL    : https://apps.shopify.com/ip-vpn-proxy-country-block
+Final URL        : https://apps.shopify.com/ip-vpn-proxy-country-block
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,314 bytes / 176,225 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Simple Geo Redirect & Blocker - Redirect or Geo Block countries & Block VPN bot &... | Shopify App Store
+meta description : #Geo Redirection & Blocking
+You can block users from unsupported countries, or high risk countries. 
+Alternatively you may want to redirect users f...
+canonical URL    : https://apps.shopify.com/ip-vpn-proxy-country-block
+<h1> tags ( 1)  : 'Simple Geo Redirect & Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\migratify_20260830T034245Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\migratify_20260830T034245Z.html
+Requested URL    : https://apps.shopify.com/migratify
+Final URL        : https://apps.shopify.com/migratify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,472 bytes / 221,363 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Migratify: Copy Products + AI - AI Product import: Migrate products from 100+ platforms easily | Shopify App Store
+meta description : Import products from Amazon, Etsy, eBay, WooCommerce, BigCommerce, and 100+ other platforms. Just paste a URL to start importing. For Shopee, AliEx...
+canonical URL    : https://apps.shopify.com/migratify
+<h1> tags ( 1)  : 'Migratify: Copy Products + AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

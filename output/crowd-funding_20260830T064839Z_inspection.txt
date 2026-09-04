@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crowd-funding_20260830T064839Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crowd-funding_20260830T064839Z.html
+Requested URL    : https://apps.shopify.com/crowd-funding
+Final URL        : https://apps.shopify.com/crowd-funding
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,082 bytes / 224,985 chars
+Elapsed          : 0.758s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Crowdfunding - Engage supporters for diverse causes and attract more crowds | Shopify App Store
+meta description : Crowdfunding app for shopify: Easily raise funds for your projects while engaging a community of passionate backers
+canonical URL    : https://apps.shopify.com/crowd-funding
+<h1> tags ( 1)  : 'Webkul Crowdfunding'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

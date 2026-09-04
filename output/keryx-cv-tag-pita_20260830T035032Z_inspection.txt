@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keryx-cv-tag-pita_20260830T035032Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keryx-cv-tag-pita_20260830T035032Z.html
+Requested URL    : https://apps.shopify.com/keryx-cv-tag-pita
+Final URL        : https://apps.shopify.com/keryx-cv-tag-pita
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,418 bytes / 164,633 chars
+Elapsed          : 0.666s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CVタグピタ - 国内ASPの成果計測タグを、IDを入れるだけで正しく設置 | Shopify App Store
+meta description : ■ 「タグの設置」でつまずくのを、なくします
+
+アフィリエイト(ASP)の成果計測タグは、設置場所や金額の受け渡し方を1つ間違えるだけで「成果が計上されない」「二重に計上される」といった事故につながります。CVタグピタは、ASPから渡されたIDを入力するだけで、正しい形の計測タグを自動で設置し...
+canonical URL    : https://apps.shopify.com/keryx-cv-tag-pita?locale=ja
+<h1> tags ( 1)  : 'CVタグピタ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taiwan-invoice_20260830T051723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taiwan-invoice_20260830T051723Z.html
+Requested URL    : https://apps.shopify.com/taiwan-invoice
+Final URL        : https://apps.shopify.com/taiwan-invoice
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,934 bytes / 213,210 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taiwan Invoice - The invoice app designed for Taiwanese businesses | Shopify App Store
+meta description : Creating invoices in Taiwan is an annoying thing. Merchants always spend lots of time on it. Such as export the Shopify order, adjust the order for...
+canonical URL    : https://apps.shopify.com/taiwan-invoice
+<h1> tags ( 1)  : 'Taiwan Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

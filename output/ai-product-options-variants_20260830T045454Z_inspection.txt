@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-options-variants_20260830T045454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-options-variants_20260830T045454Z.html
+Requested URL    : https://apps.shopify.com/ai-product-options-variants
+Final URL        : https://apps.shopify.com/ai-product-options-variants
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,266 bytes / 197,161 chars
+Elapsed          : 0.531s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Product Options, Variants - Make product customization easy for your customers. | Shopify App Store
+meta description : Create unlimited product options & variants with AI Product Options, Variants. Personalize products with textfields, checkboxes, dropdowns, add-ons & more.
+canonical URL    : https://apps.shopify.com/ai-product-options-variants
+<h1> tags ( 1)  : 'AI Product Options, Variants'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

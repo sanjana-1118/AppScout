@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warranty-upsell_20260830T175441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warranty-upsell_20260830T175441Z.html
+Requested URL    : https://apps.shopify.com/warranty-upsell
+Final URL        : https://apps.shopify.com/warranty-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,898 bytes / 174,805 chars
+Elapsed          : 0.888s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Warranty Upsell - Variant-specific warranty plans for every product option | Shopify App Store
+meta description : Add variant-specific warranty plans to your Shopify store. Different warranty options per product variant, no coding required. Free plan available.
+canonical URL    : https://apps.shopify.com/warranty-upsell
+<h1> tags ( 1)  : 'Warranty Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

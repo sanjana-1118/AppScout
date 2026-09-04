@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-source-inventory_20260830T050723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-source-inventory_20260830T050723Z.html
+Requested URL    : https://apps.shopify.com/multi-source-inventory
+Final URL        : https://apps.shopify.com/multi-source-inventory
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,528 bytes / 187,433 chars
+Elapsed          : 0.909s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ConnectMSI - Simple Inventory Management & Warehouse Organization Platform | Shopify App Store
+meta description : How ConnectMSI (Multi Source Inventory) system stands out from other inventory planners?
+Control your stock better since the app sends inventory al...
+canonical URL    : https://apps.shopify.com/multi-source-inventory
+<h1> tags ( 1)  : 'ConnectMSI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

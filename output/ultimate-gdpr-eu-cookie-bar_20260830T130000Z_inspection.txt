@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ultimate-gdpr-eu-cookie-bar_20260830T130000Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ultimate-gdpr-eu-cookie-bar_20260830T130000Z.html
+Requested URL    : https://apps.shopify.com/ultimate-gdpr-eu-cookie-bar
+Final URL        : https://apps.shopify.com/ultimate-gdpr-eu-cookie-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,956 bytes / 205,867 chars
+Elapsed          : 0.938s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ultimate GDPR EU Cookie Banner - A minimal, modern and stunning GDPR cookie bar. | Shopify App Store
+meta description : Create a EU GDPR cookie consent banner in your store with just 1 click. Fully customize the design of your GDPR cookie consent banner to match your brand.
+canonical URL    : https://apps.shopify.com/ultimate-gdpr-eu-cookie-bar
+<h1> tags ( 1)  : 'Ultimate GDPR EU Cookie Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecs-whatsapp-chat_20260830T163633Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecs-whatsapp-chat_20260830T163633Z.html
+Requested URL    : https://apps.shopify.com/ecs-whatsapp-chat
+Final URL        : https://apps.shopify.com/ecs-whatsapp-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,947 bytes / 160,849 chars
+Elapsed          : 0.862s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ECS WhatsApp Chat - Instant customer chat in WhatsApp | Shopify App Store
+meta description : Deliver faster support, boost sales, and connect instantly with customers using ECS WhatsApp Chat Button. Customize chat buttons and send personalized messages.
+canonical URL    : https://apps.shopify.com/ecs-whatsapp-chat
+<h1> tags ( 1)  : 'ECS WhatsApp Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

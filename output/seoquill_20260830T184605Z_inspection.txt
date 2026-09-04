@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seoquill_20260830T184605Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seoquill_20260830T184605Z.html
+Requested URL    : https://apps.shopify.com/seoquill
+Final URL        : https://apps.shopify.com/seoquill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,031 bytes / 193,942 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SeoQuill - Create on-brand product descriptions and SEO content in bulk | Shopify App Store
+meta description : Create product and collection descriptions, SEO metadata, and image alt text in bulk. Match your brand voice and review every draft before publishing.
+canonical URL    : https://apps.shopify.com/seoquill
+<h1> tags ( 1)  : 'SeoQuill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

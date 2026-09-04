@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\farmfetch-marketplace_20260829T183334Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\farmfetch-marketplace_20260829T183334Z.html
+Requested URL    : https://apps.shopify.com/farmfetch-marketplace
+Final URL        : https://apps.shopify.com/farmfetch-marketplace
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,367 bytes / 158,278 chars
+Elapsed          : 0.797s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Farmfetch Marketplace - Connect to Farmfetch Marketplace | Shopify App Store
+meta description : Simply install the app, connect to the Farmfetch Marketplace with your unique connector code (provided by the Farmfetch team), and select the produ...
+canonical URL    : https://apps.shopify.com/farmfetch-marketplace
+<h1> tags ( 1)  : 'Farmfetch Marketplace'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

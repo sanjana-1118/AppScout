@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\buythelook_20260830T181613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\buythelook_20260830T181613Z.html
+Requested URL    : https://apps.shopify.com/buythelook
+Final URL        : https://apps.shopify.com/buythelook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,335 bytes / 164,242 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Buythelook - AI outfit recommendations that increase average order value | Shopify App Store
+meta description : Boost average order value with AI-powered outfit recommendations. Customers complete a style quiz and get personalized looks featuring your products.
+canonical URL    : https://apps.shopify.com/buythelook
+<h1> tags ( 1)  : 'Buythelook'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

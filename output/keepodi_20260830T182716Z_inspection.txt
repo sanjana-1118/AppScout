@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keepodi_20260830T182716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keepodi_20260830T182716Z.html
+Requested URL    : https://apps.shopify.com/keepodi
+Final URL        : https://apps.shopify.com/keepodi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,940 bytes / 180,829 chars
+Elapsed          : 0.984s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : keepodi ‑ whatsapp marketing - Recover abandoned carts on WhatsApp with an AI agent. | Shopify App Store
+meta description : keepodi recovers abandoned carts through WhatsApp, the channel customers actually answer. When a cart is abandoned, keepo sends a personalised mess...
+canonical URL    : https://apps.shopify.com/keepodi
+<h1> tags ( 1)  : 'keepodi ‑ whatsapp marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

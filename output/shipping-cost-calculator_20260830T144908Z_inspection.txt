@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-cost-calculator_20260830T144908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-cost-calculator_20260830T144908Z.html
+Requested URL    : https://apps.shopify.com/shipping-cost-calculator
+Final URL        : https://apps.shopify.com/shipping-cost-calculator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,805 bytes / 173,704 chars
+Elapsed          : 0.874s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Arcade Shipping Calculator - Customize shipping rates management for better checkouts. | Shopify App Store
+meta description : Arcade Shipping Calculator accurately calculates shipping rates based on order details. Estimate shipping costs to enhance the checkout experience.
+canonical URL    : https://apps.shopify.com/shipping-cost-calculator
+<h1> tags ( 1)  : 'Arcade Shipping Calculator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

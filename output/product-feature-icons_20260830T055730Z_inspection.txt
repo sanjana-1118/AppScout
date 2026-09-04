@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-feature-icons_20260830T055730Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-feature-icons_20260830T055730Z.html
+Requested URL    : https://apps.shopify.com/product-feature-icons
+Final URL        : https://apps.shopify.com/product-feature-icons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 255,656 bytes / 255,567 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PX Trust Badges & Icons - Add trust badges & product icons to boost trust and... | Shopify App Store
+meta description : Add trust badges, product icons, and guarantee labels to boost conversions and build trust. Fully customizable and easy to install. No code needed.
+canonical URL    : https://apps.shopify.com/product-feature-icons
+<h1> tags ( 1)  : 'PX Trust Badges & Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

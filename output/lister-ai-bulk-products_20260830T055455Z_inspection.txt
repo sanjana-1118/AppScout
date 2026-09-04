@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lister-ai-bulk-products_20260830T055455Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lister-ai-bulk-products_20260830T055455Z.html
+Requested URL    : https://apps.shopify.com/lister-ai-bulk-products
+Final URL        : https://apps.shopify.com/lister-ai-bulk-products
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,122 bytes / 185,033 chars
+Elapsed          : 0.518s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lister AI Bulk Product Listing - AI Bulk Listing from one picture to Full Listings with... | Shopify App Store
+meta description : Turn product images into ready-to-sell listings. Generate titles, descriptions, SEO tags and marketing images with AI bulk automation for Shopify.
+canonical URL    : https://apps.shopify.com/lister-ai-bulk-products
+<h1> tags ( 1)  : 'Lister AI Bulk Product Listing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

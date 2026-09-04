@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\floaty_20260830T060517Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\floaty_20260830T060517Z.html
+Requested URL    : https://apps.shopify.com/floaty
+Final URL        : https://apps.shopify.com/floaty
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,182 bytes / 183,077 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Floaty Icons & Social Buttons - Floating social, contact, and custom icons for your store | Shopify App Store
+meta description : Add customizable floating social media icons, contact links, to your Shopify store. Improve customer connection and store design.
+canonical URL    : https://apps.shopify.com/floaty
+<h1> tags ( 1)  : 'Floaty Icons & Social Buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

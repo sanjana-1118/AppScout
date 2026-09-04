@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\callflows-ai-phone-agent_20260830T051606Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\callflows-ai-phone-agent_20260830T051606Z.html
+Requested URL    : https://apps.shopify.com/callflows-ai-phone-agent
+Final URL        : https://apps.shopify.com/callflows-ai-phone-agent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,207 bytes / 224,077 chars
+Elapsed          : 0.740s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CallFlows ‑ AI Phone Agent - AI phone agent answers calls 24/7. No coding necessary. | Shopify App Store
+meta description : Adds fully‑automated phone line to your store. Voice conversation in real-time from live data. Order status, refunds, product info, policies, placing an order.
+canonical URL    : https://apps.shopify.com/callflows-ai-phone-agent
+<h1> tags ( 1)  : 'CallFlows ‑ AI Phone Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

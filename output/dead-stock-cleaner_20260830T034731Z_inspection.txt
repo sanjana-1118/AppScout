@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dead-stock-cleaner_20260830T034731Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dead-stock-cleaner_20260830T034731Z.html
+Requested URL    : https://apps.shopify.com/dead-stock-cleaner
+Final URL        : https://apps.shopify.com/dead-stock-cleaner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,512 bytes / 167,423 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stock2Cash: Dead Stock Cleaner - Turn excess stock and slow-moving products into cash. | Shopify App Store
+meta description : Stock2Cash will turn your excess stock and slow-moving products into cash. 
+Get back working capital from your dead stock. No monthly fee, no setup costs.
+canonical URL    : https://apps.shopify.com/dead-stock-cleaner
+<h1> tags ( 1)  : 'Stock2Cash: Dead Stock Cleaner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

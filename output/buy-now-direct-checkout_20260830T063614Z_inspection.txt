@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\buy-now-direct-checkout_20260830T063614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\buy-now-direct-checkout_20260830T063614Z.html
+Requested URL    : https://apps.shopify.com/buy-now-direct-checkout
+Final URL        : https://apps.shopify.com/buy-now-direct-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,034 bytes / 210,923 chars
+Elapsed          : 0.826s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Instant Checkout ‑ Buy button  - Skip cart & redirect to checkout page when clicked on... | Shopify App Store
+meta description : The app will add an Animated "Buy Now" button on the product page, the "Buy Now" button bypass the cart and sends users direct to the Checkout page...
+canonical URL    : https://apps.shopify.com/buy-now-direct-checkout
+<h1> tags ( 1)  : 'Instant Checkout ‑ Buy button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

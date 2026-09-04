@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopify-application-180",
+  "fetch_timestamp": "2026-08-30T05:47:02.014925+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-180_20260830T054702Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-180_20260830T054702Z.html",
+    "url": "https://apps.shopify.com/shopify-application-180",
+    "final_url": "https://apps.shopify.com/shopify-application-180",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 170252,
+    "body_text_length": 167635,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.450481,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "バクアゲ配送（旧：返品くん） - 返品を自動化 | Shopify App Store",
+    "meta_description": "「返品くん」として親しまれてきた機能はそのままに、単なるトラブル処理ではなく、顧客満足度を高めて売上（バクアゲ）に貢献するツールとして進化しました。\n\nなぜ、返品ツールが「バクアゲ配送」なのか？ 優れた返品体験は、顧客の信頼を生み、リピート購入を促進します。「バクアゲ配送」は、以下の機能で返品...",
+    "canonical_url": "https://apps.shopify.com/shopify-application-180?locale=ja",
+    "h1_tags": [
+      "バクアゲ配送（旧：返品くん）"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "バクアゲ配送（旧：返品くん）",
+    "app_slug": "shopify-application-180",
+    "app_url": "https://apps.shopify.com/shopify-application-180?locale=ja",
+    "developer_name": "株式会社ネクストラボ",
+    "description": "「返品くん」として親しまれてきた機能はそのままに、単なるトラブル処理ではなく、顧客満足度を高めて売上（バクアゲ）に貢献するツールとして進化しました。\n\nなぜ、返品ツールが「バクアゲ配送」なのか？ 優れた返品体験は、顧客の信頼を生み、リピート購入を促進します。「バクアゲ配送」は、以下の機能で返品...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Returns and exchanges"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-180_20260830T054702Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-180_20260830T054702Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "バクアゲ配送（旧：返品くん）",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopify-application-180",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopify-application-180?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "株式会社ネクストラボ",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "「返品くん」として親しまれてきた機能はそのままに、単なるトラブル処理ではなく、顧客満足度を高めて売上（バクアゲ）に貢献するツールとして進化しました。\n\nなぜ、返品ツールが「バクアゲ配送」なのか？ 優れた返品体験は、顧客の信頼を生み、リピート購入を促進します。「バクアゲ配送」は、以下の機能で返品...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Returns and exchanges",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

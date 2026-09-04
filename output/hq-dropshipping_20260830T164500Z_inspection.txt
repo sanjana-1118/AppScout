@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hq-dropshipping_20260830T164500Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hq-dropshipping_20260830T164500Z.html
+Requested URL    : https://apps.shopify.com/hq-dropshipping
+Final URL        : https://apps.shopify.com/hq-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,266 bytes / 162,175 chars
+Elapsed          : 0.846s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HQ Dropshipping - Dropshipping Partner for Global E-commerce Brands | Shopify App Store
+meta description : HQ Dropshipping offers smart product sourcing with competitive factory pricing and custom sourcing support.
+canonical URL    : https://apps.shopify.com/hq-dropshipping
+<h1> tags ( 1)  : 'HQ Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storemapify_20260830T173229Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storemapify_20260830T173229Z.html
+Requested URL    : https://apps.shopify.com/storemapify
+Final URL        : https://apps.shopify.com/storemapify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,464 bytes / 187,377 chars
+Elapsed          : 0.912s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Storemapify - Store locator with map search and easy location management | Shopify App Store
+meta description : Customers can search nearby stores by city or location and easily find the nearest store. App supports bulk location import with location insights.
+canonical URL    : https://apps.shopify.com/storemapify
+<h1> tags ( 1)  : 'Storemapify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

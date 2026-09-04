@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartpicks_20260830T181255Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartpicks_20260830T181255Z.html
+Requested URL    : https://apps.shopify.com/smartpicks
+Final URL        : https://apps.shopify.com/smartpicks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,814 bytes / 173,721 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SmartPicks - Product Recommendations | Shopify App Store
+meta description : SmartPicks displays rule-based related products on the PDP/cart page before checkout. It integrates through Theme App Extensions and enables mercha...
+canonical URL    : https://apps.shopify.com/smartpicks
+<h1> tags ( 1)  : 'SmartPicks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

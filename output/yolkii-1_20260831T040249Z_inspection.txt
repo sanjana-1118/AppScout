@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yolkii-1_20260831T040249Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yolkii-1_20260831T040249Z.html
+Requested URL    : https://apps.shopify.com/yolkii-1
+Final URL        : https://apps.shopify.com/yolkii-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,927 bytes / 165,838 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yolkii: By Artists For Artists - Fine art print production and shipping for artists. | Shopify App Store
+meta description : Yolkii is a print production platform built specifically for artists. Sync your Shopify orders into Yolkii and every order is printed, framed, pack...
+canonical URL    : https://apps.shopify.com/yolkii-1
+<h1> tags ( 1)  : 'Yolkii: By Artists For Artists'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

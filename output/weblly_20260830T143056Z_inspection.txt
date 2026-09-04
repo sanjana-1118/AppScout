@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weblly_20260830T143056Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weblly_20260830T143056Z.html
+Requested URL    : https://apps.shopify.com/weblly
+Final URL        : https://apps.shopify.com/weblly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,451 bytes / 222,344 chars
+Elapsed          : 0.584s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Weblly Vibe Coding AI Builder - Chat with AI to build anything on top of your... | Shopify App Store
+meta description : Weblly is an AI you talk to that can build anything on top of your Shopify store. Describe what you need - a storefront site, a landing page, a cus...
+canonical URL    : https://apps.shopify.com/weblly
+<h1> tags ( 1)  : 'Weblly Vibe Coding AI Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

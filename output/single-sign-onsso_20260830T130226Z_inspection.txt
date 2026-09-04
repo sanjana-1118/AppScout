@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\single-sign-onsso_20260830T130226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\single-sign-onsso_20260830T130226Z.html
+Requested URL    : https://apps.shopify.com/single-sign-onsso
+Final URL        : https://apps.shopify.com/single-sign-onsso
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,024 bytes / 232,903 chars
+Elapsed          : 0.811s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : miniOrange Single Sign On‑SSO - One-click Single Sign-On login with any IDP for B2C/B2B stores | Shopify App Store
+meta description : Shopify SSO for Plus & Non-Plus stores. Enable seamless SSO login to Shopify Store using Azure AD, Okta, Keycloak, etc. using SAML, OAuth, or OIDC protocols.
+canonical URL    : https://apps.shopify.com/single-sign-onsso
+<h1> tags ( 1)  : 'miniOrange Single Sign On‑SSO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

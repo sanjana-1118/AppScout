@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-seller-marketplace_20260829T183558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-seller-marketplace_20260829T183558Z.html
+Requested URL    : https://apps.shopify.com/multi-seller-marketplace
+Final URL        : https://apps.shopify.com/multi-seller-marketplace
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,756 bytes / 178,667 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Multi Seller Marketplace - Convert your online web store to a perfect markeplace | Shopify App Store
+meta description : Convert your online shopify store to a marketplace where multiple sellers can manage and sell their products.
+canonical URL    : https://apps.shopify.com/multi-seller-marketplace
+<h1> tags ( 1)  : 'Multi Seller Marketplace'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

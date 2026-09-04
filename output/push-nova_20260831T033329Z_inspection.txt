@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\push-nova_20260831T033329Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\push-nova_20260831T033329Z.html
+Requested URL    : https://apps.shopify.com/push-nova
+Final URL        : https://apps.shopify.com/push-nova
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,397 bytes / 186,308 chars
+Elapsed          : 0.700s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Push Nova - Targeted and Ongoing and one time Push Notifications | Shopify App Store
+meta description : Push Nova helps Shopify stores reconnect with visitors using instant web push notifications. Customers can opt in with one click without sharing ph...
+canonical URL    : https://apps.shopify.com/push-nova
+<h1> tags ( 1)  : 'Push Nova'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

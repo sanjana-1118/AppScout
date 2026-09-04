@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reddit-ads_20260830T170238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reddit-ads_20260830T170238Z.html
+Requested URL    : https://apps.shopify.com/reddit-ads
+Final URL        : https://apps.shopify.com/reddit-ads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,780 bytes / 199,685 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reddit Ads - Turn conversations into conversions with Reddit Ads | Shopify App Store
+meta description : Connect your Shopify store to Reddit Ads and turn conversations into customers. Easily launch ads, sync products, and measure performance with codeless pixel.
+canonical URL    : https://apps.shopify.com/reddit-ads
+<h1> tags ( 1)  : 'Reddit Ads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

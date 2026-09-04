@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\efaq-ai-questions-answers_20260830T150653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\efaq-ai-questions-answers_20260830T150653Z.html
+Requested URL    : https://apps.shopify.com/efaq-ai-questions-answers
+Final URL        : https://apps.shopify.com/efaq-ai-questions-answers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,385 bytes / 216,296 chars
+Elapsed          : 1.016s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eFAQ: AI Questions & Answers - AI FAQ collections for checkout, product pages, and your store | Shopify App Store
+meta description : Automatically generate FAQs for product, checkout, and thank you pages. It analyzes your content to answer customer queries, reduce support tickets.
+canonical URL    : https://apps.shopify.com/efaq-ai-questions-answers
+<h1> tags ( 1)  : 'eFAQ: AI Questions & Answers'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

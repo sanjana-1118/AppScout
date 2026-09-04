@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickpages_20260830T163214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickpages_20260830T163214Z.html
+Requested URL    : https://apps.shopify.com/quickpages
+Final URL        : https://apps.shopify.com/quickpages
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,466 bytes / 202,371 chars
+Elapsed          : 0.761s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuickPages AI Page Builder - Never build manually again. AI turns text into live pages. | Shopify App Store
+meta description : Generate on-brand landing pages in seconds. QuickPages is the AI page builder that turns text prompts into live, custom Liquid sections automatically.
+canonical URL    : https://apps.shopify.com/quickpages
+<h1> tags ( 1)  : 'QuickPages AI Page Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

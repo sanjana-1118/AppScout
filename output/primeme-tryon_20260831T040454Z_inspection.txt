@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\primeme-tryon_20260831T040454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\primeme-tryon_20260831T040454Z.html
+Requested URL    : https://apps.shopify.com/primeme-tryon
+Final URL        : https://apps.shopify.com/primeme-tryon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,427 bytes / 190,316 chars
+Elapsed          : 1.026s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PrimeMe‑TryOn - AI Virtual Try-On to improve sales and reduce apparel returns. | Shopify App Store
+meta description : PrimeMe empowers shoppers to try on clothing virtually directly on your product pages using AI technology. By allowing customers to upload a photo ...
+canonical URL    : https://apps.shopify.com/primeme-tryon
+<h1> tags ( 1)  : 'PrimeMe‑TryOn'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

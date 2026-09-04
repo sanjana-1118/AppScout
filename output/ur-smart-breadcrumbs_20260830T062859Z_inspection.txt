@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ur-smart-breadcrumbs_20260830T062859Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ur-smart-breadcrumbs_20260830T062859Z.html
+Requested URL    : https://apps.shopify.com/ur-smart-breadcrumbs
+Final URL        : https://apps.shopify.com/ur-smart-breadcrumbs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,464 bytes / 169,352 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Smart Breadcrumbs - Highly designed Breadcrumbs app can be displayed in the store! | Shopify App Store
+meta description : By using this app, you can add a well-design breadcrumb app to your store without the need for coding. You can customize various elements such as t...
+canonical URL    : https://apps.shopify.com/ur-smart-breadcrumbs
+<h1> tags ( 1)  : 'UR: Smart Breadcrumbs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

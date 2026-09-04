@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printsuite_20260830T150248Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printsuite_20260830T150248Z.html
+Requested URL    : https://apps.shopify.com/printsuite
+Final URL        : https://apps.shopify.com/printsuite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,212 bytes / 176,123 chars
+Elapsed          : 0.932s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Printsuite - Personalized ready-to-sell products in minutes. | Shopify App Store
+meta description : Sell products made with your content. Hundreds of quality products, waiting for you.
+canonical URL    : https://apps.shopify.com/printsuite
+<h1> tags ( 1)  : 'Printsuite'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

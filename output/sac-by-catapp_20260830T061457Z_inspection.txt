@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sac-by-catapp_20260830T061457Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sac-by-catapp_20260830T061457Z.html
+Requested URL    : https://apps.shopify.com/sac-by-catapp
+Final URL        : https://apps.shopify.com/sac-by-catapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,336 bytes / 211,205 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sticky Add to Cart Bar - Floating buy button bar — always visible on desktop &... | Shopify App Store
+meta description : Keep your buy button always visible as customers scroll. Control display conditions, target specific products, and customize every element — no coding needed!
+canonical URL    : https://apps.shopify.com/sac-by-catapp
+<h1> tags ( 1)  : 'Sticky Add to Cart Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

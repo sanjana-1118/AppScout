@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aipost360_20260830T170658Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aipost360_20260830T170658Z.html
+Requested URL    : https://apps.shopify.com/aipost360
+Final URL        : https://apps.shopify.com/aipost360
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,787 bytes / 187,697 chars
+Elapsed          : 0.536s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AiPost360 - Auto-create and schedule social media posts from products | Shopify App Store
+meta description : Create and schedule social media posts from your Shopify products. Ai generate images, captions, and short videos to keep your store active on social platforms.
+canonical URL    : https://apps.shopify.com/aipost360
+<h1> tags ( 1)  : 'AiPost360'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

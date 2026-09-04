@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\v-staff_20260830T171800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\v-staff_20260830T171800Z.html
+Requested URL    : https://apps.shopify.com/v-staff
+Final URL        : https://apps.shopify.com/v-staff
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,806 bytes / 175,405 chars
+Elapsed          : 0.812s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : V‑Staff | 接客品質を引き上げるバーチャルスタッフ - Live2D Virtual Staff: The Future of Interactive AI Shopping. | Shopify App Store
+meta description : Drive Higher AOV with Live2D Virtual Staff: The Future of Interactive AI Shopping.
+Live2Dバーチャル接客でセット率を最大化。AIが「おもてなし」と「売上」を両立。
+canonical URL    : https://apps.shopify.com/v-staff?locale=ja
+<h1> tags ( 1)  : 'V‑Staff | 接客品質を引き上げるバーチャルスタッフ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repairdesk_20260830T050730Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repairdesk_20260830T050730Z.html
+Requested URL    : https://apps.shopify.com/repairdesk
+Final URL        : https://apps.shopify.com/repairdesk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,339 bytes / 167,242 chars
+Elapsed          : 0.947s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RepairDesk Point of Sale - Sync Inventory to online stores | Shopify App Store
+meta description : Boost your repair business with RepairDesk integration! Sync inventory, orders & customer data in real-time to streamline operations and preve
+canonical URL    : https://apps.shopify.com/repairdesk
+<h1> tags ( 1)  : 'RepairDesk Point of Sale'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

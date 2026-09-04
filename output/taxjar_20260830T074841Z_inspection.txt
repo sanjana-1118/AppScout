@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taxjar_20260830T074841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taxjar_20260830T074841Z.html
+Requested URL    : https://apps.shopify.com/taxjar
+Final URL        : https://apps.shopify.com/taxjar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,984 bytes / 216,869 chars
+Elapsed          : 0.787s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TaxJar Sales Tax Automation - Save Hours on Sales Tax for Your Store | Shopify App Store
+meta description : Paying taxes is a critical part of managing your e-commerce business, but doing it right is complicated. TaxJar does the heavy lifting for you by a...
+canonical URL    : https://apps.shopify.com/taxjar
+<h1> tags ( 1)  : 'TaxJar Sales Tax Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

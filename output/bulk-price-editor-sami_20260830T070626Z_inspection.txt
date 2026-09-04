@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-price-editor-sami_20260830T070626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-price-editor-sami_20260830T070626Z.html
+Requested URL    : https://apps.shopify.com/bulk-price-editor-sami
+Final URL        : https://apps.shopify.com/bulk-price-editor-sami
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,904 bytes / 210,805 chars
+Elapsed          : 0.695s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sami Bulk Price Editor - Bulk product editor & auto-revert prices for sales campaigns | Shopify App Store
+meta description : Easily bulk edit product prices, titles, descriptions, and statuses for sales campaigns. Schedule edits in advance and automatically revert changes...
+canonical URL    : https://apps.shopify.com/bulk-price-editor-sami
+<h1> tags ( 1)  : 'Sami Bulk Price Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-slider-feed_20260830T061309Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-slider-feed_20260830T061309Z.html
+Requested URL    : https://apps.shopify.com/instagram-slider-feed
+Final URL        : https://apps.shopify.com/instagram-slider-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,720 bytes / 182,631 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : InstaSlides - Instagram feed of top Instagram posts customised to your store | Shopify App Store
+meta description : Urge your users to follow you on Instagram by displaying a feed on your homepage consisting of posts from your username. Showcase inspirational fee...
+canonical URL    : https://apps.shopify.com/instagram-slider-feed
+<h1> tags ( 1)  : 'InstaSlides'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

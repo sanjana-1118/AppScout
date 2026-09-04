@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\send-as-gift_20260830T065437Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\send-as-gift_20260830T065437Z.html
+Requested URL    : https://apps.shopify.com/send-as-gift
+Final URL        : https://apps.shopify.com/send-as-gift
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,370 bytes / 206,255 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gift Wrap ‑ Upsell Gift Wrap - Simple Gift Wrap with custom message and upsell option | Shopify App Store
+meta description : Quickly add a widget to your cart page that allows customers to indicate their order is a gift and have the option to include a gift message. Choos...
+canonical URL    : https://apps.shopify.com/send-as-gift
+<h1> tags ( 1)  : 'Gift Wrap ‑ Upsell Gift Wrap'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

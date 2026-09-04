@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\winshield-dispute_appeal_20260830T070514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\winshield-dispute_appeal_20260830T070514Z.html
+Requested URL    : https://apps.shopify.com/winshield-dispute_appeal
+Final URL        : https://apps.shopify.com/winshield-dispute_appeal
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,559 bytes / 153,302 chars
+Elapsed          : 0.492s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 申诉易 - 拒付争议处理服务（客诉、友好欺诈、账户解封、资金解冻） | Shopify App Store
+meta description : 当商户收到平台或收单行的争议调查单时，响应速度、处理经验和证据质量将决定申诉成功的结果。但是往往因为不专业和缺乏经验的团队以及浪费大量的时间导致占用大量的资源并且可能导致不必要的资金损失。
+“申诉易”通过简单的集成将商户的线上商城和收款帐户进行授权连接。并且根据历史争议表现、交易类型、争议的原...
+canonical URL    : https://apps.shopify.com/winshield-dispute_appeal?locale=zh-CN
+<h1> tags ( 1)  : '申诉易'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

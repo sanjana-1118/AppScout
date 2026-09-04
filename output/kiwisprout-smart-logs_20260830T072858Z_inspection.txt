@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kiwisprout-smart-logs_20260830T072858Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kiwisprout-smart-logs_20260830T072858Z.html
+Requested URL    : https://apps.shopify.com/kiwisprout-smart-logs
+Final URL        : https://apps.shopify.com/kiwisprout-smart-logs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,127 bytes / 171,038 chars
+Elapsed          : 0.917s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KiwiSprout Smart Logs - Gain visibility into your store's activity and event logs | Shopify App Store
+meta description : KiwiSprout Smart Logs automatically and promptly captures the events you decide to track. It offers powerful filters to refine and focus on the log...
+canonical URL    : https://apps.shopify.com/kiwisprout-smart-logs
+<h1> tags ( 1)  : 'KiwiSprout Smart Logs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

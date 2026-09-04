@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-by-asap_20260830T141732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-by-asap_20260830T141732Z.html
+Requested URL    : https://apps.shopify.com/shipping-by-asap
+Final URL        : https://apps.shopify.com/shipping-by-asap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,964 bytes / 164,851 chars
+Elapsed          : 0.637s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipping by ASAP - Gestione las entregas de su comercio electrónico en un ASAP | Shopify App Store
+meta description : Esta aplicación se integra con la plataforma de Shopify y permite gestionar a través de su interfaz, la entrega de los paquetes asociadas a las com...
+canonical URL    : https://apps.shopify.com/shipping-by-asap?locale=es
+<h1> tags ( 1)  : 'Shipping by ASAP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

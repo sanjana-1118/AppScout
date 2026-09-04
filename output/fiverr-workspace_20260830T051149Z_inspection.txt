@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fiverr-workspace_20260830T051149Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fiverr-workspace_20260830T051149Z.html
+Requested URL    : https://apps.shopify.com/fiverr-workspace
+Final URL        : https://apps.shopify.com/fiverr-workspace
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,705 bytes / 158,614 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fiverr Workspace Sync - Automatically synchronizes Income to prepare for tax time | Shopify App Store
+meta description : This app helps you to synchronize all your Shopify orders into Fiverr Workspace to track them down as part of your business.
+
+Every time an order i...
+canonical URL    : https://apps.shopify.com/fiverr-workspace
+<h1> tags ( 1)  : 'Fiverr Workspace Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

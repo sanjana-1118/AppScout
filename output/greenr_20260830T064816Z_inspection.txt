@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\greenr_20260830T064816Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\greenr_20260830T064816Z.html
+Requested URL    : https://apps.shopify.com/greenr
+Final URL        : https://apps.shopify.com/greenr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,587 bytes / 187,494 chars
+Elapsed          : 0.620s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Offsettr - Go green with simple carbon offsetting | Shopify App Store
+meta description : Offsettr allows you to drop a plugin into your checkout page which lets your customers contribute to reducing the carbon footprint of their purchas...
+canonical URL    : https://apps.shopify.com/greenr
+<h1> tags ( 1)  : 'Offsettr'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

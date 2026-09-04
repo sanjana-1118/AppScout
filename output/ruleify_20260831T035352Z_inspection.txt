@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ruleify_20260831T035352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ruleify_20260831T035352Z.html
+Requested URL    : https://apps.shopify.com/ruleify
+Final URL        : https://apps.shopify.com/ruleify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,043 bytes / 210,918 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ruleify: All‑in‑One Discounts - Control all discounts - product, order, shipping, and gifts | Shopify App Store
+meta description : Ruliefy automates advanced discounts, free gifts, and tiered shipping. Boost sales, save time, and manage all rules in one place.
+canonical URL    : https://apps.shopify.com/ruleify
+<h1> tags ( 1)  : 'Ruleify: All‑in‑One Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

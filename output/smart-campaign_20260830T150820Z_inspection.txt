@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-campaign_20260830T150820Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-campaign_20260830T150820Z.html
+Requested URL    : https://apps.shopify.com/smart-campaign
+Final URL        : https://apps.shopify.com/smart-campaign
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,122 bytes / 173,015 chars
+Elapsed          : 0.933s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Schedulify ‑ Automate sales - Maximise revenue by scheduling and automating sale campaigns | Shopify App Store
+meta description : Schedulify streamlines your Shopify sales by automating campaign schedules, applying discounts, and organizing products with tags for better tracking.
+canonical URL    : https://apps.shopify.com/smart-campaign
+<h1> tags ( 1)  : 'Schedulify ‑ Automate sales'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

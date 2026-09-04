@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arc-sections_20260830T151625Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arc-sections_20260830T151625Z.html
+Requested URL    : https://apps.shopify.com/arc-sections
+Final URL        : https://apps.shopify.com/arc-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,833 bytes / 181,726 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ARC Sections: Theme Sections - Add customizable, professional sections to any theme. | Shopify App Store
+meta description : ARC Sections helps merchants add high-quality, customizable sections to their stores. Whether you're a small business owner or a fast-growing brand...
+canonical URL    : https://apps.shopify.com/arc-sections
+<h1> tags ( 1)  : 'ARC Sections: Theme Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lightsync-pro_20260830T163830Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lightsync-pro_20260830T163830Z.html
+Requested URL    : https://apps.shopify.com/lightsync-pro
+Final URL        : https://apps.shopify.com/lightsync-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,574 bytes / 167,457 chars
+Elapsed          : 0.816s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LightSync Pro ‑ Cloud to Files - Import cloud photos and designs to your store in one... | Shopify App Store
+meta description : Sync images from Lightroom, Shutterstock, Canva, Figma, and Dropbox to Shopify Files. Generate AI images from text prompts. Automatic WebP compression. Free.
+canonical URL    : https://apps.shopify.com/lightsync-pro
+<h1> tags ( 1)  : 'LightSync Pro ‑ Cloud to Files'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geekify-form-to-whatsapp_20260830T164220Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geekify-form-to-whatsapp_20260830T164220Z.html
+Requested URL    : https://apps.shopify.com/geekify-form-to-whatsapp
+Final URL        : https://apps.shopify.com/geekify-form-to-whatsapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,238 bytes / 176,145 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Geekify: Form to WhatsApp - Receive contact form inquiries instantly on WhatsApp | Shopify App Store
+meta description : Send Shopify form submissions directly to WhatsApp. Get instant alerts, reply faster, reduce missed leads and manage inquiries easily with Geekify
+canonical URL    : https://apps.shopify.com/geekify-form-to-whatsapp
+<h1> tags ( 1)  : 'Geekify: Form to WhatsApp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

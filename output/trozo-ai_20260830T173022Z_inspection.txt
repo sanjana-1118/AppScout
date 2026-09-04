@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trozo-ai_20260830T173022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trozo-ai_20260830T173022Z.html
+Requested URL    : https://apps.shopify.com/trozo-ai
+Final URL        : https://apps.shopify.com/trozo-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,700 bytes / 168,593 chars
+Elapsed          : 0.855s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trozo AI  - Build customer loyalty and repeat sales with custom rewards. | Shopify App Store
+meta description : Trozo helps Shopify brands launch powerful rewards and loyalty programs while running targeted campaigns — all without complex setup.
+canonical URL    : https://apps.shopify.com/trozo-ai
+<h1> tags ( 1)  : 'Trozo AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

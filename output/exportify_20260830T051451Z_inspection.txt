@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\exportify_20260830T051451Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\exportify_20260830T051451Z.html
+Requested URL    : https://apps.shopify.com/exportify
+Final URL        : https://apps.shopify.com/exportify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,841 bytes / 211,738 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Exportify: Custom Order Export - Export order data in the exact format you need | Shopify App Store
+meta description : If you need to export Shopify orders with a custom layout for CSV, Excel, XML, or any delimited text format – Exportify is the App for you.
+canonical URL    : https://apps.shopify.com/exportify
+<h1> tags ( 1)  : 'Exportify: Custom Order Export'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

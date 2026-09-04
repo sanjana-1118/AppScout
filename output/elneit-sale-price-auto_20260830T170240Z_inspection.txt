@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elneit-sale-price-auto_20260830T170240Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elneit-sale-price-auto_20260830T170240Z.html
+Requested URL    : https://apps.shopify.com/elneit-sale-price-auto
+Final URL        : https://apps.shopify.com/elneit-sale-price-auto
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,901 bytes / 162,812 chars
+Elapsed          : 0.795s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ELNEIT: Sale Price Auto - Schedule sale campaigns with compare-at pricing and rollback | Shopify App Store
+meta description : Create storewide or collection sale campaigns. Apply discounts, set compare-at price for strikethrough pricing, schedule start/end, and rollback safely.
+canonical URL    : https://apps.shopify.com/elneit-sale-price-auto
+<h1> tags ( 1)  : 'ELNEIT: Sale Price Auto'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

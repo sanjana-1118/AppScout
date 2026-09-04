@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pathlight_20260830T071227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pathlight_20260830T071227Z.html
+Requested URL    : https://apps.shopify.com/pathlight
+Final URL        : https://apps.shopify.com/pathlight
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 245,348 bytes / 245,255 chars
+Elapsed          : 1.034s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pathlight Post Purchase Survey - Discover what drives sales with post purchase surveys and NPS | Shopify App Store
+meta description : Pathlight lets you create flexible post purchase surveys with a wide range of question types, AI-powered translations, and precise targeting. Use r...
+canonical URL    : https://apps.shopify.com/pathlight
+<h1> tags ( 1)  : 'Pathlight Post Purchase Survey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

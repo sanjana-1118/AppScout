@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\true-otp_20260830T150814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\true-otp_20260830T150814Z.html
+Requested URL    : https://apps.shopify.com/true-otp
+Final URL        : https://apps.shopify.com/true-otp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,547 bytes / 175,454 chars
+Elapsed          : 1.027s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrueOTP Login/Register - Simplify account access with OTP authentication in one click. | Shopify App Store
+meta description : TrueOTP Login/Register enables a seamless login and registration process using OTPs. Customize the OTP widget effortlessly through the Shopify Them...
+canonical URL    : https://apps.shopify.com/true-otp
+<h1> tags ( 1)  : 'TrueOTP Login/Register'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

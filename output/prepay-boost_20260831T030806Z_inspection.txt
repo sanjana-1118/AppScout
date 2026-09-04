@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prepay-boost_20260831T030806Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prepay-boost_20260831T030806Z.html
+Requested URL    : https://apps.shopify.com/prepay-boost
+Final URL        : https://apps.shopify.com/prepay-boost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,970 bytes / 169,857 chars
+Elapsed          : 0.789s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Prepay Boost — COD to Prepaid - Shift COD shoppers to prepaid at checkout and cut returns. | Shopify App Store
+meta description : Prepay Boost nudges shoppers from Cash on Delivery to prepaid at checkout with rules, so fewer orders come back as RTO. Includes A/B testing and analytics.
+canonical URL    : https://apps.shopify.com/prepay-boost
+<h1> tags ( 1)  : 'Prepay Boost — COD to Prepaid'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

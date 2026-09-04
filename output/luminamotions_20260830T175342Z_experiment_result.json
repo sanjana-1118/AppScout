@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/luminamotions",
+  "fetch_timestamp": "2026-08-30T17:53:42.229961+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luminamotions_20260830T175342Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luminamotions_20260830T175342Z.html",
+    "url": "https://apps.shopify.com/luminamotions",
+    "final_url": "https://apps.shopify.com/luminamotions",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 163947,
+    "body_text_length": 163818,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.630651,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "LuminaMotion–AI Fashion Video - Turn product photos into cinematic fashion videos instantly. | Shopify App Store",
+    "meta_description": "Turn Shopify product photos into cinematic 9:16 fashion videos in minutes. Auto-published to product pages. Flat pricing, no impression fees. Free trial.",
+    "canonical_url": "https://apps.shopify.com/luminamotions",
+    "h1_tags": [
+      "LuminaMotion–AI Fashion Video"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "LuminaMotion–AI Fashion Video",
+    "app_slug": "luminamotions",
+    "app_url": "https://apps.shopify.com/luminamotions",
+    "developer_name": "Lumina Motion Labs",
+    "description": "Turn Shopify product photos into cinematic 9:16 fashion videos in minutes. Auto-published to product pages. Flat pricing, no impression fees. Free trial.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Advertising - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luminamotions_20260830T175342Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luminamotions_20260830T175342Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "LuminaMotion–AI Fashion Video",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "luminamotions",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/luminamotions",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Lumina Motion Labs",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Turn Shopify product photos into cinematic 9:16 fashion videos in minutes. Auto-published to product pages. Flat pricing, no impression fees. Free trial.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Advertising - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

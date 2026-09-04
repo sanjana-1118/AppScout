@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oc-side-cart_20260830T155520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oc-side-cart_20260830T155520Z.html
+Requested URL    : https://apps.shopify.com/oc-side-cart
+Final URL        : https://apps.shopify.com/oc-side-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,835 bytes / 164,738 chars
+Elapsed          : 0.635s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OC Side Cart - Instant cart updates for a smoother shopping experience | Shopify App Store
+meta description : OC Side Cart is a Shopify app that enhances your store's shopping experience by replacing the traditional cart page with a modern, interactive slid...
+canonical URL    : https://apps.shopify.com/oc-side-cart
+<h1> tags ( 1)  : 'OC Side Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

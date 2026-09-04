@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderlyprint_20260830T051353Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderlyprint_20260830T051353Z.html
+Requested URL    : https://apps.shopify.com/orderlyprint
+Final URL        : https://apps.shopify.com/orderlyprint
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,548 bytes / 225,345 chars
+Elapsed          : 0.750s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Orderly Print ‑ Bulk Invoices - Streamline your pick list, packing slips and invoices at scale | Shopify App Store
+meta description : Manage your Shopify orders at scale – tag, filter, print 500 orders at once. Create pick lists, packing slips, custom invoices. Save time, money & stress.
+canonical URL    : https://apps.shopify.com/orderlyprint
+<h1> tags ( 1)  : 'Orderly Print ‑ Bulk Invoices'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

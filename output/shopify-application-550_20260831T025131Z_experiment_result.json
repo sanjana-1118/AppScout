@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopify-application-550",
+  "fetch_timestamp": "2026-08-31T02:51:31.478706+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-550_20260831T025131Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-550_20260831T025131Z.html",
+    "url": "https://apps.shopify.com/shopify-application-550",
+    "final_url": "https://apps.shopify.com/shopify-application-550",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 170075,
+    "body_text_length": 166756,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.92947,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "シンプル住所変更 - お客様が自分で配送先を修正。「番地が抜けてた」対応をゼロに | Shopify App Store",
+    "meta_description": "「番地が抜けていました」「マンション名を書き忘れました」——ネットショップ運営で毎週のように届くこのメール対応を、シンプル住所変更はなくします。\n\n注文確認メールにスニペットを1行貼るだけで、お客様向けの住所修正リンクが入ります。お客様は注文ごとに一意の安全なリンクを開き、郵便番号の自動補完つ...",
+    "canonical_url": "https://apps.shopify.com/shopify-application-550?locale=ja",
+    "h1_tags": [
+      "シンプル住所変更"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "シンプル住所変更",
+    "app_slug": "shopify-application-550",
+    "app_url": "https://apps.shopify.com/shopify-application-550?locale=ja",
+    "developer_name": "じどうか工房",
+    "description": "「番地が抜けていました」「マンション名を書き忘れました」——ネットショップ運営で毎週のように届くこのメール対応を、シンプル住所変更はなくします。\n\n注文確認メールにスニペットを1行貼るだけで、お客様向けの住所修正リンクが入ります。お客様は注文ごとに一意の安全なリンクを開き、郵便番号の自動補完つ...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Order editing"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-550_20260831T025131Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-550_20260831T025131Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "シンプル住所変更",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopify-application-550",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopify-application-550?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "じどうか工房",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "「番地が抜けていました」「マンション名を書き忘れました」——ネットショップ運営で毎週のように届くこのメール対応を、シンプル住所変更はなくします。\n\n注文確認メールにスニペットを1行貼るだけで、お客様向けの住所修正リンクが入ります。お客様は注文ごとに一意の安全なリンクを開き、郵便番号の自動補完つ...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Order editing",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

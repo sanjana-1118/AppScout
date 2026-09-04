@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loyalty-program-2_20260830T064455Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loyalty-program-2_20260830T064455Z.html
+Requested URL    : https://apps.shopify.com/loyalty-program-2
+Final URL        : https://apps.shopify.com/loyalty-program-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 255,429 bytes / 255,247 chars
+Elapsed          : 0.884s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Love Loyalty Rewards & Points - Loyalty points with rewards, VIP tiers, referrals, POS & more | Shopify App Store
+meta description : Build a loyal customer base with Love Loyalty. Your customers can redeem points in the cart during the buying process without ever having to click a widget.
+canonical URL    : https://apps.shopify.com/loyalty-program-2
+<h1> tags ( 1)  : 'Love Loyalty Rewards & Points'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smg-blog-product-linker_20260830T175012Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smg-blog-product-linker_20260830T175012Z.html
+Requested URL    : https://apps.shopify.com/smg-blog-product-linker
+Final URL        : https://apps.shopify.com/smg-blog-product-linker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,895 bytes / 163,802 chars
+Elapsed          : 0.488s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SMG Blog Product Linker - Embed products in blog posts and turn content into a... | Shopify App Store
+meta description : Embed products in Shopify blog posts and turn content into a shoppable experience. Connect blog content with products and support conversions.
+canonical URL    : https://apps.shopify.com/smg-blog-product-linker
+<h1> tags ( 1)  : 'SMG Blog Product Linker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

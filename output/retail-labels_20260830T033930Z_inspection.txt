@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retail-labels_20260830T033930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retail-labels_20260830T033930Z.html
+Requested URL    : https://apps.shopify.com/retail-labels
+Final URL        : https://apps.shopify.com/retail-labels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,072 bytes / 190,983 chars
+Elapsed          : 0.446s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Retail Labels and Validation  - Design retail labels and spot missing product data | Shopify App Store
+meta description : Print barcode and price labels for products and transfer orders. Find missing SKUs, barcodes, and duplicate data with one-click bulk edit.
+canonical URL    : https://apps.shopify.com/retail-labels
+<h1> tags ( 1)  : 'Retail Labels and Validation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

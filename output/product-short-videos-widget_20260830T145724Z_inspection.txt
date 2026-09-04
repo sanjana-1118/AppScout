@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-short-videos-widget_20260830T145724Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-short-videos-widget_20260830T145724Z.html
+Requested URL    : https://apps.shopify.com/product-short-videos-widget
+Final URL        : https://apps.shopify.com/product-short-videos-widget
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,680 bytes / 168,573 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AOD ‑ Shoppable Short Videos - Shoppable Product Videos for 2.0 Themes | Shopify App Store
+meta description : Product Short Videos Widget gives you an option for showing multiple videos in a small screen at bottom of the product page. This will allow maximu...
+canonical URL    : https://apps.shopify.com/product-short-videos-widget
+<h1> tags ( 1)  : 'AOD ‑ Shoppable Short Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

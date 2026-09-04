@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\essential-seo-ai-blog-writer_20260829T184832Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\essential-seo-ai-blog-writer_20260829T184832Z.html
+Requested URL    : https://apps.shopify.com/essential-seo-ai-blog-writer
+Final URL        : https://apps.shopify.com/essential-seo-ai-blog-writer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,837 bytes / 234,710 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Essential AI SEO: AI Blog Post - Lift SEO With Auto Blog Writer & AI SEO Optimizer | Shopify App Store
+meta description : Boost your Shopify store’s SEO with Essential SEO ‑ AI Blog Post, the best blog app for Shopify. Create optimized blog posts and drive organic traffic!
+canonical URL    : https://apps.shopify.com/essential-seo-ai-blog-writer
+<h1> tags ( 1)  : 'Essential AI SEO: AI Blog Post'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,36 @@
+{
+  "category_url": "https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping",
+  "category_slug": "finding-products-sourcing-options-dropshipping",
+  "traversal_timestamp": "2026-08-29T16:04:18.113816+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/eprolo",
+    "https://apps.shopify.com/aliexpress-dropshipping-master",
+    "https://apps.shopify.com/product-upload",
+    "https://apps.shopify.com/reputon-amazon-affiliate",
+    "https://apps.shopify.com/cloneify-copy-products",
+    "https://apps.shopify.com/ninja-pod",
+    "https://apps.shopify.com/odmpod-dropshipping",
+    "https://apps.shopify.com/printful",
+    "https://apps.shopify.com/fforder-dropshipping",
+    "https://apps.shopify.com/dsers",
+    "https://apps.shopify.com/apliiq",
+    "https://apps.shopify.com/germandrop",
+    "https://apps.shopify.com/customix-product-personalizer",
+    "https://apps.shopify.com/product-options-personalizer",
+    "https://apps.shopify.com/product-designer-setubridge",
+    "https://apps.shopify.com/printify",
+    "https://apps.shopify.com/buckydrop",
+    "https://apps.shopify.com/collective"
+  ],
+  "total_urls_encountered": 22,
+  "unique_app_urls": 18,
+  "duplicates_removed": 0,
+  "snapshots_reused": 1,
+  "new_http_requests": 0,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

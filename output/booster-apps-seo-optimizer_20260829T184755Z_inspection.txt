@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\booster-apps-seo-optimizer_20260829T184755Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\booster-apps-seo-optimizer_20260829T184755Z.html
+Requested URL    : https://apps.shopify.com/booster-apps-seo-optimizer
+Final URL        : https://apps.shopify.com/booster-apps-seo-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 272,064 bytes / 271,951 chars
+Elapsed          : 0.798s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BOOSTER AI SEO + AEO OPTIMIZER - The trusted AI SEO app for speed, sharp images, higher... | Shopify App Store
+meta description : AI SEO for Shopify: automatic meta tags, alt text, speed and broken link fixes, plus AEO tools like LLMs.txt to get your store found on ChatGPT and AI search.
+canonical URL    : https://apps.shopify.com/booster-apps-seo-optimizer
+<h1> tags ( 1)  : 'BOOSTER AI SEO + AEO OPTIMIZER'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

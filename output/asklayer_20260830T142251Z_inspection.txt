@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asklayer_20260830T142251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asklayer_20260830T142251Z.html
+Requested URL    : https://apps.shopify.com/asklayer
+Final URL        : https://apps.shopify.com/asklayer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,641 bytes / 235,522 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Asklayer Survey & NPS for pros - Highly customizable & low-friction surveys get more answers | Shopify App Store
+meta description : Asklayer helps you make good decisions with clear actionable feedback from your customers.
+
+We provide per-question reporting with in-app charts an...
+canonical URL    : https://apps.shopify.com/asklayer
+<h1> tags ( 1)  : 'Asklayer Survey & NPS for pros'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

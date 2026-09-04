@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fast-track-discounts-offers_20260831T035116Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fast-track-discounts-offers_20260831T035116Z.html
+Requested URL    : https://apps.shopify.com/fast-track-discounts-offers
+Final URL        : https://apps.shopify.com/fast-track-discounts-offers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,486 bytes / 179,381 chars
+Elapsed          : 0.983s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fast Track: Pro Announcements - Elevate storefronts with dynamic bars,info, deals, and news. | Shopify App Store
+meta description : Boost sales effortlessly! This Shopify app enhances storefront communication with dynamic bars, showcasing announcements, deals, and blog updates seamlessly.
+canonical URL    : https://apps.shopify.com/fast-track-discounts-offers
+<h1> tags ( 1)  : 'Fast Track: Pro Announcements'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

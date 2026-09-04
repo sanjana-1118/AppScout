@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jenniapp-1_20260830T034003Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jenniapp-1_20260830T034003Z.html
+Requested URL    : https://apps.shopify.com/jenniapp-1
+Final URL        : https://apps.shopify.com/jenniapp-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,163 bytes / 172,074 chars
+Elapsed          : 0.587s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JENNi Local Commerce - Instant backup inventory. We fulfill orders when you run out. | Shopify App Store
+meta description : JENNi helps merchants sell existing store inventory through approved marketplace partners, including DoorDash and SHEIN. The app syncs product titl...
+canonical URL    : https://apps.shopify.com/jenniapp-1
+<h1> tags ( 1)  : 'JENNi Local Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

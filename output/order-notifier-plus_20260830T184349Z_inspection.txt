@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-notifier-plus_20260830T184349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-notifier-plus_20260830T184349Z.html
+Requested URL    : https://apps.shopify.com/order-notifier-plus
+Final URL        : https://apps.shopify.com/order-notifier-plus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,889 bytes / 188,800 chars
+Elapsed          : 0.525s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Notifier Plus - Automate WhatsApp notifications for orders & carts | Shopify App Store
+meta description : Send automated WhatsApp notifications for orders, abandoned carts, fulfillment updates, and cancellations. Connect your Shopify store to WhatsApp in minutes.
+canonical URL    : https://apps.shopify.com/order-notifier-plus
+<h1> tags ( 1)  : 'Order Notifier Plus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

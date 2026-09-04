@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\play-or-draw-inventory-sync_20260830T144812Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\play-or-draw-inventory-sync_20260830T144812Z.html
+Requested URL    : https://apps.shopify.com/play-or-draw-inventory-sync
+Final URL        : https://apps.shopify.com/play-or-draw-inventory-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,846 bytes / 166,755 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Play Or Draw Inventory Sync - Efficient and reliable inventory syncing between marketplaces | Shopify App Store
+meta description : Play Or Draw Inventory Sync allows merchants on the Play Or Draw platform to keep their inventory up to date and automatically synced across both p...
+canonical URL    : https://apps.shopify.com/play-or-draw-inventory-sync
+<h1> tags ( 1)  : 'Play Or Draw Inventory Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

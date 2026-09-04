@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\volume-discount-by-hulkapps_20260830T075512Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\volume-discount-by-hulkapps_20260830T075512Z.html
+Requested URL    : https://apps.shopify.com/volume-discount-by-hulkapps
+Final URL        : https://apps.shopify.com/volume-discount-by-hulkapps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 280,298 bytes / 280,188 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hulk Bundles Quantity Breaks - Grow AOV with Volume Discount, Free Gift, BOGO and Upsells. | Shopify App Store
+meta description : The Hulk VolumeBoost - Volume Discounts App lets you create and manage multiple tiered discount types in bulk quantities and rewards your most loyal customers.
+canonical URL    : https://apps.shopify.com/volume-discount-by-hulkapps
+<h1> tags ( 1)  : 'Hulk Bundles Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

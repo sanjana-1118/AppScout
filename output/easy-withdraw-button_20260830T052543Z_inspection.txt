@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-withdraw-button_20260830T052543Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-withdraw-button_20260830T052543Z.html
+Requested URL    : https://apps.shopify.com/easy-withdraw-button
+Final URL        : https://apps.shopify.com/easy-withdraw-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,468 bytes / 229,352 chars
+Elapsed          : 0.649s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Withdraw: EU‑ready - Effortless EU withdrawals for ambitious stores, incl. headless | Shopify App Store
+meta description : EasyWithdraw adds an EU withdrawal form to your storefront and a dashboard that mirrors your Shopify order table. Install in minutes. Works on mode...
+canonical URL    : https://apps.shopify.com/easy-withdraw-button
+<h1> tags ( 1)  : 'Easy Withdraw: EU‑ready'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

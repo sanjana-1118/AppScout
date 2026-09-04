@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-search-chatbot_20260830T063251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-search-chatbot_20260830T063251Z.html
+Requested URL    : https://apps.shopify.com/ai-search-chatbot
+Final URL        : https://apps.shopify.com/ai-search-chatbot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,503 bytes / 164,412 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : N3 Smart Search AI - AI chat widget that helps customers find and buy products | Shopify App Store
+meta description : AI chat to your store that helps customers find products through conversation. Syncs your catalog, supports 10 languages, and publishes chats as SEO pages.
+canonical URL    : https://apps.shopify.com/ai-search-chatbot
+<h1> tags ( 1)  : 'N3 Smart Search AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

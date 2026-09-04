@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paylogic_20260830T173112Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paylogic_20260830T173112Z.html
+Requested URL    : https://apps.shopify.com/paylogic
+Final URL        : https://apps.shopify.com/paylogic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,350 bytes / 186,239 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PayLogic Payment Customization - Hide, rename, reorder payment methods. Replace old Scripts. | Shopify App Store
+meta description : Shopify Scripts stopped June 30, 2026. Migrate to Functions with PayLogic: hide, rename, or reorder payment methods by cart, tag, or risk. 3-day free trial.
+canonical URL    : https://apps.shopify.com/paylogic
+<h1> tags ( 1)  : 'PayLogic Payment Customization'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

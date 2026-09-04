@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scaleable_20260830T072024Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scaleable_20260830T072024Z.html
+Requested URL    : https://apps.shopify.com/scaleable
+Final URL        : https://apps.shopify.com/scaleable
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,359 bytes / 193,270 chars
+Elapsed          : 0.560s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ScaleAble: Profit Dashboard - Track profit, costs, ad spend and campaigns in one dashboard | Shopify App Store
+meta description : Track Shopify revenue, costs, profit, product performance, and ad spend in one dashboard built for smarter growth decisions.
+canonical URL    : https://apps.shopify.com/scaleable
+<h1> tags ( 1)  : 'ScaleAble: Profit Dashboard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

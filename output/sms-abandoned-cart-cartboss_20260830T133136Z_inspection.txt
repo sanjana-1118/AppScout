@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-abandoned-cart-cartboss_20260830T133136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-abandoned-cart-cartboss_20260830T133136Z.html
+Requested URL    : https://apps.shopify.com/sms-abandoned-cart-cartboss
+Final URL        : https://apps.shopify.com/sms-abandoned-cart-cartboss
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,546 bytes / 201,422 chars
+Elapsed          : 0.761s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SMS Abandoned Cart ✦ CartBoss - Turn lost visits into sales with SMS Cart Reminders | Shopify App Store
+meta description : Recover abandoned carts and send post-purchase offers with pre-prepared and translated text messages! A Plug&Play solution that works on full autopilot!
+canonical URL    : https://apps.shopify.com/sms-abandoned-cart-cartboss
+<h1> tags ( 1)  : 'SMS Abandoned Cart ✦ CartBoss'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

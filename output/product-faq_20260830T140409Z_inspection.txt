@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-faq_20260830T140409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-faq_20260830T140409Z.html
+Requested URL    : https://apps.shopify.com/product-faq
+Final URL        : https://apps.shopify.com/product-faq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,085 bytes / 203,996 chars
+Elapsed          : 1.348s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul AI Driven Product FAQ - Dynamic FAQ on Product Pages,helps in solving Customer Queries | Shopify App Store
+meta description : With the help of this App, Admin can add dynamic FAQ in their products, FAQ on Product page helps your customers in knowing more about your product...
+canonical URL    : https://apps.shopify.com/product-faq
+<h1> tags ( 1)  : 'Webkul AI Driven Product FAQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

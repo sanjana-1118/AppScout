@@ -1,0 +1,17 @@
+{
+  "category_url": "https://apps.shopify.com/categories/store-design-images-and-medi",
+  "category_slug": "store-design-images-and-medi",
+  "traversal_timestamp": "2026-08-29T16:16:44.078631+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/store-design-images-and-medi"
+  ],
+  "app_urls": [],
+  "total_urls_encountered": 0,
+  "unique_app_urls": 0,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

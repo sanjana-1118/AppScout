@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nabu-for-tiktok-pixel_20260830T071328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nabu-for-tiktok-pixel_20260830T071328Z.html
+Requested URL    : https://apps.shopify.com/nabu-for-tiktok-pixel
+Final URL        : https://apps.shopify.com/nabu-for-tiktok-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,568 bytes / 236,459 chars
+Elapsed          : 0.865s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TikTok Pixels by AdNabu - TikTok Pixels: Unlimited Setup & Event Tracking for TikTok Ads | Shopify App Store
+meta description : Install unlimited TikTok Pixels on Shopify in seconds. Track purchases, page views, add to 
+cart & checkout with full values. Multi-pixel support, no coding.
+canonical URL    : https://apps.shopify.com/nabu-for-tiktok-pixel
+<h1> tags ( 1)  : 'TikTok Pixels by AdNabu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

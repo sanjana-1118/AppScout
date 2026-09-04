@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-gift-card-generator-2_20260830T065343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-gift-card-generator-2_20260830T065343Z.html
+Requested URL    : https://apps.shopify.com/bulk-gift-card-generator-2
+Final URL        : https://apps.shopify.com/bulk-gift-card-generator-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,990 bytes / 227,897 chars
+Elapsed          : 0.768s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Datora | Bulk Gift Cards - Fast and easy generation of multiple gift cards | Shopify App Store
+meta description : Datora's app on Shopify allows easy bulk gift card creation with custom features, automated interface, and efficient management, including .csv downloads.
+canonical URL    : https://apps.shopify.com/bulk-gift-card-generator-2
+<h1> tags ( 1)  : 'Datora | Bulk Gift Cards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

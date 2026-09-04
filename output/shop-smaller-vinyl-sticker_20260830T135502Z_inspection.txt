@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shop-smaller-vinyl-sticker_20260830T135502Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shop-smaller-vinyl-sticker_20260830T135502Z.html
+Requested URL    : https://apps.shopify.com/shop-smaller-vinyl-sticker
+Final URL        : https://apps.shopify.com/shop-smaller-vinyl-sticker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,915 bytes / 161,786 chars
+Elapsed          : 0.590s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shop Smaller ‑ Free Sticker - Free vinyl sticker for customers who support small sellers. | Shopify App Store
+meta description : Give your customers more than just a thank you.  Give them a free vinyl sticker that says "I Shop Smaller" to help them feel great about their purchase.
+canonical URL    : https://apps.shopify.com/shop-smaller-vinyl-sticker
+<h1> tags ( 1)  : 'Shop Smaller ‑ Free Sticker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

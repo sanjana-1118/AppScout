@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-ninja-blocks_20260830T063839Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-ninja-blocks_20260830T063839Z.html
+Requested URL    : https://apps.shopify.com/checkout-ninja-blocks
+Final URL        : https://apps.shopify.com/checkout-ninja-blocks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,417 bytes / 218,326 chars
+Elapsed          : 0.967s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Checkout Customizer Ninja - Checkout customizer with checkout blocks & custom fields | Shopify App Store
+meta description : Customize your Shopify Plus checkout with Checkout Ninja: no-code checkout blocks, custom fields, trust badges & Trustpilot reviews. Build trust & convert.
+canonical URL    : https://apps.shopify.com/checkout-ninja-blocks
+<h1> tags ( 1)  : 'Checkout Customizer Ninja'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

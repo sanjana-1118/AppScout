@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\linguise_20260830T033406Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\linguise_20260830T033406Z.html
+Requested URL    : https://apps.shopify.com/linguise
+Final URL        : https://apps.shopify.com/linguise
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,514 bytes / 204,414 chars
+Elapsed          : 0.513s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Linguise AI Translation - Translate all your store content with AI and multilingual SEO | Shopify App Store
+meta description : AI-powered Shopify app for instant multilingual store translation, SEO-friendly URLs, and seamless global market support. Boost sales with automatic translation
+canonical URL    : https://apps.shopify.com/linguise
+<h1> tags ( 1)  : 'Linguise AI Translation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

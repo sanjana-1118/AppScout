@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-activity_20260830T072227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-activity_20260830T072227Z.html
+Requested URL    : https://apps.shopify.com/cart-activity
+Final URL        : https://apps.shopify.com/cart-activity
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,477 bytes / 189,376 chars
+Elapsed          : 0.526s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartActivity - Get a newsfeed of your shoppers' cart activities! | Shopify App Store
+meta description : You know your online store is getting traffic and shoppers are adding products to their shopping carts. But which products? Knowing which products ...
+canonical URL    : https://apps.shopify.com/cart-activity
+<h1> tags ( 1)  : 'CartActivity'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

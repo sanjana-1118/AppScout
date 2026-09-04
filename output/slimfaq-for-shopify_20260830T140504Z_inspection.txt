@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\slimfaq-for-shopify_20260830T140504Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\slimfaq-for-shopify_20260830T140504Z.html
+Requested URL    : https://apps.shopify.com/slimfaq-for-shopify
+Final URL        : https://apps.shopify.com/slimfaq-for-shopify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,374 bytes / 178,285 chars
+Elapsed          : 0.813s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SlimFAQ - Build a beautiful FAQ quickly and easily! | Shopify App Store
+meta description : With SlimFAQ, creating and accessing FAQs is a breeze. It allows you to create multiple FAQs for your websites and integrate them with platforms li...
+canonical URL    : https://apps.shopify.com/slimfaq-for-shopify
+<h1> tags ( 1)  : 'SlimFAQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

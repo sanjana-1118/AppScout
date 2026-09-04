@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\menaks-ai-landing-page-build_20260831T024454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\menaks-ai-landing-page-build_20260831T024454Z.html
+Requested URL    : https://apps.shopify.com/menaks-ai-landing-page-build
+Final URL        : https://apps.shopify.com/menaks-ai-landing-page-build
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,503 bytes / 180,396 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Menaks AI Landing Page Builder - AI landing pages from a product URL — 9 languages. | Shopify App Store
+meta description : Turn any product URL into a ready-to-publish landing page with AI. 9 languages, publish to your store, honest by default.
+canonical URL    : https://apps.shopify.com/menaks-ai-landing-page-build
+<h1> tags ( 1)  : 'Menaks AI Landing Page Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

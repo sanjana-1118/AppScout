@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-order-sms-verifier-master_20260830T133242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-order-sms-verifier-master_20260830T133242Z.html
+Requested URL    : https://apps.shopify.com/cod-order-sms-verifier-master
+Final URL        : https://apps.shopify.com/cod-order-sms-verifier-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,679 bytes / 182,582 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : COD Order SMS Verifier Master - Use this app to confirm COD orders in Pakistan | Shopify App Store
+meta description : This app helps you save time and reduce resource wastage by automating the order verification process and lowering the risk of fraudulent or bogus ...
+canonical URL    : https://apps.shopify.com/cod-order-sms-verifier-master
+<h1> tags ( 1)  : 'COD Order SMS Verifier Master'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

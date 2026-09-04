@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blenda-preview-art-on-wall_20260830T183936Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blenda-preview-art-on-wall_20260830T183936Z.html
+Requested URL    : https://apps.shopify.com/blenda-preview-art-on-wall
+Final URL        : https://apps.shopify.com/blenda-preview-art-on-wall
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,219 bytes / 186,106 chars
+Elapsed          : 0.807s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blenda ‑ Preview Art on Wall - Customers see art on their wall at real size, before... | Shopify App Store
+meta description : With Blenda.art your potential customers can preview art at home before buying. 
+Works in all browsers and no app is required.
+canonical URL    : https://apps.shopify.com/blenda-preview-art-on-wall
+<h1> tags ( 1)  : 'Blenda ‑ Preview Art on Wall'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

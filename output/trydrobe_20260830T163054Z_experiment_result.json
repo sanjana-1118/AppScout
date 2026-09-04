@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/trydrobe",
+  "fetch_timestamp": "2026-08-30T16:30:54.759438+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trydrobe_20260830T163054Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trydrobe_20260830T163054Z.html",
+    "url": "https://apps.shopify.com/trydrobe",
+    "final_url": "https://apps.shopify.com/trydrobe",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 183595,
+    "body_text_length": 183454,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.531618,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "TryDrobe ‑ AI Virtual Try‑Ons - AI virtual try-on that cuts returns and lifts conversion | Shopify App Store",
+    "meta_description": "Add AI virtual try-ons to your clothing store. Shoppers upload a photo of themselves and preview items instantly in a seamless popup overlay on product pages",
+    "canonical_url": "https://apps.shopify.com/trydrobe",
+    "h1_tags": [
+      "TryDrobe ‑ AI Virtual Try‑Ons"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "TryDrobe ‑ AI Virtual Try‑Ons",
+    "app_slug": "trydrobe",
+    "app_url": "https://apps.shopify.com/trydrobe",
+    "developer_name": "Intuico Digital",
+    "description": "Add AI virtual try-ons to your clothing store. Shoppers upload a photo of themselves and preview items instantly in a seamless popup overlay on product pages",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Images and media - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trydrobe_20260830T163054Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trydrobe_20260830T163054Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "TryDrobe ‑ AI Virtual Try‑Ons",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "trydrobe",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/trydrobe",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Intuico Digital",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Add AI virtual try-ons to your clothing store. Shoppers upload a photo of themselves and preview items instantly in a seamless popup overlay on product pages",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Images and media - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

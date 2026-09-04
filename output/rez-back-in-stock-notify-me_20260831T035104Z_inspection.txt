@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rez-back-in-stock-notify-me_20260831T035104Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rez-back-in-stock-notify-me_20260831T035104Z.html
+Requested URL    : https://apps.shopify.com/rez-back-in-stock-notify-me
+Final URL        : https://apps.shopify.com/rez-back-in-stock-notify-me
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 269,588 bytes / 269,465 chars
+Elapsed          : 0.933s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Preorder, Back In Stock REZ - Do pre order, notify me, back in stock alert, restock... | Shopify App Store
+meta description : Use REZ’s Preorders and Notify Me tools to create waitlists for out of stock products. Accept pre-order, backorder, and presale orders. Send back in stock alert
+canonical URL    : https://apps.shopify.com/rez-back-in-stock-notify-me
+<h1> tags ( 1)  : 'Preorder, Back In Stock REZ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

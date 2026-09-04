@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\excel-export-import_20260830T034222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\excel-export-import_20260830T034222Z.html
+Requested URL    : https://apps.shopify.com/excel-export-import
+Final URL        : https://apps.shopify.com/excel-export-import
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 274,287 bytes / 274,172 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Matrixify - Import, Export, Update and Migrate your store data in bulk | Shopify App Store
+meta description : Manage Shopify data with Excel & CSV: Products, Collections, Customers, Companies, Discounts, Orders, Payouts, Pages, Blogs, Redirects, Files, Metafields, Menus
+canonical URL    : https://apps.shopify.com/excel-export-import
+<h1> tags ( 1)  : 'Matrixify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

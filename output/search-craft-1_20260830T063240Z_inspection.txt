@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\search-craft-1_20260830T063240Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\search-craft-1_20260830T063240Z.html
+Requested URL    : https://apps.shopify.com/search-craft-1
+Final URL        : https://apps.shopify.com/search-craft-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,928 bytes / 177,823 chars
+Elapsed          : 0.532s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AE: AI Search & Filter - Right products faster with AI-powered search and smart filter | Shopify App Store
+meta description : Give shoppers a fast, modern search that returns results as they type, handles typos, and never dead-ends on a “no results” page. Add smart filters...
+canonical URL    : https://apps.shopify.com/search-craft-1
+<h1> tags ( 1)  : 'AE: AI Search & Filter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

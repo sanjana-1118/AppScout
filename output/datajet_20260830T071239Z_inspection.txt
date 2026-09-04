@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datajet_20260830T071239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datajet_20260830T071239Z.html
+Requested URL    : https://apps.shopify.com/datajet
+Final URL        : https://apps.shopify.com/datajet
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,676 bytes / 213,579 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DataJet - Describe any automation in plain English and AI builds it | Shopify App Store
+meta description : Describe any store task and AI builds the automation. DataJet connects Shopify to ERPs, 3PLs, FTP, and APIs to sync orders products, and inventory.
+canonical URL    : https://apps.shopify.com/datajet
+<h1> tags ( 1)  : 'DataJet'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

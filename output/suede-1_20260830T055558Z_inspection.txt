@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\suede-1_20260830T055558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\suede-1_20260830T055558Z.html
+Requested URL    : https://apps.shopify.com/suede-1
+Final URL        : https://apps.shopify.com/suede-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,611 bytes / 195,522 chars
+Elapsed          : 0.615s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Suede - Turn order confirmations into ready-to-sell product listings | Shopify App Store
+meta description : Suede turns vendor order confirmations into complete Shopify product listings automatically. Forward your OCs by email and publish products in one click.
+canonical URL    : https://apps.shopify.com/suede-1
+<h1> tags ( 1)  : 'Suede'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crate-wms-1_20260830T184055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crate-wms-1_20260830T184055Z.html
+Requested URL    : https://apps.shopify.com/crate-wms-1
+Final URL        : https://apps.shopify.com/crate-wms-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,095 bytes / 160,004 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Crate WMS - Multi-warehouse inventory, synced in real time | Shopify App Store
+meta description : Crate is a warehouse management system that syncs inventory to your store in real time, reserves stock on orders, and manages multiple warehouses and bins.
+canonical URL    : https://apps.shopify.com/crate-wms-1
+<h1> tags ( 1)  : 'Crate WMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

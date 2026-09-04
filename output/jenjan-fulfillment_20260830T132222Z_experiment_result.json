@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/jenjan-fulfillment",
+  "fetch_timestamp": "2026-08-30T13:22:22.614486+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\jenjan-fulfillment_20260830T132222Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\jenjan-fulfillment_20260830T132222Z.html",
+    "url": "https://apps.shopify.com/jenjan-fulfillment",
+    "final_url": "https://apps.shopify.com/jenjan-fulfillment",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 163535,
+    "body_text_length": 161574,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.669905,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "JENJAN Fulfillment | 真站電商倉儲物流 - 台灣新創品牌、老品牌轉型線上銷售、團購、群眾募資商品的電商倉儲物流公司 | Shopify App Store",
+    "meta_description": "使用擴充App讓您的訂單被專業的真站電商倉儲物流處理，我們能夠解決您倉儲空間問題、出貨理貨人員問題、物流配送問題。\n\nJENJAN eCommerce logistics \n\nJENJAN eCommerce logistics, a start-up in Taiwan in 2021, u...",
+    "canonical_url": "https://apps.shopify.com/jenjan-fulfillment?locale=zh-TW",
+    "h1_tags": [
+      "JENJAN Fulfillment | 真站電商倉儲物流"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "JENJAN Fulfillment | 真站電商倉儲物流",
+    "app_slug": "jenjan-fulfillment",
+    "app_url": "https://apps.shopify.com/jenjan-fulfillment?locale=zh-TW",
+    "developer_name": "增站運籌科技股份有限公司",
+    "description": "使用擴充App讓您的訂單被專業的真站電商倉儲物流處理，我們能夠解決您倉儲空間問題、出貨理貨人員問題、物流配送問題。\n\nJENJAN eCommerce logistics \n\nJENJAN eCommerce logistics, a start-up in Taiwan in 2021, u...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Third-party logistics (3PL)"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\jenjan-fulfillment_20260830T132222Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\jenjan-fulfillment_20260830T132222Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "JENJAN Fulfillment | 真站電商倉儲物流",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "jenjan-fulfillment",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/jenjan-fulfillment?locale=zh-TW",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "增站運籌科技股份有限公司",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "使用擴充App讓您的訂單被專業的真站電商倉儲物流處理，我們能夠解決您倉儲空間問題、出貨理貨人員問題、物流配送問題。\n\nJENJAN eCommerce logistics \n\nJENJAN eCommerce logistics, a start-up in Taiwan in 2021, u...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Third-party logistics (3PL)",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

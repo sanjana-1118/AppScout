@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\automatic-related-products-1_20260830T164145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\automatic-related-products-1_20260830T164145Z.html
+Requested URL    : https://apps.shopify.com/automatic-related-products-1
+Final URL        : https://apps.shopify.com/automatic-related-products-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,147 bytes / 173,058 chars
+Elapsed          : 0.888s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Milople Product Recommendation - Show relevant products automatically to increase customer enga | Shopify App Store
+meta description : The Product Recommendations App helps merchants automatically display relevant and complementary products across key pages. Using flexible rule-bas...
+canonical URL    : https://apps.shopify.com/automatic-related-products-1
+<h1> tags ( 1)  : 'Milople Product Recommendation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

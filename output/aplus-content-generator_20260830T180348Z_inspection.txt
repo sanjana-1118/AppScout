@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aplus-content-generator_20260830T180348Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aplus-content-generator_20260830T180348Z.html
+Requested URL    : https://apps.shopify.com/aplus-content-generator
+Final URL        : https://apps.shopify.com/aplus-content-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,555 bytes / 189,458 chars
+Elapsed          : 0.823s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ListingForge - Turn any product into Amazon A+ Content in seconds. | Shopify App Store
+meta description : Generate Amazon A+ Content directly from your Shopify products. Select a product, click generate, and get a complete set of A+ Content modules — headlines, feat
+canonical URL    : https://apps.shopify.com/aplus-content-generator
+<h1> tags ( 1)  : 'ListingForge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

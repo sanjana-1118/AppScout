@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sparkiq-connect_20260830T172257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sparkiq-connect_20260830T172257Z.html
+Requested URL    : https://apps.shopify.com/sparkiq-connect
+Final URL        : https://apps.shopify.com/sparkiq-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,089 bytes / 209,000 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SparkIQ - Creative Control for your catalog ads | Shopify App Store
+meta description : Spark IQ helps merchants customize product images used in Meta catalog ads. It lets teams add branded overlays, promotional elements, and design va...
+canonical URL    : https://apps.shopify.com/sparkiq-connect
+<h1> tags ( 1)  : 'SparkIQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

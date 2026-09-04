@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tagmatiks-connect_20260830T151631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tagmatiks-connect_20260830T151631Z.html
+Requested URL    : https://apps.shopify.com/tagmatiks-connect
+Final URL        : https://apps.shopify.com/tagmatiks-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,159 bytes / 199,066 chars
+Elapsed          : 0.674s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TagMatiks RFID Connect 3.0 - Sync RFID-scanned physical inventory with your online store. | Shopify App Store
+meta description : Automate your retail inventory with TagMatiks RFID Connect. Perform rapid cycle counts, sync stock in real time, and eliminate manual entry errors.
+canonical URL    : https://apps.shopify.com/tagmatiks-connect
+<h1> tags ( 1)  : 'TagMatiks RFID Connect 3.0'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

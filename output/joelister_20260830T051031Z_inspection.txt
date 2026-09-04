@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\joelister_20260830T051031Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\joelister_20260830T051031Z.html
+Requested URL    : https://apps.shopify.com/joelister
+Final URL        : https://apps.shopify.com/joelister
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,203 bytes / 173,074 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JoeLister - Sell and fulfill your Amazon inventory on multiple channels | Shopify App Store
+meta description : JoeLister syncs your inventories across multiple e-commerce platforms including Shopify. Leverage the power of Amazon’s logistics networks and sell...
+canonical URL    : https://apps.shopify.com/joelister
+<h1> tags ( 1)  : 'JoeLister'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

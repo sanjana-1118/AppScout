@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\task-run_20260830T135242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\task-run_20260830T135242Z.html
+Requested URL    : https://apps.shopify.com/task-run
+Final URL        : https://apps.shopify.com/task-run
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,149 bytes / 170,170 chars
+Elapsed          : 0.967s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taskrun - Easy & effortless! Schedule and automate recurring tasks. | Shopify App Store
+meta description : 決まった日時や繰り返し行う業務の自動化を実現することはもちろん、イベントのタイミングでテーマ変更や価格変更を行うことで手動で対応していた業務効率を改善できます。
+また、購入金額が一定以上の会員に対しタグ設定を行い、各種アプリの起動トリガーにするなど様々な用途でご利用いただけます。
+canonical URL    : https://apps.shopify.com/task-run
+<h1> tags ( 1)  : 'Taskrun'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

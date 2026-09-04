@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\panda-pim_20260830T144524Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\panda-pim_20260830T144524Z.html
+Requested URL    : https://apps.shopify.com/panda-pim
+Final URL        : https://apps.shopify.com/panda-pim
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,422 bytes / 185,309 chars
+Elapsed          : 0.593s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PandaPim: Stock & Ordermanager - Advanced tools for managing orders and inventory across shops | Shopify App Store
+meta description : Streamline order processing and inventory control across multiple shops with PandaPim's advanced tools. Improve accuracy and efficiency today.
+canonical URL    : https://apps.shopify.com/panda-pim
+<h1> tags ( 1)  : 'PandaPim: Stock & Ordermanager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

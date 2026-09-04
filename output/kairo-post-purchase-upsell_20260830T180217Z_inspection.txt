@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kairo-post-purchase-upsell_20260830T180217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kairo-post-purchase-upsell_20260830T180217Z.html
+Requested URL    : https://apps.shopify.com/kairo-post-purchase-upsell
+Final URL        : https://apps.shopify.com/kairo-post-purchase-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,581 bytes / 204,474 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kairo ‑ Post Purchase Upsell - Increase revenue with post-purchase upsells & checkout offers | Shopify App Store
+meta description : Create post-purchase upsell offers, customize thank you & order status pages, run A/B tests, and build upsell flows. 14-day free trial. No code required.
+canonical URL    : https://apps.shopify.com/kairo-post-purchase-upsell
+<h1> tags ( 1)  : 'Kairo ‑ Post Purchase Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

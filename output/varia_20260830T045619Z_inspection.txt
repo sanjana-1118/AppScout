@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\varia_20260830T045619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\varia_20260830T045619Z.html
+Requested URL    : https://apps.shopify.com/varia
+Final URL        : https://apps.shopify.com/varia
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,200 bytes / 188,111 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Varia: Options & Customization - Advanced customization and control. | Shopify App Store
+meta description : Varia helps Shopify merchants create fully customizable products with unlimited options, conditional logic, pricing adjustments, image swatches, an...
+canonical URL    : https://apps.shopify.com/varia
+<h1> tags ( 1)  : 'Varia: Options & Customization'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

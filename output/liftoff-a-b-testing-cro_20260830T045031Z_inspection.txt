@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\liftoff-a-b-testing-cro_20260830T045031Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\liftoff-a-b-testing-cro_20260830T045031Z.html
+Requested URL    : https://apps.shopify.com/liftoff-a-b-testing-cro
+Final URL        : https://apps.shopify.com/liftoff-a-b-testing-cro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,248 bytes / 192,137 chars
+Elapsed          : 0.749s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Liftoff ‑ A/B Test & CRO - Test prices, content, and layouts to improve your conversions | Shopify App Store
+meta description : Run A/B tests on prices, content and checkout. Split traffic, track conversions, and let Liftoff pick the winning variant to grow sales
+canonical URL    : https://apps.shopify.com/liftoff-a-b-testing-cro
+<h1> tags ( 1)  : 'Liftoff ‑ A/B Test & CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

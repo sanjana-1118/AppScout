@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\2liquid_20260830T145034Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\2liquid_20260830T145034Z.html
+Requested URL    : https://apps.shopify.com/2liquid
+Final URL        : https://apps.shopify.com/2liquid
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,115 bytes / 171,012 chars
+Elapsed          : 0.588s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 2Liquid - Copy & Paste Webflow Sections into your Storefront Theme | Shopify App Store
+meta description : Easily copy and paste Webflow sections into Shopify themes. No Webflow plan needed—just design, copy, and transform your store effortlessly.
+canonical URL    : https://apps.shopify.com/2liquid
+<h1> tags ( 1)  : '2Liquid'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

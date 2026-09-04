@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\n1-warehouses_20260830T145108Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\n1-warehouses_20260830T145108Z.html
+Requested URL    : https://apps.shopify.com/n1-warehouses
+Final URL        : https://apps.shopify.com/n1-warehouses
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,571 bytes / 156,473 chars
+Elapsed          : 0.522s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : N1 warehouses - The ecosystem of services for your online sales | Shopify App Store
+meta description : N1warehouse app is the key to unlock the efulfillment potential of N1warehouse logistic services. This gateway lets your eCommerce communicate seam...
+canonical URL    : https://apps.shopify.com/n1-warehouses?locale=it
+<h1> tags ( 1)  : 'N1 warehouses'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

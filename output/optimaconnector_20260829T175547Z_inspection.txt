@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optimaconnector_20260829T175547Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optimaconnector_20260829T175547Z.html
+Requested URL    : https://apps.shopify.com/optimaconnector
+Final URL        : https://apps.shopify.com/optimaconnector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,114 bytes / 219,023 chars
+Elapsed          : 0.621s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Optima Tiktok Shop Connector - Real-Time TikTok Shop Sync for Listings, Orders & Cancellation | Shopify App Store
+meta description : Easily connect and manage multiple TikTok Shops with your Shopify store. Sync products, inventory, and orders across platforms in real time for Shopify Store.
+canonical URL    : https://apps.shopify.com/optimaconnector
+<h1> tags ( 1)  : 'Optima Tiktok Shop Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

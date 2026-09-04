@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orichi-upsell_20260830T151250Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orichi-upsell_20260830T151250Z.html
+Requested URL    : https://apps.shopify.com/orichi-upsell
+Final URL        : https://apps.shopify.com/orichi-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,194 bytes / 165,101 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Orichi Upsell & Cross Sell - Personalized post purchase upsell to maximize your AOV | Shopify App Store
+meta description : Flawlessly integrated, Orichi Post Purchase Upsell allows customers to catch irresistible offers immediately after purchase, no re-entry of payment...
+canonical URL    : https://apps.shopify.com/orichi-upsell
+<h1> tags ( 1)  : 'Orichi Upsell & Cross Sell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-image-uploader_20260830T161752Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-image-uploader_20260830T161752Z.html
+Requested URL    : https://apps.shopify.com/product-image-uploader
+Final URL        : https://apps.shopify.com/product-image-uploader
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,586 bytes / 172,493 chars
+Elapsed          : 0.927s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bulk Image Upload & Alt Text - Streamline image uploads with alt text | Shopify App Store
+meta description : Streamline product image uploads with drag-and-drop, bulk alt text editing, and variant SKU automation. Save time with efficient image managemen.
+canonical URL    : https://apps.shopify.com/product-image-uploader
+<h1> tags ( 1)  : 'Bulk Image Upload & Alt Text'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

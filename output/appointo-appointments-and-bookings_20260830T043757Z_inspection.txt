@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appointo-appointments-and-bookings_20260830T043757Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appointo-appointments-and-bookings_20260830T043757Z.html
+Requested URL    : https://apps.shopify.com/appointo-appointments-and-bookings
+Final URL        : https://apps.shopify.com/appointo-appointments-and-bookings
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 276,720 bytes / 276,629 chars
+Elapsed          : 0.917s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Appointment Booking App ointo - Booking app to take appointments and bookings on your calendar | Shopify App Store
+meta description : Appointment Booking app lets you take bookings and appointments directly from your Shopify website. Connect your calendar and setup your services in 2 minutes.
+canonical URL    : https://apps.shopify.com/appointo-appointments-and-bookings
+<h1> tags ( 1)  : 'Appointment Booking App ointo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

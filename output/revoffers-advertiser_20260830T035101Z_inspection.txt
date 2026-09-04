@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revoffers-advertiser_20260830T035101Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revoffers-advertiser_20260830T035101Z.html
+Requested URL    : https://apps.shopify.com/revoffers-advertiser
+Final URL        : https://apps.shopify.com/revoffers-advertiser
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,064 bytes / 174,967 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Katalys Advertiser - Activate Performance Affiliates on our Vetted Network | Shopify App Store
+meta description : Easily enhance your affiliate marketing efforts with the Katalys plugin for Shopify. This tool helps you connect with top-tier partners, create and...
+canonical URL    : https://apps.shopify.com/revoffers-advertiser
+<h1> tags ( 1)  : 'Katalys Advertiser'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

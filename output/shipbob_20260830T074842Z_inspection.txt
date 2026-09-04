@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipbob_20260830T074842Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipbob_20260830T074842Z.html
+Requested URL    : https://apps.shopify.com/shipbob
+Final URL        : https://apps.shopify.com/shipbob
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,207 bytes / 214,114 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipBob Fulfillment - Fulfill your everything orders with a global, customized 3PL. | Shopify App Store
+meta description : ShipBob is a leading global fulfillment and supply chain platform, offering outsourced fulfillment and a WMS for brands with their own warehouse.
+canonical URL    : https://apps.shopify.com/shipbob
+<h1> tags ( 1)  : 'ShipBob Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

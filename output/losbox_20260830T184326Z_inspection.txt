@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\losbox_20260830T184326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\losbox_20260830T184326Z.html
+Requested URL    : https://apps.shopify.com/losbox
+Final URL        : https://apps.shopify.com/losbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,065 bytes / 185,924 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Losbox - Rechtssichere Verlosungen & Gewinnspiele für deinen Shop | Shopify App Store
+meta description : Rechtssichere Verlosungen für deinen Shop: Käufe werden zu Losen, mit kostenlosem Teilnahmeweg, fairer Live-Ziehung und Spenden-Modus. Mehrere Preisstufen.
+canonical URL    : https://apps.shopify.com/losbox?locale=de
+<h1> tags ( 1)  : 'Losbox'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

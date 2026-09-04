@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\artelo_20260830T141819Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\artelo_20260830T141819Z.html
+Requested URL    : https://apps.shopify.com/artelo
+Final URL        : https://apps.shopify.com/artelo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,894 bytes / 202,805 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Artelo: Print on Demand Art - Premium POD for wall art, posters, framing & fine art... | Shopify App Store
+meta description : Artelo offers a print on demand service for artists. Easily create new listings and enhance your e-commerce catalog with our customizable wall art options.
+canonical URL    : https://apps.shopify.com/artelo
+<h1> tags ( 1)  : 'Artelo: Print on Demand Art'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

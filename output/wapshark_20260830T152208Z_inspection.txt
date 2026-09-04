@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wapshark_20260830T152208Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wapshark_20260830T152208Z.html
+Requested URL    : https://apps.shopify.com/wapshark
+Final URL        : https://apps.shopify.com/wapshark
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,278 bytes / 183,173 chars
+Elapsed          : 0.939s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wapshark ‑ Whatsapp Marketing - Seamless Whatsapp Business Integration | Shopify App Store
+meta description : Wapshark seamlessly connects your Shopify store to WhatsApp Business, enabling real-time customer support and automated order updates directly through the world
+canonical URL    : https://apps.shopify.com/wapshark
+<h1> tags ( 1)  : 'Wapshark ‑ Whatsapp Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zero-1_20260830T050821Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zero-1_20260830T050821Z.html
+Requested URL    : https://apps.shopify.com/zero-1
+Final URL        : https://apps.shopify.com/zero-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,930 bytes / 155,121 chars
+Elapsed          : 0.662s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : クラウドWMS『ロジザードZERO』自動/API連携アプリ - クラウドWMS『ロジザードZERO』の自動連携アプリです。連携対象は、商品マスタ・受注・出荷実績・在庫情報です。 | Shopify App Store
+meta description : 【自動連携内容】①商品情報 ：Shopifyの商品情報を、ロジザードZERO-LINKを経由し、ロジザードZEROへ商品マスタとして連携できます。②注文情報（出荷予定）：Shopifyの注文情報を、ロジザードZERO-LINKを経由し、ロジザードZEROへ出荷予定データとして連携できます。③出...
+canonical URL    : https://apps.shopify.com/zero-1?locale=ja
+<h1> tags ( 1)  : 'クラウドWMS『ロジザードZERO』自動/API連携アプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

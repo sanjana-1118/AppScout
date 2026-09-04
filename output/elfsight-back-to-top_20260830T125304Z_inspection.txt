@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elfsight-back-to-top_20260830T125304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elfsight-back-to-top_20260830T125304Z.html
+Requested URL    : https://apps.shopify.com/elfsight-back-to-top
+Final URL        : https://apps.shopify.com/elfsight-back-to-top
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,737 bytes / 178,648 chars
+Elapsed          : 1.125s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elfsight Scroll to Top Button - Floating back to top button - scroll to top in... | Shopify App Store
+meta description : Back to Top button Shopify is a simple plugin that allows users immediately and seamlessly come back to the top of your website after scrolling lon...
+canonical URL    : https://apps.shopify.com/elfsight-back-to-top
+<h1> tags ( 1)  : 'Elfsight Scroll to Top Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

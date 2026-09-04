@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-quantity-rules_20260830T194015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-quantity-rules_20260830T194015Z.html
+Requested URL    : https://apps.shopify.com/wholesale-quantity-rules
+Final URL        : https://apps.shopify.com/wholesale-quantity-rules
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,684 bytes / 210,589 chars
+Elapsed          : 0.827s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Buddy Volume Discounts & Rules - Tier discounts, volume pricing, & quantity rules to boost AOV | Shopify App Store
+meta description : Offer customer-group tier discounts, volume pricing, bulk discounts, and quantity rules to grow AOV and control minimum or maximum orders.
+canonical URL    : https://apps.shopify.com/wholesale-quantity-rules
+<h1> tags ( 1)  : 'Buddy Volume Discounts & Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/claris",
+  "fetch_timestamp": "2026-08-30T07:36:34.160251+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\claris_20260830T073634Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\claris_20260830T073634Z.html",
+    "url": "https://apps.shopify.com/claris",
+    "final_url": "https://apps.shopify.com/claris",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 170534,
+    "body_text_length": 170427,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.822528,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Claris - Claris – Know your customers, act on what matters | Shopify App Store",
+    "meta_description": "Understand your customers with RFM segmentation, lifetime value tracking, and health scores. Spot at-risk buyers, export segments, and act on what matters most.",
+    "canonical_url": "https://apps.shopify.com/claris",
+    "h1_tags": [
+      "Claris"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Claris",
+    "app_slug": "claris",
+    "app_url": "https://apps.shopify.com/claris",
+    "developer_name": "Mykhailo Monchak",
+    "description": "Understand your customers with RFM segmentation, lifetime value tracking, and health scores. Spot at-risk buyers, export segments, and act on what matters most.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Analytics"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\claris_20260830T073634Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\claris_20260830T073634Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Claris",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "claris",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/claris",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Mykhailo Monchak",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Understand your customers with RFM segmentation, lifetime value tracking, and health scores. Spot at-risk buyers, export segments, and act on what matters most.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Analytics",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

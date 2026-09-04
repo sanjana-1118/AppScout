@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nash_20260830T063743Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nash_20260830T063743Z.html
+Requested URL    : https://apps.shopify.com/nash
+Final URL        : https://apps.shopify.com/nash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,938 bytes / 222,783 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nash: All‑in‑One Fulfillment - Simplify fulfillment by connecting with Uber, UPS, and others. | Shopify App Store
+meta description : Streamline checkout with automated in-store pickup, local delivery, and shipping. Connect to top couriers like Uber, Roadie and UPS. Manage it all in one place.
+canonical URL    : https://apps.shopify.com/nash
+<h1> tags ( 1)  : 'Nash: All‑in‑One Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

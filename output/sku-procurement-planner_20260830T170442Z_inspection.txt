@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sku-procurement-planner_20260830T170442Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sku-procurement-planner_20260830T170442Z.html
+Requested URL    : https://apps.shopify.com/sku-procurement-planner
+Final URL        : https://apps.shopify.com/sku-procurement-planner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,769 bytes / 172,632 chars
+Elapsed          : 0.807s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SKU Procurement Planner - Turn orders into clear procurement plans | Shopify App Store
+meta description : Managing procurement from a spreadsheet? Select your pending Shopify orders and the app shows you exactly what to buy and how much, all in one list...
+canonical URL    : https://apps.shopify.com/sku-procurement-planner
+<h1> tags ( 1)  : 'SKU Procurement Planner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

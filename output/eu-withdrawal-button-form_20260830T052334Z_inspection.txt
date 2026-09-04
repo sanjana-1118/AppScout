@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-button-form_20260830T052334Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-button-form_20260830T052334Z.html
+Requested URL    : https://apps.shopify.com/eu-withdrawal-button-form
+Final URL        : https://apps.shopify.com/eu-withdrawal-button-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,895 bytes / 220,779 chars
+Elapsed          : 0.691s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EU Withdrawal Button Free - EU withdrawal button and form compliant by 19 June 2026 | Shopify App Store
+meta description : Add the legally required EU withdrawal button and form (Directive 2023/2673, § 356a BGB). No-login form, confirmation emails, admin dashboard. EN & DE.
+canonical URL    : https://apps.shopify.com/eu-withdrawal-button-form
+<h1> tags ( 1)  : 'EU Withdrawal Button Free'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\options_20260830T042914Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\options_20260830T042914Z.html
+Requested URL    : https://apps.shopify.com/options
+Final URL        : https://apps.shopify.com/options
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,378 bytes / 172,263 chars
+Elapsed          : 0.589s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TT‑Options - Easily add customizable options to products | Shopify App Store
+meta description : The Product Custom Options app lets Shopify merchants create custom input fields for product personalization. Our interface supports text and numbe...
+canonical URL    : https://apps.shopify.com/options
+<h1> tags ( 1)  : 'TT‑Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

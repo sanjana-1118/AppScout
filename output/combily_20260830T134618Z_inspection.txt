@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\combily_20260830T134618Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\combily_20260830T134618Z.html
+Requested URL    : https://apps.shopify.com/combily
+Final URL        : https://apps.shopify.com/combily
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,011 bytes / 163,922 chars
+Elapsed          : 1.122s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Combily: Combo Items (POS) - Tap once to add multiple items to orders. | Shopify App Store
+meta description : With this app, you can create combo items. These items can contain several products from your inventory. When you tap on such a combo, our app adds...
+canonical URL    : https://apps.shopify.com/combily
+<h1> tags ( 1)  : 'Combily: Combo Items (POS)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

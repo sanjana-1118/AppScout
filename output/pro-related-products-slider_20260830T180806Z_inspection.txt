@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pro-related-products-slider_20260830T180806Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pro-related-products-slider_20260830T180806Z.html
+Requested URL    : https://apps.shopify.com/pro-related-products-slider
+Final URL        : https://apps.shopify.com/pro-related-products-slider
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,377 bytes / 161,272 chars
+Elapsed          : 0.739s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pro ‑ Related Products - Related product sliders with smart recommendations and layouts | Shopify App Store
+meta description : Show related product sliders with smart recommendations, multiple layouts, swatches, and full customization to improve product discovery.
+canonical URL    : https://apps.shopify.com/pro-related-products-slider
+<h1> tags ( 1)  : 'Pro ‑ Related Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fasteditor_20260830T154041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fasteditor_20260830T154041Z.html
+Requested URL    : https://apps.shopify.com/fasteditor
+Final URL        : https://apps.shopify.com/fasteditor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,736 bytes / 186,615 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FastEditor ‑ Photo/Logo Editor - Improve conversion with design editor for Promo, Merch and POD | Shopify App Store
+meta description : FastEditor is the all-in-one design and editing tool for promo, merch, photo, and POD— boost conversions with smart editing and production-ready files.
+canonical URL    : https://apps.shopify.com/fasteditor
+<h1> tags ( 1)  : 'FastEditor ‑ Photo/Logo Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

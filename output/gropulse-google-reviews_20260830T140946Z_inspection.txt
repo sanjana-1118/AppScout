@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gropulse-google-reviews_20260830T140946Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gropulse-google-reviews_20260830T140946Z.html
+Requested URL    : https://apps.shopify.com/gropulse-google-reviews
+Final URL        : https://apps.shopify.com/gropulse-google-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,103 bytes / 207,012 chars
+Elapsed          : 0.846s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GroPulse Google Reviews - Boost Sales with Authentic Customer Feedback from Google Map | Shopify App Store
+meta description : GroPulse Google Reviews seamlessly integrates authentic Google reviews into your store. Easily import and display customer feedback, enhancing your...
+canonical URL    : https://apps.shopify.com/gropulse-google-reviews
+<h1> tags ( 1)  : 'GroPulse Google Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

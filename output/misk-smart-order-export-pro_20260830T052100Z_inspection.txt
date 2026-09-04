@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\misk-smart-order-export-pro_20260830T052100Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\misk-smart-order-export-pro_20260830T052100Z.html
+Requested URL    : https://apps.shopify.com/misk-smart-order-export-pro
+Final URL        : https://apps.shopify.com/misk-smart-order-export-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,793 bytes / 196,704 chars
+Elapsed          : 0.774s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Misk Smart Order Export Pro - Smart CSV &Excel order export custom-fields via email & Sheets | Shopify App Store
+meta description : Easily export Shopify orders with customizable fields, filters, and templates. Generate detailed reports for better insights and sales analytics.
+canonical URL    : https://apps.shopify.com/misk-smart-order-export-pro
+<h1> tags ( 1)  : 'Misk Smart Order Export Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

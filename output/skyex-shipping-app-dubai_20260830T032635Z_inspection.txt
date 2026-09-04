@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skyex-shipping-app-dubai_20260830T032635Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skyex-shipping-app-dubai_20260830T032635Z.html
+Requested URL    : https://apps.shopify.com/skyex-shipping-app-dubai
+Final URL        : https://apps.shopify.com/skyex-shipping-app-dubai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,811 bytes / 176,722 chars
+Elapsed          : 0.552s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SkyEx Shipping Label App Dubai - Create Shipping Label for your Orders Easily | Shopify App Store
+meta description : Generate your Air Way Bill (AWB) number and Shipping Label from your Shopify Admin Panel itself without going to SkyEx Panel.
+canonical URL    : https://apps.shopify.com/skyex-shipping-app-dubai
+<h1> tags ( 1)  : 'SkyEx Shipping Label App Dubai'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

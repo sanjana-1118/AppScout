@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mageplaza-product-feed_20260829T175816Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mageplaza-product-feed_20260829T175816Z.html
+Requested URL    : https://apps.shopify.com/mageplaza-product-feed
+Final URL        : https://apps.shopify.com/mageplaza-product-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,499 bytes / 218,400 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MP Google Shopping Feed - Create, sync & optimize Google Shopping product feeds | Shopify App Store
+meta description : Generate and auto-sync Google Shopping product feeds with ease. Connect Google Merchant Center, customize feed data, fix approval issues, and optimize products
+canonical URL    : https://apps.shopify.com/mageplaza-product-feed
+<h1> tags ( 1)  : 'MP Google Shopping Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-info-table_20260830T055053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-info-table_20260830T055053Z.html
+Requested URL    : https://apps.shopify.com/product-info-table
+Final URL        : https://apps.shopify.com/product-info-table
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 238,820 bytes / 238,731 chars
+Elapsed          : 0.682s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TableFlow Specification Table - Add product specification table with comparison from metafield | Shopify App Store
+meta description : Apply specification table to your product page with data from metafields and product attributes. Show table by product tag, vendor and type.
+canonical URL    : https://apps.shopify.com/product-info-table
+<h1> tags ( 1)  : 'TableFlow Specification Table'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

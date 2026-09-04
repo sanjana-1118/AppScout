@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-9_20260829T184402Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-9_20260829T184402Z.html
+Requested URL    : https://apps.shopify.com/google-reviews-9
+Final URL        : https://apps.shopify.com/google-reviews-9
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,229 bytes / 179,132 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Google Reviews by Nexprix - Show real Google reviews + AI summary in any language | Shopify App Store
+meta description : Show real Google Business reviews on your Shopify storefront with an AI summary in your store's language. Auto-sync, multi-locale. Free 15-day trial.
+canonical URL    : https://apps.shopify.com/google-reviews-9
+<h1> tags ( 1)  : 'Google Reviews by Nexprix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

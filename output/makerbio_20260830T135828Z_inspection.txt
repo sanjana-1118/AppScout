@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\makerbio_20260830T135828Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\makerbio_20260830T135828Z.html
+Requested URL    : https://apps.shopify.com/makerbio
+Final URL        : https://apps.shopify.com/makerbio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,774 bytes / 167,681 chars
+Elapsed          : 0.898s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Maker Bio - Sell more with the most shoppable link in bio for... | Shopify App Store
+meta description : mkr.bio: link-in-bio tool to unite your Shopify store and social content into a highly engaging and shoppable experience. Increase sales and boost engagement.
+canonical URL    : https://apps.shopify.com/makerbio
+<h1> tags ( 1)  : 'Maker Bio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

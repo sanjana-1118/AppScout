@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tm-landbar-page-banner-builder_20260830T182429Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tm-landbar-page-banner-builder_20260830T182429Z.html
+Requested URL    : https://apps.shopify.com/tm-landbar-page-banner-builder
+Final URL        : https://apps.shopify.com/tm-landbar-page-banner-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,935 bytes / 170,816 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TM LandBar ‑ Pages & Banners - Landing pages, banners & countdown timers for sales - no... | Shopify App Store
+meta description : TM LandBar helps you build Shopify landing pages, announcement bars, promotional sections, and countdown timers without code. Use ready-made templa...
+canonical URL    : https://apps.shopify.com/tm-landbar-page-banner-builder
+<h1> tags ( 1)  : 'TM LandBar ‑ Pages & Banners'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

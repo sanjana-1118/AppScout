@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flyeralarm-app_20260830T153333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flyeralarm-app_20260830T153333Z.html
+Requested URL    : https://apps.shopify.com/flyeralarm-app
+Final URL        : https://apps.shopify.com/flyeralarm-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,460 bytes / 182,319 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DP Digital Reseller Connector  - Verkaufen Sie Print-on-Demand-Produkte einfach und schnell | Shopify App Store
+meta description : Print-on-Demand für Shopify leicht gemacht: Produkte auswählen und direkt im Store veröffentlichen. Automatische Abwicklung ohne Lagerkosten!
+canonical URL    : https://apps.shopify.com/flyeralarm-app?locale=de
+<h1> tags ( 1)  : 'DP Digital Reseller Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

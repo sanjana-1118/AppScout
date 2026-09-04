@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-notification-by-silicon_20260830T132248Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-notification-by-silicon_20260830T132248Z.html
+Requested URL    : https://apps.shopify.com/sms-notification-by-silicon
+Final URL        : https://apps.shopify.com/sms-notification-by-silicon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,333 bytes / 174,244 chars
+Elapsed          : 0.866s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Silicon SMS Notification - Automated order,shipping & marketing SMS for better experience | Shopify App Store
+meta description : Silicon SMS Notification notify your customers about Order placed, Order fulfilled, Order cancelled, Order refund.Recover abandoned cart with remin...
+canonical URL    : https://apps.shopify.com/sms-notification-by-silicon
+<h1> tags ( 1)  : 'Silicon SMS Notification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

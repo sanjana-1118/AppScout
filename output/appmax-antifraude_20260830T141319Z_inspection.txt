@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appmax-antifraude_20260830T141319Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appmax-antifraude_20260830T141319Z.html
+Requested URL    : https://apps.shopify.com/appmax-antifraude
+Final URL        : https://apps.shopify.com/appmax-antifraude
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,399 bytes / 205,163 chars
+Elapsed          : 0.557s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Appmax Antifraude - Tecnologia de pagamentos que combina performance e segurança. | Shopify App Store
+meta description : Combinando segurança e performance, a Appmax utiliza antifraude com inteligência artificial e análises avançadas de risco em tempo real. Assim, as ...
+canonical URL    : https://apps.shopify.com/appmax-antifraude?locale=pt-BR
+<h1> tags ( 1)  : 'Appmax Antifraude'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

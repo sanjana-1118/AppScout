@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qikify-bundles-quantity-break_20260830T155222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qikify-bundles-quantity-break_20260830T155222Z.html
+Requested URL    : https://apps.shopify.com/qikify-bundles-quantity-break
+Final URL        : https://apps.shopify.com/qikify-bundles-quantity-break
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 249,365 bytes / 249,268 chars
+Elapsed          : 0.865s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qikify Volume Discounts Bundle - AI-generated volume discounts, quantity breaks to increase AOV | Shopify App Store
+meta description : Encourage larger purchases with AI-powered volume discounts, quantity breaks with Qikify Volume Discounts
+canonical URL    : https://apps.shopify.com/qikify-bundles-quantity-break
+<h1> tags ( 1)  : 'Qikify Volume Discounts Bundle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

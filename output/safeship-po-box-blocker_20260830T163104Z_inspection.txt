@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\safeship-po-box-blocker_20260830T163104Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\safeship-po-box-blocker_20260830T163104Z.html
+Requested URL    : https://apps.shopify.com/safeship-po-box-blocker
+Final URL        : https://apps.shopify.com/safeship-po-box-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,176 bytes / 162,087 chars
+Elapsed          : 0.877s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SafeShip PO Box Blocker - Block PO Box addresses at checkout. No code, works instantly. | Shopify App Store
+meta description : Automatically block PO Box orders at checkout before they ship. Custom error messages, easy setup, no code required. Prevent failed deliveries and save money.
+canonical URL    : https://apps.shopify.com/safeship-po-box-blocker
+<h1> tags ( 1)  : 'SafeShip PO Box Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

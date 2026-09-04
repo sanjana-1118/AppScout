@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parcelify_20260830T074850Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parcelify_20260830T074850Z.html
+Requested URL    : https://apps.shopify.com/parcelify
+Final URL        : https://apps.shopify.com/parcelify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,441 bytes / 215,348 chars
+Elapsed          : 1.033s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Parcelify: Shipping Rates - Shipping rates to save you money and retain customers | Shopify App Store
+meta description : Use Parcelify to build shipping rates, retain customers, increase sales, and protect your margins. Click here to learn more!
+canonical URL    : https://apps.shopify.com/parcelify
+<h1> tags ( 1)  : 'Parcelify: Shipping Rates'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

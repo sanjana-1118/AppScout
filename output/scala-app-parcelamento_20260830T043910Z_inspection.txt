@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scala-app-parcelamento_20260830T043910Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scala-app-parcelamento_20260830T043910Z.html
+Requested URL    : https://apps.shopify.com/scala-app-parcelamento
+Final URL        : https://apps.shopify.com/scala-app-parcelamento
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,781 bytes / 197,687 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scala Parcelamento Installment - Show your payment processor installments and BNPL plans/rates | Shopify App Store
+meta description : Scala parcelamento installment automatically displays your BNPL (Buy now pay later) plans below your store product prices, It also lets you customi...
+canonical URL    : https://apps.shopify.com/scala-app-parcelamento
+<h1> tags ( 1)  : 'Scala Parcelamento Installment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

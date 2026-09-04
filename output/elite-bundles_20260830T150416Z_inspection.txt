@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elite-bundles_20260830T150416Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elite-bundles_20260830T150416Z.html
+Requested URL    : https://apps.shopify.com/elite-bundles
+Final URL        : https://apps.shopify.com/elite-bundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,466 bytes / 189,371 chars
+Elapsed          : 0.946s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EliteBundles Mix & Match - Create and sell mix & match bundles easily and reliably | Shopify App Store
+meta description : EliteBundles Mix & Match lets customers create custom bundles, boosting sales, enhancing shopping experience, and increasing average order value.
+canonical URL    : https://apps.shopify.com/elite-bundles
+<h1> tags ( 1)  : 'EliteBundles Mix & Match'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

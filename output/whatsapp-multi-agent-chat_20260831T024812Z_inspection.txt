@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-multi-agent-chat_20260831T024812Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-multi-agent-chat_20260831T024812Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-multi-agent-chat
+Final URL        : https://apps.shopify.com/whatsapp-multi-agent-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,284 bytes / 180,191 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MK WhatsApp Multi Agent - Multi-agent WhatsApp chat with smart product messages | Shopify App Store
+meta description : Add a WhatsApp chat button with multiple departments and smart product messages including product links and variants.
+canonical URL    : https://apps.shopify.com/whatsapp-multi-agent-chat
+<h1> tags ( 1)  : 'MK WhatsApp Multi Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

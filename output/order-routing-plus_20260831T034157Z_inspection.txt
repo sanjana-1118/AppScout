@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-routing-plus_20260831T034157Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-routing-plus_20260831T034157Z.html
+Requested URL    : https://apps.shopify.com/order-routing-plus
+Final URL        : https://apps.shopify.com/order-routing-plus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,113 bytes / 170,022 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Routing Plus - Automated order routing & split orders to multiple locations | Shopify App Store
+meta description : Do you fulfill orders using multiple warehouses, locations or 3PL partners, but need advanced order routing rules with complete transparency and pr...
+canonical URL    : https://apps.shopify.com/order-routing-plus
+<h1> tags ( 1)  : 'Order Routing Plus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

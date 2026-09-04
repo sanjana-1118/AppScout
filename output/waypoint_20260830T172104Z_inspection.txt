@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\waypoint_20260830T172104Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\waypoint_20260830T172104Z.html
+Requested URL    : https://apps.shopify.com/waypoint
+Final URL        : https://apps.shopify.com/waypoint
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,554 bytes / 181,453 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Waypoint Store Locator - Store finder with live hours, ratings & directions  | Shopify App Store
+meta description : Add a fast, customizable store locator to your Shopify store. Auto-sync Google hours, reviews, photos & directions. Free trial, no code required.
+canonical URL    : https://apps.shopify.com/waypoint
+<h1> tags ( 1)  : 'Waypoint Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

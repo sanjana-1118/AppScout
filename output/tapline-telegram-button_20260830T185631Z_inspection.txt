@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tapline-telegram-button_20260830T185631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tapline-telegram-button_20260830T185631Z.html
+Requested URL    : https://apps.shopify.com/tapline-telegram-button
+Final URL        : https://apps.shopify.com/tapline-telegram-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,240 bytes / 178,146 chars
+Elapsed          : 1.036s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tapline: Telegram Button - Floating Telegram button for orders, questions and quotes | Shopify App Store
+meta description : Tapline adds a floating Telegram button to your store, so shoppers can message you, ask a question, or get a quote in a single tap. Match the butto...
+canonical URL    : https://apps.shopify.com/tapline-telegram-button
+<h1> tags ( 1)  : 'Tapline: Telegram Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

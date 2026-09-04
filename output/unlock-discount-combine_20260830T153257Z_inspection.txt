@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unlock-discount-combine_20260830T153257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unlock-discount-combine_20260830T153257Z.html
+Requested URL    : https://apps.shopify.com/unlock-discount-combine
+Final URL        : https://apps.shopify.com/unlock-discount-combine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,898 bytes / 165,795 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CS: Unlock Discount Combine - Automatically enable discount combinations for your campaigns | Shopify App Store
+meta description : Automatically enable Combinations for discounts created by third-party platforms like Klaviyo, Facebook, Instagram and Loox.
+canonical URL    : https://apps.shopify.com/unlock-discount-combine
+<h1> tags ( 1)  : 'CS: Unlock Discount Combine'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

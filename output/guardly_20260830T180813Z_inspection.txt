@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\guardly_20260830T180813Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\guardly_20260830T180813Z.html
+Requested URL    : https://apps.shopify.com/guardly
+Final URL        : https://apps.shopify.com/guardly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,491 bytes / 177,387 chars
+Elapsed          : 0.897s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Guardly - Detect return fraud & policy abuse with AI | Shopify App Store
+meta description : AI return-abuse detection for Shopify. Score customers on serial returns, item-not-received claims, and refund velocity, then enforce rules to curb abuse.
+canonical URL    : https://apps.shopify.com/guardly
+<h1> tags ( 1)  : 'Guardly'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

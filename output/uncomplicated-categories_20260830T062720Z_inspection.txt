@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uncomplicated-categories_20260830T062720Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uncomplicated-categories_20260830T062720Z.html
+Requested URL    : https://apps.shopify.com/uncomplicated-categories
+Final URL        : https://apps.shopify.com/uncomplicated-categories
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,543 bytes / 221,454 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Categories Uncomplicated - Help customers find products faster with category navigation | Shopify App Store
+meta description : Categories Uncomplicated builds a hierarchical set of categories and sub-categories from your existing Shopify navigation menus. On your collection...
+canonical URL    : https://apps.shopify.com/uncomplicated-categories
+<h1> tags ( 1)  : 'Categories Uncomplicated'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

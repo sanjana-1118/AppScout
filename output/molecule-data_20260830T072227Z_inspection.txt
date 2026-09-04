@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\molecule-data_20260830T072227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\molecule-data_20260830T072227Z.html
+Requested URL    : https://apps.shopify.com/molecule-data
+Final URL        : https://apps.shopify.com/molecule-data
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 243,567 bytes / 243,478 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Molecule Marketing Analytics - Single source of truth reporting for all marketing channels | Shopify App Store
+meta description : Connect your Shopify store and monitor key sales influencers. Utilize a unified source for in-depth ad-level and country-level ROAS tracking. Steer your growth.
+canonical URL    : https://apps.shopify.com/molecule-data
+<h1> tags ( 1)  : 'Molecule Marketing Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

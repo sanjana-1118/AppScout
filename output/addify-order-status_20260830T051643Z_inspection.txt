@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\addify-order-status_20260830T051643Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\addify-order-status_20260830T051643Z.html
+Requested URL    : https://apps.shopify.com/addify-order-status
+Final URL        : https://apps.shopify.com/addify-order-status
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,528 bytes / 175,431 chars
+Elapsed          : 0.644s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : COS : Custom Order Status - Create & assign custom statuses to orders for easy tracking.... | Shopify App Store
+meta description : Track and manage orders effortlessly with the Custom Order Status app. Create personalized order statuses, provide real-time updates manually and automatically.
+canonical URL    : https://apps.shopify.com/addify-order-status
+<h1> tags ( 1)  : 'COS : Custom Order Status'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

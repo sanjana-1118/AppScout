@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecom-shipping-rates_20260830T032858Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecom-shipping-rates_20260830T032858Z.html
+Requested URL    : https://apps.shopify.com/ecom-shipping-rates
+Final URL        : https://apps.shopify.com/ecom-shipping-rates
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,950 bytes / 168,861 chars
+Elapsed          : 0.564s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ecom Shipping - Same Day & Next Day Delivery Solutions across Canada | Shopify App Store
+meta description : With strategic locations across Canada, Ecom Logistics Offers end to end coverage across the GTA, Montreal, Vancouver, and Calgary for same day and...
+canonical URL    : https://apps.shopify.com/ecom-shipping-rates
+<h1> tags ( 1)  : 'Ecom Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gm-product-variants-in-table_20260830T151513Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gm-product-variants-in-table_20260830T151513Z.html
+Requested URL    : https://apps.shopify.com/gm-product-variants-in-table
+Final URL        : https://apps.shopify.com/gm-product-variants-in-table
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,575 bytes / 157,470 chars
+Elapsed          : 0.764s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GM Product Variants in Table - Show product variants in a table for easy selection | Shopify App Store
+meta description : Our app transforms product variant selection by displaying all options in a structured table format.
+
+Unlike standard dropdowns, it provides a clea...
+canonical URL    : https://apps.shopify.com/gm-product-variants-in-table
+<h1> tags ( 1)  : 'GM Product Variants in Table'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

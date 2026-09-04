@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-reviews-autoketing_20260829T183853Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-reviews-autoketing_20260829T183853Z.html
+Requested URL    : https://apps.shopify.com/product-reviews-autoketing
+Final URL        : https://apps.shopify.com/product-reviews-autoketing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,037 bytes / 220,928 chars
+Elapsed          : 0.784s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Autoketing Product Reviews  - Collect product review, UGC and rating to show social proof.... | Shopify App Store
+meta description : Our app allows shop owners to manage product review app section on their website brilliantly and conveniently.  
+
+Store owners can manage reviews t...
+canonical URL    : https://apps.shopify.com/product-reviews-autoketing
+<h1> tags ( 1)  : 'Autoketing Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

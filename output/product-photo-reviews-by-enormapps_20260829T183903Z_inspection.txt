@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-photo-reviews-by-enormapps_20260829T183903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-photo-reviews-by-enormapps_20260829T183903Z.html
+Requested URL    : https://apps.shopify.com/product-photo-reviews-by-enormapps
+Final URL        : https://apps.shopify.com/product-photo-reviews-by-enormapps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,025 bytes / 216,932 chars
+Elapsed          : 1.152s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Product Reviews with Photo PRO - Collect ratings and product reviews with photos from customers | Shopify App Store
+meta description : Our Reviews app provides a social proof for your products by collecting reviews from customers. Collect product reviews with photos from your custo...
+canonical URL    : https://apps.shopify.com/product-photo-reviews-by-enormapps
+<h1> tags ( 1)  : 'Product Reviews with Photo PRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

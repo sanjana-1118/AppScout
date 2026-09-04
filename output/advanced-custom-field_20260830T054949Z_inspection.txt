@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-custom-field_20260830T054949Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-custom-field_20260830T054949Z.html
+Requested URL    : https://apps.shopify.com/advanced-custom-field
+Final URL        : https://apps.shopify.com/advanced-custom-field
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,225 bytes / 218,136 chars
+Elapsed          : 0.694s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ACF: Metafields Custom Fields - View, create, edit, export & import your custom metafields | Shopify App Store
+meta description : Advanced Custom Fields: allow you to form a structure of any page and save it as a template to create future Shopify metafields for your storefront
+canonical URL    : https://apps.shopify.com/advanced-custom-field
+<h1> tags ( 1)  : 'ACF: Metafields Custom Fields'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

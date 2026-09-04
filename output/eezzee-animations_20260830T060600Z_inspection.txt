@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eezzee-animations_20260830T060600Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eezzee-animations_20260830T060600Z.html
+Requested URL    : https://apps.shopify.com/eezzee-animations
+Final URL        : https://apps.shopify.com/eezzee-animations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,181 bytes / 173,084 chars
+Elapsed          : 0.488s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eeZZee Animations - Easy animated updates to keep your store fresh and engaging | Shopify App Store
+meta description : Eezzee Animations lets you easily add motion and personality to your store. With a simple setup and responsive design, you can create engaging seas...
+canonical URL    : https://apps.shopify.com/eezzee-animations
+<h1> tags ( 1)  : 'eeZZee Animations'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/preview-slider",
+  "fetch_timestamp": "2026-08-30T06:17:00.355483+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\preview-slider_20260830T061700Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\preview-slider_20260830T061700Z.html",
+    "url": "https://apps.shopify.com/preview-slider",
+    "final_url": "https://apps.shopify.com/preview-slider",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 218182,
+    "body_text_length": 218083,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.618361,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "GG Quick View & Hover Image - Add to cart + preview product image slider on collection... | Shopify App Store",
+    "meta_description": "Your customers can swipe through a product hover slider revealing multiple images, open a popup and add to cart. Show the full product media slider...",
+    "canonical_url": "https://apps.shopify.com/preview-slider",
+    "h1_tags": [
+      "GG Quick View & Hover Image"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "GG Quick View & Hover Image",
+    "app_slug": "preview-slider",
+    "app_url": "https://apps.shopify.com/preview-slider",
+    "developer_name": "Gigilabs",
+    "description": "Your customers can swipe through a product hover slider revealing multiple images, open a popup and add to cart. Show the full product media slider...",
+    "average_rating": 4.9,
+    "review_count": 68,
+    "category": "Image gallery"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\preview-slider_20260830T061700Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\preview-slider_20260830T061700Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "GG Quick View & Hover Image",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "preview-slider",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/preview-slider",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Gigilabs",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Your customers can swipe through a product hover slider revealing multiple images, open a popup and add to cart. Show the full product media slider...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.9,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 68,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Image gallery",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-mobile-app-banner_20260830T130128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-mobile-app-banner_20260830T130128Z.html
+Requested URL    : https://apps.shopify.com/smart-mobile-app-banner
+Final URL        : https://apps.shopify.com/smart-mobile-app-banner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,278 bytes / 197,187 chars
+Elapsed          : 1.329s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Mobile App Banner - Promoting mobile apps on the App Store Integrated with Android | Shopify App Store
+meta description : App promotion on the website is made easier with the help of a Smart mobile App Banner. A simple display of the banner on the website with app info...
+canonical URL    : https://apps.shopify.com/smart-mobile-app-banner
+<h1> tags ( 1)  : 'Smart Mobile App Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

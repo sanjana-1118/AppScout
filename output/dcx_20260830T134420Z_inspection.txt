@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dcx_20260830T134420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dcx_20260830T134420Z.html
+Requested URL    : https://apps.shopify.com/dcx
+Final URL        : https://apps.shopify.com/dcx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,382 bytes / 171,603 chars
+Elapsed          : 1.093s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DCX - DCX WMS for in-house use / DCX Fulfillment for 3PL... | Shopify App Store
+meta description : DCX(Digital Commerce Transformation)は、日本通運株式会社が提供する、ShopifyとAPI連携が可能な、Shopifyアプリです。受注、配送、在庫の各場面において、Shopifyとデータ連携したスムーズな処理と情報共有が可能です。商品マスタ、出荷データや在庫も一瞬で連携できます。
+canonical URL    : https://apps.shopify.com/dcx
+<h1> tags ( 1)  : 'DCX'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

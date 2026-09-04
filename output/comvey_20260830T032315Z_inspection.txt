@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\comvey_20260830T032315Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\comvey_20260830T032315Z.html
+Requested URL    : https://apps.shopify.com/comvey
+Final URL        : https://apps.shopify.com/comvey
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,245 bytes / 169,610 chars
+Elapsed          : 0.555s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : comvey ‑ 段ボールじゃないごみゼロ梱包シェアバッグ - ダンボールじゃないごみゼロ梱包「シェアバッグ」 | Shopify App Store
+meta description : シェアバッグとは、使い捨てずに皆でシェアするエコな梱包バッグです。ハサミやカッターを使わずに開封でき、折りたたんでポストに返却します。ゴミ出しの必要もなく、からばりません。商品配送時に発生する梱包ゴミを最小限に抑え、既存の梱包材に比べCO2を大幅に削減でき、EC配送時の脱炭素化を推進することが...
+canonical URL    : https://apps.shopify.com/comvey?locale=ja
+<h1> tags ( 1)  : 'comvey ‑ 段ボールじゃないごみゼロ梱包シェアバッグ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

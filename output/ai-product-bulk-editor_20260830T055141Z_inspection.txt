@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-bulk-editor_20260830T055141Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-bulk-editor_20260830T055141Z.html
+Requested URL    : https://apps.shopify.com/ai-product-bulk-editor
+Final URL        : https://apps.shopify.com/ai-product-bulk-editor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 259,526 bytes / 259,429 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AIBulk: Create & Edit Products - Create and improve products in bulk with AI you control. | Shopify App Store
+meta description : Create Shopify products from URLs, CSVs, PDFs, and photos. Bulk edit content, SEO, collections, translations, and metafields with AI you control.
+canonical URL    : https://apps.shopify.com/ai-product-bulk-editor
+<h1> tags ( 1)  : 'AIBulk: Create & Edit Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

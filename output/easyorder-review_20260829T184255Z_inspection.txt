@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyorder-review_20260829T184255Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyorder-review_20260829T184255Z.html
+Requested URL    : https://apps.shopify.com/easyorder-review
+Final URL        : https://apps.shopify.com/easyorder-review
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,450 bytes / 176,357 chars
+Elapsed          : 1.147s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Order Review - Auto-send review emails and display synced product ratings | Shopify App Store
+meta description : Collect full order reviews including product, shipping, and service feedback. Boost trust with verified customer insights across the entire buying experience.
+canonical URL    : https://apps.shopify.com/easyorder-review
+<h1> tags ( 1)  : 'Easy Order Review'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yahav-integration_20260830T032906Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yahav-integration_20260830T032906Z.html
+Requested URL    : https://apps.shopify.com/yahav-integration
+Final URL        : https://apps.shopify.com/yahav-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,684 bytes / 162,471 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yahav Logistics DeliverIt - Create shipments for Yahav Logistics  shipments in Israel | Shopify App Store
+meta description : Integrate your Shopify website with Yahav Logistics shipments to sync all the orders from your store with your Yahav Logistics account. Work in a s...
+canonical URL    : https://apps.shopify.com/yahav-integration
+<h1> tags ( 1)  : 'Yahav Logistics DeliverIt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

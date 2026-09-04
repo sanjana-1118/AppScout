@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotestead_20260830T041251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotestead_20260830T041251Z.html
+Requested URL    : https://apps.shopify.com/quotestead
+Final URL        : https://apps.shopify.com/quotestead
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,108 bytes / 181,006 chars
+Elapsed          : 0.989s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuoteStead - B2B quotes, approvals, and reordering — all in one workflow | Shopify App Store
+meta description : QuoteStead turns B2B product requests into approved store orders. Quoting, buyer approvals, purchasing controls, quick order, and reorder — all in one app.
+canonical URL    : https://apps.shopify.com/quotestead
+<h1> tags ( 1)  : 'QuoteStead'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

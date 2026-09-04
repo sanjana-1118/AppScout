@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kipify_20260830T071634Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kipify_20260830T071634Z.html
+Requested URL    : https://apps.shopify.com/kipify
+Final URL        : https://apps.shopify.com/kipify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 254,721 bytes / 254,612 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kipify AI KPI Profit Dashboard - Profit-focused KPI dashboard: see ad spend, margin, stock | Shopify App Store
+meta description : Connect Google Ads, Meta Ads, GA4, and Shopify data in one place to track profit KPIs, custom metrics, inventory, and wasted ad spend with AI-powered analysis.
+canonical URL    : https://apps.shopify.com/kipify
+<h1> tags ( 1)  : 'Kipify AI KPI Profit Dashboard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

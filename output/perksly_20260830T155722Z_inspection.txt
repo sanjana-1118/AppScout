@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\perksly_20260830T155722Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\perksly_20260830T155722Z.html
+Requested URL    : https://apps.shopify.com/perksly
+Final URL        : https://apps.shopify.com/perksly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,978 bytes / 202,853 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Perksly ‑ Auto‑Add Free Gifts  - Delight shoppers with auto-added gifts and perk selection | Shopify App Store
+meta description : Automate Buy X Get Y, gifts, and cart upsells with Perksly. Create rules, schedule promos, and boost sales with personalized shopping perks.
+canonical URL    : https://apps.shopify.com/perksly
+<h1> tags ( 1)  : 'Perksly ‑ Auto‑Add Free Gifts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

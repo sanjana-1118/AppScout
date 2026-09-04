@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seekr_20260830T063256Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seekr_20260830T063256Z.html
+Requested URL    : https://apps.shopify.com/seekr
+Final URL        : https://apps.shopify.com/seekr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,908 bytes / 183,819 chars
+Elapsed          : 0.795s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Seekr: AI Search & Filter -  AI search that understands what your customers mean | Shopify App Store
+meta description : Replace your store's native search with AI that understands natural language. Conversational search, smart filters, merchandising rules, and real-time analytics
+canonical URL    : https://apps.shopify.com/seekr
+<h1> tags ( 1)  : 'Seekr: AI Search & Filter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

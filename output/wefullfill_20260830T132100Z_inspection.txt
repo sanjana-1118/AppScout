@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wefullfill_20260830T132100Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wefullfill_20260830T132100Z.html
+Requested URL    : https://apps.shopify.com/wefullfill
+Final URL        : https://apps.shopify.com/wefullfill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,568 bytes / 201,473 chars
+Elapsed          : 0.609s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wefulfil Global - Source, brand and fulfillment globally from China based 3PL | Shopify App Store
+meta description : Wefulfil is a China-based 3PL for DTC brands, offering product sourcing, low-MOQ branding, inventory management, global fulfilment and tracking.
+canonical URL    : https://apps.shopify.com/wefullfill
+<h1> tags ( 1)  : 'Wefulfil Global'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hey-carti_20260831T034607Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hey-carti_20260831T034607Z.html
+Requested URL    : https://apps.shopify.com/hey-carti
+Final URL        : https://apps.shopify.com/hey-carti
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 257,866 bytes / 257,771 chars
+Elapsed          : 0.692s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Carti: AI Shopping Assistant - AI Sales Agent: Recommends Products, Answers Questions 24/7 | Shopify App Store
+meta description : Carti is an AI-powered sales assistant, built just for Shopify. Proactively engage customers, build trust, answer questions, and drive more sales on autopilot.
+canonical URL    : https://apps.shopify.com/hey-carti
+<h1> tags ( 1)  : 'Carti: AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

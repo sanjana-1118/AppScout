@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simplestock_20260830T172145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simplestock_20260830T172145Z.html
+Requested URL    : https://apps.shopify.com/simplestock
+Final URL        : https://apps.shopify.com/simplestock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,924 bytes / 183,793 chars
+Elapsed          : 0.522s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SimpleStock ‑ Low Stock Alert - Know when to reorder + how much. Catch dead stock.... | Shopify App Store
+meta description : Track days of stock remaining for every product. Detect low stock and dead stock automatically. Multi-location support and weekly digest emails.
+canonical URL    : https://apps.shopify.com/simplestock
+<h1> tags ( 1)  : 'SimpleStock ‑ Low Stock Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

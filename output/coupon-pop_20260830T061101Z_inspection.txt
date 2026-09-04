@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coupon-pop_20260830T061101Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coupon-pop_20260830T061101Z.html
+Requested URL    : https://apps.shopify.com/coupon-pop
+Final URL        : https://apps.shopify.com/coupon-pop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,606 bytes / 217,517 chars
+Elapsed          : 0.641s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Email popup, Sale pop up by ST - Build a pop up and collect emails, leads, and offer... | Shopify App Store
+meta description : Grow your Shopify store with custom email popups. Capture subscribers, boost sales, and engage customers with targeted offers.
+canonical URL    : https://apps.shopify.com/coupon-pop
+<h1> tags ( 1)  : 'Email popup, Sale pop up by ST'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

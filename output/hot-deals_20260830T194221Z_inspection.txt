@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hot-deals_20260830T194221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hot-deals_20260830T194221Z.html
+Requested URL    : https://apps.shopify.com/hot-deals
+Final URL        : https://apps.shopify.com/hot-deals
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,883 bytes / 224,786 chars
+Elapsed          : 1.186s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HotDeals: Flash Sale Countdown - Run FOMO scheduled flash sales deals with countdown timer | Shopify App Store
+meta description : Run scheduled flash sales with live countdown timers and automatic checkout discounts—no codes. Show deals in a branded widget & track views, orders & revenue.
+canonical URL    : https://apps.shopify.com/hot-deals
+<h1> tags ( 1)  : 'HotDeals: Flash Sale Countdown'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

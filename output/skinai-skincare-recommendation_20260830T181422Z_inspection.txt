@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skinai-skincare-recommendation_20260830T181422Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skinai-skincare-recommendation_20260830T181422Z.html
+Requested URL    : https://apps.shopify.com/skinai-skincare-recommendation
+Final URL        : https://apps.shopify.com/skinai-skincare-recommendation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,040 bytes / 201,929 chars
+Elapsed          : 1.038s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SkinAI‑Skincare Recommendation - Skincare product recommendations through AI scan & smart quiz  | Shopify App Store
+meta description : AI-powered skincare guidance to Shopify stores. Detect concerns through scans and quizzes, recommend relevant products, improve conversion, and track analytics
+canonical URL    : https://apps.shopify.com/skinai-skincare-recommendation
+<h1> tags ( 1)  : 'SkinAI‑Skincare Recommendation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\accountone_20260830T065804Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\accountone_20260830T065804Z.html
+Requested URL    : https://apps.shopify.com/accountone
+Final URL        : https://apps.shopify.com/accountone
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,597 bytes / 184,479 chars
+Elapsed          : 0.690s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AccountOne ‑ Ecommerce2Datev - Wir verbinden deinen Shop mit deiner Steuerberatung! | Shopify App Store
+meta description : Wir vereinfachen und automatisieren deine Buchhaltung. AccountOne bietet die Plattform um alle Orders und Payments über Shopify zu aggregieren und  ...
+canonical URL    : https://apps.shopify.com/accountone?locale=de
+<h1> tags ( 1)  : 'AccountOne ‑ Ecommerce2Datev'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

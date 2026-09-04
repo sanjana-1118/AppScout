@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\now-live_20260830T135013Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\now-live_20260830T135013Z.html
+Requested URL    : https://apps.shopify.com/now-live
+Final URL        : https://apps.shopify.com/now-live
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,944 bytes / 168,851 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NOW Live - Live shopping | Easy setup | livestream in 10-minutes | Shopify App Store
+meta description : Configure a live shopping page and livestream from your storefront in minutes! NOW Live is easy-to-use, fast to setup and scalable for the Shopify ...
+canonical URL    : https://apps.shopify.com/now-live
+<h1> tags ( 1)  : 'NOW Live'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

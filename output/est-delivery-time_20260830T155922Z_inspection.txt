@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\est-delivery-time_20260830T155922Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\est-delivery-time_20260830T155922Z.html
+Requested URL    : https://apps.shopify.com/est-delivery-time
+Final URL        : https://apps.shopify.com/est-delivery-time
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,980 bytes / 168,891 chars
+Elapsed          : 0.912s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Delivery ETA - Easy pincode delivery estimation for your store | Shopify App Store
+meta description : Show delivery estimated dated based on pincode data to customers on your shopify storefront. Holiday, cut-off time features.
+canonical URL    : https://apps.shopify.com/est-delivery-time
+<h1> tags ( 1)  : 'Delivery ETA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

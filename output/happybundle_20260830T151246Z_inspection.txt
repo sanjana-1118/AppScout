@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\happybundle_20260830T151246Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\happybundle_20260830T151246Z.html
+Requested URL    : https://apps.shopify.com/happybundle
+Final URL        : https://apps.shopify.com/happybundle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,700 bytes / 206,572 chars
+Elapsed          : 1.009s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HappyBundle AI Quantity Breaks - Boost sales with seamless bundle and upsell options. | Shopify App Store
+meta description : Easily create bundles, volume discounts, and product add-ons with Happy Bundle. Encourage your customers to buy more!
+canonical URL    : https://apps.shopify.com/happybundle
+<h1> tags ( 1)  : 'HappyBundle AI Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

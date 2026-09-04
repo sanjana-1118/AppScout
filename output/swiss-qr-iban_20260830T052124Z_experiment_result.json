@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/swiss-qr-iban",
+  "fetch_timestamp": "2026-08-30T05:21:24.611546+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\swiss-qr-iban_20260830T052124Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\swiss-qr-iban_20260830T052124Z.html",
+    "url": "https://apps.shopify.com/swiss-qr-iban",
+    "final_url": "https://apps.shopify.com/swiss-qr-iban",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 192684,
+    "body_text_length": 192572,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.724566,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "fcon QR Biller - Easily add the official Swiss QR payment slip to your... | Shopify App Store",
+    "meta_description": "QR Biller app allows to easily insert the official Swiss QR payment slip to your invoice",
+    "canonical_url": "https://apps.shopify.com/swiss-qr-iban",
+    "h1_tags": [
+      "fcon QR Biller"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "fcon QR Biller",
+    "app_slug": "swiss-qr-iban",
+    "app_url": "https://apps.shopify.com/swiss-qr-iban",
+    "developer_name": "Future Connection",
+    "description": "QR Biller app allows to easily insert the official Swiss QR payment slip to your invoice",
+    "average_rating": 4.6,
+    "review_count": 6,
+    "category": "Invoices and receipts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\swiss-qr-iban_20260830T052124Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\swiss-qr-iban_20260830T052124Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "fcon QR Biller",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "swiss-qr-iban",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/swiss-qr-iban",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Future Connection",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "QR Biller app allows to easily insert the official Swiss QR payment slip to your invoice",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.6,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 6,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Invoices and receipts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

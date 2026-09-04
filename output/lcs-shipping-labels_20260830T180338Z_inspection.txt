@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lcs-shipping-labels_20260830T180338Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lcs-shipping-labels_20260830T180338Z.html
+Requested URL    : https://apps.shopify.com/lcs-shipping-labels
+Final URL        : https://apps.shopify.com/lcs-shipping-labels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,396 bytes / 168,299 chars
+Elapsed          : 0.953s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuickLabels: Bulk Label Print - Generate shipping labels with QR automation, bulk print | Shopify App Store
+meta description : LCS Shipping Labels stands out with QR-based automated data entry, bulk label printing, and courier workflow optimization. The app is designed spec...
+canonical URL    : https://apps.shopify.com/lcs-shipping-labels
+<h1> tags ( 1)  : 'QuickLabels: Bulk Label Print'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

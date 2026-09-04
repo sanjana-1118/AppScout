@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\escapeflow_20260829T184229Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\escapeflow_20260829T184229Z.html
+Requested URL    : https://apps.shopify.com/escapeflow
+Final URL        : https://apps.shopify.com/escapeflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,110 bytes / 177,007 chars
+Elapsed          : 0.936s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EscapeFlow Reviews - Collect and display reviews automatically, with no watermarks. | Shopify App Store
+meta description : EscapeFlow displays photo reviews,sends request emails,and never watermarks your store.Import existing reviews without CSV files. $9.99/month,14-day free trial.
+canonical URL    : https://apps.shopify.com/escapeflow
+<h1> tags ( 1)  : 'EscapeFlow Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

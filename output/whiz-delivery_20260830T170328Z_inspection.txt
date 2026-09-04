@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whiz-delivery_20260830T170328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whiz-delivery_20260830T170328Z.html
+Requested URL    : https://apps.shopify.com/whiz-delivery
+Final URL        : https://apps.shopify.com/whiz-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,369 bytes / 185,276 chars
+Elapsed          : 0.490s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whiz Delivery - Your boxes, our priority | Shopify App Store
+meta description : Whiz Delivery is a modern, full-featured logistics and shipping platform built to simplify e-commerce fulfillment and last-mile delivery for busine...
+canonical URL    : https://apps.shopify.com/whiz-delivery
+<h1> tags ( 1)  : 'Whiz Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

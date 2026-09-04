@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modovisa-analytics_20260830T072453Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modovisa-analytics_20260830T072453Z.html
+Requested URL    : https://apps.shopify.com/modovisa-analytics
+Final URL        : https://apps.shopify.com/modovisa-analytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,331 bytes / 180,242 chars
+Elapsed          : 1.079s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Modovisa Analytics - Track and view visitor journeys in real time on your... | Shopify App Store
+meta description : See who's in a basket now & how much it's worth, every sale as it lands, what walked away, and which ad paid for it & ROAS. 21-day free trial, all features on.
+canonical URL    : https://apps.shopify.com/modovisa-analytics
+<h1> tags ( 1)  : 'Modovisa Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

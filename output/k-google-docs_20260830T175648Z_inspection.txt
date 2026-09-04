@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-google-docs_20260830T175648Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-google-docs_20260830T175648Z.html
+Requested URL    : https://apps.shopify.com/k-google-docs
+Final URL        : https://apps.shopify.com/k-google-docs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,077 bytes / 160,990 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Embed Google Docs Viewer - Publish Google documents embed directly on your storefront. | Shopify App Store
+meta description : Embed Google Docs helps you add Google Docs to your website with a clean, mobile-friendly document viewer. Use it to embed documents, Word files, m...
+canonical URL    : https://apps.shopify.com/k-google-docs
+<h1> tags ( 1)  : 'K: Embed Google Docs Viewer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

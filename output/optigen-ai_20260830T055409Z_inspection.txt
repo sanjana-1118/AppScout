@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optigen-ai_20260830T055409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optigen-ai_20260830T055409Z.html
+Requested URL    : https://apps.shopify.com/optigen-ai
+Final URL        : https://apps.shopify.com/optigen-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,739 bytes / 181,650 chars
+Elapsed          : 0.760s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OptiGen AI - Review AI product copy drafts before updating your store | Shopify App Store
+meta description : Create and review AI-assisted product titles, descriptions, search listing fields, tags, bulk drafts, and translations before applying selected changes.
+canonical URL    : https://apps.shopify.com/optigen-ai
+<h1> tags ( 1)  : 'OptiGen AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

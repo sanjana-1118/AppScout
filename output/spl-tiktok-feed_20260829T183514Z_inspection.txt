@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spl-tiktok-feed_20260829T183514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spl-tiktok-feed_20260829T183514Z.html
+Requested URL    : https://apps.shopify.com/spl-tiktok-feed
+Final URL        : https://apps.shopify.com/spl-tiktok-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,191 bytes / 169,078 chars
+Elapsed          : 0.638s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TikTok Catalog Feed — SPL - Create and sync your TikTok catalog directly from your store | Shopify App Store
+meta description : TikTok Catalog Feed by SPL lets merchants create and manage TikTok Catalogs directly from Shopify. The app syncs product data automatically, ensuri...
+canonical URL    : https://apps.shopify.com/spl-tiktok-feed
+<h1> tags ( 1)  : 'TikTok Catalog Feed — SPL'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

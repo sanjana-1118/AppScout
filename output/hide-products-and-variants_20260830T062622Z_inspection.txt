@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hide-products-and-variants_20260830T062622Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hide-products-and-variants_20260830T062622Z.html
+Requested URL    : https://apps.shopify.com/hide-products-and-variants
+Final URL        : https://apps.shopify.com/hide-products-and-variants
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,300 bytes / 171,211 chars
+Elapsed          : 0.479s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BLNK: Hide Products & Variants - Hide products and variants with advanced visibility controls | Shopify App Store
+meta description : Hide products and variants, hide products from collection pages, Shopify hide product from search, and hide products from specific customers.
+canonical URL    : https://apps.shopify.com/hide-products-and-variants
+<h1> tags ( 1)  : 'BLNK: Hide Products & Variants'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

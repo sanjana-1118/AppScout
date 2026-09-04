@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\copy-ai-2_20260830T141709Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\copy-ai-2_20260830T141709Z.html
+Requested URL    : https://apps.shopify.com/copy-ai-2
+Final URL        : https://apps.shopify.com/copy-ai-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,790 bytes / 198,675 chars
+Elapsed          : 0.833s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Copy products & Import ‑ EA - Import products fast & AI descriptions - Copy products | Shopify App Store
+meta description : Streamline product transfers from platforms like AliExpress. Enhance listings with unique AI-generated content. Ideal for online merchants. Elevate your store.
+canonical URL    : https://apps.shopify.com/copy-ai-2
+<h1> tags ( 1)  : 'Copy products & Import ‑ EA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

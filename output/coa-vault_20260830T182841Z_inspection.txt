@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coa-vault_20260830T182841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coa-vault_20260830T182841Z.html
+Requested URL    : https://apps.shopify.com/coa-vault
+Final URL        : https://apps.shopify.com/coa-vault
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,210 bytes / 167,119 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : COA Vault: Batch Lookup & QR - Show customers the lab certificate behind every batch you sell | Shopify App Store
+meta description : Display certificates of analysis by batch number. QR codes for labels, storefront lookup, anonymous search. Built for supplement, hemp & cosmetics stores.
+canonical URL    : https://apps.shopify.com/coa-vault
+<h1> tags ( 1)  : 'COA Vault: Batch Lookup & QR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

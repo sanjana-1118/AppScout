@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\favicon-tab-animation_20260830T164139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\favicon-tab-animation_20260830T164139Z.html
+Requested URL    : https://apps.shopify.com/favicon-tab-animation
+Final URL        : https://apps.shopify.com/favicon-tab-animation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,071 bytes / 172,975 chars
+Elapsed          : 0.838s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FaviTab: Browser Tab Animation - Recover lost sales with eye-catching browser tab alerts | Shopify App Store
+meta description : Recover abandoned carts by catching shoppers when they switch tabs. FaviTab uses animated browser tab alerts to bring customers back and boost sales.
+canonical URL    : https://apps.shopify.com/favicon-tab-animation
+<h1> tags ( 1)  : 'FaviTab: Browser Tab Animation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

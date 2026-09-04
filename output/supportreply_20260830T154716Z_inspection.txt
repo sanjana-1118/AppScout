@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supportreply_20260830T154716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supportreply_20260830T154716Z.html
+Requested URL    : https://apps.shopify.com/supportreply
+Final URL        : https://apps.shopify.com/supportreply
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,655 bytes / 174,560 chars
+Elapsed          : 0.974s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SupportReply -  Save time with AI replies to DMs about orders and... | Shopify App Store
+meta description : Automatically reply to Instagram DMs for your Shopify store with AI to save time and improve customer experience.
+canonical URL    : https://apps.shopify.com/supportreply
+<h1> tags ( 1)  : 'SupportReply'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

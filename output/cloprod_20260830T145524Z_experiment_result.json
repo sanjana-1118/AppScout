@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/cloprod",
+  "fetch_timestamp": "2026-08-30T14:55:24.772610+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\cloprod_20260830T145524Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\cloprod_20260830T145524Z.html",
+    "url": "https://apps.shopify.com/cloprod",
+    "final_url": "https://apps.shopify.com/cloprod",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 200561,
+    "body_text_length": 200464,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.633692,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Cloprod:Premium Streetwear POD - Premium POD with heavyweight blanks for higher-margin sales | Shopify App Store",
+    "meta_description": "Sell custom streetwear at premium prices. Heavyweight blanks, trending fits, multi-process printing. No minimums. Build your brand with CloProd POD.",
+    "canonical_url": "https://apps.shopify.com/cloprod",
+    "h1_tags": [
+      "Cloprod:Premium Streetwear POD"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Cloprod:Premium Streetwear POD",
+    "app_slug": "cloprod",
+    "app_url": "https://apps.shopify.com/cloprod",
+    "developer_name": "cloprod",
+    "description": "Sell custom streetwear at premium prices. Heavyweight blanks, trending fits, multi-process printing. No minimums. Build your brand with CloProd POD.",
+    "average_rating": 4.5,
+    "review_count": 4,
+    "category": "Print on demand (POD)"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\cloprod_20260830T145524Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\cloprod_20260830T145524Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Cloprod:Premium Streetwear POD",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "cloprod",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/cloprod",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "cloprod",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Sell custom streetwear at premium prices. Heavyweight blanks, trending fits, multi-process printing. No minimums. Build your brand with CloProd POD.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.5,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 4,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Print on demand (POD)",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

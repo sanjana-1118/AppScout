@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wave-notify_20260830T162607Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wave-notify_20260830T162607Z.html
+Requested URL    : https://apps.shopify.com/wave-notify
+Final URL        : https://apps.shopify.com/wave-notify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,628 bytes / 195,523 chars
+Elapsed          : 0.907s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wave Notify - Automatically notify customers when products are back in stock | Shopify App Store
+meta description : Wave Notify automatically notifies customers when products restock. Capture lost sales, create customer accounts, and track analytics. Free plan available.
+canonical URL    : https://apps.shopify.com/wave-notify
+<h1> tags ( 1)  : 'Wave Notify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

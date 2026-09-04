@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trustify-badges-icons_20260830T060555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trustify-badges-icons_20260830T060555Z.html
+Requested URL    : https://apps.shopify.com/trustify-badges-icons
+Final URL        : https://apps.shopify.com/trustify-badges-icons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,966 bytes / 181,867 chars
+Elapsed          : 0.561s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trustify Badges Icons - Build trust using custom badges, icons, labels, and banners | Shopify App Store
+meta description : Enhance your store’s visual appeal and customer trust with customizable badges, banners, and icons. Easy setup, responsive design, and personalized options.
+canonical URL    : https://apps.shopify.com/trustify-badges-icons
+<h1> tags ( 1)  : 'Trustify Badges Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

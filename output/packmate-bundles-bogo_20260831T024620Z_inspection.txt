@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\packmate-bundles-bogo_20260831T024620Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\packmate-bundles-bogo_20260831T024620Z.html
+Requested URL    : https://apps.shopify.com/packmate-bundles-bogo
+Final URL        : https://apps.shopify.com/packmate-bundles-bogo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,502 bytes / 194,383 chars
+Elapsed          : 1.168s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Packmate ‑ Bundles & BOGO - Every bundle type in one simple app to grow order... | Shopify App Store
+meta description : Create product bundles, BOGO, volume discounts, free gifts and build-your-own boxes. Show them on product pages to lift your average order value
+canonical URL    : https://apps.shopify.com/packmate-bundles-bogo
+<h1> tags ( 1)  : 'Packmate ‑ Bundles & BOGO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

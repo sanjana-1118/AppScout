@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elite-ekart-lite_20260829T191521Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elite-ekart-lite_20260829T191521Z.html
+Requested URL    : https://apps.shopify.com/elite-ekart-lite
+Final URL        : https://apps.shopify.com/elite-ekart-lite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,530 bytes / 190,441 chars
+Elapsed          : 0.879s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elite (Ekart Lite) - A reliable supply chain partner, helping businesses   | Shopify App Store
+meta description : Ekart is a tech-driven supply chain partner in India, offering end-to-end solutions focused on efficiency, customer experience, innovation, and sustainability.
+canonical URL    : https://apps.shopify.com/elite-ekart-lite
+<h1> tags ( 1)  : 'Elite (Ekart Lite)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

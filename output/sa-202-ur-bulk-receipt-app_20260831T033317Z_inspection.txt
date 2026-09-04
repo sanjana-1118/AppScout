@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-202-ur-bulk-receipt-app_20260831T033317Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-202-ur-bulk-receipt-app_20260831T033317Z.html
+Requested URL    : https://apps.shopify.com/sa-202-ur-bulk-receipt-app
+Final URL        : https://apps.shopify.com/sa-202-ur-bulk-receipt-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,753 bytes / 178,642 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Bulk Order PDF Printer - Print receipts and invoices from orders and save as PDF... | Shopify App Store
+meta description : Select orders and print receipts, invoices, delivery notes, and quotations in bulk. Save as PDF with your browser and support Japanese qualified invoices.
+canonical URL    : https://apps.shopify.com/sa-202-ur-bulk-receipt-app
+<h1> tags ( 1)  : 'UR: Bulk Order PDF Printer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

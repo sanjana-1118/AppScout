@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-090-ur-page-bgcolor-app_20260830T151358Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-090-ur-page-bgcolor-app_20260830T151358Z.html
+Requested URL    : https://apps.shopify.com/sa-090-ur-page-bgcolor-app
+Final URL        : https://apps.shopify.com/sa-090-ur-page-bgcolor-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,720 bytes / 163,608 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Page Background Color - Customizing background Color on any page without coding. | Shopify App Store
+meta description : Customizing background Color on any page without coding.
+canonical URL    : https://apps.shopify.com/sa-090-ur-page-bgcolor-app
+<h1> tags ( 1)  : 'UR: Page Background Color'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

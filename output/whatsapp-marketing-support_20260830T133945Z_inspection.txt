@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-marketing-support_20260830T133945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-marketing-support_20260830T133945Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-marketing-support
+Final URL        : https://apps.shopify.com/whatsapp-marketing-support
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,978 bytes / 215,799 chars
+Elapsed          : 0.958s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HeloRobo : WhatsApp & LiveChat - Optimize omnichannel sales and customer management | Shopify App Store
+meta description : Increase your revenue by Unified Inbox which boost customer support by automated messages, marketing by WhatsApp Business Api, sales by conversational commerce.
+canonical URL    : https://apps.shopify.com/whatsapp-marketing-support
+<h1> tags ( 1)  : 'HeloRobo : WhatsApp & LiveChat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

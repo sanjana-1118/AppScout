@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/pabloo-store-credit",
+  "fetch_timestamp": "2026-08-30T14:12:34.484597+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\pabloo-store-credit_20260830T141234Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\pabloo-store-credit_20260830T141234Z.html",
+    "url": "https://apps.shopify.com/pabloo-store-credit",
+    "final_url": "https://apps.shopify.com/pabloo-store-credit",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 248458,
+    "body_text_length": 248366,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.615856,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Pabloo Store Credit & Cashback - Credit app for Cashback, Memberships, Reviews, and Refunds | Shopify App Store",
+    "meta_description": "Offer store credit to customers for refunds, customer success, cashback, and referrals. \n\nShoppers can conveniently top up, track, and spend store credit.",
+    "canonical_url": "https://apps.shopify.com/pabloo-store-credit",
+    "h1_tags": [
+      "Pabloo Store Credit & Cashback"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Pabloo Store Credit & Cashback",
+    "app_slug": "pabloo-store-credit",
+    "app_url": "https://apps.shopify.com/pabloo-store-credit",
+    "developer_name": "Pabloo",
+    "description": "Offer store credit to customers for refunds, customer success, cashback, and referrals. \n\nShoppers can conveniently top up, track, and spend store credit. ",
+    "average_rating": 2.8,
+    "review_count": 16,
+    "category": "Loyalty and rewards"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\pabloo-store-credit_20260830T141234Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\pabloo-store-credit_20260830T141234Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Pabloo Store Credit & Cashback",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "pabloo-store-credit",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/pabloo-store-credit",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Pabloo",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Offer store credit to customers for refunds, customer success, cashback, and referrals. \n\nShoppers can conveniently top up, track, and spend store credit. ",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 2.8,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 16,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Loyalty and rewards",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aftercart-post-purchase-survey_20260830T074657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aftercart-post-purchase-survey_20260830T074657Z.html
+Requested URL    : https://apps.shopify.com/aftercart-post-purchase-survey
+Final URL        : https://apps.shopify.com/aftercart-post-purchase-survey
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,387 bytes / 208,294 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AfterCart Post Purchase Survey - Post-purchase surveys for thank you and order status pages | Shopify App Store
+meta description : Build and publish post-purchase surveys on Shopify thank you and order status pages. Start from templates, add multiple question types, choose plac...
+canonical URL    : https://apps.shopify.com/aftercart-post-purchase-survey
+<h1> tags ( 1)  : 'AfterCart Post Purchase Survey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

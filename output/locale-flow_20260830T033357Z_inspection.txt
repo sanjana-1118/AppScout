@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\locale-flow_20260830T033357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\locale-flow_20260830T033357Z.html
+Requested URL    : https://apps.shopify.com/locale-flow
+Final URL        : https://apps.shopify.com/locale-flow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,512 bytes / 215,415 chars
+Elapsed          : 1.022s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LocaleFlow - AI translation that auto-syncs your whole store, any language | Shopify App Store
+meta description : Translate products, pages, menus, and metafields. Auto-sync updates, review changes, and keep every language aligned across your entire store.
+canonical URL    : https://apps.shopify.com/locale-flow
+<h1> tags ( 1)  : 'LocaleFlow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

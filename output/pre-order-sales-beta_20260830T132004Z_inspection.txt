@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pre-order-sales-beta_20260830T132004Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pre-order-sales-beta_20260830T132004Z.html
+Requested URL    : https://apps.shopify.com/pre-order-sales-beta
+Final URL        : https://apps.shopify.com/pre-order-sales-beta
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,235 bytes / 246,136 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magical Preorder & Presale - Add Preorder Options to your Shop to Instantly Boost Sales. | Shopify App Store
+meta description : Presell products and manage preorders easily with this Shopify App. Use flexible rules, send notifications, and display messages to build hype and boost sales.
+canonical URL    : https://apps.shopify.com/pre-order-sales-beta
+<h1> tags ( 1)  : 'Magical Preorder & Presale'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

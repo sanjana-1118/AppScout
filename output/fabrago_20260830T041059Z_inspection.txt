@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fabrago_20260830T041059Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fabrago_20260830T041059Z.html
+Requested URL    : https://apps.shopify.com/fabrago
+Final URL        : https://apps.shopify.com/fabrago
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,518 bytes / 164,429 chars
+Elapsed          : 0.627s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fabrago - Easily connect your existing store and sync data with Fabrago | Shopify App Store
+meta description : The app will allow our users to import their products. Since Fabrago is a wholesale platform the app also gives the option to the user to adjust th...
+canonical URL    : https://apps.shopify.com/fabrago
+<h1> tags ( 1)  : 'Fabrago'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

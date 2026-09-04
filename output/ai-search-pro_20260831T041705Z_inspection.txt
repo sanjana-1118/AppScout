@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-search-pro_20260831T041705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-search-pro_20260831T041705Z.html
+Requested URL    : https://apps.shopify.com/ai-search-pro
+Final URL        : https://apps.shopify.com/ai-search-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,448 bytes / 199,341 chars
+Elapsed          : 0.614s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Search Pro - Search that understands sentences, typos and what's in stock | Shopify App Store
+meta description : Shoppers don't search in keywords. They type "something warm for a toddler under $40", misspell your best seller, or name a colour you list as a va...
+canonical URL    : https://apps.shopify.com/ai-search-pro
+<h1> tags ( 1)  : 'AI Search Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

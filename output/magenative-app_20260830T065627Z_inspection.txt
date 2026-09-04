@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magenative-app_20260830T065627Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magenative-app_20260830T065627Z.html
+Requested URL    : https://apps.shopify.com/magenative-app
+Final URL        : https://apps.shopify.com/magenative-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,901 bytes / 250,776 chars
+Elapsed          : 0.575s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MageNative‑Mobile App Builder - Build high converting mobile apps with zero coding skills | Shopify App Store
+meta description : MageNative - a Shopify Mobile App Builder - bringing Android & iOS mobile apps to your fingertips. Now, Drag & Drop to build your Native Mobile Apps in an Hour.
+canonical URL    : https://apps.shopify.com/magenative-app
+<h1> tags ( 1)  : 'MageNative‑Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

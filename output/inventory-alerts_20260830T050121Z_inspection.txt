@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-alerts_20260830T050121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-alerts_20260830T050121Z.html
+Requested URL    : https://apps.shopify.com/inventory-alerts
+Final URL        : https://apps.shopify.com/inventory-alerts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,242 bytes / 218,145 chars
+Elapsed          : 1.016s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stockbot Low Stock Alert - Low inventory alerts email & inventory forecast | Shopify App Store
+meta description : A single app to help you stay on top of your Low Stock and Inventory forecasting at a reasonable cost. 
+
+Set low stock alerts at the store, product...
+canonical URL    : https://apps.shopify.com/inventory-alerts
+<h1> tags ( 1)  : 'Stockbot Low Stock Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

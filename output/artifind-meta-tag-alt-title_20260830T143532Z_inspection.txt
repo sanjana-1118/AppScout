@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\artifind-meta-tag-alt-title_20260830T143532Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\artifind-meta-tag-alt-title_20260830T143532Z.html
+Requested URL    : https://apps.shopify.com/artifind-meta-tag-alt-title
+Final URL        : https://apps.shopify.com/artifind-meta-tag-alt-title
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 105,718 bytes / 105,629 chars
+Elapsed          : 0.741s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : (not found)
+meta description : Shopify App Store: customize your online store and grow your business with Shopify-approved apps for marketing, store design, fulfillment, and more.
+canonical URL    : https://apps.shopify.com/artifind-meta-tag-alt-title
+<h1> tags ( 1)  : 'Artifind Meta Title & Alt Text'
+JSON-LD blocks   : 0
+<script> count   : 5
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • No <title> element found — page may be a redirect shell or error page.
+========================================================================

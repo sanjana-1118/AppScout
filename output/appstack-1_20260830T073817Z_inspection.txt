@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appstack-1_20260830T073817Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appstack-1_20260830T073817Z.html
+Requested URL    : https://apps.shopify.com/appstack-1
+Final URL        : https://apps.shopify.com/appstack-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,787 bytes / 162,698 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AppStack - Track app costs and store speed in one dashboard | Shopify App Store
+meta description : See which apps are slowing your Shopify store and how much you're spending. 14-day free trial, $9/month.
+canonical URL    : https://apps.shopify.com/appstack-1
+<h1> tags ( 1)  : 'AppStack'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

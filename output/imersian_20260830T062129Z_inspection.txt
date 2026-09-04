@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imersian_20260830T062129Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imersian_20260830T062129Z.html
+Requested URL    : https://apps.shopify.com/imersian
+Final URL        : https://apps.shopify.com/imersian
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,924 bytes / 232,801 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Imersian ‑ Interior Visualizer - Enable your customers to view & buy products with confidence. | Shopify App Store
+meta description : Elevate your storefront with our 3D/AR product visualiser. Easily showcase products in your customers room, enhance shopping experiences and boost sales.
+canonical URL    : https://apps.shopify.com/imersian
+<h1> tags ( 1)  : 'Imersian ‑ Interior Visualizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

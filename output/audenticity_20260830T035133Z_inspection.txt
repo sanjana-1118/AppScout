@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\audenticity_20260830T035133Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\audenticity_20260830T035133Z.html
+Requested URL    : https://apps.shopify.com/audenticity
+Final URL        : https://apps.shopify.com/audenticity
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,502 bytes / 204,405 chars
+Elapsed          : 0.645s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Audenticity Affiliate Network - Incentivize and track word of mouth | Shopify App Store
+meta description : For online retailers who want to grow sales through word of mouth, Audenticity provides a way to track and incentive their existing customers to re...
+canonical URL    : https://apps.shopify.com/audenticity
+<h1> tags ( 1)  : 'Audenticity Affiliate Network'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

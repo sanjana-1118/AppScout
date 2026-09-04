@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\athena-ai-search-filter_20260830T063026Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\athena-ai-search-filter_20260830T063026Z.html
+Requested URL    : https://apps.shopify.com/athena-ai-search-filter
+Final URL        : https://apps.shopify.com/athena-ai-search-filter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,142 bytes / 209,045 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Athena AI Search & Filter - AI-powered search that understands natural language & voice. | Shopify App Store
+meta description : Replace default search with AI that understands natural language, images & voice. Boost conversions with smart recommendations & multilingual support.
+canonical URL    : https://apps.shopify.com/athena-ai-search-filter
+<h1> tags ( 1)  : 'Athena AI Search & Filter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

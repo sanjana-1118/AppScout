@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twitter-feed-by-elfsight_20260830T075637Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twitter-feed-by-elfsight_20260830T075637Z.html
+Requested URL    : https://apps.shopify.com/twitter-feed-by-elfsight
+Final URL        : https://apps.shopify.com/twitter-feed-by-elfsight
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,101 bytes / 166,010 chars
+Elapsed          : 0.477s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elfsight Twitter Feed - Drive higher engagement by showcasing your Twitter feed. | Shopify App Store
+meta description : Elfsight Twitter Feed for Shopify ensures balanced displaying of your Twitter content whatever type of it you choose. Set username as a source of y...
+canonical URL    : https://apps.shopify.com/twitter-feed-by-elfsight
+<h1> tags ( 1)  : 'Elfsight Twitter Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

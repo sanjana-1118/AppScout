@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chat-widget-1_20260831T024214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chat-widget-1_20260831T024214Z.html
+Requested URL    : https://apps.shopify.com/chat-widget-1
+Final URL        : https://apps.shopify.com/chat-widget-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,102 bytes / 163,992 chars
+Elapsed          : 0.446s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amrita Chat Widget - Free chat button: WhatsApp, Messenger, Instagram ,SMS + more | Shopify App Store
+meta description : 9 channels in one widget: WhatsApp, Messenger, Instagram, Telegram, LINE, Viber, SMS, Email, Phone. Enable only what you use
+canonical URL    : https://apps.shopify.com/chat-widget-1
+<h1> tags ( 1)  : 'Amrita Chat Widget'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

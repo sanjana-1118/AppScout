@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-field-generator_20260830T184005Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-field-generator_20260830T184005Z.html
+Requested URL    : https://apps.shopify.com/ai-product-field-generator
+Final URL        : https://apps.shopify.com/ai-product-field-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,640 bytes / 183,551 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FieldForge AI - Create reviewed product titles, descriptions and metafields. | Shopify App Store
+meta description : Generate titles, descriptions, tags, and metafields from existing product data, then review and save the result from the product page.
+canonical URL    : https://apps.shopify.com/ai-product-field-generator
+<h1> tags ( 1)  : 'FieldForge AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

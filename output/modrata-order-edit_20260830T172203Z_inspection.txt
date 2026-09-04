@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modrata-order-edit_20260830T172203Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modrata-order-edit_20260830T172203Z.html
+Requested URL    : https://apps.shopify.com/modrata-order-edit
+Final URL        : https://apps.shopify.com/modrata-order-edit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,909 bytes / 175,814 chars
+Elapsed          : 0.782s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Modrata Order Editng  - Let customers edit orders after checkout with full control | Shopify App Store
+meta description : Let customers edit orders after checkout with full control. Reduce support requests, prevent errors, and manage order changes easily.
+canonical URL    : https://apps.shopify.com/modrata-order-edit
+<h1> tags ( 1)  : 'Modrata Order Editng'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\texnity_20260830T051837Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\texnity_20260830T051837Z.html
+Requested URL    : https://apps.shopify.com/texnity
+Final URL        : https://apps.shopify.com/texnity
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,578 bytes / 221,485 chars
+Elapsed          : 0.693s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Texnity WhatsApp Business API - Send order updates with official WhatsApp Business API | Shopify App Store
+meta description : Confirm orders, send WhatsApp updates, and recover abandoned carts, all with official WhatsApp Business API. Keep customers informed and boost sales.
+canonical URL    : https://apps.shopify.com/texnity
+<h1> tags ( 1)  : 'Texnity WhatsApp Business API'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

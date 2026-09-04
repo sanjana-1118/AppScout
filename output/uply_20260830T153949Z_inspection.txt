@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uply_20260830T153949Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uply_20260830T153949Z.html
+Requested URL    : https://apps.shopify.com/uply
+Final URL        : https://apps.shopify.com/uply
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,397 bytes / 179,286 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Uply ‑ Easy upsells for POS - Create amazing upsell offers in the POS  | Shopify App Store
+meta description : Easily create upsells, warranties, gift wrap, add-ons in the Shopify POS. Great for electronic warranties, home deliver charges, upgrades, staff notifications
+canonical URL    : https://apps.shopify.com/uply
+<h1> tags ( 1)  : 'Uply ‑ Easy upsells for POS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

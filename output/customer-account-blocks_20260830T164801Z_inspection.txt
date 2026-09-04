@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-blocks_20260830T164801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-blocks_20260830T164801Z.html
+Requested URL    : https://apps.shopify.com/customer-account-blocks
+Final URL        : https://apps.shopify.com/customer-account-blocks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,940 bytes / 176,847 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Customer Account Blocks - Customize customer account with content blocks and features | Shopify App Store
+meta description : Add custom blocks, forms, and marketing preferences to customer account pages. Build personalized account experiences. GDPR compliant tools.
+canonical URL    : https://apps.shopify.com/customer-account-blocks
+<h1> tags ( 1)  : 'Customer Account Blocks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ad2ship_20260829T192118Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ad2ship_20260829T192118Z.html
+Requested URL    : https://apps.shopify.com/ad2ship
+Final URL        : https://apps.shopify.com/ad2ship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,313 bytes / 165,116 chars
+Elapsed          : 0.634s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ad2Ship: eCommerce Shipping - Ad2Ship facilitates 24k+ pincodes in India. | Shopify App Store
+meta description : ad2ship
+canonical URL    : https://apps.shopify.com/ad2ship
+<h1> tags ( 1)  : 'Ad2Ship: eCommerce Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

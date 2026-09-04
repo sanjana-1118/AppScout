@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kuaimaierp_20260830T155241Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kuaimaierp_20260830T155241Z.html
+Requested URL    : https://apps.shopify.com/kuaimaierp
+Final URL        : https://apps.shopify.com/kuaimaierp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,124 bytes / 154,877 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KuaimaiERP - KuaiMai ERP helps you reduce costs and improve efficiency. | Shopify App Store
+meta description : KuaiMaiERP is an e-commerce management system, supporting the management of multi-store orders across 190+ platforms. It enables real-time inventor...
+canonical URL    : https://apps.shopify.com/kuaimaierp
+<h1> tags ( 1)  : 'KuaimaiERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

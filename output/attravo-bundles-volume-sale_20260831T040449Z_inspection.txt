@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\attravo-bundles-volume-sale_20260831T040449Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\attravo-bundles-volume-sale_20260831T040449Z.html
+Requested URL    : https://apps.shopify.com/attravo-bundles-volume-sale
+Final URL        : https://apps.shopify.com/attravo-bundles-volume-sale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,799 bytes / 207,704 chars
+Elapsed          : 1.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Attravo: Bundles & Qty Breaks - Quantity breaks, bundles, and build-your-own to lift AOV | Shopify App Store
+meta description : Add product bundles, build-your-own bundle pages, and buy-more-save-more quantity breaks. Discounts apply automatically at checkout, with per-offer analytics.
+canonical URL    : https://apps.shopify.com/attravo-bundles-volume-sale
+<h1> tags ( 1)  : 'Attravo: Bundles & Qty Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-2_20260829T183959Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-2_20260829T183959Z.html
+Requested URL    : https://apps.shopify.com/google-reviews-2
+Final URL        : https://apps.shopify.com/google-reviews-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,116 bytes / 197,020 chars
+Elapsed          : 0.765s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Google Reviews - Show Google reviews in different languages, customize widget | Shopify App Store
+meta description : Display Google My Business reviews on your Shopify store. Build trust with real customer testimonials and boost your credibility with authentic reviews.
+canonical URL    : https://apps.shopify.com/google-reviews-2
+<h1> tags ( 1)  : 'Google Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\next-horizon-app_20260830T072124Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\next-horizon-app_20260830T072124Z.html
+Requested URL    : https://apps.shopify.com/next-horizon-app
+Final URL        : https://apps.shopify.com/next-horizon-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,378 bytes / 180,291 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Next Horizon - Turn your orders into tracked shipments and EU passports. | Shopify App Store
+meta description : Track orders across carriers, turn them into sales and margin insights, manage inventory with reorder alerts, and issue EU Digital Product Passports.
+canonical URL    : https://apps.shopify.com/next-horizon-app
+<h1> tags ( 1)  : 'Next Horizon'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

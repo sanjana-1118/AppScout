@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-hub_20260830T182820Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-hub_20260830T182820Z.html
+Requested URL    : https://apps.shopify.com/bundle-hub
+Final URL        : https://apps.shopify.com/bundle-hub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,422 bytes / 209,311 chars
+Elapsed          : 0.525s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bundle Hub - Fixed Bundles, Mix & Match & Free Gifts — Boost... | Shopify App Store
+meta description : Create fixed bundles, mix-and-match builders & gift offers on Shopify. Boost AOV, grow revenue & start free — $500/month bundle revenue included.
+canonical URL    : https://apps.shopify.com/bundle-hub
+<h1> tags ( 1)  : 'Bundle Hub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\microsoft-shopping-feed_20260830T034719Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\microsoft-shopping-feed_20260830T034719Z.html
+Requested URL    : https://apps.shopify.com/microsoft-shopping-feed
+Final URL        : https://apps.shopify.com/microsoft-shopping-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,802 bytes / 234,659 chars
+Elapsed          : 0.824s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ∞ Microsoft Shopping Feed - Generate a Microsoft Product Feed from your store's products | Shopify App Store
+meta description : Elevate your Shopify store's performance with our innovative Microsoft Shopping Feed App. Seamlessly integrate and synchronize your products, create DPA ads.
+canonical URL    : https://apps.shopify.com/microsoft-shopping-feed
+<h1> tags ( 1)  : '∞ Microsoft Shopping Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

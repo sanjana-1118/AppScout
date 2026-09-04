@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bopisafe_20260830T175216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bopisafe_20260830T175216Z.html
+Requested URL    : https://apps.shopify.com/bopisafe
+Final URL        : https://apps.shopify.com/bopisafe
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,071 bytes / 185,978 chars
+Elapsed          : 0.869s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BopiSafe: Pickup Stock & Times - Per-store stock, a store picker and pickup times that stick. | Shopify App Store
+meta description : Store pickup for Shopify: the real count at each store, a store picker and pickup time slots. Unlimited locations, free up to 100 pickup orders a month.
+canonical URL    : https://apps.shopify.com/bopisafe
+<h1> tags ( 1)  : 'BopiSafe: Pickup Stock & Times'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartmobi_20260830T175758Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartmobi_20260830T175758Z.html
+Requested URL    : https://apps.shopify.com/cartmobi
+Final URL        : https://apps.shopify.com/cartmobi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,497 bytes / 191,400 chars
+Elapsed          : 0.802s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cartmobi - Create and manage a branded mobile shopping app for your... | Shopify App Store
+meta description : Create a branded mobile shopping app, manage publishing details, send push notifications, and review app analytics from one admin app.
+canonical URL    : https://apps.shopify.com/cartmobi
+<h1> tags ( 1)  : 'Cartmobi'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

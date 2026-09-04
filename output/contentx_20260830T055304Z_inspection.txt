@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contentx_20260830T055304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contentx_20260830T055304Z.html
+Requested URL    : https://apps.shopify.com/contentx
+Final URL        : https://apps.shopify.com/contentx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,122 bytes / 209,997 chars
+Elapsed          : 0.734s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ContentX ‑  AI | SEO | Blogger - Publish consistent SEO friendly content easily and automated. | Shopify App Store
+meta description : ContentX is a powerful app that automates content creation, enhances SEO optimization, & improves online presence. Drive traffic & grow your business with ease.
+canonical URL    : https://apps.shopify.com/contentx
+<h1> tags ( 1)  : 'ContentX ‑  AI | SEO | Blogger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

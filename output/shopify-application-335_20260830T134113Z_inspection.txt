@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-335_20260830T134113Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-335_20260830T134113Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-335
+Final URL        : https://apps.shopify.com/shopify-application-335
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,805 bytes / 153,922 chars
+Elapsed          : 1.176s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : e‑LogiT Order Transfer System - ストアで受けた注文を弊社の倉庫システム（WMS）に転送し、在庫の管理からピッキング・発送まで一括した管理を実施いたします。 | Shopify App Store
+meta description : このアプリによってストアで受けた注文を弊社WMSへ連携します。
+弊社では、登録された注文を元にピッキング～梱包の一連の作業を行います。
+出荷が完了した注文はストアに返却され、発送済みとして表示されます。
+この一連の流れを自動化し、クライアント様の作業負荷を軽減いたします。
+...
+canonical URL    : https://apps.shopify.com/shopify-application-335?locale=ja
+<h1> tags ( 1)  : 'e‑LogiT Order Transfer System'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

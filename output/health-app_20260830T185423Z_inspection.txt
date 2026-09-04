@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\health-app_20260830T185423Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\health-app_20260830T185423Z.html
+Requested URL    : https://apps.shopify.com/health-app
+Final URL        : https://apps.shopify.com/health-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,396 bytes / 170,309 chars
+Elapsed          : 1.026s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ferrum Store Health App - Expert storefront fixes and daily scans | Shopify App Store
+meta description : Monitor storefront buy box, cart, checkout, theme, links, and scripts. Get instant alerts, guided fixes, and expert help for storefront changes.
+canonical URL    : https://apps.shopify.com/health-app
+<h1> tags ( 1)  : 'Ferrum Store Health App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

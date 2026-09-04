@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropshipilot_20260830T143749Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropshipilot_20260830T143749Z.html
+Requested URL    : https://apps.shopify.com/dropshipilot
+Final URL        : https://apps.shopify.com/dropshipilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,182 bytes / 164,089 chars
+Elapsed          : 0.487s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dropshipilot - Quickly add AliExpress products in bulk to your store | Shopify App Store
+meta description : Dropshipilot is directly connected to AliExpress Dropshipping. To provide you with a simple & reliable one-stop China products sourcing & fulfillment solution.
+canonical URL    : https://apps.shopify.com/dropshipilot
+<h1> tags ( 1)  : 'Dropshipilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

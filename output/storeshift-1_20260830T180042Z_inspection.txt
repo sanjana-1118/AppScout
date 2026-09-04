@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storeshift-1_20260830T180042Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storeshift-1_20260830T180042Z.html
+Requested URL    : https://apps.shopify.com/storeshift-1
+Final URL        : https://apps.shopify.com/storeshift-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,226 bytes / 199,113 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreShift ‑ Store Migration - Migrate and sync data between stores with ease | Shopify App Store
+meta description : Migrate products, collections, customers, orders, themes, and 25+ data types between Shopify stores. Keep stores in sync automatically after migration.
+canonical URL    : https://apps.shopify.com/storeshift-1
+<h1> tags ( 1)  : 'StoreShift ‑ Store Migration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

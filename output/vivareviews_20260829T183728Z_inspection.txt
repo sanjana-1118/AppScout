@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vivareviews_20260829T183728Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vivareviews_20260829T183728Z.html
+Requested URL    : https://apps.shopify.com/vivareviews
+Final URL        : https://apps.shopify.com/vivareviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,540 bytes / 223,417 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ViVA Reviews ‑ Product Reviews - Drive sales by displaying customer reviews on your shop. | Shopify App Store
+meta description : ViVA Reviews allows you to increase your store conversion & sales through the power of social proof. 
+
+Add, accept and show real user reviews on yo...
+canonical URL    : https://apps.shopify.com/vivareviews
+<h1> tags ( 1)  : 'ViVA Reviews ‑ Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncdisc_20260830T164758Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncdisc_20260830T164758Z.html
+Requested URL    : https://apps.shopify.com/syncdisc
+Final URL        : https://apps.shopify.com/syncdisc
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,080 bytes / 175,991 chars
+Elapsed          : 1.080s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SyncDisc - Combine Klaviyo Coupons with Store Discounts | Shopify App Store
+meta description : Combine Klaviyo and Shopify Coupons
+canonical URL    : https://apps.shopify.com/syncdisc
+<h1> tags ( 1)  : 'SyncDisc'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

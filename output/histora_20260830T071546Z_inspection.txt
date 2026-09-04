@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\histora_20260830T071546Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\histora_20260830T071546Z.html
+Requested URL    : https://apps.shopify.com/histora
+Final URL        : https://apps.shopify.com/histora
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,569 bytes / 217,468 chars
+Elapsed          : 0.531s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Histora: Product Audit Log - Product history tracking for peace of mind. | Shopify App Store
+meta description : Histora simplifies product management with real-time tracking, detailed history, and insights into product changes for Shopify merchants. Take control today!
+canonical URL    : https://apps.shopify.com/histora
+<h1> tags ( 1)  : 'Histora: Product Audit Log'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

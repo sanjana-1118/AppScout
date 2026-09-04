@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\briskk-turbo_20260830T161614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\briskk-turbo_20260830T161614Z.html
+Requested URL    : https://apps.shopify.com/briskk-turbo
+Final URL        : https://apps.shopify.com/briskk-turbo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,893 bytes / 159,802 chars
+Elapsed          : 0.962s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Briskk Turbo - Speed that sells: one-click optimizations for modern Websites | Shopify App Store
+meta description : Briskk Turbo analyzes your Shopify theme, applies safe optimizations to theme assets, and provides repeatable mobile/desktop audits so you can meas...
+canonical URL    : https://apps.shopify.com/briskk-turbo
+<h1> tags ( 1)  : 'Briskk Turbo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

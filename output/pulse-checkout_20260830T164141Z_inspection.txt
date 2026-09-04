@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pulse-checkout_20260830T164141Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pulse-checkout_20260830T164141Z.html
+Requested URL    : https://apps.shopify.com/pulse-checkout
+Final URL        : https://apps.shopify.com/pulse-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,527 bytes / 194,438 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pulse Checkout - Charge COD fees and customize payment & shipping methods | Shopify App Store
+meta description : Add COD fees and customize Shopify checkout by hiding, renaming, or reordering payment and shipping methods based on conditions.
+canonical URL    : https://apps.shopify.com/pulse-checkout
+<h1> tags ( 1)  : 'Pulse Checkout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\itrack_20260830T051626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\itrack_20260830T051626Z.html
+Requested URL    : https://apps.shopify.com/itrack
+Final URL        : https://apps.shopify.com/itrack
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,166 bytes / 208,051 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : iTrack ‑ Order Tracking - Custom order tracker and order lookup as you wish  | Shopify App Store
+meta description : iTrack is a full featured order tracking solution that can help you setup and customize an incredible tracking experience for dropshipping & ecommerce shops.
+canonical URL    : https://apps.shopify.com/itrack
+<h1> tags ( 1)  : 'iTrack ‑ Order Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

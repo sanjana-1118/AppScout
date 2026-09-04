@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-variants-in-table_20260830T042712Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-variants-in-table_20260830T042712Z.html
+Requested URL    : https://apps.shopify.com/product-variants-in-table
+Final URL        : https://apps.shopify.com/product-variants-in-table
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,397 bytes / 218,304 chars
+Elapsed          : 0.532s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : C: Product Variants in Table - Eye catching listing of product variants & quick add to... | Shopify App Store
+meta description : C: Product Variants in Table allows you to list product attribute options on a product's details page in a table format with a quantity box and qui...
+canonical URL    : https://apps.shopify.com/product-variants-in-table
+<h1> tags ( 1)  : 'C: Product Variants in Table'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

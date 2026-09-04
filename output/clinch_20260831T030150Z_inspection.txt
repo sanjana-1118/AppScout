@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clinch_20260831T030150Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clinch_20260831T030150Z.html
+Requested URL    : https://apps.shopify.com/clinch
+Final URL        : https://apps.shopify.com/clinch
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,484 bytes / 206,375 chars
+Elapsed          : 0.741s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Clinch - Recover more orders. Prove the discount actually worked. | Shopify App Store
+meta description : Recover leaving shoppers with targeted, single-use discounts. Tie recovered sales to real Shopify orders and use holdout testing to measure incremental lift.
+canonical URL    : https://apps.shopify.com/clinch
+<h1> tags ( 1)  : 'Clinch'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

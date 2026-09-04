@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/bonde-subscription-upsells",
+  "fetch_timestamp": "2026-08-30T15:12:42.097738+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bonde-subscription-upsells_20260830T151242Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bonde-subscription-upsells_20260830T151242Z.html",
+    "url": "https://apps.shopify.com/bonde-subscription-upsells",
+    "final_url": "https://apps.shopify.com/bonde-subscription-upsells",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 218932,
+    "body_text_length": 218835,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.874848,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "BONDE: Bundles, Loyalty & more - Bundles, loyalty, AI upsells and all-in-one super app. | Shopify App Store",
+    "meta_description": "Shopify subscription app for recurring revenue. Features include flexible subscriptions, loyalty programs, build-a-box bundles, and store credit to stop churn.",
+    "canonical_url": "https://apps.shopify.com/bonde-subscription-upsells",
+    "h1_tags": [
+      "BONDE: Bundles, Loyalty & more"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "BONDE: Bundles, Loyalty & more",
+    "app_slug": "bonde-subscription-upsells",
+    "app_url": "https://apps.shopify.com/bonde-subscription-upsells",
+    "developer_name": "Conspire",
+    "description": "Shopify subscription app for recurring revenue. Features include flexible subscriptions, loyalty programs, build-a-box bundles, and store credit to stop churn.",
+    "average_rating": 5.0,
+    "review_count": 2,
+    "category": "Product bundles"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bonde-subscription-upsells_20260830T151242Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bonde-subscription-upsells_20260830T151242Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "BONDE: Bundles, Loyalty & more",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "bonde-subscription-upsells",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/bonde-subscription-upsells",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Conspire",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Shopify subscription app for recurring revenue. Features include flexible subscriptions, loyalty programs, build-a-box bundles, and store credit to stop churn.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 2,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Product bundles",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

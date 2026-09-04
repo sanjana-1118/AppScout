@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xb-quote-request_20260830T040930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xb-quote-request_20260830T040930Z.html
+Requested URL    : https://apps.shopify.com/xb-quote-request
+Final URL        : https://apps.shopify.com/xb-quote-request
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,376 bytes / 193,287 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : XB Quote Request - Wholesale quote requests with tiered pricing and automated app | Shopify App Store
+meta description : Enable wholesale customers to request quotes with tier-based pricing. Manage B2B sales, convert quotes to draft orders & customize forms with our B2B quote app
+canonical URL    : https://apps.shopify.com/xb-quote-request
+<h1> tags ( 1)  : 'XB Quote Request'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

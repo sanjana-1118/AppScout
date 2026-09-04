@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/mokka-widget-events",
+  "fetch_timestamp": "2026-08-30T04:43:18.798061+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mokka-widget-events_20260830T044318Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mokka-widget-events_20260830T044318Z.html",
+    "url": "https://apps.shopify.com/mokka-widget-events",
+    "final_url": "https://apps.shopify.com/mokka-widget-events",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 161212,
+    "body_text_length": 161119,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.595691,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Mokka Widget&Events - Mokka - your sweet advance. Buy now, Pay later. | Shopify App Store",
+    "meta_description": "Mokka Widget&Events App is an opportunity for the customer to register in Mokka and find out the available limit for purchase immediately. Availabl...",
+    "canonical_url": "https://apps.shopify.com/mokka-widget-events",
+    "h1_tags": [
+      "Mokka Widget&Events"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Mokka Widget&Events",
+    "app_slug": "mokka-widget-events",
+    "app_url": "https://apps.shopify.com/mokka-widget-events",
+    "developer_name": "Mokka",
+    "description": "Mokka Widget&Events App is an opportunity for the customer to register in Mokka and find out the available limit for purchase immediately. Availabl...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Pricing - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mokka-widget-events_20260830T044318Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mokka-widget-events_20260830T044318Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Mokka Widget&Events",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "mokka-widget-events",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/mokka-widget-events",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Mokka",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Mokka Widget&Events App is an opportunity for the customer to register in Mokka and find out the available limit for purchase immediately. Availabl...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Pricing - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

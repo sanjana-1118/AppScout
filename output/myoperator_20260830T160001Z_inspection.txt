@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\myoperator_20260830T160001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\myoperator_20260830T160001Z.html
+Requested URL    : https://apps.shopify.com/myoperator
+Final URL        : https://apps.shopify.com/myoperator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,019 bytes / 179,919 chars
+Elapsed          : 0.973s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MyOperator WhatsApp Connector - Engage clients & cut COD failures with WhatsApp automation | Shopify App Store
+meta description : Recover carts, send order updates, confirm COD, and engage customers with automated WhatsApp messaging from MyOperator WhatsApp Automation Connector
+canonical URL    : https://apps.shopify.com/myoperator
+<h1> tags ( 1)  : 'MyOperator WhatsApp Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

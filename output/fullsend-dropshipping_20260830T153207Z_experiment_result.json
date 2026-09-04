@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/fullsend-dropshipping",
+  "fetch_timestamp": "2026-08-30T15:32:07.169348+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fullsend-dropshipping_20260830T153207Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fullsend-dropshipping_20260830T153207Z.html",
+    "url": "https://apps.shopify.com/fullsend-dropshipping",
+    "final_url": "https://apps.shopify.com/fullsend-dropshipping",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 189259,
+    "body_text_length": 188911,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.006535,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Fullsend Dropshipping - All-in-One Dropshipping Sourcing & Fulfillment Platform | Shopify App Store",
+    "meta_description": "Fullsend helps thousands of third-party distributors expand their operations with speed, reliability and brand support. From startups to businesses...",
+    "canonical_url": "https://apps.shopify.com/fullsend-dropshipping",
+    "h1_tags": [
+      "Fullsend Dropshipping"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": " Fullsend Dropshipping",
+    "app_slug": "fullsend-dropshipping",
+    "app_url": "https://apps.shopify.com/fullsend-dropshipping",
+    "developer_name": "深圳市原力森林贸易有限公司",
+    "description": "Fullsend helps thousands of third-party distributors expand their operations with speed, reliability and brand support. From startups to businesses...",
+    "average_rating": 5.0,
+    "review_count": 3,
+    "category": "Dropshipping"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fullsend-dropshipping_20260830T153207Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fullsend-dropshipping_20260830T153207Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": " Fullsend Dropshipping",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "fullsend-dropshipping",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/fullsend-dropshipping",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "深圳市原力森林贸易有限公司",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Fullsend helps thousands of third-party distributors expand their operations with speed, reliability and brand support. From startups to businesses...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 3,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Dropshipping",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

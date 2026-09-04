@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\epr-pack-report_20260830T070429Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\epr-pack-report_20260830T070429Z.html
+Requested URL    : https://apps.shopify.com/epr-pack-report
+Final URL        : https://apps.shopify.com/epr-pack-report
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,852 bytes / 169,763 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EPR Pack Report - EPR packaging reports for the EU, with AI-guided setup | Shopify App Store
+meta description : Automate EPR packaging compliance in Shopify. EPR Pack Report tracks order packaging weight and files reports for LUCID (VerpackG), CONAI and Citeo.
+canonical URL    : https://apps.shopify.com/epr-pack-report
+<h1> tags ( 1)  : 'EPR Pack Report'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

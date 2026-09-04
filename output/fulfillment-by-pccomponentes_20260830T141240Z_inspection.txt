@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfillment-by-pccomponentes_20260830T141240Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfillment-by-pccomponentes_20260830T141240Z.html
+Requested URL    : https://apps.shopify.com/fulfillment-by-pccomponentes
+Final URL        : https://apps.shopify.com/fulfillment-by-pccomponentes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,037 bytes / 160,905 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fulfillment by PcComponentes - Deja la gestión de tu stock y envíos en manos... | Shopify App Store
+meta description : PcComponentes es un eCommerce líder en España que ha acompañado su crecimiento con almacenes propios equipados con la última tecnología y lo que no...
+canonical URL    : https://apps.shopify.com/fulfillment-by-pccomponentes?locale=es
+<h1> tags ( 1)  : 'Fulfillment by PcComponentes'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecdp_20260831T040444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecdp_20260831T040444Z.html
+Requested URL    : https://apps.shopify.com/ecdp
+Final URL        : https://apps.shopify.com/ecdp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,674 bytes / 171,570 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ExpertSender CDP - Sync your store with ExpertSender CDP to automate marketing. | Shopify App Store
+meta description : The app integrates your Shopify store with ExpertSender CDP, allowing you to automate multi-channel communication, trigger events like abandoned ca...
+canonical URL    : https://apps.shopify.com/ecdp
+<h1> tags ( 1)  : 'ExpertSender CDP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

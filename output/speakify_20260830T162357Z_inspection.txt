@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\speakify_20260830T162357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\speakify_20260830T162357Z.html
+Requested URL    : https://apps.shopify.com/speakify
+Final URL        : https://apps.shopify.com/speakify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,853 bytes / 199,732 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Speakify‑AI Voice for Products - AI voice for products pages-boost sales & accessibility | Shopify App Store
+meta description : Add AI voiceovers to your Shopify product pages. Boost conversions, meet EU accessibility laws, and create in-store experiences online. Free plan available
+canonical URL    : https://apps.shopify.com/speakify
+<h1> tags ( 1)  : 'Speakify‑AI Voice for Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

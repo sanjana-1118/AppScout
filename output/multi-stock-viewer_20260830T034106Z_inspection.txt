@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-stock-viewer_20260830T034106Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-stock-viewer_20260830T034106Z.html
+Requested URL    : https://apps.shopify.com/multi-stock-viewer
+Final URL        : https://apps.shopify.com/multi-stock-viewer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,426 bytes / 167,405 chars
+Elapsed          : 0.492s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 店舗在庫みえる - 商品ページに店舗別の在庫状況を表示できるアプリです。 | Shopify App Store
+meta description : 商品ページに店舗別の在庫状況を表示できるアプリです。複数店舗や倉庫の在庫を可視化し、在庫確認に関する問い合わせ対応を減らします。テーマのカスタマイズ画面から簡単に設置できます。
+canonical URL    : https://apps.shopify.com/multi-stock-viewer?locale=ja
+<h1> tags ( 1)  : '店舗在庫みえる'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

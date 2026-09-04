@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-hotspots-by-widgetic_20260830T074915Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-hotspots-by-widgetic_20260830T074915Z.html
+Requested URL    : https://apps.shopify.com/image-hotspots-by-widgetic
+Final URL        : https://apps.shopify.com/image-hotspots-by-widgetic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,876 bytes / 188,782 chars
+Elapsed          : 0.550s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Widgetic (Image Hotspots) - Add descriptive hotspots to your product photos. | Shopify App Store
+meta description : The Image Hotspots app allows e-commerce merchants to enhance their product images with interactive hotspots, providing customers with additional i...
+canonical URL    : https://apps.shopify.com/image-hotspots-by-widgetic
+<h1> tags ( 1)  : 'Widgetic (Image Hotspots)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

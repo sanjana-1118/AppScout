@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\follo-1_20260830T163104Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\follo-1_20260830T163104Z.html
+Requested URL    : https://apps.shopify.com/follo-1
+Final URL        : https://apps.shopify.com/follo-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,635 bytes / 177,524 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Follo‑ Post Purchase Giveaway - Convert customers into Instagram Followers | Shopify App Store
+meta description : Follo helps Shopify merchants run Instagram giveaways directly after checkout. 
+The app displays a giveaway block on the thank you or order status ...
+canonical URL    : https://apps.shopify.com/follo-1
+<h1> tags ( 1)  : 'Follo‑ Post Purchase Giveaway'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

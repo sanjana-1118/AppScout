@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\umbrella-protection_20260830T052516Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\umbrella-protection_20260830T052516Z.html
+Requested URL    : https://apps.shopify.com/umbrella-protection
+Final URL        : https://apps.shopify.com/umbrella-protection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 238,374 bytes / 238,247 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Umbrella: In‑house Warranties - Sell In-house "Apple Care style" protection plans & warranties | Shopify App Store
+meta description : Sell AppleCare-style protection plans on your Shopify store with Umbrella. Boost revenue, reduce chargebacks, and manage claims seamlessly—all under your brand.
+canonical URL    : https://apps.shopify.com/umbrella-protection
+<h1> tags ( 1)  : 'Umbrella: In‑house Warranties'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

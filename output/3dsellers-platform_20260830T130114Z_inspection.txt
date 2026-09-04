@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\3dsellers-platform_20260830T130114Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\3dsellers-platform_20260830T130114Z.html
+Requested URL    : https://apps.shopify.com/3dsellers-platform
+Final URL        : https://apps.shopify.com/3dsellers-platform
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,792 bytes / 202,676 chars
+Elapsed          : 0.826s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 3Dsellers ‑ CRM & Helpdesk - Streamline Customer Support with 3Dsellers Helpdesk | Shopify App Store
+meta description : 3Dsellers is the ultimate multichannel eCommerce Helpdesk for automating and managing your customer service and order management.
+canonical URL    : https://apps.shopify.com/3dsellers-platform
+<h1> tags ( 1)  : '3Dsellers ‑ CRM & Helpdesk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

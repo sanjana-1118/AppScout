@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oxi-social-login_20260830T064432Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oxi-social-login_20260830T064432Z.html
+Requested URL    : https://apps.shopify.com/oxi-social-login
+Final URL        : https://apps.shopify.com/oxi-social-login
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,381 bytes / 233,278 chars
+Elapsed          : 0.779s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Oxi: Social Login & Wishlist - Social login, wishlist & cart sync to keep shoppers buying | Shopify App Store
+meta description : Help customers sign in with social login, save products with Wishlist and sync cart across devices. Support SSO identity provider support for plus stores.
+canonical URL    : https://apps.shopify.com/oxi-social-login
+<h1> tags ( 1)  : 'Oxi: Social Login & Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

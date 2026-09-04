@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pretty-sales-popup_20260830T061226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pretty-sales-popup_20260830T061226Z.html
+Requested URL    : https://apps.shopify.com/pretty-sales-popup
+Final URL        : https://apps.shopify.com/pretty-sales-popup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 237,813 bytes / 237,694 chars
+Elapsed          : 0.494s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pretty Sales Popup ‑ pop up - Boost sales with FOMO  social proof sales popup & sales... | Shopify App Store
+meta description : Increase Shopify sales with real-time sales popup: recent sales, add-to-cart, visitor count & geo-targeted social proof. Multi-language support. Easy to install
+canonical URL    : https://apps.shopify.com/pretty-sales-popup
+<h1> tags ( 1)  : 'Pretty Sales Popup ‑ pop up'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ghafix-currency-converter_20260830T033444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ghafix-currency-converter_20260830T033444Z.html
+Requested URL    : https://apps.shopify.com/ghafix-currency-converter
+Final URL        : https://apps.shopify.com/ghafix-currency-converter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,377 bytes / 182,280 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ghafix Currency Converter - Show local prices with visitor detection and live rates. | Shopify App Store
+meta description : Show local prices with visitor detection, live exchange rates, rounding, custom selector design, country flags, and cart notices for clearer shopping.
+canonical URL    : https://apps.shopify.com/ghafix-currency-converter
+<h1> tags ( 1)  : 'Ghafix Currency Converter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zestard-product-matrix_20260830T041123Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zestard-product-matrix_20260830T041123Z.html
+Requested URL    : https://apps.shopify.com/zestard-product-matrix
+Final URL        : https://apps.shopify.com/zestard-product-matrix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,434 bytes / 224,345 chars
+Elapsed          : 0.604s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zestard Product Matrix - Show product variants in attractive tabular structure  | Shopify App Store
+meta description : Zestard Product Matrix is especially useful for wholesalers and B2B (Business To Business). It allows ordering multiple quantities of products at o...
+canonical URL    : https://apps.shopify.com/zestard-product-matrix
+<h1> tags ( 1)  : 'Zestard Product Matrix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

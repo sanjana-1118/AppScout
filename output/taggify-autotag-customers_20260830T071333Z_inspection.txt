@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taggify-autotag-customers_20260830T071333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taggify-autotag-customers_20260830T071333Z.html
+Requested URL    : https://apps.shopify.com/taggify-autotag-customers
+Final URL        : https://apps.shopify.com/taggify-autotag-customers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,278 bytes / 214,161 chars
+Elapsed          : 0.604s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taggify ‑ Customer & Orders - Automatically tag customers and orders | Shopify App Store
+meta description : Automate customer and order tagging in your Shopify store with Auto Tags. Simplify marketing segmentation and more.
+canonical URL    : https://apps.shopify.com/taggify-autotag-customers
+<h1> tags ( 1)  : 'Taggify ‑ Customer & Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\video-marketing_20260830T125756Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\video-marketing_20260830T125756Z.html
+Requested URL    : https://apps.shopify.com/video-marketing
+Final URL        : https://apps.shopify.com/video-marketing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,823 bytes / 229,722 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vimotia Shoppable Videos & UGC - boost sales with TikTok-style shoppable video gallery on site | Shopify App Store
+meta description : All-in-one solution to make shoppable videos & gallery, publish on your website. Provide TikTok-like video shopping experience in your store, boost extra sales.
+canonical URL    : https://apps.shopify.com/video-marketing
+<h1> tags ( 1)  : 'Vimotia Shoppable Videos & UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

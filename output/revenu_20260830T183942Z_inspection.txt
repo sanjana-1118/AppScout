@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revenu_20260830T183942Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revenu_20260830T183942Z.html
+Requested URL    : https://apps.shopify.com/revenu
+Final URL        : https://apps.shopify.com/revenu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,949 bytes / 190,860 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Revenu: Appointment Booking - Appointment booking with staff scheduling, packages & deposits | Shopify App Store
+meta description : Turn products into bookable services, add storefront booking widgets, manage staff and availability, and organize appointments in one embedded app.
+canonical URL    : https://apps.shopify.com/revenu
+<h1> tags ( 1)  : 'Revenu: Appointment Booking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skaw_20260830T071705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skaw_20260830T071705Z.html
+Requested URL    : https://apps.shopify.com/skaw
+Final URL        : https://apps.shopify.com/skaw
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,264 bytes / 196,157 chars
+Elapsed          : 0.625s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SKAW: AI SEO & Agent Readiness - SKAW how AI agents see your products and help you... | Shopify App Store
+meta description : AI agents are now recommending products to customers. If your product data isn't structured correctly, agents will skip your store entirely. SKAW a...
+canonical URL    : https://apps.shopify.com/skaw
+<h1> tags ( 1)  : 'SKAW: AI SEO & Agent Readiness'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopdelta_20260830T072553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopdelta_20260830T072553Z.html
+Requested URL    : https://apps.shopify.com/shopdelta
+Final URL        : https://apps.shopify.com/shopdelta
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,762 bytes / 168,649 chars
+Elapsed          : 0.595s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopDelta - See what drives your sales with fast product and trend... | Shopify App Store
+meta description : Track revenue by products and channels with clear growth comparisons. Discover what drives performance and make decisions that increase sales with ShopDelta.
+canonical URL    : https://apps.shopify.com/shopdelta
+<h1> tags ( 1)  : 'ShopDelta'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

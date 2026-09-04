@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\withdrawl-withdrawal-button_20260830T185117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\withdrawl-withdrawal-button_20260830T185117Z.html
+Requested URL    : https://apps.shopify.com/withdrawl-withdrawal-button
+Final URL        : https://apps.shopify.com/withdrawl-withdrawal-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,639 bytes / 182,520 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Withdrawl – Withdrawal Button - The compliant EU withdrawal button. Live in 5 minutes. | Shopify App Store
+meta description : Since 19 June 2026, EU Directive 2023/2673 requires stores with EU customers to provide a permanent withdrawal function for the 14-day right of wit...
+canonical URL    : https://apps.shopify.com/withdrawl-withdrawal-button
+<h1> tags ( 1)  : 'Withdrawl – Withdrawal Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

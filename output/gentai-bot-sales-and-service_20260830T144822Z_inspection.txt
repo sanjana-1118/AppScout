@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gentai-bot-sales-and-service_20260830T144822Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gentai-bot-sales-and-service_20260830T144822Z.html
+Requested URL    : https://apps.shopify.com/gentai-bot-sales-and-service
+Final URL        : https://apps.shopify.com/gentai-bot-sales-and-service
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,328 bytes / 171,210 chars
+Elapsed          : 0.968s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GentAI Bot ‑ Sales and Service - AI Powered Customer Service Chatbot for Store Websites! | Shopify App Store
+meta description : GentAI, an AI Chatbot for website & other channels greets visitors and converses answering business specific questions. This can cut cost of any business owner.
+canonical URL    : https://apps.shopify.com/gentai-bot-sales-and-service
+<h1> tags ( 1)  : 'GentAI Bot ‑ Sales and Service'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

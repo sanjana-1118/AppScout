@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sink_20260830T061711Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sink_20260830T061711Z.html
+Requested URL    : https://apps.shopify.com/sink
+Final URL        : https://apps.shopify.com/sink
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,922 bytes / 209,827 chars
+Elapsed          : 0.494s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sink | Push Down Out of Stock - Automatically push down sold out products and bestsellers up | Shopify App Store
+meta description : Sink pushes sold out products to the bottom of your Shopify collections automatically and sorts in-stock items by best selling, price, or title. Free plan.
+canonical URL    : https://apps.shopify.com/sink
+<h1> tags ( 1)  : 'Sink | Push Down Out of Stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

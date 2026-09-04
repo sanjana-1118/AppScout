@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ledgerai_20260830T182945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ledgerai_20260830T182945Z.html
+Requested URL    : https://apps.shopify.com/ledgerai
+Final URL        : https://apps.shopify.com/ledgerai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,982 bytes / 174,845 chars
+Elapsed          : 0.626s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LedgerAI Ourava - See true net profit from sales, costs, fees, and bills | Shopify App Store
+meta description : Calculate true net profit from store sales, refunds, fees, product costs, and approved expense bills with trends and AI-assisted bill review.
+canonical URL    : https://apps.shopify.com/ledgerai
+<h1> tags ( 1)  : 'LedgerAI Ourava'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

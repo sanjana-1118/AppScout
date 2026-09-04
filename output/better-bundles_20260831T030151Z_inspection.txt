@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-bundles_20260831T030151Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-bundles_20260831T030151Z.html
+Requested URL    : https://apps.shopify.com/better-bundles
+Final URL        : https://apps.shopify.com/better-bundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,047 bytes / 217,950 chars
+Elapsed          : 0.956s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Better Bundles - Product packs with fair savings and synced inventory | Shopify App Store
+meta description : Create product packs in Shopify with gift-item or shared savings, checkout expansion, and inventory that follows component stock. Track pack sales in reports.
+canonical URL    : https://apps.shopify.com/better-bundles
+<h1> tags ( 1)  : 'Better Bundles'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

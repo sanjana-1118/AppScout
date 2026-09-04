@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\winback-io-connector_20260830T152824Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\winback-io-connector_20260830T152824Z.html
+Requested URL    : https://apps.shopify.com/winback-io-connector
+Final URL        : https://apps.shopify.com/winback-io-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,959 bytes / 161,864 chars
+Elapsed          : 0.958s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Winback.IO Connector - Handwritten cards mailed to any customer segment. | Shopify App Store
+meta description : Winback.IO helps you recover lost customers with real handwritten-style postcards auto-generated from your Shopify segments. Boost ROI with zero hassle.
+canonical URL    : https://apps.shopify.com/winback-io-connector
+<h1> tags ( 1)  : 'Winback.IO Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

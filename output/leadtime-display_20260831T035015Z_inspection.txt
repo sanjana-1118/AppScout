@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leadtime-display_20260831T035015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leadtime-display_20260831T035015Z.html
+Requested URL    : https://apps.shopify.com/leadtime-display
+Final URL        : https://apps.shopify.com/leadtime-display
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,551 bytes / 179,405 chars
+Elapsed          : 0.963s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Leadtime Display - Show business-day ship-by estimates on product pages | Shopify App Store
+meta description : Reduce “When will it arrive?” questions with ship-by dates on product pages. Leadtime Display counts business days using Japanese holidays, closed ...
+canonical URL    : https://apps.shopify.com/leadtime-display
+<h1> tags ( 1)  : 'Leadtime Display'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

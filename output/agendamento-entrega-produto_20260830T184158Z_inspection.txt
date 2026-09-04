@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agendamento-entrega-produto_20260830T184158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agendamento-entrega-produto_20260830T184158Z.html
+Requested URL    : https://apps.shopify.com/agendamento-entrega-produto
+Final URL        : https://apps.shopify.com/agendamento-entrega-produto
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,797 bytes / 169,670 chars
+Elapsed          : 0.523s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Agendamento de Entrega - Permita que seus clientes escolham a data e o horário... | Shopify App Store
+meta description : Permita que seus clientes escolham a data e o horário de entrega diretamente na página do produto. Reduza problemas nas entregas, melhore a experiê...
+canonical URL    : https://apps.shopify.com/agendamento-entrega-produto?locale=pt-BR
+<h1> tags ( 1)  : 'Agendamento de Entrega'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

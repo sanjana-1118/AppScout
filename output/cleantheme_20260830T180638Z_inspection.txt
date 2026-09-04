@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cleantheme_20260830T180638Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cleantheme_20260830T180638Z.html
+Requested URL    : https://apps.shopify.com/cleantheme
+Final URL        : https://apps.shopify.com/cleantheme
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,919 bytes / 160,828 chars
+Elapsed          : 0.997s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CleanTheme - Find leftover app code and get a cleanup report. | Shopify App Store
+meta description : Find leftover app code, tracking scripts, and cleanup priorities with a safe, read-only scan and developer-ready cleanup report.
+canonical URL    : https://apps.shopify.com/cleantheme
+<h1> tags ( 1)  : 'CleanTheme'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

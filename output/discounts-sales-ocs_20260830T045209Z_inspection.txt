@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discounts-sales-ocs_20260830T045209Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discounts-sales-ocs_20260830T045209Z.html
+Requested URL    : https://apps.shopify.com/discounts-sales-ocs
+Final URL        : https://apps.shopify.com/discounts-sales-ocs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,085 bytes / 223,972 chars
+Elapsed          : 0.975s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discounts & Sales ‑ OCS - Run sales and volume discounts that revert automatically | Shopify App Store
+meta description : Run scheduled sales, volume discounts, countdown timers and cart-savings widgets on Shopify. Bulk discounts that revert automatically.
+canonical URL    : https://apps.shopify.com/discounts-sales-ocs
+<h1> tags ( 1)  : 'Discounts & Sales ‑ OCS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

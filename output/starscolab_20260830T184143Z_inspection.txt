@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\starscolab_20260830T184143Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\starscolab_20260830T184143Z.html
+Requested URL    : https://apps.shopify.com/starscolab
+Final URL        : https://apps.shopify.com/starscolab
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,420 bytes / 165,331 chars
+Elapsed          : 0.630s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Starscolab - Find creators, manage campaigns, and measure real sales impact | Shopify App Store
+meta description : Discover creators, run influencer campaigns, and track real ROI. Starscolab helps Shopify brands manage influencer marketing and grow sales.
+canonical URL    : https://apps.shopify.com/starscolab
+<h1> tags ( 1)  : 'Starscolab'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

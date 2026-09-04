@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\viddy-clickable-video-banner_20260830T144829Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\viddy-clickable-video-banner_20260830T144829Z.html
+Requested URL    : https://apps.shopify.com/viddy-clickable-video-banner
+Final URL        : https://apps.shopify.com/viddy-clickable-video-banner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,063 bytes / 167,971 chars
+Elapsed          : 0.906s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Viddy: Clickable Video Banner - Add clickable video banner easily and boost engagement! | Shopify App Store
+meta description : Make your video banner clickable with Viddy. Size and layout options. Easy to set up. Add a link to your entire video background easily!
+canonical URL    : https://apps.shopify.com/viddy-clickable-video-banner
+<h1> tags ( 1)  : 'Viddy: Clickable Video Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

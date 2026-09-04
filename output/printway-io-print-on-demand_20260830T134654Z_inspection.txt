@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printway-io-print-on-demand_20260830T134654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printway-io-print-on-demand_20260830T134654Z.html
+Requested URL    : https://apps.shopify.com/printway-io-print-on-demand
+Final URL        : https://apps.shopify.com/printway-io-print-on-demand
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,585 bytes / 172,468 chars
+Elapsed          : 0.899s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Printway ‑ Print On Demand - Save time managing orders with print-on-demand fulfillment | Shopify App Store
+meta description : Printway helps you launch and scale your print-on-demand business with high-quality home décor products and reliable fulfillment.
+Orders sync autom...
+canonical URL    : https://apps.shopify.com/printway-io-print-on-demand
+<h1> tags ( 1)  : 'Printway ‑ Print On Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syndigo-pim_20260830T143821Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syndigo-pim_20260830T143821Z.html
+Requested URL    : https://apps.shopify.com/syndigo-pim
+Final URL        : https://apps.shopify.com/syndigo-pim
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,455 bytes / 173,366 chars
+Elapsed          : 0.673s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Syndigo PIM Connector - App facilitates data sync between Syndigo PIM and your store | Shopify App Store
+meta description : Syndigo PIM/MDM Connector
+canonical URL    : https://apps.shopify.com/syndigo-pim
+<h1> tags ( 1)  : 'Syndigo PIM Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

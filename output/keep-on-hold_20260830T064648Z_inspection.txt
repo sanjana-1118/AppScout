@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keep-on-hold_20260830T064648Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keep-on-hold_20260830T064648Z.html
+Requested URL    : https://apps.shopify.com/keep-on-hold
+Final URL        : https://apps.shopify.com/keep-on-hold
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,596 bytes / 207,502 chars
+Elapsed          : 0.880s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Keep on Hold: Save Later - Help shoppers save carts for later and share wishlists. | Shopify App Store
+meta description : Keep on Hold: easy wishlist creation and one-click save for later. Boost sales & customer loyalty for online stores. Save desired items for future purchase.
+canonical URL    : https://apps.shopify.com/keep-on-hold
+<h1> tags ( 1)  : 'Keep on Hold: Save Later'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

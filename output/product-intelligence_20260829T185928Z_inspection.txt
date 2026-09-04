@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-intelligence_20260829T185928Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-intelligence_20260829T185928Z.html
+Requested URL    : https://apps.shopify.com/product-intelligence
+Final URL        : https://apps.shopify.com/product-intelligence
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,709 bytes / 187,618 chars
+Elapsed          : 0.854s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Product Intelligence Engine - Find and fix the data errors in your product catalogue. | Shopify App Store
+meta description : Scan your Shopify catalogue for product-data errors that cause Merchant Center disapprovals. Get a Trust Score and prioritised fixes for every product.
+canonical URL    : https://apps.shopify.com/product-intelligence
+<h1> tags ( 1)  : 'Product Intelligence Engine'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

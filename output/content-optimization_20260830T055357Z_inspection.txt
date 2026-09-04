@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\content-optimization_20260830T055357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\content-optimization_20260830T055357Z.html
+Requested URL    : https://apps.shopify.com/content-optimization
+Final URL        : https://apps.shopify.com/content-optimization
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,049 bytes / 191,932 chars
+Elapsed          : 0.603s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kit: Content Optimization - Fix all SEO content issues w/ priority to raise site's... | Shopify App Store
+meta description : Boost traffic and conversions faster by managing all store SEO content in one place. Prioritizing fix with page types, score and smart errors filter.
+canonical URL    : https://apps.shopify.com/content-optimization
+<h1> tags ( 1)  : 'Kit: Content Optimization'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

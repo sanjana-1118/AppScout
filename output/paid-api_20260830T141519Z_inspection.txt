@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paid-api_20260830T141519Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paid-api_20260830T141519Z.html
+Requested URL    : https://apps.shopify.com/paid-api
+Final URL        : https://apps.shopify.com/paid-api
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,853 bytes / 148,790 chars
+Elapsed          : 0.580s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Paid（BtoB後払い）API連携用アプリ - 請求業務の手間と未回収リスクをゼロにするBtoB/企業間の後払い決済サービス | Shopify App Store
+meta description : Paid（BtoB後払い）の会員登録や請求の確定等をAPI連携で自動化することが可能です。
+※利用にはアプリのインストールに加え、別途「Paid（BtoB後払い）」の決済アプリのインストールが必要となります。また、決済アプリのインストールには株式会社ラクーンフィナンシャルとの契約が必要です。 ...
+canonical URL    : https://apps.shopify.com/paid-api?locale=ja
+<h1> tags ( 1)  : 'Paid（BtoB後払い）API連携用アプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sparkit-world_20260830T182953Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sparkit-world_20260830T182953Z.html
+Requested URL    : https://apps.shopify.com/sparkit-world
+Final URL        : https://apps.shopify.com/sparkit-world
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,660 bytes / 182,565 chars
+Elapsed          : 0.989s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sparkit World: Fashion Studio - Sell custom fashion drops we manufacture and ship for you | Shopify App Store
+meta description : Build your fashion brand, source & produce, 700+ factories, 300+ mills, no MOQ.
+canonical URL    : https://apps.shopify.com/sparkit-world
+<h1> tags ( 1)  : 'Sparkit World: Fashion Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

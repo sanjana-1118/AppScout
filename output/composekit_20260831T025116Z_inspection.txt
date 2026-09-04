@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\composekit_20260831T025116Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\composekit_20260831T025116Z.html
+Requested URL    : https://apps.shopify.com/composekit
+Final URL        : https://apps.shopify.com/composekit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,166 bytes / 191,031 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ComposeKit: Bundles & BOGO - Boost order value with bundles, volume deals, and BOGO. | Shopify App Store
+meta description : Build fixed bundles, mix & match sets, volume discounts and BOGO offers. Discounts apply automatically at checkout — no discount codes, no theme code.
+canonical URL    : https://apps.shopify.com/composekit
+<h1> tags ( 1)  : 'ComposeKit: Bundles & BOGO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

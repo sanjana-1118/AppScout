@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dpd-argentina_20260830T032812Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dpd-argentina_20260830T032812Z.html
+Requested URL    : https://apps.shopify.com/dpd-argentina
+Final URL        : https://apps.shopify.com/dpd-argentina
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,024 bytes / 178,849 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DPD Argentina - Calcula el precio de envío automáticamente e imprimí etiquetas | Shopify App Store
+meta description : La Aplicación DPD ofrece las siguientes funcionalidades: 
+● Cotizador online de envíos.
+● Servicios Same Day y Next Day.
+● Puntos de Retiro.
+● Gene...
+canonical URL    : https://apps.shopify.com/dpd-argentina?locale=es
+<h1> tags ( 1)  : 'DPD Argentina'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

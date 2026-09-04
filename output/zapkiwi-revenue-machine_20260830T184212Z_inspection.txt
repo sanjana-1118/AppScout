@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zapkiwi-revenue-machine_20260830T184212Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zapkiwi-revenue-machine_20260830T184212Z.html
+Requested URL    : https://apps.shopify.com/zapkiwi-revenue-machine
+Final URL        : https://apps.shopify.com/zapkiwi-revenue-machine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,563 bytes / 157,474 chars
+Elapsed          : 0.763s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZapKiwi Revenue Machine - Find revenue opportunities in your existing customers | Shopify App Store
+meta description : Identify customers likely to buy again, uncover reorder opportunities, and estimate revenue recovery potential from existing customers.
+canonical URL    : https://apps.shopify.com/zapkiwi-revenue-machine
+<h1> tags ( 1)  : 'ZapKiwi Revenue Machine'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

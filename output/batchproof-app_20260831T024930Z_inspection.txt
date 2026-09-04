@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\batchproof-app_20260831T024930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\batchproof-app_20260831T024930Z.html
+Requested URL    : https://apps.shopify.com/batchproof-app
+Final URL        : https://apps.shopify.com/batchproof-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,997 bytes / 191,890 chars
+Elapsed          : 0.879s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BatchProof - Publish lab results your customers can verify in one scan | Shopify App Store
+meta description : Upload Certificates of Analysis, print batch QR codes, and let customers verify lab results on your storefront. Built for supplement, CBD, and cosmetics brands.
+canonical URL    : https://apps.shopify.com/batchproof-app
+<h1> tags ( 1)  : 'BatchProof'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

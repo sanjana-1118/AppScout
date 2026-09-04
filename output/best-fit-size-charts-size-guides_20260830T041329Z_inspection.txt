@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\best-fit-size-charts-size-guides_20260830T041329Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\best-fit-size-charts-size-guides_20260830T041329Z.html
+Requested URL    : https://apps.shopify.com/best-fit-size-charts-size-guides
+Final URL        : https://apps.shopify.com/best-fit-size-charts-size-guides
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,013 bytes / 245,922 chars
+Elapsed          : 1.532s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BF Size Chart & Size Guide - Easily create Size Chart, Size Guide & Tables + Reduce... | Shopify App Store
+meta description : Shopify Size chart app for Shopify. Create size charts & size guides for all your products in your Shopify store.
+canonical URL    : https://apps.shopify.com/best-fit-size-charts-size-guides
+<h1> tags ( 1)  : 'BF Size Chart & Size Guide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

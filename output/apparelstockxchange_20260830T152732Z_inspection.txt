@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apparelstockxchange_20260830T152732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apparelstockxchange_20260830T152732Z.html
+Requested URL    : https://apps.shopify.com/apparelstockxchange
+Final URL        : https://apps.shopify.com/apparelstockxchange
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,414 bytes / 185,325 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Apparel Stock Xchange - FashionCloud stock and products content connector | Shopify App Store
+meta description : This app connects your Shopify store with FashionCloud, enabling automated product and stock synchronization. Once configured, your store will rece...
+canonical URL    : https://apps.shopify.com/apparelstockxchange
+<h1> tags ( 1)  : 'Apparel Stock Xchange'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

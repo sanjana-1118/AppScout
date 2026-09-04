@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopify-application-554",
+  "fetch_timestamp": "2026-08-31T02:57:11.703932+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-554_20260831T025711Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-554_20260831T025711Z.html",
+    "url": "https://apps.shopify.com/shopify-application-554",
+    "final_url": "https://apps.shopify.com/shopify-application-554",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 184220,
+    "body_text_length": 180715,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.556359,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "シメラク - 掛け売りの月締め請求書を自動作成。繰越残高・入金管理まで対応 | Shopify App Store",
+    "meta_description": "シメラクは、卸・法人取引(掛け売り)のあるストア向けの月締め請求アプリです。得意先ごとに締め日と支払サイトを設定するだけで、対象期間の注文を自動集計し、合算請求書PDFを作成してメールで送付します。締め日は1日から末日まで自由に設定でき、得意先ごとに異なる締め日にも対応します。前回御請求額・御...",
+    "canonical_url": "https://apps.shopify.com/shopify-application-554?locale=ja",
+    "h1_tags": [
+      "シメラク"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "シメラク",
+    "app_slug": "shopify-application-554",
+    "app_url": "https://apps.shopify.com/shopify-application-554?locale=ja",
+    "developer_name": "ルディアセットマネジメント合同会社",
+    "description": "シメラクは、卸・法人取引(掛け売り)のあるストア向けの月締め請求アプリです。得意先ごとに締め日と支払サイトを設定するだけで、対象期間の注文を自動集計し、合算請求書PDFを作成してメールで送付します。締め日は1日から末日まで自由に設定でき、得意先ごとに異なる締め日にも対応します。前回御請求額・御...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Invoices and receipts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-554_20260831T025711Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-554_20260831T025711Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "シメラク",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopify-application-554",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopify-application-554?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "ルディアセットマネジメント合同会社",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "シメラクは、卸・法人取引(掛け売り)のあるストア向けの月締め請求アプリです。得意先ごとに締め日と支払サイトを設定するだけで、対象期間の注文を自動集計し、合算請求書PDFを作成してメールで送付します。締め日は1日から末日まで自由に設定でき、得意先ごとに異なる締め日にも対応します。前回御請求額・御...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Invoices and receipts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

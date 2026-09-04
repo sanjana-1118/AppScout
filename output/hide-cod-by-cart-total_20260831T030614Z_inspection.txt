@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hide-cod-by-cart-total_20260831T030614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hide-cod-by-cart-total_20260831T030614Z.html
+Requested URL    : https://apps.shopify.com/hide-cod-by-cart-total
+Final URL        : https://apps.shopify.com/hide-cod-by-cart-total
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,508 bytes / 156,409 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Manca: Hide COD by Cart Total - Hide Cash on Delivery above a cart total you choose | Shopify App Store
+meta description : Automatically hide Cash on Delivery at checkout when the cart total is above a limit you set. Free app, one-field setup, no code.
+canonical URL    : https://apps.shopify.com/hide-cod-by-cart-total
+<h1> tags ( 1)  : 'Manca: Hide COD by Cart Total'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

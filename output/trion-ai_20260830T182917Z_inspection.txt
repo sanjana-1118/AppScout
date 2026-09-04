@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trion-ai_20260830T182917Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trion-ai_20260830T182917Z.html
+Requested URL    : https://apps.shopify.com/trion-ai
+Final URL        : https://apps.shopify.com/trion-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,660 bytes / 166,519 chars
+Elapsed          : 0.643s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trion AI ‑ Virtual Try‑On - AI virtual try-on for your store's products | Shopify App Store
+meta description : Trion AI adds a "Try It On" button to your product pages. Shoppers upload one photo and instantly see themselves wearing your clothing, generated b...
+canonical URL    : https://apps.shopify.com/trion-ai
+<h1> tags ( 1)  : 'Trion AI ‑ Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

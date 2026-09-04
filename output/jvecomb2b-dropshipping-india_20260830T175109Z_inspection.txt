@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jvecomb2b-dropshipping-india_20260830T175109Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jvecomb2b-dropshipping-india_20260830T175109Z.html
+Requested URL    : https://apps.shopify.com/jvecomb2b-dropshipping-india
+Final URL        : https://apps.shopify.com/jvecomb2b-dropshipping-india
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,560 bytes / 183,471 chars
+Elapsed          : 0.909s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JVECOMB2B - Source supplier products and automate dropshipping orders | Shopify App Store
+meta description : JVECOMB2B empowers Indian dropshippers to source wholesale products, push them to Shopify in 1-click, and sync inventory in real-time. Fulfill cust...
+canonical URL    : https://apps.shopify.com/jvecomb2b-dropshipping-india
+<h1> tags ( 1)  : 'JVECOMB2B'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

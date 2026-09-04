@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\click-upsell_20260830T132153Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\click-upsell_20260830T132153Z.html
+Requested URL    : https://apps.shopify.com/click-upsell
+Final URL        : https://apps.shopify.com/click-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,404 bytes / 176,286 chars
+Elapsed          : 0.907s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reverse COD Form & Upsell -  Form Cash On Delivery (COD)  | Shopify App Store
+meta description : Cash On Delivery formulario para agilizar tus ventas sin necesidad de pasar por formularios engorrosos.
+canonical URL    : https://apps.shopify.com/click-upsell?locale=es
+<h1> tags ( 1)  : 'Reverse COD Form & Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

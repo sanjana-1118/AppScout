@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\envios-por-correoschile_20260830T131625Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\envios-por-correoschile_20260830T131625Z.html
+Requested URL    : https://apps.shopify.com/envios-por-correoschile
+Final URL        : https://apps.shopify.com/envios-por-correoschile
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,814 bytes / 183,669 chars
+Elapsed          : 0.877s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Envíos por CorreosChile - Calcula tus tarifas y gestiona tus envíos con CorreosChile | Shopify App Store
+meta description : Calcula el precio de tus despachos dependiendo del servicio, origen-destino, peso físico y volumétrico. Así podrás informar la tarifa en el momento...
+canonical URL    : https://apps.shopify.com/envios-por-correoschile?locale=es
+<h1> tags ( 1)  : 'Envíos por CorreosChile'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

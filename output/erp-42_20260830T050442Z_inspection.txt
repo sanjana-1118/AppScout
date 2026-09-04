@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\erp-42_20260830T050442Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\erp-42_20260830T050442Z.html
+Requested URL    : https://apps.shopify.com/erp-42
+Final URL        : https://apps.shopify.com/erp-42
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 149,469 bytes / 149,194 chars
+Elapsed          : 0.653s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : jackyun Cross‑border ERP - Provide digital solutions for cross-border enterprises | Shopify App Store
+meta description : Provide digital solutions for cross-border enterprises
+canonical URL    : https://apps.shopify.com/erp-42
+<h1> tags ( 1)  : 'jackyun Cross‑border ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

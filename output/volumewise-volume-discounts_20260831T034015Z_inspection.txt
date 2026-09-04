@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\volumewise-volume-discounts_20260831T034015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\volumewise-volume-discounts_20260831T034015Z.html
+Requested URL    : https://apps.shopify.com/volumewise-volume-discounts
+Final URL        : https://apps.shopify.com/volumewise-volume-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,051 bytes / 197,924 chars
+Elapsed          : 1.099s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VolumeWise ‑ Volume Discounts - Sell more per order with volume discounts. Setup in 2... | Shopify App Store
+meta description : Add tiered volume discounts to any product or collection. Built on Shopify Functions — works with Apple Pay, Google Pay, and all accelerated checkouts.
+canonical URL    : https://apps.shopify.com/volumewise-volume-discounts
+<h1> tags ( 1)  : 'VolumeWise ‑ Volume Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

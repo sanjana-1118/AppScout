@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\surchi-fees-and-surcharges_20260830T044410Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\surchi-fees-and-surcharges_20260830T044410Z.html
+Requested URL    : https://apps.shopify.com/surchi-fees-and-surcharges
+Final URL        : https://apps.shopify.com/surchi-fees-and-surcharges
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,204 bytes / 171,115 chars
+Elapsed          : 0.938s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Surchi: Fees and Surcharges - Apply fees and surcharges in POS to orders or products | Shopify App Store
+meta description : Surchi: Fees and Surcharges makes it easy to apply extra fees in Shopify POS. Just tap the tile to enable it, and fees will automatically adjust as...
+canonical URL    : https://apps.shopify.com/surchi-fees-and-surcharges
+<h1> tags ( 1)  : 'Surchi: Fees and Surcharges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

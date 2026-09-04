@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instant-reviews_20260829T184430Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instant-reviews_20260829T184430Z.html
+Requested URL    : https://apps.shopify.com/instant-reviews
+Final URL        : https://apps.shopify.com/instant-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,400 bytes / 203,303 chars
+Elapsed          : 0.974s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Instant Product Reviews - Photo reviews and Q&A in widgets that match your theme | Shopify App Store
+meta description : Collect photo and video product reviews from verified buyers, answer customer questions, and show both in widgets styled to match your store theme.
+canonical URL    : https://apps.shopify.com/instant-reviews
+<h1> tags ( 1)  : 'Instant Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

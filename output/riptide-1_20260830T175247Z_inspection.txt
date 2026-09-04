@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\riptide-1_20260830T175247Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\riptide-1_20260830T175247Z.html
+Requested URL    : https://apps.shopify.com/riptide-1
+Final URL        : https://apps.shopify.com/riptide-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,986 bytes / 208,889 chars
+Elapsed          : 0.959s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Riptide - Reward repeat customers with points, tiers, and referrals | Shopify App Store
+meta description : Reward repeat customers with a flexible loyalty program. Earn points on orders, unlock VIP tiers, run referrals, and send birthday rewards. Free plan available.
+canonical URL    : https://apps.shopify.com/riptide-1
+<h1> tags ( 1)  : 'Riptide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

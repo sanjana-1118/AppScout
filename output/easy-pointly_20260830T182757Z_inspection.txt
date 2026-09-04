@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-pointly_20260830T182757Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-pointly_20260830T182757Z.html
+Requested URL    : https://apps.shopify.com/easy-pointly
+Final URL        : https://apps.shopify.com/easy-pointly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,235 bytes / 211,142 chars
+Elapsed          : 0.826s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Pointly - Turn every purchase into loyalty points, tiers, and referrals. | Shopify App Store
+meta description : Easy Pointly helps Shopify merchants boost retention with loyalty points, tier rewards, referral programs, and free shipping. Free plan. 30-day Pro trial.
+canonical URL    : https://apps.shopify.com/easy-pointly
+<h1> tags ( 1)  : 'Easy Pointly'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

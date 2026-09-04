@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spin-studio_20260830T075015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spin-studio_20260830T075015Z.html
+Requested URL    : https://apps.shopify.com/spin-studio
+Final URL        : https://apps.shopify.com/spin-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,307 bytes / 212,175 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Spin Studio ‑ 360 Product Spin - Add Animated product images as 360 spin images with 3D... | Shopify App Store
+meta description : Show off your product to online customers in a 360 view and help prospective buyers overcome any doubts about its quality!
+Instead of viewing plain...
+canonical URL    : https://apps.shopify.com/spin-studio
+<h1> tags ( 1)  : 'Spin Studio ‑ 360 Product Spin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

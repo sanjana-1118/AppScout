@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mayl-logistics_20260831T034136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mayl-logistics_20260831T034136Z.html
+Requested URL    : https://apps.shopify.com/mayl-logistics
+Final URL        : https://apps.shopify.com/mayl-logistics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,752 bytes / 172,659 chars
+Elapsed          : 0.704s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mayl Logistics - Courier integration to create shipments and track deliver | Shopify App Store
+meta description : This app give you a complete logistics and courier solution for Shopify stores. Merchants can instantly create shipments, manage cash-on-delivery o...
+canonical URL    : https://apps.shopify.com/mayl-logistics
+<h1> tags ( 1)  : 'Mayl Logistics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

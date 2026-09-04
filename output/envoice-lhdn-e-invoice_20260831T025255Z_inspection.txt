@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\envoice-lhdn-e-invoice_20260831T025255Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\envoice-lhdn-e-invoice_20260831T025255Z.html
+Requested URL    : https://apps.shopify.com/envoice-lhdn-e-invoice
+Final URL        : https://apps.shopify.com/envoice-lhdn-e-invoice
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,310 bytes / 187,199 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : envoice: LHDN E‑Invoice - File LHDN MyInvois e-invoices automatically from your orders | Shopify App Store
+meta description : Automatically file LHDN MyInvois e-invoices from your store orders. Auto-submit, consolidated filing, refund credit notes and buyer TIN verification.
+canonical URL    : https://apps.shopify.com/envoice-lhdn-e-invoice
+<h1> tags ( 1)  : 'envoice: LHDN E‑Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

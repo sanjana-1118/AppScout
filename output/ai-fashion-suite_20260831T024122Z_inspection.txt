@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-fashion-suite_20260831T024122Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-fashion-suite_20260831T024122Z.html
+Requested URL    : https://apps.shopify.com/ai-fashion-suite
+Final URL        : https://apps.shopify.com/ai-fashion-suite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,326 bytes / 218,207 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Fashion Virtual Try‑On - AI Try-On, Find My Size, Reviews, Wishlist & More Sales... | Shopify App Store
+meta description : Let shoppers preview clothing with AI try-on, use a personalized Size Guide, create on-model photos, capture opt-in emails and track engagement
+canonical URL    : https://apps.shopify.com/ai-fashion-suite
+<h1> tags ( 1)  : 'AI Fashion Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

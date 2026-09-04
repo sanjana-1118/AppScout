@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\acme-alerts_20260830T154900Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\acme-alerts_20260830T154900Z.html
+Requested URL    : https://apps.shopify.com/acme-alerts
+Final URL        : https://apps.shopify.com/acme-alerts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,941 bytes / 163,744 chars
+Elapsed          : 0.775s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ACME‑Alerts - Echtzeit‑Kauf‑Alerts als Overlay für Twitch/OBS | Shopify App Store
+meta description : ACME-Alerts verbindet deinen Shop mit deinem Livestream. Bei neuen Bestellungen löst die App automatisch ein visuelles und optional akustisches Ale ...
+canonical URL    : https://apps.shopify.com/acme-alerts?locale=de
+<h1> tags ( 1)  : 'ACME‑Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

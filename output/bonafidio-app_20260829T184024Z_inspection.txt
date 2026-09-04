@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bonafidio-app_20260829T184024Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bonafidio-app_20260829T184024Z.html
+Requested URL    : https://apps.shopify.com/bonafidio-app
+Final URL        : https://apps.shopify.com/bonafidio-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,636 bytes / 193,517 chars
+Elapsed          : 1.130s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bonafidio: UGC & Testimonials - Collect authentic UGC from real customers on autopilot | Shopify App Store
+meta description : Turn customer stories into content that builds trust and drives sales. Bonafidio makes it easy with a branded landing page, incentives, and a clean dashboard.
+canonical URL    : https://apps.shopify.com/bonafidio-app
+<h1> tags ( 1)  : 'Bonafidio: UGC & Testimonials'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

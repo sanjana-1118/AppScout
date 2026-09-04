@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartflow-checkout_20260830T161548Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartflow-checkout_20260830T161548Z.html
+Requested URL    : https://apps.shopify.com/smartflow-checkout
+Final URL        : https://apps.shopify.com/smartflow-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,791 bytes / 195,702 chars
+Elapsed          : 0.994s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SmartFlow Checkout - Boost AOV with Checkout Upsells, COD & Smart Rules | Shopify App Store
+meta description : SmartFlow Checkout is a Shopify checkout customization app that helps merchants increase conversions and boost average order value (AOV).
+canonical URL    : https://apps.shopify.com/smartflow-checkout
+<h1> tags ( 1)  : 'SmartFlow Checkout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

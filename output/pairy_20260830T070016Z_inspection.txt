@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pairy_20260830T070016Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pairy_20260830T070016Z.html
+Requested URL    : https://apps.shopify.com/pairy
+Final URL        : https://apps.shopify.com/pairy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,849 bytes / 214,674 chars
+Elapsed          : 0.719s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pairy - Bogføring til Billy, Dinero og e-conomic regnskabsprogrammer | Shopify App Store
+meta description : Automatisk bogføring af Shopify-ordrer til Dinero, e-conomic og Billy. Spar tid på manuelt tastearbejde. Prøv gratis i 30 dage uden binding.
+canonical URL    : https://apps.shopify.com/pairy?locale=da
+<h1> tags ( 1)  : 'Pairy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

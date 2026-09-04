@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\motofit_20260830T063055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\motofit_20260830T063055Z.html
+Requested URL    : https://apps.shopify.com/motofit
+Final URL        : https://apps.shopify.com/motofit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,023 bytes / 176,884 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MotoFit ‑ Off‑Road YMM Fitment - Show riders exactly which parts fit their bike | Shopify App Store
+meta description : MotoFit adds YMM fitment to your store, so riders instantly find dirt bike, motocross & enduro parts that fit
+canonical URL    : https://apps.shopify.com/motofit
+<h1> tags ( 1)  : 'MotoFit ‑ Off‑Road YMM Fitment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

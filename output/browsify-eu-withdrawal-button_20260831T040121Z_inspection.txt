@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\browsify-eu-withdrawal-button_20260831T040121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\browsify-eu-withdrawal-button_20260831T040121Z.html
+Requested URL    : https://apps.shopify.com/browsify-eu-withdrawal-button
+Final URL        : https://apps.shopify.com/browsify-eu-withdrawal-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,851 bytes / 194,754 chars
+Elapsed          : 0.637s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Browsify: EU Withdrawal Button - Compliant EU withdrawal button with native Returns sync | Shopify App Store
+meta description : Add a compliant EU withdrawal button to your store. 2-step guest form, 14-day window, native Shopify Returns sync, and 26-language support.
+canonical URL    : https://apps.shopify.com/browsify-eu-withdrawal-button
+<h1> tags ( 1)  : 'Browsify: EU Withdrawal Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

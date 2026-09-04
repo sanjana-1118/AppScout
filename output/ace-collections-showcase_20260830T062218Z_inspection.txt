@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ace-collections-showcase_20260830T062218Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ace-collections-showcase_20260830T062218Z.html
+Requested URL    : https://apps.shopify.com/ace-collections-showcase
+Final URL        : https://apps.shopify.com/ace-collections-showcase
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,501 bytes / 182,400 chars
+Elapsed          : 0.508s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Collection Slider & Carousel - Collection grids, sliders, marque, hotspots, masonry, carousel | Shopify App Store
+meta description : Showcase collections with responsive grids, sliders, masonry & templates. No coding needed. Customize layouts, spacing, animations & styles easily.
+canonical URL    : https://apps.shopify.com/ace-collections-showcase
+<h1> tags ( 1)  : 'Collection Slider & Carousel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crossma_20260830T032303Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crossma_20260830T032303Z.html
+Requested URL    : https://apps.shopify.com/crossma
+Final URL        : https://apps.shopify.com/crossma
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,421 bytes / 176,898 chars
+Elapsed          : 0.492s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Crossma(クロスマ) - ECの受注から出荷 / 在庫連携を全て自動化 | Shopify App Store
+meta description : 受注・出荷・在庫を一元管理。出品作業や出荷指示を自動化し、日々の運営を効率化。誰でも簡単に使える多機能アプリです。
+canonical URL    : https://apps.shopify.com/crossma?locale=ja
+<h1> tags ( 1)  : 'Crossma(クロスマ)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

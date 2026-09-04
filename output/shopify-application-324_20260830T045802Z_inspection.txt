@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-324_20260830T045802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-324_20260830T045802Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-324
+Final URL        : https://apps.shopify.com/shopify-application-324
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,241 bytes / 180,604 chars
+Elapsed          : 0.516s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ネクストエンジン自動連携 - ネクストエンジンで受注・在庫を一元管理し、EC運営を効率化。自動化で業務負担とコストを軽減し、本業に集中可能な状態を支援 | Shopify App Store
+meta description : # 受注の自動取込み
+Shopifyに注文が入ると自動的にネクストエンジンに受注伝票が作成されます。その他運営するEC店舗の受注もネクストエンジンで管理することで、それぞれの管理画面にて操作する必要なくネクストエンジンの画面上で受注伝票の処理が可能です。
+
+# 在庫情報を自動反映
+ネクストエン...
+canonical URL    : https://apps.shopify.com/shopify-application-324?locale=ja
+<h1> tags ( 1)  : 'ネクストエンジン自動連携'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conative-ai_20260830T150829Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conative-ai_20260830T150829Z.html
+Requested URL    : https://apps.shopify.com/conative-ai
+Final URL        : https://apps.shopify.com/conative-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,699 bytes / 198,606 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Conative AI - Avoid stock issues and streamline your inventory with AI | Shopify App Store
+meta description : Conative AI helps growing brands optimize inventory planning with AI-driven demand forecasting to prevent stockouts and overstocks, and greatly sim...
+canonical URL    : https://apps.shopify.com/conative-ai
+<h1> tags ( 1)  : 'Conative AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/gambit-store-advisor",
+  "fetch_timestamp": "2026-08-30T07:45:14.122180+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gambit-store-advisor_20260830T074514Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gambit-store-advisor_20260830T074514Z.html",
+    "url": "https://apps.shopify.com/gambit-store-advisor",
+    "final_url": "https://apps.shopify.com/gambit-store-advisor",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 164675,
+    "body_text_length": 164568,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.812593,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Gambit ‑ Store Advisor - Deep store analysis and clear fixes to increase sales | Shopify App Store",
+    "meta_description": "Gambit scans your Shopify theme and shows you exactly where it's costing you conversions. Instead of a noisy report full of maybes, it surfaces the...",
+    "canonical_url": "https://apps.shopify.com/gambit-store-advisor",
+    "h1_tags": [
+      "Gambit ‑ Store Advisor"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Gambit ‑ Store Advisor",
+    "app_slug": "gambit-store-advisor",
+    "app_url": "https://apps.shopify.com/gambit-store-advisor",
+    "developer_name": "Gambit Technologies, LLC",
+    "description": "Gambit scans your Shopify theme and shows you exactly where it's costing you conversions. Instead of a noisy report full of maybes, it surfaces the...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Analytics"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gambit-store-advisor_20260830T074514Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gambit-store-advisor_20260830T074514Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Gambit ‑ Store Advisor",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "gambit-store-advisor",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/gambit-store-advisor",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Gambit Technologies, LLC",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Gambit scans your Shopify theme and shows you exactly where it's costing you conversions. Instead of a noisy report full of maybes, it surfaces the...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Analytics",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

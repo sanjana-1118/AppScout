@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-request-quote-approve_20260830T045158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-request-quote-approve_20260830T045158Z.html
+Requested URL    : https://apps.shopify.com/b2b-request-quote-approve
+Final URL        : https://apps.shopify.com/b2b-request-quote-approve
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,193 bytes / 200,090 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B | Request Quote & Approve - Accept quote requests and send custom offers to customers | Shopify App Store
+meta description : Let customers request quotes directly from your Shopify store. Manage requests, chat with customers, and send custom offers as draft orders-all in one dashboard
+canonical URL    : https://apps.shopify.com/b2b-request-quote-approve
+<h1> tags ( 1)  : 'B2B | Request Quote & Approve'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

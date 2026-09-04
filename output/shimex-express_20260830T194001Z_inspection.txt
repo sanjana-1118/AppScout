@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shimex-express_20260830T194001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shimex-express_20260830T194001Z.html
+Requested URL    : https://apps.shopify.com/shimex-express
+Final URL        : https://apps.shopify.com/shimex-express
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,356 bytes / 175,243 chars
+Elapsed          : 0.598s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shimex Express - App let's you fulfill or delete orders by a click. | Shopify App Store
+meta description : Shimex Express lets you fulfill Shopify orders using Shimex’s courier network in one click. After installation, unfulfilled orders sync automatical...
+canonical URL    : https://apps.shopify.com/shimex-express
+<h1> tags ( 1)  : 'Shimex Express'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

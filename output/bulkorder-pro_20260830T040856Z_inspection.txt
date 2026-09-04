@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulkorder-pro_20260830T040856Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulkorder-pro_20260830T040856Z.html
+Requested URL    : https://apps.shopify.com/bulkorder-pro
+Final URL        : https://apps.shopify.com/bulkorder-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,440 bytes / 182,323 chars
+Elapsed          : 0.589s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BulkOrder Pro — Volume Selling - Automatic quantity discounts with a live product page table | Shopify App Store
+meta description : Turn customers into volume shoppers with a modern, collapsible quantity discount table that updates live on the product page. Customers see exactly...
+canonical URL    : https://apps.shopify.com/bulkorder-pro
+<h1> tags ( 1)  : 'BulkOrder Pro — Volume Selling'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

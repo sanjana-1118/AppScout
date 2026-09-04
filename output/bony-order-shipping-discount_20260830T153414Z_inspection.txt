@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bony-order-shipping-discount_20260830T153414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bony-order-shipping-discount_20260830T153414Z.html
+Requested URL    : https://apps.shopify.com/bony-order-shipping-discount
+Final URL        : https://apps.shopify.com/bony-order-shipping-discount
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,857 bytes / 196,760 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bony Automatic Discount App - Boost AOV with tiered, bundle and automatic discounts | Shopify App Store
+meta description : Create shipping discount, product discount and order discount with few clicks. Easy to setup, no code required
+canonical URL    : https://apps.shopify.com/bony-order-shipping-discount
+<h1> tags ( 1)  : 'Bony Automatic Discount App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

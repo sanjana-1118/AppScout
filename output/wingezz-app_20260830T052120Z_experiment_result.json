@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/wingezz-app",
+  "fetch_timestamp": "2026-08-30T05:21:20.223068+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wingezz-app_20260830T052120Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wingezz-app_20260830T052120Z.html",
+    "url": "https://apps.shopify.com/wingezz-app",
+    "final_url": "https://apps.shopify.com/wingezz-app",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 156734,
+    "body_text_length": 156637,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.752764,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Wingezz App - Wingezz speeds delivery | Shopify App Store",
+    "meta_description": "View Shopify orders directly inside the Shopify Admin. Fast search, and clean UI—no external workflow required....",
+    "canonical_url": "https://apps.shopify.com/wingezz-app",
+    "h1_tags": [
+      "Wingezz App"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Wingezz App",
+    "app_slug": "wingezz-app",
+    "app_url": "https://apps.shopify.com/wingezz-app",
+    "developer_name": "Wingezz",
+    "description": "View Shopify orders directly inside the Shopify Admin. Fast search, and clean UI—no external workflow required....",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Orders - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wingezz-app_20260830T052120Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wingezz-app_20260830T052120Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Wingezz App",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "wingezz-app",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/wingezz-app",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Wingezz",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "View Shopify orders directly inside the Shopify Admin. Fast search, and clean UI—no external workflow required....",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Orders - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

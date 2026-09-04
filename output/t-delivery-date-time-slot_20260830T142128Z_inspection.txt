@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\t-delivery-date-time-slot_20260830T142128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\t-delivery-date-time-slot_20260830T142128Z.html
+Requested URL    : https://apps.shopify.com/t-delivery-date-time-slot
+Final URL        : https://apps.shopify.com/t-delivery-date-time-slot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,768 bytes / 182,679 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : T: Delivery Date & Time Slot - Let customers can select delivery date & time for their... | Shopify App Store
+meta description : Allow customers to instantly select their preferred delivery date and time for a seamless shopping experience.
+canonical URL    : https://apps.shopify.com/t-delivery-date-time-slot
+<h1> tags ( 1)  : 'T: Delivery Date & Time Slot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

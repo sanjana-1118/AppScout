@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-2_20260830T185641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-2_20260830T185641Z.html
+Requested URL    : https://apps.shopify.com/eu-withdrawal-2
+Final URL        : https://apps.shopify.com/eu-withdrawal-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,758 bytes / 177,662 chars
+Elapsed          : 0.910s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blockly Right of Withdrawal - Easily comply with EU withdrawal requirements 2023/2673 | Shopify App Store
+meta description : Starting 2026, the withdrawal button becomes mandatory under EU Directive 2023/2673. Integrate the legally required EU withdrawal button directly i...
+canonical URL    : https://apps.shopify.com/eu-withdrawal-2
+<h1> tags ( 1)  : 'Blockly Right of Withdrawal'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

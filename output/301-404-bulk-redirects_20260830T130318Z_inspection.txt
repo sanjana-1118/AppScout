@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\301-404-bulk-redirects_20260830T130318Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\301-404-bulk-redirects_20260830T130318Z.html
+Requested URL    : https://apps.shopify.com/301-404-bulk-redirects
+Final URL        : https://apps.shopify.com/301-404-bulk-redirects
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,074 bytes / 185,985 chars
+Elapsed          : 0.779s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qe: Quick Link Redirect - Streamline Store SEO & Redirects with Quick Redirect Solutions | Shopify App Store
+meta description : Fix 404 errors, manage 301 redirects, and boost SEO effortlessly. Redirect broken links, preserve rankings, and enhance user experience with Quick Redirect.
+canonical URL    : https://apps.shopify.com/301-404-bulk-redirects
+<h1> tags ( 1)  : 'Qe: Quick Link Redirect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

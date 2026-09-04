@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foodlabelkit_20260830T194253Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foodlabelkit_20260830T194253Z.html
+Requested URL    : https://apps.shopify.com/foodlabelkit
+Final URL        : https://apps.shopify.com/foodlabelkit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,536 bytes / 165,441 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FoodLabelKit - EU nutrition, ingredients & allergen info on product pages | Shopify App Store
+meta description : FoodLabelKit adds a clear food information panel to your product pages. Each product shows its own nutrition declaration, ingredients with allergen...
+canonical URL    : https://apps.shopify.com/foodlabelkit
+<h1> tags ( 1)  : 'FoodLabelKit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

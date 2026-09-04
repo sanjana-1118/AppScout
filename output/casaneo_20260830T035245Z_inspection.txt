@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\casaneo_20260830T035245Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\casaneo_20260830T035245Z.html
+Requested URL    : https://apps.shopify.com/casaneo
+Final URL        : https://apps.shopify.com/casaneo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,970 bytes / 171,805 chars
+Elapsed          : 1.043s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Casaneo - Affiliation et influence pour la mode, maison et beauté | Shopify App Store
+meta description : Casaneo réunit affiliation et influence dans une même plateforme pour les marques mode, maison et beauté ; cette app relie votre boutique Shopify à...
+canonical URL    : https://apps.shopify.com/casaneo?locale=fr
+<h1> tags ( 1)  : 'Casaneo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

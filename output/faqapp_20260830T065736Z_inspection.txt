@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faqapp_20260830T065736Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faqapp_20260830T065736Z.html
+Requested URL    : https://apps.shopify.com/faqapp
+Final URL        : https://apps.shopify.com/faqapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,249 bytes / 226,162 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trusted Help Center & FAQ - Add customizable FAQ or product FAQs with AI JSON-LD schema! | Shopify App Store
+meta description : Trusted helps you to create modern FAQ pages for your store. The app is carefully built by taking all end users into consideration which makes your life easy.
+canonical URL    : https://apps.shopify.com/faqapp
+<h1> tags ( 1)  : 'Trusted Help Center & FAQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\acta-ai_20260830T170458Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\acta-ai_20260830T170458Z.html
+Requested URL    : https://apps.shopify.com/acta-ai
+Final URL        : https://apps.shopify.com/acta-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,467 bytes / 193,374 chars
+Elapsed          : 0.745s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Acta AI - Turns your business knowledge into published blog posts. | Shopify App Store
+meta description : Acta AI writes and publishes SEO blog posts to your Shopify store on a schedule. Posts are built from your real expertise, reviewed, & published automatically
+canonical URL    : https://apps.shopify.com/acta-ai
+<h1> tags ( 1)  : 'Acta AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

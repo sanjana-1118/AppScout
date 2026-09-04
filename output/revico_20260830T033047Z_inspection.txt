@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revico_20260830T033047Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revico_20260830T033047Z.html
+Requested URL    : https://apps.shopify.com/revico
+Final URL        : https://apps.shopify.com/revico
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,605 bytes / 175,356 chars
+Elapsed          : 0.410s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReviCo - “自走する” レビューマーケティング プラットフォーム ReviCo[レビコ] | Shopify App Store
+meta description : レビューを集めるなら「ReviCo」！良質なレビューを収集・分析し、ECサイトの集客・接客・追客・サービス改善を促進させるレビュー最適化ツール
+canonical URL    : https://apps.shopify.com/revico?locale=ja
+<h1> tags ( 1)  : 'ReviCo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

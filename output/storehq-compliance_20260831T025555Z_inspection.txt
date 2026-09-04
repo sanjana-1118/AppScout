@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storehq-compliance_20260831T025555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storehq-compliance_20260831T025555Z.html
+Requested URL    : https://apps.shopify.com/storehq-compliance
+Final URL        : https://apps.shopify.com/storehq-compliance
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,996 bytes / 169,901 chars
+Elapsed          : 0.965s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreHQ: Compliance Scanner - Audit policies, privacy, ads & accessibility for legal risks | Shopify App Store
+meta description : StoreHQ Compliance Scanner audits your storefront for common legal and platform
+compliance risks. It checks your store policies, cookie and privacy...
+canonical URL    : https://apps.shopify.com/storehq-compliance
+<h1> tags ( 1)  : 'StoreHQ: Compliance Scanner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getsync-per-easyfatt_20260830T050614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getsync-per-easyfatt_20260830T050614Z.html
+Requested URL    : https://apps.shopify.com/getsync-per-easyfatt
+Final URL        : https://apps.shopify.com/getsync-per-easyfatt
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,283 bytes / 206,179 chars
+Elapsed          : 0.943s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GetSync per Easyfatt - Danea Easyfatt finalmente connesso al tuo e-shop | Shopify App Store
+meta description : Integrazione Danea Easyfatt - Shopify | Plugin per trasferimento automatico ordini, catalogo e giacenze | Prova subito la versione free
+canonical URL    : https://apps.shopify.com/getsync-per-easyfatt?locale=it
+<h1> tags ( 1)  : 'GetSync per Easyfatt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

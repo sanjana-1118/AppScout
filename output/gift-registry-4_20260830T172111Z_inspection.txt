@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gift-registry-4_20260830T172111Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gift-registry-4_20260830T172111Z.html
+Requested URL    : https://apps.shopify.com/gift-registry-4
+Final URL        : https://apps.shopify.com/gift-registry-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,077 bytes / 182,988 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gift Registry - Let customers create and share gift registries for any event. | Shopify App Store
+meta description : Add gift registries to your Shopify store. Customers create and share registries for weddings, baby showers etc.. Purchases tracked automatically.
+canonical URL    : https://apps.shopify.com/gift-registry-4
+<h1> tags ( 1)  : 'Gift Registry'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

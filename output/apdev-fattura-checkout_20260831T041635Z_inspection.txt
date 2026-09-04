@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apdev-fattura-checkout_20260831T041635Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apdev-fattura-checkout_20260831T041635Z.html
+Requested URL    : https://apps.shopify.com/apdev-fattura-checkout
+Final URL        : https://apps.shopify.com/apdev-fattura-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,872 bytes / 174,772 chars
+Elapsed          : 0.500s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dati Fatturazione Elettronica - Partita IVA, SDI/PEC su cart, checkout, thankyou page e ordine | Shopify App Store
+meta description : Raccogli P.IV.A, codice SDI o PEC e richiesta fattura da carrello, checkout (solo Shopify Plus) e thank-you page.
+I dati sono salvati nei metafield dell'ordine
+canonical URL    : https://apps.shopify.com/apdev-fattura-checkout?locale=it
+<h1> tags ( 1)  : 'Dati Fatturazione Elettronica'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

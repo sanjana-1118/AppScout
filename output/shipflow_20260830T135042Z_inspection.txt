@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipflow_20260830T135042Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipflow_20260830T135042Z.html
+Requested URL    : https://apps.shopify.com/shipflow
+Final URL        : https://apps.shopify.com/shipflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,428 bytes / 178,309 chars
+Elapsed          : 0.990s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipflow ‑ Tabela de Frete - Sell more with shipping promotions customized per regions | Shopify App Store
+meta description : Adicione preços para cada entrega e crie regras de frete por regiões do Brasil para seu contrato com transportadoras, entregas locais ou priorizadas.
+canonical URL    : https://apps.shopify.com/shipflow
+<h1> tags ( 1)  : 'Shipflow ‑ Tabela de Frete'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

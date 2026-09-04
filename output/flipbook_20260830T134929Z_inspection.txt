@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flipbook_20260830T134929Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flipbook_20260830T134929Z.html
+Requested URL    : https://apps.shopify.com/flipbook
+Final URL        : https://apps.shopify.com/flipbook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,561 bytes / 171,468 chars
+Elapsed          : 0.725s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wizy Flipbook - Download now and start creating your product catalogs | Shopify App Store
+meta description : Increase your engagement by creating your product catalog with Rakita: Flipbook
+canonical URL    : https://apps.shopify.com/flipbook
+<h1> tags ( 1)  : 'Wizy Flipbook'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

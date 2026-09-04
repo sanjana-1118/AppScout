@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\presto-bundles_20260831T024216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\presto-bundles_20260831T024216Z.html
+Requested URL    : https://apps.shopify.com/presto-bundles
+Final URL        : https://apps.shopify.com/presto-bundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,233 bytes / 178,140 chars
+Elapsed          : 0.428s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Presto Bundles - Design interactive bundle builders with live previews | Shopify App Store
+meta description : Create guided bundle builders, product configurators, build-a-box experiences, and mix-and-match bundles with an intuitive Shopify-inspired editor.
+canonical URL    : https://apps.shopify.com/presto-bundles
+<h1> tags ( 1)  : 'Presto Bundles'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-notification-2_20260830T145110Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-notification-2_20260830T145110Z.html
+Requested URL    : https://apps.shopify.com/sms-notification-2
+Final URL        : https://apps.shopify.com/sms-notification-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 149,043 bytes / 148,954 chars
+Elapsed          : 0.836s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Aroshiya SMS Carrier - Notification of User Activity on your store | Shopify App Store
+meta description : Our app enables you to easily incorporate SMS notifications into your application, offering a useful method of user communication. Send crucial inf...
+canonical URL    : https://apps.shopify.com/sms-notification-2
+<h1> tags ( 1)  : 'Aroshiya SMS Carrier'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

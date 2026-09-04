@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dpdp-compliance_20260830T162713Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dpdp-compliance_20260830T162713Z.html
+Requested URL    : https://apps.shopify.com/dpdp-compliance
+Final URL        : https://apps.shopify.com/dpdp-compliance
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,095 bytes / 170,000 chars
+Elapsed          : 0.970s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DPDP Compliance India - DPDP consent and privacy tools built for India. | Shopify App Store
+meta description : DPDP-ready consent, privacy center, and data requests for Shopify stores in India.
+canonical URL    : https://apps.shopify.com/dpdp-compliance
+<h1> tags ( 1)  : 'DPDP Compliance India'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

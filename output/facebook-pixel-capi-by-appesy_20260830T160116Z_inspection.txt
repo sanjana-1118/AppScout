@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\facebook-pixel-capi-by-appesy_20260830T160116Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\facebook-pixel-capi-by-appesy_20260830T160116Z.html
+Requested URL    : https://apps.shopify.com/facebook-pixel-capi-by-appesy
+Final URL        : https://apps.shopify.com/facebook-pixel-capi-by-appesy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,313 bytes / 179,222 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CAPI & Facebook Pixel: Appesy - Easy Facebook Pixel & CAPI setup for smooth tracking | Shopify App Store
+meta description : Easily set up Facebook Pixel & CAPI by Appesy on Shopify. Improve tracking, boost Event Match Quality, and bypass iOS & ad blocker limitations.
+canonical URL    : https://apps.shopify.com/facebook-pixel-capi-by-appesy
+<h1> tags ( 1)  : 'CAPI & Facebook Pixel: Appesy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

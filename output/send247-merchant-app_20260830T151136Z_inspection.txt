@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\send247-merchant-app_20260830T151136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\send247-merchant-app_20260830T151136Z.html
+Requested URL    : https://apps.shopify.com/send247-merchant-app
+Final URL        : https://apps.shopify.com/send247-merchant-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,510 bytes / 176,403 chars
+Elapsed          : 0.888s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Send247 ‑ Same Day Delivery UK - Save up to 60% on SAME DAY delivery in UK | Shopify App Store
+meta description : Same day delivery London, Shopify same day delivery, same day shipping
+canonical URL    : https://apps.shopify.com/send247-merchant-app
+<h1> tags ( 1)  : 'Send247 ‑ Same Day Delivery UK'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sourcingagentprov3_20260830T174940Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sourcingagentprov3_20260830T174940Z.html
+Requested URL    : https://apps.shopify.com/sourcingagentprov3
+Final URL        : https://apps.shopify.com/sourcingagentprov3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,421 bytes / 169,302 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SourcingAgentPro - Sourcing, connect, fulfill, and ship smarter— all in one place | Shopify App Store
+meta description : SourcingAgentPro streamlines cross-border operations with intelligent supply chain tools. It auto-syncs and processes multi-platform orders, optimi...
+canonical URL    : https://apps.shopify.com/sourcingagentprov3
+<h1> tags ( 1)  : 'SourcingAgentPro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

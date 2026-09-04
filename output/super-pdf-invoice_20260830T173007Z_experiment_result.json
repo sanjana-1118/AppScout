@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/super-pdf-invoice",
+  "fetch_timestamp": "2026-08-30T17:30:07.918710+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\super-pdf-invoice_20260830T173007Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\super-pdf-invoice_20260830T173007Z.html",
+    "url": "https://apps.shopify.com/super-pdf-invoice",
+    "final_url": "https://apps.shopify.com/super-pdf-invoice",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 188723,
+    "body_text_length": 188630,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.57429,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Super PDF Invoice - Self-serve PDF invoices for thank you, order status, and email | Shopify App Store",
+    "meta_description": "Let customers download their own PDF invoice from the thank you page, order status page, or order email. Customize branding and template settings.",
+    "canonical_url": "https://apps.shopify.com/super-pdf-invoice",
+    "h1_tags": [
+      "Super PDF Invoice"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Super PDF Invoice",
+    "app_slug": "super-pdf-invoice",
+    "app_url": "https://apps.shopify.com/super-pdf-invoice",
+    "developer_name": "SPR/LB",
+    "description": "Let customers download their own PDF invoice from the thank you page, order status page, or order email. Customize branding and template settings.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Invoices and receipts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\super-pdf-invoice_20260830T173007Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\super-pdf-invoice_20260830T173007Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Super PDF Invoice",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "super-pdf-invoice",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/super-pdf-invoice",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "SPR/LB",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Let customers download their own PDF invoice from the thank you page, order status page, or order email. Customize branding and template settings.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Invoices and receipts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

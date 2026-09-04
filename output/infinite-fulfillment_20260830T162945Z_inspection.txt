@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\infinite-fulfillment_20260830T162945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\infinite-fulfillment_20260830T162945Z.html
+Requested URL    : https://apps.shopify.com/infinite-fulfillment
+Final URL        : https://apps.shopify.com/infinite-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,099 bytes / 174,008 chars
+Elapsed          : 1.016s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Infinite Fulfillment - Branded tracking pages with AI customer service | Shopify App Store
+meta description : Transform order tracking into revenue opportunities. Branded tracking pages keep customers engaged with your store, not the carrier's site. AI-powe...
+canonical URL    : https://apps.shopify.com/infinite-fulfillment
+<h1> tags ( 1)  : 'Infinite Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

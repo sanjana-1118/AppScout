@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\one-tap-social-login_20260830T141555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\one-tap-social-login_20260830T141555Z.html
+Requested URL    : https://apps.shopify.com/one-tap-social-login
+Final URL        : https://apps.shopify.com/one-tap-social-login
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,894 bytes / 223,801 chars
+Elapsed          : 0.875s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Social Login by Coduzion - Reduce cart drop-offs & simplify checkout with social login | Shopify App Store
+meta description : Using Social Login Shopify app by Coduzion, you can easily allow user to create account to Shopify store & increase conversion and reduce cart abandonment rate.
+canonical URL    : https://apps.shopify.com/one-tap-social-login
+<h1> tags ( 1)  : 'Social Login by Coduzion'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

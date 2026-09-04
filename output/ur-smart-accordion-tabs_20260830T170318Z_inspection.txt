@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ur-smart-accordion-tabs_20260830T170318Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ur-smart-accordion-tabs_20260830T170318Z.html
+Requested URL    : https://apps.shopify.com/ur-smart-accordion-tabs
+Final URL        : https://apps.shopify.com/ur-smart-accordion-tabs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,457 bytes / 164,337 chars
+Elapsed          : 0.517s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Smart Accordion Tabs - Add accordions with text, images, and products to any page | Shopify App Store
+meta description : "UR: Smart Accordion Tabs" lets you add collapsible accordion sections to any page—home, product, collection, or cart. Each accordion item can hold...
+canonical URL    : https://apps.shopify.com/ur-smart-accordion-tabs
+<h1> tags ( 1)  : 'UR: Smart Accordion Tabs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-payment-icons_20260830T055835Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-payment-icons_20260830T055835Z.html
+Requested URL    : https://apps.shopify.com/custom-payment-icons
+Final URL        : https://apps.shopify.com/custom-payment-icons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,278 bytes / 216,159 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CPI ‑ Custom Payment Icons - Manage payment icons in the footer: add, remove, reorganize. | Shopify App Store
+meta description : Easily manage payment icons in your Shopify Store. Add or remove icons, change their properties like size or color. Adjust icon positions, apply te...
+canonical URL    : https://apps.shopify.com/custom-payment-icons
+<h1> tags ( 1)  : 'CPI ‑ Custom Payment Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tc-announcement-bar_20260831T040530Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tc-announcement-bar_20260831T040530Z.html
+Requested URL    : https://apps.shopify.com/tc-announcement-bar
+Final URL        : https://apps.shopify.com/tc-announcement-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,302 bytes / 194,205 chars
+Elapsed          : 0.648s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TC Announcement Bars & Banners - Create sticky, animated bars with A/B testing & analytics. | Shopify App Store
+meta description : Add announcement bars & banners to your store. Display sticky, scrolling marquee, rotating, sliding, animated & countdown bars in minutes — no code...
+canonical URL    : https://apps.shopify.com/tc-announcement-bar
+<h1> tags ( 1)  : 'TC Announcement Bars & Banners'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-picking-app_20260830T135157Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-picking-app_20260830T135157Z.html
+Requested URL    : https://apps.shopify.com/order-picking-app
+Final URL        : https://apps.shopify.com/order-picking-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,084 bytes / 209,953 chars
+Elapsed          : 1.021s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Picking App - Error free and fast order picking and packing with your... | Shopify App Store
+meta description : The Orderpicking App eliminates paper lists, scanning errors, and wasted steps. It streamlines the picking process, making it faster, more accurate and fast!
+canonical URL    : https://apps.shopify.com/order-picking-app
+<h1> tags ( 1)  : 'Order Picking App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

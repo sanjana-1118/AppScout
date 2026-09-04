@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\index-ai-brandup_20260829T190023Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\index-ai-brandup_20260829T190023Z.html
+Requested URL    : https://apps.shopify.com/index-ai-brandup
+Final URL        : https://apps.shopify.com/index-ai-brandup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,023 bytes / 205,902 chars
+Elapsed          : 1.308s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Index AI ‑ Get Found by AI - Get found by ChatGPT, Perplexity & AI-powered search engines | Shopify App Store
+meta description : Get your Shopify store discovered by AI-powered search engines.
+
+Generate llms.txt files so AI crawlers understand your store. Submit URLs instantl...
+canonical URL    : https://apps.shopify.com/index-ai-brandup
+<h1> tags ( 1)  : 'Index AI ‑ Get Found by AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

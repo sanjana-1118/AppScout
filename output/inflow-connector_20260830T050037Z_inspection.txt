@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inflow-connector_20260830T050037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inflow-connector_20260830T050037Z.html
+Requested URL    : https://apps.shopify.com/inflow-connector
+Final URL        : https://apps.shopify.com/inflow-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,270 bytes / 178,953 chars
+Elapsed          : 0.506s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : inFlow Connector - Sync your orders and inventory to inFlow Inventory | Shopify App Store
+meta description : Connect your Shopify sales channel with inFlow to automatically keep all your orders in sync.
+Our app will sync your customers, products, variants,...
+canonical URL    : https://apps.shopify.com/inflow-connector
+<h1> tags ( 1)  : 'inFlow Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

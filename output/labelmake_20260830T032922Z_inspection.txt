@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\labelmake_20260830T032922Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\labelmake_20260830T032922Z.html
+Requested URL    : https://apps.shopify.com/labelmake
+Final URL        : https://apps.shopify.com/labelmake
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,276 bytes / 172,537 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 宛名印刷 - 設定不要！様々なテンプレートが利用可能！一括作成可能！注文情報を元に日本の宛名に最適化された宛名ラベルを作成します。 | Shopify App Store
+meta description : 自動で宛名印刷！下手な字を書く苦痛と手書きの手間を解消しませんか？
+連携を行うことで注文情報を元に宛名ラベルが作成できます。
+時間の短縮はもちろん、人的なミスを減らすこともできます。
+設定、デザインは不要！気軽にお試しください！...
+canonical URL    : https://apps.shopify.com/labelmake?locale=ja
+<h1> tags ( 1)  : '宛名印刷'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

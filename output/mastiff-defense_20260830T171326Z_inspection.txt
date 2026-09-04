@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mastiff-defense_20260830T171326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mastiff-defense_20260830T171326Z.html
+Requested URL    : https://apps.shopify.com/mastiff-defense
+Final URL        : https://apps.shopify.com/mastiff-defense
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,613 bytes / 176,516 chars
+Elapsed          : 0.730s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mastiff Chat - AI chatbot, under control. Protect your shop against AI abuse. | Shopify App Store
+meta description : Full AI chatbot functionality, with added protection against leaks, sensitive data exposure, and prompt injection. Customized protection for your store.
+canonical URL    : https://apps.shopify.com/mastiff-defense
+<h1> tags ( 1)  : 'Mastiff Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

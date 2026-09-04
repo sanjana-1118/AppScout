@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-menu_20260830T164959Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-menu_20260830T164959Z.html
+Requested URL    : https://apps.shopify.com/ez-menu
+Final URL        : https://apps.shopify.com/ez-menu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,658 bytes / 175,565 chars
+Elapsed          : 0.851s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EZ Menu Management - Hide, duplicate, and export navigation menus instead of rebuil | Shopify App Store
+meta description : Hide seasonal menu items instead of deleting them. Quickly duplicate, export, and manage your Shopify navigation menus to save time and reduce manual work.
+canonical URL    : https://apps.shopify.com/ez-menu
+<h1> tags ( 1)  : 'EZ Menu Management'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

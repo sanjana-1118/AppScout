@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\valuegauge_20260830T151339Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\valuegauge_20260830T151339Z.html
+Requested URL    : https://apps.shopify.com/valuegauge
+Final URL        : https://apps.shopify.com/valuegauge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,160 bytes / 170,057 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ValueGauge - This app lets merchants set values for each unit by... | Shopify App Store
+meta description : This app is a game-changer for shopkeepers who work with fabric. It lets you quickly calculate the amount based on the length you need. Just enter ...
+canonical URL    : https://apps.shopify.com/valuegauge
+<h1> tags ( 1)  : 'ValueGauge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

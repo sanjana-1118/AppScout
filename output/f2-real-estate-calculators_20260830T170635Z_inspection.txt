@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\f2-real-estate-calculators_20260830T170635Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\f2-real-estate-calculators_20260830T170635Z.html
+Requested URL    : https://apps.shopify.com/f2-real-estate-calculators
+Final URL        : https://apps.shopify.com/f2-real-estate-calculators
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,736 bytes / 155,639 chars
+Elapsed          : 0.643s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : F2 Real Estate Calculators - Real estate calculators for mortgage, rent vs buy | Shopify App Store
+meta description : Add mortgage, rent vs buy, house affordability, and AC BTU calculators to your Shopify store. Help customers plan home purchases and compare housing costs.
+canonical URL    : https://apps.shopify.com/f2-real-estate-calculators
+<h1> tags ( 1)  : 'F2 Real Estate Calculators'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

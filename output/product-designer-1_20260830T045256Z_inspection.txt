@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-designer-1_20260830T045256Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-designer-1_20260830T045256Z.html
+Requested URL    : https://apps.shopify.com/product-designer-1
+Final URL        : https://apps.shopify.com/product-designer-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,475 bytes / 218,378 chars
+Elapsed          : 0.789s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nova Product Designer - Personalize products with text, art, color & a live preview | Shopify App Store
+meta description : Nova Product Designer & Options lets you sell personalized products with live previews. Add engraving, custom text, color swatches, file uploads, Q...
+canonical URL    : https://apps.shopify.com/product-designer-1
+<h1> tags ( 1)  : 'Nova Product Designer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

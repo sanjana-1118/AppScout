@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\truly-fine-sections_20260830T145740Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\truly-fine-sections_20260830T145740Z.html
+Requested URL    : https://apps.shopify.com/truly-fine-sections
+Final URL        : https://apps.shopify.com/truly-fine-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,745 bytes / 184,656 chars
+Elapsed          : 0.475s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Truly Fine Theme Sections - Upgrade your theme with a library of premium sections. | Shopify App Store
+meta description : Buy premium theme sections like Store Locators, Audio Players & Comparison Tables. One-time fee (~$15). No monthly subscriptions. Works with any theme.
+canonical URL    : https://apps.shopify.com/truly-fine-sections
+<h1> tags ( 1)  : 'Truly Fine Theme Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

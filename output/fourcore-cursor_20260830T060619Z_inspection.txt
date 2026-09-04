@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fourcore-cursor_20260830T060619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fourcore-cursor_20260830T060619Z.html
+Requested URL    : https://apps.shopify.com/fourcore-cursor
+Final URL        : https://apps.shopify.com/fourcore-cursor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,433 bytes / 168,340 chars
+Elapsed          : 0.441s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FourCore Cursors & Confetti - Custom Cursors & Confetti — built to stay lightweight | Shopify App Store
+meta description : Add custom cursors and confetti effects to your Shopify store with live preview, add-to-cart triggers, welcome effects, color controls, and mobile support.
+canonical URL    : https://apps.shopify.com/fourcore-cursor
+<h1> tags ( 1)  : 'FourCore Cursors & Confetti'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostify-section_20260830T151553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostify-section_20260830T151553Z.html
+Requested URL    : https://apps.shopify.com/boostify-section
+Final URL        : https://apps.shopify.com/boostify-section
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,950 bytes / 159,857 chars
+Elapsed          : 0.862s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boostify Sections - Easily customize your store with pre-designed theme sections | Shopify App Store
+meta description : Effortless Shopify theme customization. Access 100+ sections, no coding required. Enhance your store's design, boost conversions, and save time
+canonical URL    : https://apps.shopify.com/boostify-section
+<h1> tags ( 1)  : 'Boostify Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

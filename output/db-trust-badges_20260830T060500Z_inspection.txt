@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\db-trust-badges_20260830T060500Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\db-trust-badges_20260830T060500Z.html
+Requested URL    : https://apps.shopify.com/db-trust-badges
+Final URL        : https://apps.shopify.com/db-trust-badges
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,771 bytes / 176,682 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DB Trust Badges & Icons - Build shopper confidence with customizable trust badges. | Shopify App Store
+meta description : Add customizable trust badges and icons to product pages and carts. Highlight secure payments, shipping, and guarantees with 24/7 support.
+canonical URL    : https://apps.shopify.com/db-trust-badges
+<h1> tags ( 1)  : 'DB Trust Badges & Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

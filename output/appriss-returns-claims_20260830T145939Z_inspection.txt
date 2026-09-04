@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appriss-returns-claims_20260830T145939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appriss-returns-claims_20260830T145939Z.html
+Requested URL    : https://apps.shopify.com/appriss-returns-claims
+Final URL        : https://apps.shopify.com/appriss-returns-claims
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,841 bytes / 181,728 chars
+Elapsed          : 0.866s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Appriss Returns & Claims - Protect your returns from fraud using real-time AI decisioning | Shopify App Store
+meta description : Appriss Retail’s AI-driven app stops fraud and abuse for Shopify merchants, with real-time return authorization, abuse prevention, and claims management
+canonical URL    : https://apps.shopify.com/appriss-returns-claims
+<h1> tags ( 1)  : 'Appriss Returns & Claims'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codform-1_20260830T142249Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codform-1_20260830T142249Z.html
+Requested URL    : https://apps.shopify.com/codform-1
+Final URL        : https://apps.shopify.com/codform-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,176 bytes / 231,047 chars
+Elapsed          : 0.688s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CodForm ‑ COD Form & Upsells - Add COD form to create orders using cash on delivery... | Shopify App Store
+meta description : transforms COD orders, revolutionizing Shopify's checkout. Boost AOV with Pre-Purchase, Post-Purchase, and One-Click Upsells, while efficiently tracking pixels.
+canonical URL    : https://apps.shopify.com/codform-1
+<h1> tags ( 1)  : 'CodForm ‑ COD Form & Upsells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

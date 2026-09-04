@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\realauthentication_20260830T181512Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\realauthentication_20260830T181512Z.html
+Requested URL    : https://apps.shopify.com/realauthentication
+Final URL        : https://apps.shopify.com/realauthentication
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,614 bytes / 152,525 chars
+Elapsed          : 0.903s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RealAuthentication - Streamline order creation for luxury product authentication | Shopify App Store
+meta description : This app helps merchants protect their brand reputation and build customer trust by streamlining the luxury product verification process. Instead o...
+canonical URL    : https://apps.shopify.com/realauthentication
+<h1> tags ( 1)  : 'RealAuthentication'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

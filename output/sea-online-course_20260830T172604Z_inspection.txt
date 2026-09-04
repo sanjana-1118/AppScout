@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sea-online-course_20260830T172604Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sea-online-course_20260830T172604Z.html
+Requested URL    : https://apps.shopify.com/sea-online-course
+Final URL        : https://apps.shopify.com/sea-online-course
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,023 bytes / 168,936 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avada Online Course - Create and sell online courses directly in your store | Shopify App Store
+meta description : Turn your Shopify store into a learning platform. Create courses with video, text, file and quiz lessons using a drag-and-drop builder. Link course...
+canonical URL    : https://apps.shopify.com/sea-online-course
+<h1> tags ( 1)  : 'Avada Online Course'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

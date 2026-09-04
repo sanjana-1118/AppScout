@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-synonym-search_20260830T063120Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-synonym-search_20260830T063120Z.html
+Requested URL    : https://apps.shopify.com/smart-synonym-search
+Final URL        : https://apps.shopify.com/smart-synonym-search
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,258 bytes / 157,169 chars
+Elapsed          : 0.594s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Synonym Search - Improve Search Experience | Shopify App Store
+meta description : Smart Synonym Search is innovatively designed to enhance customer's search experience and boost your conversion rate with its easy end-to-end inte...
+canonical URL    : https://apps.shopify.com/smart-synonym-search
+<h1> tags ( 1)  : 'Smart Synonym Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\makecommerce-shipping-solution_20260830T134136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\makecommerce-shipping-solution_20260830T134136Z.html
+Requested URL    : https://apps.shopify.com/makecommerce-shipping-solution
+Final URL        : https://apps.shopify.com/makecommerce-shipping-solution
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,837 bytes / 173,748 chars
+Elapsed          : 0.903s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MakeCommerce Shipping Solution - Register parcel machine deliveries quickly and easily | Shopify App Store
+meta description : Shipping made easy - Omniva, DPD, Venipak & Unisend with seamless tracking, elegant delivery selection, and powerful shipment management.
+canonical URL    : https://apps.shopify.com/makecommerce-shipping-solution
+<h1> tags ( 1)  : 'MakeCommerce Shipping Solution'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

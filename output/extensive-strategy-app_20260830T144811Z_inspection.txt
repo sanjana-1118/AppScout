@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\extensive-strategy-app_20260830T144811Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\extensive-strategy-app_20260830T144811Z.html
+Requested URL    : https://apps.shopify.com/extensive-strategy-app
+Final URL        : https://apps.shopify.com/extensive-strategy-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,445 bytes / 164,356 chars
+Elapsed          : 0.833s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Developyn Discount Automator - Easily manage automation of discounts with this helpful app. | Shopify App Store
+meta description : Our app provides a clear UI to create and manage a large number of discounts codes in your store for bulk purchases, and automatically apply them t...
+canonical URL    : https://apps.shopify.com/extensive-strategy-app
+<h1> tags ( 1)  : 'Developyn Discount Automator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

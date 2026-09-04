@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\minato-sticky-add-to-cart_20260830T164355Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\minato-sticky-add-to-cart_20260830T164355Z.html
+Requested URL    : https://apps.shopify.com/minato-sticky-add-to-cart
+Final URL        : https://apps.shopify.com/minato-sticky-add-to-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,015 bytes / 167,925 chars
+Elapsed          : 0.513s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Minato Sticky Add To Cart - Always-visible Add to Cart button for quick access. | Shopify App Store
+meta description : Increase sales with a fully customizable sticky add to cart bar. Always-visible buy button for mobile & desktop. Easy setup, no code required.
+canonical URL    : https://apps.shopify.com/minato-sticky-add-to-cart
+<h1> tags ( 1)  : 'Minato Sticky Add To Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

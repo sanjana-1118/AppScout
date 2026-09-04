@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docify-1_20260830T155811Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docify-1_20260830T155811Z.html
+Requested URL    : https://apps.shopify.com/docify-1
+Final URL        : https://apps.shopify.com/docify-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,656 bytes / 178,541 chars
+Elapsed          : 0.581s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Docify – Invoice/PDF Generator - Branded PDF invoices auto-sent with templates & multi-language | Shopify App Store
+meta description : Docify makes it easy for Shopify merchants to manage orders and send branded PDF
+invoices without any manual work. Whether you sell products on Sho...
+canonical URL    : https://apps.shopify.com/docify-1
+<h1> tags ( 1)  : 'Docify – Invoice/PDF Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

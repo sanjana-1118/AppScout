@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-price-pro_20260830T132154Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-price-pro_20260830T132154Z.html
+Requested URL    : https://apps.shopify.com/bulk-price-pro
+Final URL        : https://apps.shopify.com/bulk-price-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,384 bytes / 195,311 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Oruri：商品価格一括変更 - 商品数無制限で価格を一括変更。セールの開始・終了を予約して自動で元に戻せます。 | Shopify App Store
+meta description : 商品価格をパーセントや固定額で一括変更できるアプリです。条件で商品を絞り込み、セールの開始と終了を予約して自動で価格を変更・復元。実行後もワンクリックで元の価格に戻せます。数万商品でも安定して処理します。
+canonical URL    : https://apps.shopify.com/bulk-price-pro?locale=ja
+<h1> tags ( 1)  : 'Oruri：商品価格一括変更'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

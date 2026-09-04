@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\opus-cart-drawer-cart-upsell_20260830T063438Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\opus-cart-drawer-cart-upsell_20260830T063438Z.html
+Requested URL    : https://apps.shopify.com/opus-cart-drawer-cart-upsell
+Final URL        : https://apps.shopify.com/opus-cart-drawer-cart-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 278,668 bytes / 278,575 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ego Cart Drawer Cart Upsell  - Boost Sales w Slide cart drawer, Rewards bar, Free Gifts,... | Shopify App Store
+meta description : Slide Cart Drawer Cart Upsell
+canonical URL    : https://apps.shopify.com/opus-cart-drawer-cart-upsell
+<h1> tags ( 1)  : 'Ego Cart Drawer Cart Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

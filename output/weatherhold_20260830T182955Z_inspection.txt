@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weatherhold_20260830T182955Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weatherhold_20260830T182955Z.html
+Requested URL    : https://apps.shopify.com/weatherhold
+Final URL        : https://apps.shopify.com/weatherhold
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,418 bytes / 155,325 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WeatherHold - Hold orders and add heat or ice packs when forecasts... | Shopify App Store
+meta description : Automatically hold orders and add heat or ice packs based on destination forecasts. Protect live plants, perishables, and temperature-sensitive shipments.
+canonical URL    : https://apps.shopify.com/weatherhold
+<h1> tags ( 1)  : 'WeatherHold'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

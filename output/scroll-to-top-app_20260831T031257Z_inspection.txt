@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scroll-to-top-app_20260831T031257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scroll-to-top-app_20260831T031257Z.html
+Requested URL    : https://apps.shopify.com/scroll-to-top-app
+Final URL        : https://apps.shopify.com/scroll-to-top-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,587 bytes / 172,498 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ultimate Scroll to Top - Customizable scroll-to-top button for your store. | Shopify App Store
+meta description : Add a customizable scroll to top button to your Shopify store. Features zero-dependency Liquid rendering, 6 SVG icons, custom colors, and triggers.
+canonical URL    : https://apps.shopify.com/scroll-to-top-app
+<h1> tags ( 1)  : 'Ultimate Scroll to Top'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartfusion-bundle_20260830T150009Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartfusion-bundle_20260830T150009Z.html
+Requested URL    : https://apps.shopify.com/cartfusion-bundle
+Final URL        : https://apps.shopify.com/cartfusion-bundle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,389 bytes / 175,294 chars
+Elapsed          : 1.053s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartFusion Bundle - Create product bundles to enhance sales and simplify shopping. | Shopify App Store
+meta description : Build product bundles to simplify shopping and improve customer experience while driving sales with Frequently Bought Together items.
+canonical URL    : https://apps.shopify.com/cartfusion-bundle
+<h1> tags ( 1)  : 'CartFusion Bundle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

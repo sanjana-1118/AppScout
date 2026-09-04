@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multivendorshop-supplier_20260830T161653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multivendorshop-supplier_20260830T161653Z.html
+Requested URL    : https://apps.shopify.com/multivendorshop-supplier
+Final URL        : https://apps.shopify.com/multivendorshop-supplier
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,824 bytes / 197,735 chars
+Elapsed          : 1.060s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MultivendorShop - Connect suppliers and retailers for local dropshipping  | Shopify App Store
+meta description : Connect local suppliers with Shopify retailers. Real-time inventory sync, automatic order routing, wholesale catalogs, and custom margin controls.
+canonical URL    : https://apps.shopify.com/multivendorshop-supplier
+<h1> tags ( 1)  : 'MultivendorShop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

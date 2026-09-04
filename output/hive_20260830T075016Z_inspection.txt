@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hive_20260830T075016Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hive_20260830T075016Z.html
+Requested URL    : https://apps.shopify.com/hive
+Final URL        : https://apps.shopify.com/hive
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,253 bytes / 167,164 chars
+Elapsed          : 0.731s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hive.co: Email Marketing - Power your customer journey with email, SMS, & CRM, all... | Shopify App Store
+meta description : Hive is built to make good email marketing easy, streamlining your workflow so you can focus on what matters....
+canonical URL    : https://apps.shopify.com/hive
+<h1> tags ( 1)  : 'Hive.co: Email Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

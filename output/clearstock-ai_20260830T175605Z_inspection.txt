@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearstock-ai_20260830T175605Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearstock-ai_20260830T175605Z.html
+Requested URL    : https://apps.shopify.com/clearstock-ai
+Final URL        : https://apps.shopify.com/clearstock-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,462 bytes / 175,369 chars
+Elapsed          : 1.130s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ClearStockAI - Manage dead stock, flash sales, and inventory recovery with AI | Shopify App Store
+meta description : Identify dead stock, create flash sales, automate discounts, and recover blocked revenue with AI-powered inventory insights.
+canonical URL    : https://apps.shopify.com/clearstock-ai
+<h1> tags ( 1)  : 'ClearStockAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dhl-polska_20260830T170221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dhl-polska_20260830T170221Z.html
+Requested URL    : https://apps.shopify.com/dhl-polska
+Final URL        : https://apps.shopify.com/dhl-polska
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,258 bytes / 175,037 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DHL eCommerce (Poland) - Automatyzuj wysyłki DHL i zarządzaj nimi w jednym miejscu | Shopify App Store
+meta description : Zautomatyzuj tworzenie przesyłek. Zrób rewolucję w swoim e-sklepie z DHL eCommerce (Poland).
+canonical URL    : https://apps.shopify.com/dhl-polska?locale=pl
+<h1> tags ( 1)  : 'DHL eCommerce (Poland)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

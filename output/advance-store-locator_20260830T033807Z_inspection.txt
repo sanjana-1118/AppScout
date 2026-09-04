@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advance-store-locator_20260830T033807Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advance-store-locator_20260830T033807Z.html
+Requested URL    : https://apps.shopify.com/advance-store-locator
+Final URL        : https://apps.shopify.com/advance-store-locator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,212 bytes / 214,123 chars
+Elapsed          : 0.637s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AW Store Locator - Help customers find nearby stores, dealers, and stockists. | Shopify App Store
+meta description : Add a searchable store locator to Shopify with geolocation, distance filters, bulk location import, business hours, and customizable map styling.
+canonical URL    : https://apps.shopify.com/advance-store-locator
+<h1> tags ( 1)  : 'AW Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\srs_20260830T033946Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\srs_20260830T033946Z.html
+Requested URL    : https://apps.shopify.com/srs
+Final URL        : https://apps.shopify.com/srs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,107 bytes / 169,006 chars
+Elapsed          : 0.600s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SRS - Een unified commerce oplossing voor fashion retailers | Shopify App Store
+meta description : Koppel Shopify aan SRS ERP. Beheer voorraden real-time, verwerk weborders sneller en stem winkel en webshop perfect op elkaar af.
+canonical URL    : https://apps.shopify.com/srs?locale=nl
+<h1> tags ( 1)  : 'SRS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

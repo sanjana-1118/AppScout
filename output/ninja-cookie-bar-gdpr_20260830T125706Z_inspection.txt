@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ninja-cookie-bar-gdpr_20260830T125706Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ninja-cookie-bar-gdpr_20260830T125706Z.html
+Requested URL    : https://apps.shopify.com/ninja-cookie-bar-gdpr
+Final URL        : https://apps.shopify.com/ninja-cookie-bar-gdpr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,741 bytes / 172,652 chars
+Elapsed          : 0.923s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ninja Cookie Bar GDPR - Display cookie banner to EU customers. GDPR consent | Shopify App Store
+meta description : Ninja Cookie Bar GDPR offers a one-click solution for GDPR/CCPA (and more) cookie compliance. With Ninja Cookie Bar, you can display a professional...
+canonical URL    : https://apps.shopify.com/ninja-cookie-bar-gdpr
+<h1> tags ( 1)  : 'Ninja Cookie Bar GDPR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

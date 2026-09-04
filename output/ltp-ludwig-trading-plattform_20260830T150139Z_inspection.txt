@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ltp-ludwig-trading-plattform_20260830T150139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ltp-ludwig-trading-plattform_20260830T150139Z.html
+Requested URL    : https://apps.shopify.com/ltp-ludwig-trading-plattform
+Final URL        : https://apps.shopify.com/ltp-ludwig-trading-plattform
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,970 bytes / 200,874 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Procware - Simplify fulfillment with dropshipping and bulk solutions | Shopify App Store
+meta description : The Procware Shopify app lets you source and fullfill everything that you sell over shopify. Just connect your products with our platform we are doing the rest.
+canonical URL    : https://apps.shopify.com/ltp-ludwig-trading-plattform
+<h1> tags ( 1)  : 'Procware'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

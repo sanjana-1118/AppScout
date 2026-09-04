@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\playbit-simple-slider_20260830T141652Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\playbit-simple-slider_20260830T141652Z.html
+Requested URL    : https://apps.shopify.com/playbit-simple-slider
+Final URL        : https://apps.shopify.com/playbit-simple-slider
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,319 bytes / 193,976 chars
+Elapsed          : 0.797s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Simple Slider -  You can easily set up a 3-page slideshow display or... | Shopify App Store
+meta description : 訴求したいバナーがあるけど、見せ方を工夫したい。次のバナーにも気づいて見てほしいなど、そんなお困りごとはありませんか？
+シンプルスライダーでは、設定変更することで、3枚表示で次の画像を見切れるようにしたり、簡単に設定を変更出来ます。
+canonical URL    : https://apps.shopify.com/playbit-simple-slider
+<h1> tags ( 1)  : 'Simple Slider'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

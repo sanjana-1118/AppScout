@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\favloyalty-1_20260830T153945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\favloyalty-1_20260830T153945Z.html
+Requested URL    : https://apps.shopify.com/favloyalty-1
+Final URL        : https://apps.shopify.com/favloyalty-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,261 bytes / 203,158 chars
+Elapsed          : 0.713s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FavLoyalty: Loyalty & Rewards  - Reward points app for customers to earn, redeem loyalty points | Shopify App Store
+meta description : Build a powerful Shopify loyalty program with FavLoyalty. Reward points for purchases and referrals, run VIP tiers, and boost customer retention effortlessly.
+canonical URL    : https://apps.shopify.com/favloyalty-1
+<h1> tags ( 1)  : 'FavLoyalty: Loyalty & Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

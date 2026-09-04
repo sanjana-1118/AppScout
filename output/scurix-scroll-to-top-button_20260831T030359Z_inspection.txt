@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-scroll-to-top-button_20260831T030359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-scroll-to-top-button_20260831T030359Z.html
+Requested URL    : https://apps.shopify.com/scurix-scroll-to-top-button
+Final URL        : https://apps.shopify.com/scurix-scroll-to-top-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,424 bytes / 179,311 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scurix ‑ Scroll To Top Button - Customizable back-to-top button. Zero speed impact. | Shopify App Store
+meta description : Long pages lose sales when visitors get stuck at the bottom. Scurix Scroll To
+Top adds an elegant back-to-top button so shoppers can jump back to y...
+canonical URL    : https://apps.shopify.com/scurix-scroll-to-top-button
+<h1> tags ( 1)  : 'Scurix ‑ Scroll To Top Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

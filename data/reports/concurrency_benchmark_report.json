@@ -1,0 +1,45 @@
+{
+  "benchmark_timestamp": "2026-08-30T03:30:26.677243+00:00",
+  "matrix_results": [
+    {
+      "workers": 8,
+      "delay": 0.3,
+      "batch_size": 40,
+      "elapsed_seconds": 0.62,
+      "throughput_apps_per_min": 3892.5,
+      "rate_limited_count": 0,
+      "success_count": 40,
+      "status": "STABLE"
+    },
+    {
+      "workers": 12,
+      "delay": 0.2,
+      "batch_size": 40,
+      "elapsed_seconds": 0.28,
+      "throughput_apps_per_min": 8642.5,
+      "rate_limited_count": 0,
+      "success_count": 40,
+      "status": "STABLE"
+    },
+    {
+      "workers": 16,
+      "delay": 0.15,
+      "batch_size": 40,
+      "elapsed_seconds": 0.27,
+      "throughput_apps_per_min": 9022.6,
+      "rate_limited_count": 0,
+      "success_count": 40,
+      "status": "STABLE"
+    }
+  ],
+  "selected_optimal_config": {
+    "workers": 16,
+    "delay": 0.15,
+    "batch_size": 40,
+    "elapsed_seconds": 0.27,
+    "throughput_apps_per_min": 9022.6,
+    "rate_limited_count": 0,
+    "success_count": 40,
+    "status": "STABLE"
+  }
+}

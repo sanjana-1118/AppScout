@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quiz-funnel_20260830T061210Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quiz-funnel_20260830T061210Z.html
+Requested URL    : https://apps.shopify.com/quiz-funnel
+Final URL        : https://apps.shopify.com/quiz-funnel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,971 bytes / 228,872 chars
+Elapsed          : 0.561s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Prehook: Quiz Funnel Builder - Use a Quiz to personalize customers' shopping experience | Shopify App Store
+meta description : Build personalized Shopify product quizzes that recommend products, capture zero-party data, and grow your email and SMS lists—no coding required.
+canonical URL    : https://apps.shopify.com/quiz-funnel
+<h1> tags ( 1)  : 'Prehook: Quiz Funnel Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

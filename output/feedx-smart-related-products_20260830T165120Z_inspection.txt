@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedx-smart-related-products_20260830T165120Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedx-smart-related-products_20260830T165120Z.html
+Requested URL    : https://apps.shopify.com/feedx-smart-related-products
+Final URL        : https://apps.shopify.com/feedx-smart-related-products
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,757 bytes / 164,656 chars
+Elapsed          : 0.775s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FeedX Smart Related Products - Increase product discovery from blogs | Shopify App Store
+meta description : FeedX Smart Related Products helps merchants showcase relevant products directly within Shopify blog posts—no coding required. Easily choose which ...
+canonical URL    : https://apps.shopify.com/feedx-smart-related-products
+<h1> tags ( 1)  : 'FeedX Smart Related Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

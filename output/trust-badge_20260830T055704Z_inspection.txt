@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badge_20260830T055704Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badge_20260830T055704Z.html
+Requested URL    : https://apps.shopify.com/trust-badge
+Final URL        : https://apps.shopify.com/trust-badge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 242,309 bytes / 242,200 chars
+Elapsed          : 0.488s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopClimb ‑ Trust Badges - Payment trust badges for sales conversion and social proof | Shopify App Store
+meta description : You have very little time to build trust with a potential buyer, and displaying payment badges is one of the most proven ways to build trust during...
+canonical URL    : https://apps.shopify.com/trust-badge
+<h1> tags ( 1)  : 'ShopClimb ‑ Trust Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

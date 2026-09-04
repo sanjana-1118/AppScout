@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/marmin-irbm-invoice-sbox",
+  "fetch_timestamp": "2026-08-30T16:42:34.062476+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\marmin-irbm-invoice-sbox_20260830T164234Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\marmin-irbm-invoice-sbox_20260830T164234Z.html",
+    "url": "https://apps.shopify.com/marmin-irbm-invoice-sbox",
+    "final_url": "https://apps.shopify.com/marmin-irbm-invoice-sbox",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 175982,
+    "body_text_length": 175881,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.699094,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Marmin: IRBM Invoice with QR - Malaysia IRBM E-invoicing with QR and XML | Shopify App Store",
+    "meta_description": "Automatically send IRBM-compliant invoices to your buyers with Marmin! Choose when to create invoices—on order creation or payment. Customize invoi...",
+    "canonical_url": "https://apps.shopify.com/marmin-irbm-invoice-sbox",
+    "h1_tags": [
+      "Marmin: IRBM Invoice with QR"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Marmin: IRBM Invoice with QR",
+    "app_slug": "marmin-irbm-invoice-sbox",
+    "app_url": "https://apps.shopify.com/marmin-irbm-invoice-sbox",
+    "developer_name": "Marmin Technologies Private Limited",
+    "description": "Automatically send IRBM-compliant invoices to your buyers with Marmin! Choose when to create invoices—on order creation or payment. Customize invoi...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Invoices and receipts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\marmin-irbm-invoice-sbox_20260830T164234Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\marmin-irbm-invoice-sbox_20260830T164234Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Marmin: IRBM Invoice with QR",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "marmin-irbm-invoice-sbox",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/marmin-irbm-invoice-sbox",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Marmin Technologies Private Limited",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Automatically send IRBM-compliant invoices to your buyers with Marmin! Choose when to create invoices—on order creation or payment. Customize invoi...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Invoices and receipts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

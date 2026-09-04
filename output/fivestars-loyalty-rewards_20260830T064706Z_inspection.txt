@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fivestars-loyalty-rewards_20260830T064706Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fivestars-loyalty-rewards_20260830T064706Z.html
+Requested URL    : https://apps.shopify.com/fivestars-loyalty-rewards
+Final URL        : https://apps.shopify.com/fivestars-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,527 bytes / 209,434 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fivestars Integration App - Collect and redeem Fivestars loyalty points online | Shopify App Store
+meta description : Integrate Fivestars with your with Fivestars in store loyalty program
+canonical URL    : https://apps.shopify.com/fivestars-loyalty-rewards
+<h1> tags ( 1)  : 'Fivestars Integration App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

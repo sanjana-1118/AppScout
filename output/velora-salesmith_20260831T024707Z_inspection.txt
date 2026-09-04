@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\velora-salesmith_20260831T024707Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\velora-salesmith_20260831T024707Z.html
+Requested URL    : https://apps.shopify.com/velora-salesmith
+Final URL        : https://apps.shopify.com/velora-salesmith
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,656 bytes / 174,565 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Velora: SaleSmith - Bulk discount & compare-at-price management. | Shopify App Store
+meta description : Velora SaleSmith helps Shopify merchants run bulk pricing campaigns without manual product-by-product editing. Whether it's a seasonal sale, cleara...
+canonical URL    : https://apps.shopify.com/velora-salesmith
+<h1> tags ( 1)  : 'Velora: SaleSmith'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

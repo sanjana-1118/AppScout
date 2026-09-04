@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ease-product-attachments_20260830T061648Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ease-product-attachments_20260830T061648Z.html
+Requested URL    : https://apps.shopify.com/ease-product-attachments
+Final URL        : https://apps.shopify.com/ease-product-attachments
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,421 bytes / 215,332 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easify Product Attachments - Easily add PDFs to Product or other pages, no coding... | Shopify App Store
+meta description : Easily add downloadable PDFs and other file formats to Shopify product pages. Make your products shine.
+canonical URL    : https://apps.shopify.com/ease-product-attachments
+<h1> tags ( 1)  : 'Easify Product Attachments'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sema-api_20260830T062804Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sema-api_20260830T062804Z.html
+Requested URL    : https://apps.shopify.com/sema-api
+Final URL        : https://apps.shopify.com/sema-api
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,553 bytes / 186,464 chars
+Elapsed          : 0.613s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SEMA Data Plugin - Millions of SEMA auto parts w/ fitments are just a... | Shopify App Store
+meta description : This app will enable you to ditch the CSV/Excel spreadsheet madness and import product and vehicle information to your store in just a few clicks. ...
+canonical URL    : https://apps.shopify.com/sema-api
+<h1> tags ( 1)  : 'SEMA Data Plugin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

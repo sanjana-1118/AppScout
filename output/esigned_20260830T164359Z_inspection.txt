@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\esigned_20260830T164359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\esigned_20260830T164359Z.html
+Requested URL    : https://apps.shopify.com/esigned
+Final URL        : https://apps.shopify.com/esigned
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,363 bytes / 248,266 chars
+Elapsed          : 0.717s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : esigned: waivers & signatures - Collect customer signatures on waivers before purchase | Shopify App Store
+meta description : Esigned lets you require signed waivers before customers buy. Collect signatures on product pages, at checkout, or via email. Stay compliant easily.
+canonical URL    : https://apps.shopify.com/esigned
+<h1> tags ( 1)  : 'esigned: waivers & signatures'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

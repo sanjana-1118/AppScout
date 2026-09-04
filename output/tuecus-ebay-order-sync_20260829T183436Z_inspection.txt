@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tuecus-ebay-order-sync_20260829T183436Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tuecus-ebay-order-sync_20260829T183436Z.html
+Requested URL    : https://apps.shopify.com/tuecus-ebay-order-sync
+Final URL        : https://apps.shopify.com/tuecus-ebay-order-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 247,773 bytes / 247,658 chars
+Elapsed          : 0.667s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eBay Integration ‑ Tuecus - Sell on eBay, Sync Products, Orders and Inventory to eBay | Shopify App Store
+meta description : Sell on eBay, Sync Products, Orders and Inventory to eBay from shopify
+canonical URL    : https://apps.shopify.com/tuecus-ebay-order-sync
+<h1> tags ( 1)  : 'eBay Integration ‑ Tuecus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

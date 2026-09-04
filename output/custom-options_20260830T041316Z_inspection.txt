@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-options_20260830T041316Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-options_20260830T041316Z.html
+Requested URL    : https://apps.shopify.com/custom-options
+Final URL        : https://apps.shopify.com/custom-options
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 243,126 bytes / 243,037 chars
+Elapsed          : 1.094s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Infinite Options: Product opt - Custom product options, variant options, product bundles +more | Shopify App Store
+meta description : Infinite options to customize products: add text fields, product bundles, buttons, checkboxes, dropdown menus, date pickers, conditional logic + more.
+canonical URL    : https://apps.shopify.com/custom-options
+<h1> tags ( 1)  : 'Infinite Options: Product opt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

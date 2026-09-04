@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mark-delivered_20260830T164148Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mark-delivered_20260830T164148Z.html
+Requested URL    : https://apps.shopify.com/mark-delivered
+Final URL        : https://apps.shopify.com/mark-delivered
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,350 bytes / 211,261 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mark Delivered - Manually mark orders and fulfillments as delivered in bulk. | Shopify App Store
+meta description : Manually mark Shopify orders as delivered in bulk. Perfect for local delivery, custom carriers & digital products.
+canonical URL    : https://apps.shopify.com/mark-delivered
+<h1> tags ( 1)  : 'Mark Delivered'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-locator-31_20260830T034114Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-locator-31_20260830T034114Z.html
+Requested URL    : https://apps.shopify.com/store-locator-31
+Final URL        : https://apps.shopify.com/store-locator-31
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,047 bytes / 181,932 chars
+Elapsed          : 0.653s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pinpoint — Store Locator Map - Add an interactive store locator in minutes | Shopify App Store
+meta description : Add an interactive store locator to your Shopify store. Customers search by city or use geolocation to find nearby retailers.
+canonical URL    : https://apps.shopify.com/store-locator-31
+<h1> tags ( 1)  : 'Pinpoint — Store Locator Map'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

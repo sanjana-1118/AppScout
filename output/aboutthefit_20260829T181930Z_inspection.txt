@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aboutthefit_20260829T181930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aboutthefit_20260829T181930Z.html
+Requested URL    : https://apps.shopify.com/aboutthefit
+Final URL        : https://apps.shopify.com/aboutthefit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,963 bytes / 167,850 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : About the Fit, AI Try‑on - Lets users Virtually Try On in your products with AI | Shopify App Store
+meta description : About the Fit lets your shop visitors try on clothes before they by using our AI Powered Try-On
+canonical URL    : https://apps.shopify.com/aboutthefit
+<h1> tags ( 1)  : 'About the Fit, AI Try‑on'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

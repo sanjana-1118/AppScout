@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spectre-form-builder_20260830T061545Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spectre-form-builder_20260830T061545Z.html
+Requested URL    : https://apps.shopify.com/spectre-form-builder
+Final URL        : https://apps.shopify.com/spectre-form-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,278 bytes / 223,189 chars
+Elapsed          : 0.868s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Spectre: Contact Form Builder - Build multi-step forms with logic, uploads & integrations. | Shopify App Store
+meta description : Build custom forms with conditional logic, file uploads, and multi-step layouts. Sync submissions instantly to Klaviyo, Google Sheets, Shopify Flow, and more.
+canonical URL    : https://apps.shopify.com/spectre-form-builder
+<h1> tags ( 1)  : 'Spectre: Contact Form Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

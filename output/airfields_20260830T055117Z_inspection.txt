@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airfields_20260830T055117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airfields_20260830T055117Z.html
+Requested URL    : https://apps.shopify.com/airfields
+Final URL        : https://apps.shopify.com/airfields
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,958 bytes / 206,848 chars
+Elapsed          : 0.739s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Airfields - Extend your store with CMS functionality & custom metafields | Shopify App Store
+meta description : Extend your Store with advanced metafields that can be easily accessed within your store templates. Add any kind of data anywhere – extra images fo...
+canonical URL    : https://apps.shopify.com/airfields
+<h1> tags ( 1)  : 'Airfields'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intellecta-prod_20260830T144035Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intellecta-prod_20260830T144035Z.html
+Requested URL    : https://apps.shopify.com/intellecta-prod
+Final URL        : https://apps.shopify.com/intellecta-prod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,962 bytes / 231,812 chars
+Elapsed          : 0.593s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Intellecta ‑ AI chatbot - Sell more by replying faster with an AI Chatbot | Shopify App Store
+meta description : Intellecta is an AI Chatbot that helps you sell more by replying fast.
+It's designed to be instant, accurate and personal, crafting the perfect cus...
+canonical URL    : https://apps.shopify.com/intellecta-prod
+<h1> tags ( 1)  : 'Intellecta ‑ AI chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

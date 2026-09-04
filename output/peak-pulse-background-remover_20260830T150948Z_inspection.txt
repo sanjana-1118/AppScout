@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peak-pulse-background-remover_20260830T150948Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peak-pulse-background-remover_20260830T150948Z.html
+Requested URL    : https://apps.shopify.com/peak-pulse-background-remover
+Final URL        : https://apps.shopify.com/peak-pulse-background-remover
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,850 bytes / 197,759 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PeakPulse Background Remover - Let your products shine with clear, focused presentation | Shopify App Store
+meta description : Remove backgrounds from product photos in bulk. Add custom colors or preserve PNG transparency. AI-powered tool to transform your product images easily.
+canonical URL    : https://apps.shopify.com/peak-pulse-background-remover
+<h1> tags ( 1)  : 'PeakPulse Background Remover'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

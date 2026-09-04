@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bullseye-store-locator_20260830T033845Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bullseye-store-locator_20260830T033845Z.html
+Requested URL    : https://apps.shopify.com/bullseye-store-locator
+Final URL        : https://apps.shopify.com/bullseye-store-locator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,116 bytes / 212,013 chars
+Elapsed          : 0.769s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bullseye Store Locator - The store locator platform for location marketers | Shopify App Store
+meta description : Bullseye’s Shopify Store Locator App can be added to your Shopify store in minutes without the help of a developer. Our HTML5, responsive interface...
+canonical URL    : https://apps.shopify.com/bullseye-store-locator
+<h1> tags ( 1)  : 'Bullseye Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

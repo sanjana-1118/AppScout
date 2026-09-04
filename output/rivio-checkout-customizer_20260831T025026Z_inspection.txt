@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rivio-checkout-customizer_20260831T025026Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rivio-checkout-customizer_20260831T025026Z.html
+Requested URL    : https://apps.shopify.com/rivio-checkout-customizer
+Final URL        : https://apps.shopify.com/rivio-checkout-customizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,139 bytes / 183,029 chars
+Elapsed          : 0.892s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rivio Checkout Customizer - Streamline Checkout with Custom Payment & Shipping Rules | Shopify App Store
+meta description : Customize your Shopify checkout—hide, rename, or reorder payment & shipping methods based on cart, country & more. No code needed. Boost conversions easily.
+canonical URL    : https://apps.shopify.com/rivio-checkout-customizer
+<h1> tags ( 1)  : 'Rivio Checkout Customizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\casa-signals_20260830T185248Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\casa-signals_20260830T185248Z.html
+Requested URL    : https://apps.shopify.com/casa-signals
+Final URL        : https://apps.shopify.com/casa-signals
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,950 bytes / 171,854 chars
+Elapsed          : 0.831s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Casa Signals - Recover carts with SMS + email flows and customer timelines | Shopify App Store
+meta description : Recover abandoned carts with SMS and email flows. Per-customer timelines, per-product analytics, and marketing broadcasts in one Shopify app.
+canonical URL    : https://apps.shopify.com/casa-signals
+<h1> tags ( 1)  : 'Casa Signals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

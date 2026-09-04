@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-role-discounts_20260830T163739Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-role-discounts_20260830T163739Z.html
+Requested URL    : https://apps.shopify.com/smart-role-discounts
+Final URL        : https://apps.shopify.com/smart-role-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,799 bytes / 181,710 chars
+Elapsed          : 0.764s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Role Discount - Manage role-based discounts for different customer groups. | Shopify App Store
+meta description : Discounts helps online merchants manage role-based discounts for specific customer groups such as VIPs, wholesalers, employees, and students withou...
+canonical URL    : https://apps.shopify.com/smart-role-discounts
+<h1> tags ( 1)  : 'Smart Role Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

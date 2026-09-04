@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alcove_20260830T142217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alcove_20260830T142217Z.html
+Requested URL    : https://apps.shopify.com/alcove
+Final URL        : https://apps.shopify.com/alcove
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,355 bytes / 160,264 chars
+Elapsed          : 0.950s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Alcove - Inventory management for carbon markets. | Shopify App Store
+meta description : Alcove's carbon management platform is optimized to support carbon project developers throughout the carbon credit lifecycle: to produce, manage, a...
+canonical URL    : https://apps.shopify.com/alcove
+<h1> tags ( 1)  : 'Alcove'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

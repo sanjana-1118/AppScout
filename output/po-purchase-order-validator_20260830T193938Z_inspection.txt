@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\po-purchase-order-validator_20260830T193938Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\po-purchase-order-validator_20260830T193938Z.html
+Requested URL    : https://apps.shopify.com/po-purchase-order-validator
+Final URL        : https://apps.shopify.com/po-purchase-order-validator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,894 bytes / 162,809 chars
+Elapsed          : 0.749s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POV: Purchase Order Validator - Require PO numbers for B2B checkout | Shopify App Store
+meta description : Require valid PO numbers for Shopify B2B checkout. Validate custom PO formats, block incomplete wholesale orders, and streamline procurement.
+canonical URL    : https://apps.shopify.com/po-purchase-order-validator
+<h1> tags ( 1)  : 'POV: Purchase Order Validator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

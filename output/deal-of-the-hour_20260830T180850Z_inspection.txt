@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deal-of-the-hour_20260830T180850Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deal-of-the-hour_20260830T180850Z.html
+Requested URL    : https://apps.shopify.com/deal-of-the-hour
+Final URL        : https://apps.shopify.com/deal-of-the-hour
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,665 bytes / 172,568 chars
+Elapsed          : 0.585s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Deal of the Hour by Appecito - Create urgency and drive sales with scheduled flash deals | Shopify App Store
+meta description : Create urgency with countdown timers and live inventory counters. Run FOMO flash deals, product drops, and limited-time offers that keep customers engaged.
+canonical URL    : https://apps.shopify.com/deal-of-the-hour
+<h1> tags ( 1)  : 'Deal of the Hour by Appecito'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

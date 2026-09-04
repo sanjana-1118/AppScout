@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wixpa-mega-menu_20260830T063136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wixpa-mega-menu_20260830T063136Z.html
+Requested URL    : https://apps.shopify.com/wixpa-mega-menu
+Final URL        : https://apps.shopify.com/wixpa-mega-menu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,613 bytes / 164,498 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wixpa Mega Menu - Drag-and-drop mega menus — live on your store in minutes. | Shopify App Store
+meta description : Wixpa Mega Menu gives you a visual drag-and-drop builder to create professional navigation menus for your Shopify store. Choose from 45+ ready-made...
+canonical URL    : https://apps.shopify.com/wixpa-mega-menu
+<h1> tags ( 1)  : 'Wixpa Mega Menu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

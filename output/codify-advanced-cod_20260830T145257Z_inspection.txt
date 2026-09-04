@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codify-advanced-cod_20260830T145257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codify-advanced-cod_20260830T145257Z.html
+Requested URL    : https://apps.shopify.com/codify-advanced-cod
+Final URL        : https://apps.shopify.com/codify-advanced-cod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,711 bytes / 223,609 chars
+Elapsed          : 1.011s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Codify COD & OTP - Add COD charges, restrict COD & verify with OTP | Shopify App Store
+meta description : Add COD charges, control Cash on Delivery with flexible rules, and verify orders with OTP before or after checkout.
+canonical URL    : https://apps.shopify.com/codify-advanced-cod
+<h1> tags ( 1)  : 'Codify COD & OTP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

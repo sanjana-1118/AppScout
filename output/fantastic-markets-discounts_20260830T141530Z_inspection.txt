@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fantastic-markets-discounts_20260830T141530Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fantastic-markets-discounts_20260830T141530Z.html
+Requested URL    : https://apps.shopify.com/fantastic-markets-discounts
+Final URL        : https://apps.shopify.com/fantastic-markets-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,128 bytes / 229,016 chars
+Elapsed          : 0.717s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fantastic Markets Discounts - Create exclusive and automatic discounts for every market. | Shopify App Store
+meta description : Fantastic Markets discounts is the first app that allows you to create and schedule exclusive offers for each of your Shopify Markets.
+canonical URL    : https://apps.shopify.com/fantastic-markets-discounts
+<h1> tags ( 1)  : 'Fantastic Markets Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

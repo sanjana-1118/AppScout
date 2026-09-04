@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nexo-order-limit_20260830T063711Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nexo-order-limit_20260830T063711Z.html
+Requested URL    : https://apps.shopify.com/nexo-order-limit
+Final URL        : https://apps.shopify.com/nexo-order-limit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,835 bytes / 239,720 chars
+Elapsed          : 0.635s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nexo ‑ Order Limits Quantity - Flexible purchase limits by product, variant, customer segment | Shopify App Store
+meta description : Flexible controls for minimum, maximum, and increment values, store owners can prevent over-ordering and enforce purchase rules with ease
+canonical URL    : https://apps.shopify.com/nexo-order-limit
+<h1> tags ( 1)  : 'Nexo ‑ Order Limits Quantity'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

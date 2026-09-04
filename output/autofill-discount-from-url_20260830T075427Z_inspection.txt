@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autofill-discount-from-url_20260830T075427Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autofill-discount-from-url_20260830T075427Z.html
+Requested URL    : https://apps.shopify.com/autofill-discount-from-url
+Final URL        : https://apps.shopify.com/autofill-discount-from-url
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,422 bytes / 171,332 chars
+Elapsed          : 0.812s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PromoEase: Autofill Discounts - Automatically add a discount during checkout. | Shopify App Store
+meta description : The problem is that when the customer is browsing your store, there is no visible message letting them know that they have a discount that they can...
+canonical URL    : https://apps.shopify.com/autofill-discount-from-url
+<h1> tags ( 1)  : 'PromoEase: Autofill Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

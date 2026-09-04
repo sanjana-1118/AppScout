@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\botsailor_20260831T024602Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\botsailor_20260831T024602Z.html
+Requested URL    : https://apps.shopify.com/botsailor
+Final URL        : https://apps.shopify.com/botsailor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,773 bytes / 169,680 chars
+Elapsed          : 0.773s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BotSailor - Recover carts, verify COD orders, and send updates via WhatsAp | Shopify App Store
+meta description : Recover abandoned carts, verify COD orders, and send automated order confirmations, shipping updates, and delivery notifications through WhatsApp.
+canonical URL    : https://apps.shopify.com/botsailor
+<h1> tags ( 1)  : 'BotSailor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

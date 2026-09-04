@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doppelganger-app_20260830T064617Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doppelganger-app_20260830T064617Z.html
+Requested URL    : https://apps.shopify.com/doppelganger-app
+Final URL        : https://apps.shopify.com/doppelganger-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,392 bytes / 198,295 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Doppelganger - Find and merge duplicate customers | Shopify App Store
+meta description : Every shop has to deal with duplicate accounts. Whether it is from Point Of Sale sales with credit cards or from customers using multiple email add...
+canonical URL    : https://apps.shopify.com/doppelganger-app
+<h1> tags ( 1)  : 'Doppelganger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\growth-radar_20260830T073659Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\growth-radar_20260830T073659Z.html
+Requested URL    : https://apps.shopify.com/growth-radar
+Final URL        : https://apps.shopify.com/growth-radar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,380 bytes / 174,283 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Growth Radar - Track real-time revenue, LTV, and repeat purchase rates | Shopify App Store
+meta description : A clear analytics dashboard for revenue, returning customers, LTV, and returns — without spreadsheets or complexity....
+canonical URL    : https://apps.shopify.com/growth-radar
+<h1> tags ( 1)  : 'Growth Radar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

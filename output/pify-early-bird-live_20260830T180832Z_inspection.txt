@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pify-early-bird-live_20260830T180832Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pify-early-bird-live_20260830T180832Z.html
+Requested URL    : https://apps.shopify.com/pify-early-bird-live
+Final URL        : https://apps.shopify.com/pify-early-bird-live
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,133 bytes / 174,044 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pify Tiered Discounts - Run tiered product discounts for launches and first buyers | Shopify App Store
+meta description : Create quota-based or time-based early bird campaigns for selected products. Show the current tier, remaining quantity or active time window on pro...
+canonical URL    : https://apps.shopify.com/pify-early-bird-live
+<h1> tags ( 1)  : 'Pify Tiered Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

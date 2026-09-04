@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autoaudit_20260831T030041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autoaudit_20260831T030041Z.html
+Requested URL    : https://apps.shopify.com/autoaudit
+Final URL        : https://apps.shopify.com/autoaudit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,383 bytes / 159,284 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AutoAudit - One-Click store fix it list, Updates Monthly | Shopify App Store
+meta description : SEO basics: titles, meta descriptions, canonical tags, structured data,
+Open Graph, image alt text
+One prioritized fix-it list — no dashboards to learn.
+canonical URL    : https://apps.shopify.com/autoaudit
+<h1> tags ( 1)  : 'AutoAudit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

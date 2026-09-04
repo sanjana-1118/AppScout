@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optionpulse_20260830T074558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optionpulse_20260830T074558Z.html
+Requested URL    : https://apps.shopify.com/optionpulse
+Final URL        : https://apps.shopify.com/optionpulse
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,531 bytes / 163,396 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OptionPulse: Option Reports - Understand which custom selections shoppers choose | Shopify App Store
+meta description : Analyze visible custom product selections from recent orders. Compare option values and combinations, filter results, and export a CSV.
+canonical URL    : https://apps.shopify.com/optionpulse
+<h1> tags ( 1)  : 'OptionPulse: Option Reports'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

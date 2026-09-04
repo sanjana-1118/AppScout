@@ -1,0 +1,36 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\receiptroller_20260830T142256Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\receiptroller_20260830T142256Z.html
+Requested URL    : https://apps.shopify.com/receiptroller
+Final URL        : https://apps.shopify.com/receiptroller
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,500 bytes / 161,001 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : {RECEIPT}ROLLER・レシートローラー - 会員登録なくても、簡単に電子レシート導入。　紙レシートの削減。 | Shopify App Store
+meta description : このアプリでできること
+このアプリをインストールいただくだけで、お客様に電子レシートを送付することができます。
+
+# お客様情報が登録されていない場合
+SMSもしくEmailで電子レシートを受け取ることができます。事前登録などは一切必要ありません。
+
+# お客様情報が登録されている場合
+指定の...
+canonical URL    : https://apps.shopify.com/receiptroller?locale=ja
+<h1> tags ( 1)  : '{RECEIPT}ROLLER・レシートローラー'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

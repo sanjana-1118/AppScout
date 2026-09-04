@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redshelf-integration_20260830T134234Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redshelf-integration_20260830T134234Z.html
+Requested URL    : https://apps.shopify.com/redshelf-integration
+Final URL        : https://apps.shopify.com/redshelf-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,895 bytes / 161,804 chars
+Elapsed          : 0.588s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Redshelf Integration - Create Ebook via Redshelf | Shopify App Store
+meta description : This app integrates with Redshelf. All you need for this app is the hash id and access token. The app verifies user-provided information. If the in...
+canonical URL    : https://apps.shopify.com/redshelf-integration
+<h1> tags ( 1)  : 'Redshelf Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

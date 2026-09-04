@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/wxwerp",
+  "fetch_timestamp": "2026-08-30T05:10:41.405072+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wxwerp_20260830T051041Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wxwerp_20260830T051041Z.html",
+    "url": "https://apps.shopify.com/wxwerp",
+    "final_url": "https://apps.shopify.com/wxwerp",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 199810,
+    "body_text_length": 196863,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.782267,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "旺销王ERP - 丰富的营销功能，让您体验强大的营销 | Shopify App Store",
+    "meta_description": "旺销王ERP是一个专业的SaaS软件平台，在为电子商务卖家提供高质量服务。该平台支持商家在软件内进行多种关键业务操作，包括商品刊登、订单处理和物流管理。\n\n产品管理方面，旺销王ERP能够从Aliexpress、eBay、Amazon等超过一百家网站采集产品信息，并提供产品编辑功能。这一功能帮助...",
+    "canonical_url": "https://apps.shopify.com/wxwerp?locale=zh-TW",
+    "h1_tags": [
+      "旺销王ERP"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "旺销王ERP",
+    "app_slug": "wxwerp",
+    "app_url": "https://apps.shopify.com/wxwerp?locale=zh-TW",
+    "developer_name": "HuaTianWeiYe Co.,LTD",
+    "description": "旺销王ERP是一个专业的SaaS软件平台，在为电子商务卖家提供高质量服务。该平台支持商家在软件内进行多种关键业务操作，包括商品刊登、订单处理和物流管理。\n\n产品管理方面，旺销王ERP能够从Aliexpress、eBay、Amazon等超过一百家网站采集产品信息，并提供产品编辑功能。这一功能帮助...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "ERP"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wxwerp_20260830T051041Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wxwerp_20260830T051041Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "旺销王ERP",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "wxwerp",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/wxwerp?locale=zh-TW",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "HuaTianWeiYe Co.,LTD",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "旺销王ERP是一个专业的SaaS软件平台，在为电子商务卖家提供高质量服务。该平台支持商家在软件内进行多种关键业务操作，包括商品刊登、订单处理和物流管理。\n\n产品管理方面，旺销王ERP能够从Aliexpress、eBay、Amazon等超过一百家网站采集产品信息，并提供产品编辑功能。这一功能帮助...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "ERP",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

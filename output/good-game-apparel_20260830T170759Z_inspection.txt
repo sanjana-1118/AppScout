@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\good-game-apparel_20260830T170759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\good-game-apparel_20260830T170759Z.html
+Requested URL    : https://apps.shopify.com/good-game-apparel
+Final URL        : https://apps.shopify.com/good-game-apparel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,149 bytes / 162,060 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Good Game Apparel - Publish print-on-demand products and sync fulfillment to Shopi | Shopify App Store
+meta description : Publish Good Game Apparel products to your Shopify store, sync orders with shipping details, and send fulfillment tracking back to Shopify.
+canonical URL    : https://apps.shopify.com/good-game-apparel
+<h1> tags ( 1)  : 'Good Game Apparel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-radar_20260830T184206Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-radar_20260830T184206Z.html
+Requested URL    : https://apps.shopify.com/store-radar
+Final URL        : https://apps.shopify.com/store-radar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,709 bytes / 168,554 chars
+Elapsed          : 0.764s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Store Radar ‑ Ourava - Slack alerts for inventory, orders, refunds, and fulfillment | Shopify App Store
+meta description : Send Slack alerts for stock, sold out products, orders, refunds, fulfillment delays, cancellations, and daily store summaries.
+canonical URL    : https://apps.shopify.com/store-radar
+<h1> tags ( 1)  : 'Store Radar ‑ Ourava'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

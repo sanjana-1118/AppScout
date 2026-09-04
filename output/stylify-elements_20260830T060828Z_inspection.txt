@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stylify-elements_20260830T060828Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stylify-elements_20260830T060828Z.html
+Requested URL    : https://apps.shopify.com/stylify-elements
+Final URL        : https://apps.shopify.com/stylify-elements
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,049 bytes / 166,932 chars
+Elapsed          : 0.954s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stylify ‑ Easy Fonts & Styles - Effortlessly Style Your HTML Elements with Precision! | Shopify App Store
+meta description : With Stylify - Easy Fonts & Styles, you can easily apply styles to your HTML elements using Google fonts, custom fonts, and many other options!
+canonical URL    : https://apps.shopify.com/stylify-elements
+<h1> tags ( 1)  : 'Stylify ‑ Easy Fonts & Styles'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

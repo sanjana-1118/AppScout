@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\single-page-order-form_20260830T035502Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\single-page-order-form_20260830T035502Z.html
+Requested URL    : https://apps.shopify.com/single-page-order-form
+Final URL        : https://apps.shopify.com/single-page-order-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,823 bytes / 216,723 chars
+Elapsed          : 0.950s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WSH Order Form & ReOrder - Quick order form for wholesale orders, bulk orders, & reorders | Shopify App Store
+meta description : Help your wholesale customers order faster than ever.
+
+With a single-page wholesale order form, buyers can quickly add multiple products, adjust qu...
+canonical URL    : https://apps.shopify.com/single-page-order-form
+<h1> tags ( 1)  : 'WSH Order Form & ReOrder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

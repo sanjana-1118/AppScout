@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helphq_20260830T075729Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helphq_20260830T075729Z.html
+Requested URL    : https://apps.shopify.com/helphq
+Final URL        : https://apps.shopify.com/helphq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,567 bytes / 215,478 chars
+Elapsed          : 0.800s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AMP: FAQ Page & Help Center HQ - Help center: Faq page & Faq tabs to cut down... | Shopify App Store
+meta description : HelpHQ allows users to get answers immediately from your own Frequently Asked Questions/Q&A page. An effective help center can answer massive amoun...
+canonical URL    : https://apps.shopify.com/helphq
+<h1> tags ( 1)  : 'AMP: FAQ Page & Help Center HQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

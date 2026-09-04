@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nabu-sitemap_20260829T184933Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nabu-sitemap_20260829T184933Z.html
+Requested URL    : https://apps.shopify.com/nabu-sitemap
+Final URL        : https://apps.shopify.com/nabu-sitemap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,291 bytes / 211,194 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : XML Sitemap Generator by Nabu - XML & HTML sitemap generator with noindex & nofollow control | Shopify App Store
+meta description : Generate XML and HTML sitemaps for Shopify, submit to Google Search Console, control noindex and nofollow, and optimize crawl budget with ease.
+canonical URL    : https://apps.shopify.com/nabu-sitemap
+<h1> tags ( 1)  : 'XML Sitemap Generator by Nabu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

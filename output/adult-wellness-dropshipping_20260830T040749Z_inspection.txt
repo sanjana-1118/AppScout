@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adult-wellness-dropshipping_20260830T040749Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adult-wellness-dropshipping_20260830T040749Z.html
+Requested URL    : https://apps.shopify.com/adult-wellness-dropshipping
+Final URL        : https://apps.shopify.com/adult-wellness-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,913 bytes / 190,814 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SexyLiving: Adult Dropshipping - Adult Wellness Catalogue Integration for Seamless Dropshipping | Shopify App Store
+meta description : Easily dropship sexual wellness products with Sexy Living. Automate orders, offer discreet shipping and grow your store risk-free. Start selling today!
+canonical URL    : https://apps.shopify.com/adult-wellness-dropshipping
+<h1> tags ( 1)  : 'SexyLiving: Adult Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

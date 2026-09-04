@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optionforge_20260830T045654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optionforge_20260830T045654Z.html
+Requested URL    : https://apps.shopify.com/optionforge
+Final URL        : https://apps.shopify.com/optionforge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,909 bytes / 194,787 chars
+Elapsed          : 0.694s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OptionForge Product Options - Product options & add-ons, charged correctly at checkout | Shopify App Store
+meta description : Add product options, custom fields and paid add-ons to any product. Add-on prices apply server-side at checkout, so totals always match—no phantom products.
+canonical URL    : https://apps.shopify.com/optionforge
+<h1> tags ( 1)  : 'OptionForge Product Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

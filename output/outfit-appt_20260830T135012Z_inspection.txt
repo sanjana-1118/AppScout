@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\outfit-appt_20260830T135012Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\outfit-appt_20260830T135012Z.html
+Requested URL    : https://apps.shopify.com/outfit-appt
+Final URL        : https://apps.shopify.com/outfit-appt
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,662 bytes / 151,573 chars
+Elapsed          : 0.926s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Outfit Appt - Personalized Video Shopping Experiences | Shopify App Store
+meta description : Outfit allows visitors to your website to book a live, 1-on-1 video shopping call. It provides a virtual shopping experience that puts your sales r...
+canonical URL    : https://apps.shopify.com/outfit-appt
+<h1> tags ( 1)  : 'Outfit Appt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

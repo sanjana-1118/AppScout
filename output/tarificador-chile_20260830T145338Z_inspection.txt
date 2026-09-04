@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tarificador-chile_20260830T145338Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tarificador-chile_20260830T145338Z.html
+Requested URL    : https://apps.shopify.com/tarificador-chile
+Final URL        : https://apps.shopify.com/tarificador-chile
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,747 bytes / 192,620 chars
+Elapsed          : 0.898s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tarificador Chile - Define tus envíos y retiros por comuna con tarifas automáticas | Shopify App Store
+meta description : Automatiza tarifas por comuna, peso y entrega. Ofrece retiro en tienda con etiquetas y crea reglas especiales para eventos como CyberDay o BFCM.
+canonical URL    : https://apps.shopify.com/tarificador-chile
+<h1> tags ( 1)  : 'Tarificador Chile'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

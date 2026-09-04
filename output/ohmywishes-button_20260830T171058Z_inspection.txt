@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ohmywishes-button_20260830T171058Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ohmywishes-button_20260830T171058Z.html
+Requested URL    : https://apps.shopify.com/ohmywishes-button
+Final URL        : https://apps.shopify.com/ohmywishes-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,283 bytes / 172,194 chars
+Elapsed          : 0.868s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ohmywishes Button - Native integration with Ohmywishes | Shopify App Store
+meta description : The button will appear on each product page in the location you choose. By clicking on the button, a visitor to your website will be able to add th...
+canonical URL    : https://apps.shopify.com/ohmywishes-button
+<h1> tags ( 1)  : 'Ohmywishes Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

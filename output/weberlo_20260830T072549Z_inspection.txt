@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weberlo_20260830T072549Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weberlo_20260830T072549Z.html
+Requested URL    : https://apps.shopify.com/weberlo
+Final URL        : https://apps.shopify.com/weberlo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,147 bytes / 169,049 chars
+Elapsed          : 0.701s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Weberlo for Attribution - Marketing attribution using cookieless server-side tracking | Shopify App Store
+meta description : Optimize your e-commerce strategy with Weberlo: Advanced, cookieless tracking for precise marketing attribution
+canonical URL    : https://apps.shopify.com/weberlo
+<h1> tags ( 1)  : 'Weberlo for Attribution'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

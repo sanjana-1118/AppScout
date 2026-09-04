@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corecaptain_20260830T170028Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corecaptain_20260830T170028Z.html
+Requested URL    : https://apps.shopify.com/corecaptain
+Final URL        : https://apps.shopify.com/corecaptain
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,267 bytes / 201,172 chars
+Elapsed          : 0.948s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CoreCaptain Inventory Manager - Stop losing money to inventory anomalies with real-time alerts | Shopify App Store
+meta description : Detect phantom stock, theft, and sync errors before they cost you money. Real-time inventory monitoring with intelligent anomaly detection for Shopify.
+canonical URL    : https://apps.shopify.com/corecaptain
+<h1> tags ( 1)  : 'CoreCaptain Inventory Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

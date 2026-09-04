@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\japan-address-validation_20260830T051409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\japan-address-validation_20260830T051409Z.html
+Requested URL    : https://apps.shopify.com/japan-address-validation
+Final URL        : https://apps.shopify.com/japan-address-validation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,462 bytes / 208,130 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : スマート配送先バリデーション｜購入体験に配慮した住所チェック - 購入体験に配慮した住所チェックアプリ。チェックアウト中と購入後に動作し、表記ゆれは自動で修正。Plus以外でも利用可能です。 | Shopify App Store
+meta description : チェックアウト・サンキューページに導入できる配送先住所チェックアプリです。購入フロー全体を通した包括的なチェックで、購入体験に配慮しながら住所の誤りによる運用コストを削減できます。
+canonical URL    : https://apps.shopify.com/japan-address-validation?locale=ja
+<h1> tags ( 1)  : 'スマート配送先バリデーション｜購入体験に配慮した住所チェック'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

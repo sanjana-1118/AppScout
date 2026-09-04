@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\branding-nft_20260830T043814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\branding-nft_20260830T043814Z.html
+Requested URL    : https://apps.shopify.com/branding-nft
+Final URL        : https://apps.shopify.com/branding-nft
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,445 bytes / 152,226 chars
+Elapsed          : 0.676s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Branding‑NFT - Smoothly adding token gating ability.  | Shopify App Store
+meta description : Using Branding NFT can give your shop token-gated ability to add NFT verification and NFT holder discount to your shop.
+You can add NFT holder veri...
+canonical URL    : https://apps.shopify.com/branding-nft
+<h1> tags ( 1)  : 'Branding‑NFT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

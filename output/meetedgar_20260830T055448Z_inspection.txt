@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meetedgar_20260830T055448Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meetedgar_20260830T055448Z.html
+Requested URL    : https://apps.shopify.com/meetedgar
+Final URL        : https://apps.shopify.com/meetedgar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,648 bytes / 175,535 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MeetEdgar ‑ Social Auto Post - The unique social media management tool that schedules for you | Shopify App Store
+meta description : Integrate Shopify products with your social media using our easy tool and increase sales with social media posts. Boost sales & engagement!
+
+MeetEd...
+canonical URL    : https://apps.shopify.com/meetedgar
+<h1> tags ( 1)  : 'MeetEdgar ‑ Social Auto Post'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

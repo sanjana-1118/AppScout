@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kernvel-returnsiq_20260830T181541Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kernvel-returnsiq_20260830T181541Z.html
+Requested URL    : https://apps.shopify.com/kernvel-returnsiq
+Final URL        : https://apps.shopify.com/kernvel-returnsiq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,997 bytes / 211,886 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kernvel ReturnsIQ - AI-native returns and refunds — built for merchants Loop | Shopify App Store
+meta description : ReturnsIQ scores every return request in real time, verifies customer photos for authenticity, predicts which orders will be returned before they ship,
+canonical URL    : https://apps.shopify.com/kernvel-returnsiq
+<h1> tags ( 1)  : 'Kernvel ReturnsIQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

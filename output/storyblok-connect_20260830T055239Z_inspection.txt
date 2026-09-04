@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storyblok-connect_20260830T055239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storyblok-connect_20260830T055239Z.html
+Requested URL    : https://apps.shopify.com/storyblok-connect
+Final URL        : https://apps.shopify.com/storyblok-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,417 bytes / 158,324 chars
+Elapsed          : 0.738s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Storyblok (Official) - A powerful CMS that both developers and marketers love to... | Shopify App Store
+meta description : Storyblok (CMS) empowers your developers and marketers to create exceptional content experiences that drive engagement and revenue. 
+
+The integrati...
+canonical URL    : https://apps.shopify.com/storyblok-connect
+<h1> tags ( 1)  : 'Storyblok (Official)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getmyai_20260830T183001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getmyai_20260830T183001Z.html
+Requested URL    : https://apps.shopify.com/getmyai
+Final URL        : https://apps.shopify.com/getmyai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,657 bytes / 191,568 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GetMyAI - AI agent for product picks order tracking and store FAQs | Shopify App Store
+meta description : GetMyAI is ideal for merchants seeking to streamline customer support. AI answers product questions, tracks orders, and recommends products from your catalog.
+canonical URL    : https://apps.shopify.com/getmyai
+<h1> tags ( 1)  : 'GetMyAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

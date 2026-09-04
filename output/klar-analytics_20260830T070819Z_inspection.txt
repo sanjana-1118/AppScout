@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\klar-analytics_20260830T070819Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\klar-analytics_20260830T070819Z.html
+Requested URL    : https://apps.shopify.com/klar-analytics
+Final URL        : https://apps.shopify.com/klar-analytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,672 bytes / 180,575 chars
+Elapsed          : 0.544s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Klar Analytics - The Attribution & Insights Platform for Your eCom Business | Shopify App Store
+meta description : Klar brings your marketing, margins, and retention analytics together in one place, giving you total clarity over your performance.
+canonical URL    : https://apps.shopify.com/klar-analytics
+<h1> tags ( 1)  : 'Klar Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popprint-pod_20260830T142815Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popprint-pod_20260830T142815Z.html
+Requested URL    : https://apps.shopify.com/popprint-pod
+Final URL        : https://apps.shopify.com/popprint-pod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,900 bytes / 174,069 chars
+Elapsed          : 0.639s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PopPrint 潮印 POD - Print on demand | Shopify App Store
+meta description : PopPrint 助力创作者、IP 所有者和电商品牌轻松推出高端实体产品，无需承担前期成本或库存烦恼。我们的应用专注于高端集换式卡牌游戏 (TCG)、塔罗牌和纸质收藏品，将您的 Shopify 店铺直接与我们的工业级制造工厂无缝对接。通过消除最低起订量 (MOQ) 限制并实现履约流程的自动化，...
+canonical URL    : https://apps.shopify.com/popprint-pod?locale=zh-CN
+<h1> tags ( 1)  : 'PopPrint 潮印 POD'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

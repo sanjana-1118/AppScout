@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foxlendar_20260830T182710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foxlendar_20260830T182710Z.html
+Requested URL    : https://apps.shopify.com/foxlendar
+Final URL        : https://apps.shopify.com/foxlendar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,841 bytes / 201,728 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Foxlendar ‑ Hotel Booking - Hotel and accommodation bookings with seasonal rates and sync | Shopify App Store
+meta description : Foxlendar turns your store into a booking engine for hotels, homestays and vacation rentals. Guests pick check-in and check-out dates, see live rat...
+canonical URL    : https://apps.shopify.com/foxlendar
+<h1> tags ( 1)  : 'Foxlendar ‑ Hotel Booking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

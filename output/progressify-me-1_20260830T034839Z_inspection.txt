@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\progressify-me-1_20260830T034839Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\progressify-me-1_20260830T034839Z.html
+Requested URL    : https://apps.shopify.com/progressify-me-1
+Final URL        : https://apps.shopify.com/progressify-me-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 240,872 bytes / 240,770 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ampify PWA: Mobile App Builder - Mobile app builder with push alerts & abandoned cart recovery | Shopify App Store
+meta description : Transform your Shopify Store into a Mobile App in seconds. Drive repeat purchases with push notifications & advanced campaigns
+canonical URL    : https://apps.shopify.com/progressify-me-1
+<h1> tags ( 1)  : 'Ampify PWA: Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

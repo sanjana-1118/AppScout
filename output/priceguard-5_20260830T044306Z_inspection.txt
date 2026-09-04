@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\priceguard-5_20260830T044306Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\priceguard-5_20260830T044306Z.html
+Requested URL    : https://apps.shopify.com/priceguard-5
+Final URL        : https://apps.shopify.com/priceguard-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,331 bytes / 175,224 chars
+Elapsed          : 0.673s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PriceGuard ‑ Trade Pricing - Manage trade pricing with customer-specific rules | Shopify App Store
+meta description : Control customer pricing for wholesale, trade and VIP accounts in Shopify. Create pricing tiers, assign customers and validate rules easily.
+canonical URL    : https://apps.shopify.com/priceguard-5
+<h1> tags ( 1)  : 'PriceGuard ‑ Trade Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

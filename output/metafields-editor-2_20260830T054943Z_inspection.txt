@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\metafields-editor-2_20260830T054943Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\metafields-editor-2_20260830T054943Z.html
+Requested URL    : https://apps.shopify.com/metafields-editor-2
+Final URL        : https://apps.shopify.com/metafields-editor-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 257,190 bytes / 257,089 chars
+Elapsed          : 0.692s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Metafields Guru - Manage metafields manually or in bulk. Imports, exports & more | Shopify App Store
+meta description : Bulk editor, CSV export & import, browser extension, and more. Display metafields without coding. Compatible with Shopify metafield definitions and Flow.
+canonical URL    : https://apps.shopify.com/metafields-editor-2
+<h1> tags ( 1)  : 'Metafields Guru'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

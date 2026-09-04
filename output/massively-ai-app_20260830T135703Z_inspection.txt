@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\massively-ai-app_20260830T135703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\massively-ai-app_20260830T135703Z.html
+Requested URL    : https://apps.shopify.com/massively-ai-app
+Final URL        : https://apps.shopify.com/massively-ai-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,475 bytes / 176,386 chars
+Elapsed          : 0.607s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Massively: DM Canvas & AI Chat - Direct Message storefronts and AI chat for social commerce. | Shopify App Store
+meta description : Turn messages and comments into sales. DM Canvas delivers your products as a swipeable storefront inside the DM. AI chat included. Meta Official Partner.
+canonical URL    : https://apps.shopify.com/massively-ai-app
+<h1> tags ( 1)  : 'Massively: DM Canvas & AI Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

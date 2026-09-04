@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repair-score-manager_20260830T162416Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repair-score-manager_20260830T162416Z.html
+Requested URL    : https://apps.shopify.com/repair-score-manager
+Final URL        : https://apps.shopify.com/repair-score-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,443 bytes / 173,269 chars
+Elapsed          : 0.892s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Indice de réparabilité - Affichez l’indice de réparabilité avec badge et PDF. | Shopify App Store
+meta description : Centralisez et publiez l’indice de réparabilité, badges multilingues et PDF produit depuis Shopify.
+canonical URL    : https://apps.shopify.com/repair-score-manager?locale=fr
+<h1> tags ( 1)  : 'Indice de réparabilité'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

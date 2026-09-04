@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\osom-post-purchase-surveys_20260830T061447Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\osom-post-purchase-surveys_20260830T061447Z.html
+Requested URL    : https://apps.shopify.com/osom-post-purchase-surveys
+Final URL        : https://apps.shopify.com/osom-post-purchase-surveys
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,510 bytes / 198,409 chars
+Elapsed          : 0.505s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OSOM Post Purchase Surveys - Get instant post-purchase feedback to understand your customer | Shopify App Store
+meta description : Boost your Shopify store’s success with a post-purchase survey! Gather customer feedback, improve satisfaction, and drive more sales with actionable insights.
+canonical URL    : https://apps.shopify.com/osom-post-purchase-surveys
+<h1> tags ( 1)  : 'OSOM Post Purchase Surveys'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

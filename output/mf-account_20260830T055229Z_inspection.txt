@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mf-account_20260830T055229Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mf-account_20260830T055229Z.html
+Requested URL    : https://apps.shopify.com/mf-account
+Final URL        : https://apps.shopify.com/mf-account
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,479 bytes / 171,284 chars
+Elapsed          : 0.454s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MF Account : Profile Extension - Add profile fields to New Customer Account. Birthday, size.... | Shopify App Store
+meta description : Customize new customer account profiles. Add fields like birthdays and sizes to boost marketing. Shopify Flow integration is available.
+canonical URL    : https://apps.shopify.com/mf-account
+<h1> tags ( 1)  : 'MF Account : Profile Extension'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

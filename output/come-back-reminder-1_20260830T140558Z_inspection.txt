@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\come-back-reminder-1_20260830T140558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\come-back-reminder-1_20260830T140558Z.html
+Requested URL    : https://apps.shopify.com/come-back-reminder-1
+Final URL        : https://apps.shopify.com/come-back-reminder-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,273 bytes / 158,159 chars
+Elapsed          : 1.620s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pi ‑ Come Back Reminder - Recover traffic and sales from users who were distracted away | Shopify App Store
+meta description : Come back reminder works with as simple as setting a catchy text to capture users' attention when they switch tabs and define how many seconds the ...
+canonical URL    : https://apps.shopify.com/come-back-reminder-1
+<h1> tags ( 1)  : 'Pi ‑ Come Back Reminder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

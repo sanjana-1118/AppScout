@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mb-products-label_20260831T040338Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mb-products-label_20260831T040338Z.html
+Requested URL    : https://apps.shopify.com/mb-products-label
+Final URL        : https://apps.shopify.com/mb-products-label
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,145 bytes / 197,054 chars
+Elapsed          : 0.714s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MB Products Labels & Badges - AI-powered product labels and badges with smart display rules | Shopify App Store
+meta description : MB AI Product Labels & Badges helps merchants attract attention to products with AI-powered labels, badges, and promotional stickers. Create custom...
+canonical URL    : https://apps.shopify.com/mb-products-label
+<h1> tags ( 1)  : 'MB Products Labels & Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

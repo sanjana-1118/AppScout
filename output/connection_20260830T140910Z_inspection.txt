@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\connection_20260830T140910Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\connection_20260830T140910Z.html
+Requested URL    : https://apps.shopify.com/connection
+Final URL        : https://apps.shopify.com/connection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,537 bytes / 218,440 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : idmc - Instantly AI Edit & bulk generate product descriptions | Shopify App Store
+meta description : IDMC generates product names, descriptions, SKUs, and pricing in bulk. This helps merchants
+add and update large product catalogs more efficiently ...
+canonical URL    : https://apps.shopify.com/connection
+<h1> tags ( 1)  : 'idmc'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

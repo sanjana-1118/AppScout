@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-hotspot-area_20260830T062432Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-hotspot-area_20260830T062432Z.html
+Requested URL    : https://apps.shopify.com/image-hotspot-area
+Final URL        : https://apps.shopify.com/image-hotspot-area
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,972 bytes / 166,875 chars
+Elapsed          : 0.714s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PixPoint: Image Hotspot - Boost engagement with interactive product visuals. | Shopify App Store
+meta description : Transform static images into interactive, clickable experiences with Image Hotspot Area, the one Shopify app for building engaging visual content.
+canonical URL    : https://apps.shopify.com/image-hotspot-area
+<h1> tags ( 1)  : 'PixPoint: Image Hotspot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

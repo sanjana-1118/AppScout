@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nowutalk-app_20260830T150538Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nowutalk-app_20260830T150538Z.html
+Requested URL    : https://apps.shopify.com/nowutalk-app
+Final URL        : https://apps.shopify.com/nowutalk-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,573 bytes / 167,476 chars
+Elapsed          : 0.928s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nowutalk AI Voice Sales Agent - AI-powered shopping voice assistant for your store | Shopify App Store
+meta description : AI voice sales agent that talks to customers and boosts conversions with smart insights.
+canonical URL    : https://apps.shopify.com/nowutalk-app
+<h1> tags ( 1)  : 'Nowutalk AI Voice Sales Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

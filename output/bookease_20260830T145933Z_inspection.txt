@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bookease_20260830T145933Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bookease_20260830T145933Z.html
+Requested URL    : https://apps.shopify.com/bookease
+Final URL        : https://apps.shopify.com/bookease
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,788 bytes / 166,699 chars
+Elapsed          : 0.824s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BookEase - One-Click Order Booking for All Courier Services in Pakistan. | Shopify App Store
+meta description : Booking Orders/Parcel on Leopard, TCS, M&P and PostEx and Auto Track Parcel.
+canonical URL    : https://apps.shopify.com/bookease
+<h1> tags ( 1)  : 'BookEase'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

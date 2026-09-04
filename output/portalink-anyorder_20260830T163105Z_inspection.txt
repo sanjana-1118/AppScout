@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\portalink-anyorder_20260830T163105Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\portalink-anyorder_20260830T163105Z.html
+Requested URL    : https://apps.shopify.com/portalink-anyorder
+Final URL        : https://apps.shopify.com/portalink-anyorder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,833 bytes / 185,738 chars
+Elapsed          : 0.653s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Portalink AnyOrder - Eliminate manual entry of offline email orders | Shopify App Store
+meta description : Turn Email Orders into Shopify Draft Orders. 10 years of innovation, Portalink captures offline order data with 100% accuracy & leverages deep inte...
+canonical URL    : https://apps.shopify.com/portalink-anyorder
+<h1> tags ( 1)  : 'Portalink AnyOrder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

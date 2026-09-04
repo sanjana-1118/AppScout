@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reveni_20260830T052352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reveni_20260830T052352Z.html
+Requested URL    : https://apps.shopify.com/reveni
+Final URL        : https://apps.shopify.com/reveni
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,986 bytes / 193,890 chars
+Elapsed          : 0.467s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reveni Returns & Exchanges - Turn returns and exchanges into a lever for loyalty and... | Shopify App Store
+meta description : Reveni helps eCommerce retailers optimise their returns process and enhance customer loyalty with exchanges and store credit.
+canonical URL    : https://apps.shopify.com/reveni
+<h1> tags ( 1)  : 'Reveni Returns & Exchanges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

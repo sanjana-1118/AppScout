@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundleai_20260831T034417Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundleai_20260831T034417Z.html
+Requested URL    : https://apps.shopify.com/bundleai
+Final URL        : https://apps.shopify.com/bundleai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,471 bytes / 179,366 chars
+Elapsed          : 0.920s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BundleAI - Bundle 'Spesso comprati insieme' con AI per vendere di più | Shopify App Store
+meta description : Bundle 'Spesso comprati insieme' nella pagina prodotto con raccomandazioni AI, sconti reali al checkout e analisi. Aumenta il valore medio dell'ordine.
+canonical URL    : https://apps.shopify.com/bundleai?locale=it
+<h1> tags ( 1)  : 'BundleAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

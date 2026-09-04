@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fondmart_20260830T131632Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fondmart_20260830T131632Z.html
+Requested URL    : https://apps.shopify.com/fondmart
+Final URL        : https://apps.shopify.com/fondmart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,164 bytes / 194,075 chars
+Elapsed          : 0.633s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FondMart - Clothing wholesale & Dropshipping | Shopify App Store
+meta description : FondMart is a wholesale and dropshipping platform. We integrate 2000+ suppliers in China and 40+ logistics suppliers for global delivery in 7-15 da...
+canonical URL    : https://apps.shopify.com/fondmart
+<h1> tags ( 1)  : 'FondMart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

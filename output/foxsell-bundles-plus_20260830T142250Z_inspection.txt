@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foxsell-bundles-plus_20260830T142250Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foxsell-bundles-plus_20260830T142250Z.html
+Requested URL    : https://apps.shopify.com/foxsell-bundles-plus
+Final URL        : https://apps.shopify.com/foxsell-bundles-plus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 262,708 bytes / 262,605 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FoxSell Bundle Builder  - Mix and Match Bundle Builder & Build Your Own Bundle... | Shopify App Store
+meta description : Boost sales, average order value, and effortlessly upsell with FoxSell Bundles Plus. Create Mix and Match Bundle Builder, Build Your Own Bundle Sets
+canonical URL    : https://apps.shopify.com/foxsell-bundles-plus
+<h1> tags ( 1)  : 'FoxSell Bundle Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

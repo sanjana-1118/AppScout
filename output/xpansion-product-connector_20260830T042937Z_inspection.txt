@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xpansion-product-connector_20260830T042937Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xpansion-product-connector_20260830T042937Z.html
+Requested URL    : https://apps.shopify.com/xpansion-product-connector
+Final URL        : https://apps.shopify.com/xpansion-product-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,688 bytes / 191,597 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Product connector - Show single products with matching SKU's as variant thumbnails | Shopify App Store
+meta description : Connect products with matching SKUs and showcase thumbnails in a list or slider. Visitors can easily navigate to another color / size of the product.
+canonical URL    : https://apps.shopify.com/xpansion-product-connector
+<h1> tags ( 1)  : 'Product connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

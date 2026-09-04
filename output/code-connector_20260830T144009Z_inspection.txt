@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\code-connector_20260830T144009Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\code-connector_20260830T144009Z.html
+Requested URL    : https://apps.shopify.com/code-connector
+Final URL        : https://apps.shopify.com/code-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,290 bytes / 190,201 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RM: Code Connector - Share one code for both order/product & shipping discounts | Shopify App Store
+meta description : Shopify merchants face challenges with separate discount codes for order and shipping discounts, leading to customer confusion and inconsistent exp...
+canonical URL    : https://apps.shopify.com/code-connector
+<h1> tags ( 1)  : 'RM: Code Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

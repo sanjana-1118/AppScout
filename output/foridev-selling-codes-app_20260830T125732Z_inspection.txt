@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foridev-selling-codes-app_20260830T125732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foridev-selling-codes-app_20260830T125732Z.html
+Requested URL    : https://apps.shopify.com/foridev-selling-codes-app
+Final URL        : https://apps.shopify.com/foridev-selling-codes-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 238,820 bytes / 238,705 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : License Keys & Codes ‑ DPL - Sell Game Codes & License Keys with Instant Delivery | Shopify App Store
+meta description : Sell game codes, license keys, access codes & gift vouchers on Shopify. CSV import, email/SMS/Whatsapp delivery, code tracking, SMTP sending, risky-order holds.
+canonical URL    : https://apps.shopify.com/foridev-selling-codes-app
+<h1> tags ( 1)  : 'License Keys & Codes ‑ DPL'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

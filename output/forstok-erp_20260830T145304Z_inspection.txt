@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\forstok-erp_20260830T145304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\forstok-erp_20260830T145304Z.html
+Requested URL    : https://apps.shopify.com/forstok-erp
+Final URL        : https://apps.shopify.com/forstok-erp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,307 bytes / 172,216 chars
+Elapsed          : 0.808s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Forstok ERP - Centralize inventory and fulfillment Order in one system | Shopify App Store
+meta description : Omnichannel software to synchronize all your ecommerce platform in Indonesia.
+canonical URL    : https://apps.shopify.com/forstok-erp
+<h1> tags ( 1)  : 'Forstok ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

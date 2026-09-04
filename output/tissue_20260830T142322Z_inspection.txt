@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tissue_20260830T142322Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tissue_20260830T142322Z.html
+Requested URL    : https://apps.shopify.com/tissue
+Final URL        : https://apps.shopify.com/tissue
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,003 bytes / 163,910 chars
+Elapsed          : 0.614s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tissue for Good Donation App - Simplify giving with Tissue in Singapore | Shopify App Store
+meta description : Tissue offers an uncomplicated yet powerful solution to gather donations right on your Shopify store in Singapore.
+canonical URL    : https://apps.shopify.com/tissue
+<h1> tags ( 1)  : 'Tissue for Good Donation App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

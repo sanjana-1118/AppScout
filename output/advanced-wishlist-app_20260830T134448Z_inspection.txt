@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-wishlist-app_20260830T134448Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-wishlist-app_20260830T134448Z.html
+Requested URL    : https://apps.shopify.com/advanced-wishlist-app
+Final URL        : https://apps.shopify.com/advanced-wishlist-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,324 bytes / 172,233 chars
+Elapsed          : 0.956s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Top Advanced Wishlist App - Allow Customer to Create, Save, and Share Favorite Items! | Shopify App Store
+meta description : Advance Wishlist allow Shopify customer to create product wishlist, share and save it for later, no code required, easy to use and install
+canonical URL    : https://apps.shopify.com/advanced-wishlist-app
+<h1> tags ( 1)  : 'Top Advanced Wishlist App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

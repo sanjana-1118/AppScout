@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gophr-same-day-delivery-1_20260830T141248Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gophr-same-day-delivery-1_20260830T141248Z.html
+Requested URL    : https://apps.shopify.com/gophr-same-day-delivery-1
+Final URL        : https://apps.shopify.com/gophr-same-day-delivery-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,722 bytes / 168,559 chars
+Elapsed          : 0.713s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gophr ‑ Same day delivery - The smarter way to deliver same day | Shopify App Store
+meta description : 👉 Simple booking options choices including the all important "Direct" job.
+
+👉 Easy delivery + account management with all jobs and invoices made si...
+canonical URL    : https://apps.shopify.com/gophr-same-day-delivery-1
+<h1> tags ( 1)  : 'Gophr ‑ Same day delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

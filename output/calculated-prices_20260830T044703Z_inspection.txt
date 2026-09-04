@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\calculated-prices_20260830T044703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\calculated-prices_20260830T044703Z.html
+Requested URL    : https://apps.shopify.com/calculated-prices
+Final URL        : https://apps.shopify.com/calculated-prices
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,677 bytes / 177,584 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PriceFn Custom Prices - Product conditional price parameters, text inputs and uploads | Shopify App Store
+meta description : Calulate final price by multiplying width, height and price per square meter. Price per letter. Price based on material used.
+canonical URL    : https://apps.shopify.com/calculated-prices
+<h1> tags ( 1)  : 'PriceFn Custom Prices'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

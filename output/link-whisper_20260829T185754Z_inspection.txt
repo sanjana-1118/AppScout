@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\link-whisper_20260829T185754Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\link-whisper_20260829T185754Z.html
+Requested URL    : https://apps.shopify.com/link-whisper
+Final URL        : https://apps.shopify.com/link-whisper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,278 bytes / 207,183 chars
+Elapsed          : 0.942s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Link Whisper - Building Smart Internal Links Just Got Easier | Shopify App Store
+meta description : Link Whisper is a Revolutionary App to Speed Up the Process of Internal Linking and Help You Rank Better in Google.
+
+Link Whisper offers intelligen...
+canonical URL    : https://apps.shopify.com/link-whisper
+<h1> tags ( 1)  : 'Link Whisper'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

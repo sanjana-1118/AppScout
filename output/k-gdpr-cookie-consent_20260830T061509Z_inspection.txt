@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-gdpr-cookie-consent_20260830T061509Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-gdpr-cookie-consent_20260830T061509Z.html
+Requested URL    : https://apps.shopify.com/k-gdpr-cookie-consent
+Final URL        : https://apps.shopify.com/k-gdpr-cookie-consent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,623 bytes / 207,528 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: GDPR Cookie Consent Banner - Avoid Risks & Stay GDPR Compliant with AI Custom Cookie... | Shopify App Store
+meta description : Create customizable cookie banners, consent bars, and popups to protect user privacy and meet regulations worldwide. Stay GDPR, CCPA, and ePrivacy ...
+canonical URL    : https://apps.shopify.com/k-gdpr-cookie-consent
+<h1> tags ( 1)  : 'K: GDPR Cookie Consent Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

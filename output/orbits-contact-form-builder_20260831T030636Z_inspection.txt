@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orbits-contact-form-builder_20260831T030636Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orbits-contact-form-builder_20260831T030636Z.html
+Requested URL    : https://apps.shopify.com/orbits-contact-form-builder
+Final URL        : https://apps.shopify.com/orbits-contact-form-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,016 bytes / 203,927 chars
+Elapsed          : 0.696s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Orbits: Contact Form Builder - Create custom forms with drag-and-drop and file uploads | Shopify App Store
+meta description : Form Builder lets merchants create professional contact and custom forms without coding. Build forms using a drag-and-drop editor, add custom field...
+canonical URL    : https://apps.shopify.com/orbits-contact-form-builder
+<h1> tags ( 1)  : 'Orbits: Contact Form Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

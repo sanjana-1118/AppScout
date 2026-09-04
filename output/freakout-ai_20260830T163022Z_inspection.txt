@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\freakout-ai_20260830T163022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\freakout-ai_20260830T163022Z.html
+Requested URL    : https://apps.shopify.com/freakout-ai
+Final URL        : https://apps.shopify.com/freakout-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,815 bytes / 221,710 chars
+Elapsed          : 0.915s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FreakoutAI: 3D Storefronts - 3D Model Generator & Immersive Showrooms | Shopify App Store
+meta description : Transform your products into interactive 3D experiences. Step into iCommerce, the future of the 3D web. No Plan Required - Free to use with monthly top-ups
+canonical URL    : https://apps.shopify.com/freakout-ai
+<h1> tags ( 1)  : 'FreakoutAI: 3D Storefronts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

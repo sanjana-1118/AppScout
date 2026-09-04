@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lio-product-fees-surcharge_20260831T034903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lio-product-fees-surcharge_20260831T034903Z.html
+Requested URL    : https://apps.shopify.com/lio-product-fees-surcharge
+Final URL        : https://apps.shopify.com/lio-product-fees-surcharge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,020 bytes / 165,905 chars
+Elapsed          : 0.933s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LIO ‑ Fees & Surcharge - Add Surcharges, Fees & Tariffs Across Cart, POS & Orders | Shopify App Store
+meta description : Create fixed or percentage-based fees and apply them automatically based on flexible conditions. Set up charges for products, customers, locations,...
+canonical URL    : https://apps.shopify.com/lio-product-fees-surcharge
+<h1> tags ( 1)  : 'LIO ‑ Fees & Surcharge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

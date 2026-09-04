@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ar-chatbot_20260830T194231Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ar-chatbot_20260830T194231Z.html
+Requested URL    : https://apps.shopify.com/ar-chatbot
+Final URL        : https://apps.shopify.com/ar-chatbot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,709 bytes / 250,605 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ansa: AI Chatbot & Live Chat - 24/7 AI support on WhatsApp, Instagram & Facebook chat | Shopify App Store
+meta description : Ansa adds an AI chatbot & live chat to your store — answering customer questions on WhatsApp, Instagram & Messenger 24/7. Takes orders, tracks & recovers carts.
+canonical URL    : https://apps.shopify.com/ar-chatbot
+<h1> tags ( 1)  : 'Ansa: AI Chatbot & Live Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

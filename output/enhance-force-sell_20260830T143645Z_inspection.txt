@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enhance-force-sell_20260830T143645Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enhance-force-sell_20260830T143645Z.html
+Requested URL    : https://apps.shopify.com/enhance-force-sell
+Final URL        : https://apps.shopify.com/enhance-force-sell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,107 bytes / 163,014 chars
+Elapsed          : 0.614s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Force Sells: Auto Add to Cart - Force related products to be added to the cart | Shopify App Store
+meta description : Force sell allows enables shopify auto add product to cart option for you. It's helpful when you want auto add to cart shopify.
+canonical URL    : https://apps.shopify.com/enhance-force-sell
+<h1> tags ( 1)  : 'Force Sells: Auto Add to Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

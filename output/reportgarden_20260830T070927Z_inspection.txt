@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reportgarden_20260830T070927Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reportgarden_20260830T070927Z.html
+Requested URL    : https://apps.shopify.com/reportgarden
+Final URL        : https://apps.shopify.com/reportgarden
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,483 bytes / 156,390 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReportGarden - ReportGarden helps marketing agencies automate their reports | Shopify App Store
+meta description : ReportGarden helps digital marketing agencies and in-house marketing teams to create simple, beautiful marketing reports. ReportGarden comes with a...
+canonical URL    : https://apps.shopify.com/reportgarden
+<h1> tags ( 1)  : 'ReportGarden'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

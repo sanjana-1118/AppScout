@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-ai-autopilot_20260831T024652Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-ai-autopilot_20260831T024652Z.html
+Requested URL    : https://apps.shopify.com/bundle-ai-autopilot
+Final URL        : https://apps.shopify.com/bundle-ai-autopilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,173 bytes / 216,080 chars
+Elapsed          : 0.546s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bundle AI Autopilot - AI builds your product bundles and keeps them up to... | Shopify App Store
+meta description : AI builds and refreshes your product bundles automatically. Mystery boxes, volume discounts, build-your-own, and one discounted line at checkout.
+canonical URL    : https://apps.shopify.com/bundle-ai-autopilot
+<h1> tags ( 1)  : 'Bundle AI Autopilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

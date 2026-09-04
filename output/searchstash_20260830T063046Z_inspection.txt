@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\searchstash_20260830T063046Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\searchstash_20260830T063046Z.html
+Requested URL    : https://apps.shopify.com/searchstash
+Final URL        : https://apps.shopify.com/searchstash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,979 bytes / 174,801 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Search Stash | Search History - Let customers revisit past searches directly on your store. | Shopify App Store
+meta description : Search Stash lets customers view and manage their search history directly on your store.
+
+It saves search terms and filters, helping users revisit ...
+canonical URL    : https://apps.shopify.com/searchstash
+<h1> tags ( 1)  : 'Search Stash | Search History'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sc-wishlist_20260830T164017Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sc-wishlist_20260830T164017Z.html
+Requested URL    : https://apps.shopify.com/sc-wishlist
+Final URL        : https://apps.shopify.com/sc-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,906 bytes / 165,817 chars
+Elapsed          : 1.015s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SC Wishlist - Allow customers to create and manage multiple wish lists. | Shopify App Store
+meta description : Fast and responsive customer care. Automated install for popular Shopify themes (and help to install for other themes). Works on product, collections page.
+canonical URL    : https://apps.shopify.com/sc-wishlist
+<h1> tags ( 1)  : 'SC Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

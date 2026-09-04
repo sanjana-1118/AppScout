@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-my-style-ai-try-on_20260830T155322Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-my-style-ai-try-on_20260830T155322Z.html
+Requested URL    : https://apps.shopify.com/snap-my-style-ai-try-on
+Final URL        : https://apps.shopify.com/snap-my-style-ai-try-on
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,628 bytes / 177,511 chars
+Elapsed          : 1.018s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SnapMyStyle Virtual AI Try‑On - AI virtual try-on that looks natural and seamless | Shopify App Store
+meta description : Let shoppers try on your products online with AI-powered virtual fitting rooms. Boost conversions, reduce returns, and enhance your Shopify store experience.
+canonical URL    : https://apps.shopify.com/snap-my-style-ai-try-on
+<h1> tags ( 1)  : 'SnapMyStyle Virtual AI Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\copley_20260830T151335Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\copley_20260830T151335Z.html
+Requested URL    : https://apps.shopify.com/copley
+Final URL        : https://apps.shopify.com/copley
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,512 bytes / 158,423 chars
+Elapsed          : 0.987s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Copley - Cross-channel content experimentation for ecommerce | Shopify App Store
+meta description : Copley helps you create and find the best content for your brand by always testing and optimizing
+canonical URL    : https://apps.shopify.com/copley
+<h1> tags ( 1)  : 'Copley'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

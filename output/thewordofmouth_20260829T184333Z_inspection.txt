@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thewordofmouth_20260829T184333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thewordofmouth_20260829T184333Z.html
+Requested URL    : https://apps.shopify.com/thewordofmouth
+Final URL        : https://apps.shopify.com/thewordofmouth
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,093 bytes / 196,000 chars
+Elapsed          : 0.754s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TheWordOfMouth - Reviews, social proof & video widgets for good experience | Shopify App Store
+meta description : Add product reviews, live counters, Instagram feeds, and customer video widgets to your Shopify store. Build trust and increase conversions with TheWordofMouth.
+canonical URL    : https://apps.shopify.com/thewordofmouth
+<h1> tags ( 1)  : 'TheWordOfMouth'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

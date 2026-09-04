@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\verve-ai_20260830T161552Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\verve-ai_20260830T161552Z.html
+Requested URL    : https://apps.shopify.com/verve-ai
+Final URL        : https://apps.shopify.com/verve-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,724 bytes / 181,619 chars
+Elapsed          : 0.858s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Inventory Ops by Verve AI - AI forecasting to restock on time and never miss a... | Shopify App Store
+meta description : Accurately forecast demand, restock on time, and reduce stockouts with Verve AI — the smart Shopify app for effortless inventory planning and purchase orders.
+canonical URL    : https://apps.shopify.com/verve-ai
+<h1> tags ( 1)  : 'AI Inventory Ops by Verve AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

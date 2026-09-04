@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\island-upsell_20260830T134803Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\island-upsell_20260830T134803Z.html
+Requested URL    : https://apps.shopify.com/island-upsell
+Final URL        : https://apps.shopify.com/island-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,269 bytes / 218,158 chars
+Elapsed          : 1.002s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Island ‑ Product Page Upsell - Grow sales with an upsell popup that adds products to... | Shopify App Store
+meta description : Island - Product Page Upsell popup app  displays a high conversion popup that prompts customers to buy not only the item they are primarily looking...
+canonical URL    : https://apps.shopify.com/island-upsell
+<h1> tags ( 1)  : 'Island ‑ Product Page Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

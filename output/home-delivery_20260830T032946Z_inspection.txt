@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\home-delivery_20260830T032946Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\home-delivery_20260830T032946Z.html
+Requested URL    : https://apps.shopify.com/home-delivery
+Final URL        : https://apps.shopify.com/home-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,766 bytes / 175,638 chars
+Elapsed          : 0.681s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Home Delivery - Sincroniza envíos con Home Delivery y gestiona entregas | Shopify App Store
+meta description : Home Delivery App conecta tu tienda Shopify con la plataforma de operación logística Home Delivery del Grupo Falabella para gestionar el ciclo de e...
+canonical URL    : https://apps.shopify.com/home-delivery?locale=es
+<h1> tags ( 1)  : 'Home Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gale-add-to-cart-bar_20260830T165553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gale-add-to-cart-bar_20260830T165553Z.html
+Requested URL    : https://apps.shopify.com/gale-add-to-cart-bar
+Final URL        : https://apps.shopify.com/gale-add-to-cart-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,126 bytes / 181,037 chars
+Elapsed          : 0.717s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gale Add To Cart Bar - Create bars that let customers add to cart | Shopify App Store
+meta description : Transform your store's conversion rate with elegant sticky bars that showcase selected products at the bottom of every page. Customers can add mult...
+canonical URL    : https://apps.shopify.com/gale-add-to-cart-bar
+<h1> tags ( 1)  : 'Gale Add To Cart Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

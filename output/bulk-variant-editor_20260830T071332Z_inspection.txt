@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-variant-editor_20260830T071332Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-variant-editor_20260830T071332Z.html
+Requested URL    : https://apps.shopify.com/bulk-variant-editor
+Final URL        : https://apps.shopify.com/bulk-variant-editor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,405 bytes / 224,314 chars
+Elapsed          : 0.585s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PS: Bulk Variant Editor - Bulk edit & rename variant option names: no CSVs, no... | Shopify App Store
+meta description : Rename variant option names across your Shopify catalog. Fix X-Large/XL inconsistencies, rebrand colors, standardize naming.
+canonical URL    : https://apps.shopify.com/bulk-variant-editor
+<h1> tags ( 1)  : 'PS: Bulk Variant Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

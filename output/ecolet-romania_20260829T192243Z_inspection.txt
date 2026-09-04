@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecolet-romania_20260829T192243Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecolet-romania_20260829T192243Z.html
+Requested URL    : https://apps.shopify.com/ecolet-romania
+Final URL        : https://apps.shopify.com/ecolet-romania
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,379 bytes / 164,290 chars
+Elapsed          : 0.804s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ecolet Romania - Logistic platform that helps you manage your parcels.  | Shopify App Store
+meta description : Ecolet, is logistic platform, where you send shipments effortless and choose the courier you like!
+Ecolet helps you print and get your waybills fro...
+canonical URL    : https://apps.shopify.com/ecolet-romania
+<h1> tags ( 1)  : 'Ecolet Romania'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

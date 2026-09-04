@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xpreorder_20260830T154939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xpreorder_20260830T154939Z.html
+Requested URL    : https://apps.shopify.com/xpreorder
+Final URL        : https://apps.shopify.com/xpreorder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,316 bytes / 220,223 chars
+Elapsed          : 0.891s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : XPreOrder: Pre order Manager - Preorder, coming soon, partial payment, auto payment collect | Shopify App Store
+meta description : XPreOrder is a Shopify app to sell out-of-stock or any other type of items or product with preorders, custom widgets, emails, multi-language support & analytics
+canonical URL    : https://apps.shopify.com/xpreorder
+<h1> tags ( 1)  : 'XPreOrder: Pre order Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

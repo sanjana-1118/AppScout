@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\last-call-add-to-order_20260830T184237Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\last-call-add-to-order_20260830T184237Z.html
+Requested URL    : https://apps.shopify.com/last-call-add-to-order
+Final URL        : https://apps.shopify.com/last-call-add-to-order
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,431 bytes / 193,328 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LastCall: Add to Order - Add items to a just-placed order, settle only the difference | Shopify App Store
+meta description : LastCall lets your customers add products to an order they just placed and settle only the difference on Shopify's secure balance page — no second checkout
+canonical URL    : https://apps.shopify.com/last-call-add-to-order
+<h1> tags ( 1)  : 'LastCall: Add to Order'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

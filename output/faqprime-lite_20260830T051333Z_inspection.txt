@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faqprime-lite_20260830T051333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faqprime-lite_20260830T051333Z.html
+Requested URL    : https://apps.shopify.com/faqprime-lite
+Final URL        : https://apps.shopify.com/faqprime-lite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,759 bytes / 226,664 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FAQPRIME: FAQ, WhatsApp, Track - All-in-one support app for Track order, Contact us, FAQ &... | Shopify App Store
+meta description : Faqprime Lite is the All-in-one help & support app on the app store: The beautifully designed chat-style support widget lets your customer find AI-...
+canonical URL    : https://apps.shopify.com/faqprime-lite
+<h1> tags ( 1)  : 'FAQPRIME: FAQ, WhatsApp, Track'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

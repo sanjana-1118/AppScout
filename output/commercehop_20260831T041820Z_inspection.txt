@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commercehop_20260831T041820Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commercehop_20260831T041820Z.html
+Requested URL    : https://apps.shopify.com/commercehop
+Final URL        : https://apps.shopify.com/commercehop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,556 bytes / 164,467 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CommerceHop - Migrate BigCommerce data with guided sync | Shopify App Store
+meta description : Commerce Hop enables merchants to transfer product, order, and customer data from BigCommerce through a guided workflow.
+Merchants can connect thei...
+canonical URL    : https://apps.shopify.com/commercehop
+<h1> tags ( 1)  : 'CommerceHop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

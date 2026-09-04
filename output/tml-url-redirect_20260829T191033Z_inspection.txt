@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tml-url-redirect_20260829T191033Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tml-url-redirect_20260829T191033Z.html
+Requested URL    : https://apps.shopify.com/tml-url-redirect
+Final URL        : https://apps.shopify.com/tml-url-redirect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,551 bytes / 182,460 chars
+Elapsed          : 0.658s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TML URL Redirect - Redirect live pages and broken links safely | Shopify App Store
+meta description : Create Shopify URL redirects for live or missing pages, import and export rules, prevent loops, and restrict Pro external redirects to allowed domains.
+canonical URL    : https://apps.shopify.com/tml-url-redirect
+<h1> tags ( 1)  : 'TML URL Redirect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

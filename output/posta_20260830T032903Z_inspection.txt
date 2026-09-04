@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\posta_20260830T032903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\posta_20260830T032903Z.html
+Requested URL    : https://apps.shopify.com/posta
+Final URL        : https://apps.shopify.com/posta
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,039 bytes / 209,854 chars
+Elapsed          : 0.615s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POSTA - Crea tus guías de Estafeta para tus envíos | Shopify App Store
+meta description : Tienes tu cuenta Estafeta® y puedes ofrecer a tus clientes un buen costo de envío para sus pedidos pero en tu tienda no puedes integrarla directame...
+canonical URL    : https://apps.shopify.com/posta?locale=es
+<h1> tags ( 1)  : 'POSTA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

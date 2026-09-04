@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instafeed-powr_20260830T074943Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instafeed-powr_20260830T074943Z.html
+Requested URL    : https://apps.shopify.com/instafeed-powr
+Final URL        : https://apps.shopify.com/instafeed-powr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,854 bytes / 231,757 chars
+Elapsed          : 0.661s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POWR Instagram Feed Instafeed - Connect Instagram to your store and display your UGC videos | Shopify App Store
+meta description : Improve eCommerce store sales & your social following with POWR Instagram Feed. The easy way to connect Instagram to your Shopify store. No coding required.
+canonical URL    : https://apps.shopify.com/instafeed-powr
+<h1> tags ( 1)  : 'POWR Instagram Feed Instafeed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

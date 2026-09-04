@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/avia-pos-store-analytics",
+  "fetch_timestamp": "2026-08-30T07:14:52.574022+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avia-pos-store-analytics_20260830T071452Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avia-pos-store-analytics_20260830T071452Z.html",
+    "url": "https://apps.shopify.com/avia-pos-store-analytics",
+    "final_url": "https://apps.shopify.com/avia-pos-store-analytics",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 228343,
+    "body_text_length": 228194,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.679798,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Avia ‑ POS Traffic Counter - Track in-store traffic, conversions, and customer demographics | Shopify App Store",
+    "meta_description": "Understand visitor behavior, hourly trends, and conversions. Use age, gender, and traffic data to boost sales and optimize store performance.",
+    "canonical_url": "https://apps.shopify.com/avia-pos-store-analytics",
+    "h1_tags": [
+      "Avia ‑ POS Traffic Counter"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Avia ‑ POS Traffic Counter",
+    "app_slug": "avia-pos-store-analytics",
+    "app_url": "https://apps.shopify.com/avia-pos-store-analytics",
+    "developer_name": "Retailogists",
+    "description": "Understand visitor behavior, hourly trends, and conversions. Use age, gender, and traffic data to boost sales and optimize store performance.",
+    "average_rating": 5.0,
+    "review_count": 7,
+    "category": "Analytics"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avia-pos-store-analytics_20260830T071452Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avia-pos-store-analytics_20260830T071452Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Avia ‑ POS Traffic Counter",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "avia-pos-store-analytics",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/avia-pos-store-analytics",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Retailogists",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Understand visitor behavior, hourly trends, and conversions. Use age, gender, and traffic data to boost sales and optimize store performance.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 7,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Analytics",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

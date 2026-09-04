@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lm-dynamic-pricing_20260830T165344Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lm-dynamic-pricing_20260830T165344Z.html
+Requested URL    : https://apps.shopify.com/lm-dynamic-pricing
+Final URL        : https://apps.shopify.com/lm-dynamic-pricing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,862 bytes / 168,755 chars
+Elapsed          : 0.748s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LM ‑ Dynamic Pricing - Smart pricing by location, stock & customer | Shopify App Store
+meta description : Show different prices by location, stock, customer and time without changing actual product prices. Rules update automatically on storefront and checkout.
+canonical URL    : https://apps.shopify.com/lm-dynamic-pricing
+<h1> tags ( 1)  : 'LM ‑ Dynamic Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

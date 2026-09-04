@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kincustom_20260830T040824Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kincustom_20260830T040824Z.html
+Requested URL    : https://apps.shopify.com/kincustom
+Final URL        : https://apps.shopify.com/kincustom
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,033 bytes / 203,934 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kin Custom Fashion Dropshipper - Premium fashion merchandise for dropship, wholesale, and POD. | Shopify App Store
+meta description : Discover Kin Custom’s White Label Marketplace and Print On Demand services. Customize and dropship premium fashion products with free custom branding.
+canonical URL    : https://apps.shopify.com/kincustom
+<h1> tags ( 1)  : 'Kin Custom Fashion Dropshipper'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

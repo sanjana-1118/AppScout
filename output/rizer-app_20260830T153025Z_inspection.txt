@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rizer-app_20260830T153025Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rizer-app_20260830T153025Z.html
+Requested URL    : https://apps.shopify.com/rizer-app
+Final URL        : https://apps.shopify.com/rizer-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,094 bytes / 162,000 chars
+Elapsed          : 0.902s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rizer AI - Automated discounts based on sales milestones. | Shopify App Store
+meta description : Rizer AI empowers Shopify merchants to drive sales with automated discount systems based on product purchase milestones and customer rewards.
+canonical URL    : https://apps.shopify.com/rizer-app
+<h1> tags ( 1)  : 'Rizer AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

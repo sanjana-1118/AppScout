@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cimenio-verified-reviews_20260829T184214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cimenio-verified-reviews_20260829T184214Z.html
+Requested URL    : https://apps.shopify.com/cimenio-verified-reviews
+Final URL        : https://apps.shopify.com/cimenio-verified-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,273 bytes / 201,140 chars
+Elapsed          : 1.246s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cimenio ‑ Verified Reviews - Echte Bewertungen & verifizierte Rezensionen | Shopify App Store
+meta description : Mit hochwertigen Reviews von Usern, welche die Produkte bereits länger besitzen, stellen sie ihren Besuchern hochwertige Infos zur Verfügung, um ei ...
+canonical URL    : https://apps.shopify.com/cimenio-verified-reviews?locale=de
+<h1> tags ( 1)  : 'Cimenio ‑ Verified Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

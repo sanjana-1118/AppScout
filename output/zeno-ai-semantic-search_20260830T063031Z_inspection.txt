@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zeno-ai-semantic-search_20260830T063031Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zeno-ai-semantic-search_20260830T063031Z.html
+Requested URL    : https://apps.shopify.com/zeno-ai-semantic-search
+Final URL        : https://apps.shopify.com/zeno-ai-semantic-search
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,966 bytes / 192,877 chars
+Elapsed          : 0.829s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Search & Filter - AI search and filters that help shoppers find products faster | Shopify App Store
+meta description : Improve product discovery with AI search, storefront filters, synonyms, autocomplete, and fast setup for online stores.
+canonical URL    : https://apps.shopify.com/zeno-ai-semantic-search
+<h1> tags ( 1)  : 'AI Search & Filter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

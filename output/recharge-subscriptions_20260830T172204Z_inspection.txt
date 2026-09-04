@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recharge-subscriptions_20260830T172204Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recharge-subscriptions_20260830T172204Z.html
+Requested URL    : https://apps.shopify.com/recharge-subscriptions
+Final URL        : https://apps.shopify.com/recharge-subscriptions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,204 bytes / 175,111 chars
+Elapsed          : 0.831s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Subscription - Recurring billing and subscriptions with smart retry logic | Shopify App Store
+meta description : Add product subscriptions to your Shopify store. Automate recurring billing, reduce churn with smart retries, and give customers a self-service portal.
+canonical URL    : https://apps.shopify.com/recharge-subscriptions
+<h1> tags ( 1)  : 'Smart Subscription'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

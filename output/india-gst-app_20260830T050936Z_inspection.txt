@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\india-gst-app_20260830T050936Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\india-gst-app_20260830T050936Z.html
+Requested URL    : https://apps.shopify.com/india-gst-app
+Final URL        : https://apps.shopify.com/india-gst-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,220 bytes / 202,130 chars
+Elapsed          : 0.718s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : India GST App - GST Invoice per individual Product, Download GST invoice, POS  | Shopify App Store
+meta description : INDIA GST App auto-generates GST-compliant tax invoices and credit notes for every Shopify order. It splits CGST, SGST, and IGST automatically base...
+canonical URL    : https://apps.shopify.com/india-gst-app
+<h1> tags ( 1)  : 'India GST App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

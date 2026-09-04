@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\big-post-shipping_20260830T143130Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\big-post-shipping_20260830T143130Z.html
+Requested URL    : https://apps.shopify.com/big-post-shipping
+Final URL        : https://apps.shopify.com/big-post-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,220 bytes / 195,123 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Big Post Shipping - Live competitive shipping rates and auto consignment creations | Shopify App Store
+meta description : Big Post's Shipping app brings the convenience of real-time, accurate shipping quotes with a variety of carriers directly from the Big Post system ...
+canonical URL    : https://apps.shopify.com/big-post-shipping
+<h1> tags ( 1)  : 'Big Post Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

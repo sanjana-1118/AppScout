@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\penta-express_20260830T141125Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\penta-express_20260830T141125Z.html
+Requested URL    : https://apps.shopify.com/penta-express
+Final URL        : https://apps.shopify.com/penta-express
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,050 bytes / 156,957 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Penta Express - App for Penta Express shippers for Booking Orders. | Shopify App Store
+meta description : This is unique to our company as this will help our merchants process orders faster and be able to deliver more orders specially if they have over ...
+canonical URL    : https://apps.shopify.com/penta-express
+<h1> tags ( 1)  : 'Penta Express'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amethyst-search-pulse-developm_20260830T063036Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amethyst-search-pulse-developm_20260830T063036Z.html
+Requested URL    : https://apps.shopify.com/amethyst-search-pulse-developm
+Final URL        : https://apps.shopify.com/amethyst-search-pulse-developm
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,180 bytes / 185,091 chars
+Elapsed          : 0.517s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Search & Analytics - Floating or embedded search widgets with merchant analytics | Shopify App Store
+meta description : Add a customizable floating or embedded search widget with autocomplete, search analytics, synonyms and product pinning to help customers find products faster.
+canonical URL    : https://apps.shopify.com/amethyst-search-pulse-developm
+<h1> tags ( 1)  : 'Smart Search & Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

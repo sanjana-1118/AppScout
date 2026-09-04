@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\widebundle_20260830T075509Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\widebundle_20260830T075509Z.html
+Requested URL    : https://apps.shopify.com/widebundle
+Final URL        : https://apps.shopify.com/widebundle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 259,834 bytes / 259,718 chars
+Elapsed          : 0.474s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wide Bundles ‑ Quantity Breaks - Get more money with BOGO, product bundle or volume discount | Shopify App Store
+meta description : You can create quantity break offers or bundles on your Shopify product and customize the widget to increase your conversion and your average order value
+canonical URL    : https://apps.shopify.com/widebundle
+<h1> tags ( 1)  : 'Wide Bundles ‑ Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

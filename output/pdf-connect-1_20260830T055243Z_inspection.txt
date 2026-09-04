@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pdf-connect-1_20260830T055243Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pdf-connect-1_20260830T055243Z.html
+Requested URL    : https://apps.shopify.com/pdf-connect-1
+Final URL        : https://apps.shopify.com/pdf-connect-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,512 bytes / 191,417 chars
+Elapsed          : 0.585s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PDFConnect: Product PDF Viewer - Display manuals, guides, and spec sheets on any store page. | Shopify App Store
+meta description : Display PDFs on any Shopify page—products, collections, articles, and more. Add product guides, spec sheets, and manuals with customizable viewer options.
+canonical URL    : https://apps.shopify.com/pdf-connect-1
+<h1> tags ( 1)  : 'PDFConnect: Product PDF Viewer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

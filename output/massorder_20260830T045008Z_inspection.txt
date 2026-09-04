@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\massorder_20260830T045008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\massorder_20260830T045008Z.html
+Requested URL    : https://apps.shopify.com/massorder
+Final URL        : https://apps.shopify.com/massorder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,595 bytes / 178,506 chars
+Elapsed          : 0.539s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MassOrder: Accept Bulk Orders - Collect bulk orders and custom requests with notes efficiently | Shopify App Store
+meta description : Streamline bulk orders and custom requests with minimum quantity. Merchants enforce minimums, get notifications, and manage orders efficiently.
+canonical URL    : https://apps.shopify.com/massorder
+<h1> tags ( 1)  : 'MassOrder: Accept Bulk Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

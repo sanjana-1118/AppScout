@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/delivery-jp",
+  "fetch_timestamp": "2026-08-30T16:47:46.506800+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\delivery-jp_20260830T164746Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\delivery-jp_20260830T164746Z.html",
+    "url": "https://apps.shopify.com/delivery-jp",
+    "final_url": "https://apps.shopify.com/delivery-jp",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 191309,
+    "body_text_length": 185212,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.883243,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "配送日指定.JP ‑ お届け日時・時間帯指定・置き配も対応 - 商品別日時・置き配指定可。注文CSV出力機能。CVRを改善する離島・お届け目安・翌日配送バッジを搭載。 | Shopify App Store",
+    "meta_description": "Shopify向け配送日時指定アプリ。ヤマト運輸・佐川急便など日本の配送業者に対応し、配送日・時間帯・置き配をチェックアウトやカートで指定可能。商品ページにお届け目安や翌日配送バッジを自動表示。休業日・祝日の自動除外、離島判定、注文CSV出力にも対応。商品別リードタイム設定で正確な配送日計算を実現します。",
+    "canonical_url": "https://apps.shopify.com/delivery-jp?locale=ja",
+    "h1_tags": [
+      "配送日指定.JP ‑ お届け日時・時間帯指定・置き配も対応"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "配送日指定.JP ‑ お届け日時・時間帯指定・置き配も対応",
+    "app_slug": "delivery-jp",
+    "app_url": "https://apps.shopify.com/delivery-jp?locale=ja",
+    "developer_name": "ARMERIA",
+    "description": "Shopify向け配送日時指定アプリ。ヤマト運輸・佐川急便など日本の配送業者に対応し、配送日・時間帯・置き配をチェックアウトやカートで指定可能。商品ページにお届け目安や翌日配送バッジを自動表示。休業日・祝日の自動除外、離島判定、注文CSV出力にも対応。商品別リードタイム設定で正確な配送日計算を実現します。",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Delivery and pickup"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\delivery-jp_20260830T164746Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\delivery-jp_20260830T164746Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "配送日指定.JP ‑ お届け日時・時間帯指定・置き配も対応",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "delivery-jp",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/delivery-jp?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "ARMERIA",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Shopify向け配送日時指定アプリ。ヤマト運輸・佐川急便など日本の配送業者に対応し、配送日・時間帯・置き配をチェックアウトやカートで指定可能。商品ページにお届け目安や翌日配送バッジを自動表示。休業日・祝日の自動除外、離島判定、注文CSV出力にも対応。商品別リードタイム設定で正確な配送日計算を実現します。",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Delivery and pickup",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

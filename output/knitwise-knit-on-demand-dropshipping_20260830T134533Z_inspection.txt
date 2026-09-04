@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\knitwise-knit-on-demand-dropshipping_20260830T134533Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\knitwise-knit-on-demand-dropshipping_20260830T134533Z.html
+Requested URL    : https://apps.shopify.com/knitwise-knit-on-demand-dropshipping
+Final URL        : https://apps.shopify.com/knitwise-knit-on-demand-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,149 bytes / 198,060 chars
+Elapsed          : 0.800s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Knitwise: Knit On Demand - Design and sell premium custom knitwear with dropshipping | Shopify App Store
+meta description : Knitwise Knit on Demand & dropshipping services allows you to easily introduce premium custom knitwear (not embroidery or print) into your brand. D...
+canonical URL    : https://apps.shopify.com/knitwise-knit-on-demand-dropshipping
+<h1> tags ( 1)  : 'Knitwise: Knit On Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

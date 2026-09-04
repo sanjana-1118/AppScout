@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aiframe-virtual-tryon_20260830T061801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aiframe-virtual-tryon_20260830T061801Z.html
+Requested URL    : https://apps.shopify.com/aiframe-virtual-tryon
+Final URL        : https://apps.shopify.com/aiframe-virtual-tryon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,856 bytes / 246,745 chars
+Elapsed          : 0.526s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Frame ‑ Try On & Size Chart - Show it on them. Recommend their size. One app, both... | Shopify App Store
+meta description : AI virtual try on and size charts in one app. Shoppers see how it looks and find their size, boosting sales and cutting returns. Free plan available.
+canonical URL    : https://apps.shopify.com/aiframe-virtual-tryon
+<h1> tags ( 1)  : 'AI Frame ‑ Try On & Size Chart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

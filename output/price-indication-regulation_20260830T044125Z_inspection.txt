@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-indication-regulation_20260830T044125Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-indication-regulation_20260830T044125Z.html
+Requested URL    : https://apps.shopify.com/price-indication-regulation
+Final URL        : https://apps.shopify.com/price-indication-regulation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,853 bytes / 204,764 chars
+Elapsed          : 0.529s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Latori Best Price Indicator - Clarity and Truthfulness in pricing according to EU Directive  | Shopify App Store
+meta description : Solve the challenges brought by the new Price Indication Directive of May 28, 2022 with the Latori Best Price Indicator App for Shopify.
+canonical URL    : https://apps.shopify.com/price-indication-regulation
+<h1> tags ( 1)  : 'Latori Best Price Indicator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

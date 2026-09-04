@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellsense-ai-sales-assistant_20260830T172420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellsense-ai-sales-assistant_20260830T172420Z.html
+Requested URL    : https://apps.shopify.com/sellsense-ai-sales-assistant
+Final URL        : https://apps.shopify.com/sellsense-ai-sales-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,156 bytes / 192,062 chars
+Elapsed          : 0.779s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SellSense AI: Sales Assistant - shopping assistant | Turn Conversations into Sales | Shopify App Store
+meta description : SellSense AI helps shoppers find products, get instant answers, and buy faster with AI-powered chat, recommendations, and conversion tracking.
+canonical URL    : https://apps.shopify.com/sellsense-ai-sales-assistant
+<h1> tags ( 1)  : 'SellSense AI: Sales Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

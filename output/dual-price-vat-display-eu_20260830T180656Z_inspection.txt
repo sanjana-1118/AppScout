@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dual-price-vat-display-eu_20260830T180656Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dual-price-vat-display-eu_20260830T180656Z.html
+Requested URL    : https://apps.shopify.com/dual-price-vat-display-eu
+Final URL        : https://apps.shopify.com/dual-price-vat-display-eu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,456 bytes / 167,345 chars
+Elapsed          : 0.881s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dual Price ‑ VAT Display EU - Show VAT-inclusive and VAT-exclusive prices on your store | Shopify App Store
+meta description : Dual Price helps European merchants and B2B stores show gross (VAT incl.) and net (VAT excl.) prices across products, collections, cart, and home p...
+canonical URL    : https://apps.shopify.com/dual-price-vat-display-eu
+<h1> tags ( 1)  : 'Dual Price ‑ VAT Display EU'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

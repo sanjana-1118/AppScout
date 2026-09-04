@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logiseven_20260830T033234Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logiseven_20260830T033234Z.html
+Requested URL    : https://apps.shopify.com/logiseven
+Final URL        : https://apps.shopify.com/logiseven
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,496 bytes / 178,404 chars
+Elapsed          : 0.478s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Logiseven - Live vervoerderstarieven, automatische labels en sync | Shopify App Store
+meta description : Plug-and-play app-integratie die logistieke orderdata automatiseert met onze whitelabelplatforms. Biedt verkopers de mogelijkheid om flexibele verz...
+canonical URL    : https://apps.shopify.com/logiseven?locale=nl
+<h1> tags ( 1)  : 'Logiseven'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

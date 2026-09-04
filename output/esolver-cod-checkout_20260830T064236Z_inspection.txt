@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\esolver-cod-checkout_20260830T064236Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\esolver-cod-checkout_20260830T064236Z.html
+Requested URL    : https://apps.shopify.com/esolver-cod-checkout
+Final URL        : https://apps.shopify.com/esolver-cod-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,211 bytes / 180,122 chars
+Elapsed          : 0.581s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eSolver COD Checkout - Simple unlimited COD checkout form for growing stores. | Shopify App Store
+meta description : Turn more visitors into completed COD orders with eSolver COD checkout. Create fast, conversion-focused checkout experiences using custom COD popup...
+canonical URL    : https://apps.shopify.com/esolver-cod-checkout
+<h1> tags ( 1)  : 'eSolver COD Checkout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

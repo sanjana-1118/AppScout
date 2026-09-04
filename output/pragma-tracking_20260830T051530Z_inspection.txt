@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pragma-tracking_20260830T051530Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pragma-tracking_20260830T051530Z.html
+Requested URL    : https://apps.shopify.com/pragma-tracking
+Final URL        : https://apps.shopify.com/pragma-tracking
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,103 bytes / 204,000 chars
+Elapsed          : 1.029s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Tracking by Pragma - Unified widget for order updates, customer queries, & tracking | Shopify App Store
+meta description : Designed for D2C merchants handling complex shipments, our app delivers a unified, branded tracking page that auto-logs customers post-purchase. 
+
+...
+canonical URL    : https://apps.shopify.com/pragma-tracking
+<h1> tags ( 1)  : 'Order Tracking by Pragma'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

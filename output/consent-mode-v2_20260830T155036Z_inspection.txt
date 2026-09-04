@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\consent-mode-v2_20260830T155036Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\consent-mode-v2_20260830T155036Z.html
+Requested URL    : https://apps.shopify.com/consent-mode-v2
+Final URL        : https://apps.shopify.com/consent-mode-v2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,809 bytes / 187,702 chars
+Elapsed          : 1.646s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Google Consent Mode V2 / GDPR - Obtains and Communicates the user’s consent choice to Google. | Shopify App Store
+meta description : GDRP Cookie Consent extension for Shopify with full support for Google Consent, Google Consent Mode V2 and Google Tag Manager.
+canonical URL    : https://apps.shopify.com/consent-mode-v2
+<h1> tags ( 1)  : 'Google Consent Mode V2 / GDPR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

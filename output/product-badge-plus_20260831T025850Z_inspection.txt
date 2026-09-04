@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-badge-plus_20260831T025850Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-badge-plus_20260831T025850Z.html
+Requested URL    : https://apps.shopify.com/product-badge-plus
+Final URL        : https://apps.shopify.com/product-badge-plus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,319 bytes / 174,790 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PRODUCT BADGE PLUS｜商品バッジ・ラベル - セール・新着・残りわずか。商品画像にバッジを、日本語UIでノーコード表示。 | Shopify App Store
+meta description : 商品画像やコレクションカードにセール・新着・売り切れ・残りわずかのバッジをノーコードで表示。19種のプリセット、条件表示、期間指定、優先順位の並べ替えに対応。日本語UIで直感的に設定できます。
+canonical URL    : https://apps.shopify.com/product-badge-plus?locale=ja
+<h1> tags ( 1)  : 'PRODUCT BADGE PLUS｜商品バッジ・ラベル'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

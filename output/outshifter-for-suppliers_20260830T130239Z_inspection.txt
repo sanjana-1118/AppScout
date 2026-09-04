@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\outshifter-for-suppliers_20260830T130239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\outshifter-for-suppliers_20260830T130239Z.html
+Requested URL    : https://apps.shopify.com/outshifter-for-suppliers
+Final URL        : https://apps.shopify.com/outshifter-for-suppliers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,344 bytes / 170,259 chars
+Elapsed          : 0.728s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reachu - Cross store inventory, product information and order sync | Shopify App Store
+meta description : Easily synchronize product information, orders, and stock across online stores and platforms for free with Reachu. Two-way sync with Shopify and dropshippers.
+canonical URL    : https://apps.shopify.com/outshifter-for-suppliers
+<h1> tags ( 1)  : 'Reachu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

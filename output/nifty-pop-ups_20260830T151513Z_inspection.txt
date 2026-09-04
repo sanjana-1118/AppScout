@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nifty-pop-ups_20260830T151513Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nifty-pop-ups_20260830T151513Z.html
+Requested URL    : https://apps.shopify.com/nifty-pop-ups
+Final URL        : https://apps.shopify.com/nifty-pop-ups
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,474 bytes / 194,385 chars
+Elapsed          : 0.572s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nifty Pop Ups - Display & Track Pop-ups based on UTM parameters | Shopify App Store
+meta description : Transform your marketing campaigns by showing personalized offers to visitors based on their traffic source. Whether they come from Facebook, Google, or email c
+canonical URL    : https://apps.shopify.com/nifty-pop-ups
+<h1> tags ( 1)  : 'Nifty Pop Ups'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

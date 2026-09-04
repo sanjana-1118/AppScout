@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spider-seo-optimizer_20260829T185937Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spider-seo-optimizer_20260829T185937Z.html
+Requested URL    : https://apps.shopify.com/spider-seo-optimizer
+Final URL        : https://apps.shopify.com/spider-seo-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,621 bytes / 236,524 chars
+Elapsed          : 0.841s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SPIDER SEO Optimizer - Optimize SEO on-page factors to dominate on SERP today! | Shopify App Store
+meta description : Optimize on-page ranking factors & skyrocket website visibility on search engine result pages. Leverage the SPIDER app to get exclusive SEO benefits now!
+canonical URL    : https://apps.shopify.com/spider-seo-optimizer
+<h1> tags ( 1)  : 'SPIDER SEO Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

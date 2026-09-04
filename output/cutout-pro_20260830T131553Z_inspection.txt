@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cutout-pro_20260830T131553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cutout-pro_20260830T131553Z.html
+Requested URL    : https://apps.shopify.com/cutout-pro
+Final URL        : https://apps.shopify.com/cutout-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,755 bytes / 159,656 chars
+Elapsed          : 0.855s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cutout bulk background remover - Remove background, add shadow & auto create pro photos in... | Shopify App Store
+meta description : Easily create professional product images with simple and efficient image editing. You only need to save the background and special effect settings...
+canonical URL    : https://apps.shopify.com/cutout-pro
+<h1> tags ( 1)  : 'Cutout bulk background remover'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

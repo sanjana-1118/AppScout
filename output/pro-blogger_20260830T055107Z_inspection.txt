@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pro-blogger_20260830T055107Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pro-blogger_20260830T055107Z.html
+Requested URL    : https://apps.shopify.com/pro-blogger
+Final URL        : https://apps.shopify.com/pro-blogger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,954 bytes / 202,851 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LFS Pro Blogger - Turn readers into shoppers with related content for your blog. | Shopify App Store
+meta description : Use Pro Blogger to enrich the customer experience by showcasing your products and blog posts across your site in a way that’s relevant to your customers.
+canonical URL    : https://apps.shopify.com/pro-blogger
+<h1> tags ( 1)  : 'LFS Pro Blogger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autoseo_20260830T055022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autoseo_20260830T055022Z.html
+Requested URL    : https://apps.shopify.com/autoseo
+Final URL        : https://apps.shopify.com/autoseo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,762 bytes / 206,667 chars
+Elapsed          : 0.595s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AutoSEO Content Publisher - Autopilot SEO with deep research articles and backlinks | Shopify App Store
+meta description : AutoSEO helps merchants get found by customers searching on Google and AI chatbots like ChatGPT and Perplexity.
+We automatically publish one expert...
+canonical URL    : https://apps.shopify.com/autoseo
+<h1> tags ( 1)  : 'AutoSEO Content Publisher'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

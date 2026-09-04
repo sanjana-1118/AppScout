@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marktplaats-admarkt_20260829T183454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marktplaats-admarkt_20260829T183454Z.html
+Requested URL    : https://apps.shopify.com/marktplaats-admarkt
+Final URL        : https://apps.shopify.com/marktplaats-admarkt
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,761 bytes / 220,668 chars
+Elapsed          : 0.673s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Marktplaats Pro | NoStress Ads - Advertise at Marktplaats Pro, 2dehands and 2ememain easily. | Shopify App Store
+meta description : Seamlessly link Shopify with Marktplaats Pro & 2dehands for effortless and affordable advertising. Expand your reach easily!"
+canonical URL    : https://apps.shopify.com/marktplaats-admarkt
+<h1> tags ( 1)  : 'Marktplaats Pro | NoStress Ads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\signalwall_20260831T035344Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\signalwall_20260831T035344Z.html
+Requested URL    : https://apps.shopify.com/signalwall
+Final URL        : https://apps.shopify.com/signalwall
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,655 bytes / 185,541 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SignalWall Fraud Filter - Fraud filter with email verification, VPN & bot IP blocking | Shopify App Store
+meta description : Automatically detect fraudulent orders with real-time email and IP validation. Flag disposable emails, VPNs, and proxies. Free plan available. No code required.
+canonical URL    : https://apps.shopify.com/signalwall
+<h1> tags ( 1)  : 'SignalWall Fraud Filter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

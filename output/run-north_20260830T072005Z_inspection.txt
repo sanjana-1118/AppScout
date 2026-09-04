@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\run-north_20260830T072005Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\run-north_20260830T072005Z.html
+Requested URL    : https://apps.shopify.com/run-north
+Final URL        : https://apps.shopify.com/run-north
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,619 bytes / 181,530 chars
+Elapsed          : 0.709s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : runNorth - True ROAS, funnel analysis & daily revenue-leak fixes | Shopify App Store
+meta description : runNorth is the Shopify analytics OS for founders. See true ROAS, get attribution, media buyer verdicts, daily tasks, and a live revenue timeline.
+canonical URL    : https://apps.shopify.com/run-north
+<h1> tags ( 1)  : 'runNorth'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

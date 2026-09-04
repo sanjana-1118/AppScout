@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\address-labels_20260830T032437Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\address-labels_20260830T032437Z.html
+Requested URL    : https://apps.shopify.com/address-labels
+Final URL        : https://apps.shopify.com/address-labels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,841 bytes / 205,752 chars
+Elapsed          : 0.547s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hi5 Address Labels - Print address labels directly from your orders screen. | Shopify App Store
+meta description : Print address labels using templates you can purchase in bulk on-line, or at your local office supply store. Supports templates from all the major ...
+canonical URL    : https://apps.shopify.com/address-labels
+<h1> tags ( 1)  : 'Hi5 Address Labels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

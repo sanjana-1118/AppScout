@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\protector-country_20260830T133838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\protector-country_20260830T133838Z.html
+Requested URL    : https://apps.shopify.com/protector-country
+Final URL        : https://apps.shopify.com/protector-country
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,431 bytes / 189,342 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Protector: Redirect and Block - Block Countries, IP, VPNs, Bots and prevent content Copy | Shopify App Store
+meta description : Summary of key features
+Fast - will not slow down your site
+A few clicks - Quick and clear installation
+Visitors Statistics - Find out who and from...
+canonical URL    : https://apps.shopify.com/protector-country
+<h1> tags ( 1)  : 'Protector: Redirect and Block'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

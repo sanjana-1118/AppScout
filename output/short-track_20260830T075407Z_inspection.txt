@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\short-track_20260830T075407Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\short-track_20260830T075407Z.html
+Requested URL    : https://apps.shopify.com/short-track
+Final URL        : https://apps.shopify.com/short-track
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,083 bytes / 196,992 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shortify: Short Link & Track - Boost your conversion with short link and get more clicks | Shopify App Store
+meta description : Shortify: Short Link & Track is a must-have Shopify App for shop owners who are looking to leverage social media. It helps you to create a short li...
+canonical URL    : https://apps.shopify.com/short-track
+<h1> tags ( 1)  : 'Shortify: Short Link & Track'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

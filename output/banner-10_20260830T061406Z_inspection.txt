@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\banner-10_20260830T061406Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\banner-10_20260830T061406Z.html
+Requested URL    : https://apps.shopify.com/banner-10
+Final URL        : https://apps.shopify.com/banner-10
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,191 bytes / 170,698 chars
+Elapsed          : 0.526s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : らくらくバナー設置アプリ｜リテリア Banner - コンバージョン率アップ！お好きなページにリンク付き画像を追加できます。 | Shopify App Store
+meta description : スマートフォン用とパソコン用で別々に設定可能。
+複数の画像を設定することができます。
+列の数を調整できます。
+ページの上下にセクションを挿入することができます。
+セクションはいくつでも挿入可能です。...
+canonical URL    : https://apps.shopify.com/banner-10?locale=ja
+<h1> tags ( 1)  : 'らくらくバナー設置アプリ｜リテリア Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

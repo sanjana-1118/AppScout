@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-integrator_20260830T050634Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-integrator_20260830T050634Z.html
+Requested URL    : https://apps.shopify.com/shopify-integrator
+Final URL        : https://apps.shopify.com/shopify-integrator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,170 bytes / 213,077 chars
+Elapsed          : 0.667s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shoplink QuickBooks Desktop - Connect your online store and POS with QuickBooks Desktop | Shopify App Store
+meta description : Effortlessly Sync your store with QuickBooks Desktop.
+
+Shoplink Integrator makes connecting your store with QuickBooks Desktop easy and reliable. A...
+canonical URL    : https://apps.shopify.com/shopify-integrator
+<h1> tags ( 1)  : 'Shoplink QuickBooks Desktop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

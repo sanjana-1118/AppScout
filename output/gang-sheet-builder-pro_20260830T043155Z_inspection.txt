@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gang-sheet-builder-pro_20260830T043155Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gang-sheet-builder-pro_20260830T043155Z.html
+Requested URL    : https://apps.shopify.com/gang-sheet-builder-pro
+Final URL        : https://apps.shopify.com/gang-sheet-builder-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,675 bytes / 190,582 chars
+Elapsed          : 0.719s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gang Sheet Builder Pro - Customer-facing DTF gang sheet builder for print shops. | Shopify App Store
+meta description : Let storefront customers design DTF gang sheets directly on your product pages. Print-ready PNG, PDF, or TIFF files auto-sync to your Dropbox folder.
+canonical URL    : https://apps.shopify.com/gang-sheet-builder-pro
+<h1> tags ( 1)  : 'Gang Sheet Builder Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

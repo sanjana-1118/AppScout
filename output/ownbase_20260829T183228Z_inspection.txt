@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ownbase_20260829T183228Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ownbase_20260829T183228Z.html
+Requested URL    : https://apps.shopify.com/ownbase
+Final URL        : https://apps.shopify.com/ownbase
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,592 bytes / 215,495 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ownbase: Sync to TikTok Shop  - Real-time product, inventory, and orders sync with TikTok Shop | Shopify App Store
+meta description : Keep your products and inventory in-sync between Shopify and TikTok Shop. Select which product attributes to sync to TikTok Shop to fit your needs:...
+canonical URL    : https://apps.shopify.com/ownbase
+<h1> tags ( 1)  : 'Ownbase: Sync to TikTok Shop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

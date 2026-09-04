@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockward_20260831T025951Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockward_20260831T025951Z.html
+Requested URL    : https://apps.shopify.com/stockward
+Final URL        : https://apps.shopify.com/stockward
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,279 bytes / 185,189 chars
+Elapsed          : 0.610s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stockward - Stop stockouts. Know what to reorder, how much and when. | Shopify App Store
+meta description : Stocky shuts down August 31, 2026. Stockward reads your sales history and stock to show what to reorder, how much and when, and groups it into purchase orders.
+canonical URL    : https://apps.shopify.com/stockward
+<h1> tags ( 1)  : 'Stockward'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alttext-ai_20260829T184817Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alttext-ai_20260829T184817Z.html
+Requested URL    : https://apps.shopify.com/alttext-ai
+Final URL        : https://apps.shopify.com/alttext-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,584 bytes / 246,469 chars
+Elapsed          : 1.595s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ATAI ‑ AltText.ai AI Alt Text - AI writes alt text from your product data, for SEO... | Shopify App Store
+meta description : Generate accurate alt text for every product and blog image automatically. Improve image SEO and meet ADA, EAA, and WCAG accessibility requirements.
+canonical URL    : https://apps.shopify.com/alttext-ai
+<h1> tags ( 1)  : 'ATAI ‑ AltText.ai AI Alt Text'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

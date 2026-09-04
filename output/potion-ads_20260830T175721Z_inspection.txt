@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\potion-ads_20260830T175721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\potion-ads_20260830T175721Z.html
+Requested URL    : https://apps.shopify.com/potion-ads
+Final URL        : https://apps.shopify.com/potion-ads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,500 bytes / 223,401 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PotionAds: AI Meta Ad Creative - AI photo & video ads creatives — Meta, Google &... | Shopify App Store
+meta description : Generate AI photo & video ad creatives for Meta & Google Ads in minutes. AI UGC. Built for Shopify stores. No design skills needed. Create winning ads today.
+canonical URL    : https://apps.shopify.com/potion-ads
+<h1> tags ( 1)  : 'PotionAds: AI Meta Ad Creative'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

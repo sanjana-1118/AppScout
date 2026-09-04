@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\widerruf-app_20260830T175558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\widerruf-app_20260830T175558Z.html
+Requested URL    : https://apps.shopify.com/widerruf-app
+Final URL        : https://apps.shopify.com/widerruf-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,409 bytes / 206,290 chars
+Elapsed          : 0.835s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasyWi ‑ EU Withdrawal Button - EU withdrawal form with auto-confirmation in 24 languages | Shopify App Store
+meta description : EU Withdrawal Button and withdrawal form for Shopify. Automatic confirmation emails in 24 languages, Shopify Returns integration, and GDPR-compliant
+canonical URL    : https://apps.shopify.com/widerruf-app
+<h1> tags ( 1)  : 'EasyWi ‑ EU Withdrawal Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\friends2a-theme-sections_20260830T161319Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\friends2a-theme-sections_20260830T161319Z.html
+Requested URL    : https://apps.shopify.com/friends2a-theme-sections
+Final URL        : https://apps.shopify.com/friends2a-theme-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,584 bytes / 169,481 chars
+Elapsed          : 0.970s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Friends2a Theme Sections - Customize your  store easily with  theme sections & Blocks | Shopify App Store
+meta description : Create a stunning Shopify 2.0 store with 10+ customizable, responsive sections and blocks. Fast, flexible, and easy to edit in the Shopify editor
+canonical URL    : https://apps.shopify.com/friends2a-theme-sections
+<h1> tags ( 1)  : 'Friends2a Theme Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

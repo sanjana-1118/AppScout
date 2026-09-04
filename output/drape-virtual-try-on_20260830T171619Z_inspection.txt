@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\drape-virtual-try-on_20260830T171619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\drape-virtual-try-on_20260830T171619Z.html
+Requested URL    : https://apps.shopify.com/drape-virtual-try-on
+Final URL        : https://apps.shopify.com/drape-virtual-try-on
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,727 bytes / 200,612 chars
+Elapsed          : 0.978s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Drape Virtual Try‑On - AI virtual try-on for fashion stores. No code needed. | Shopify App Store
+meta description : Add AI-powered virtual try-on to your Shopify store. Shoppers upload a photo and see themselves in your clothing in ~15 seconds. No code needed.
+canonical URL    : https://apps.shopify.com/drape-virtual-try-on
+<h1> tags ( 1)  : 'Drape Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

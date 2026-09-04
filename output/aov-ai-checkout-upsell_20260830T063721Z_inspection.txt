@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aov-ai-checkout-upsell_20260830T063721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aov-ai-checkout-upsell_20260830T063721Z.html
+Requested URL    : https://apps.shopify.com/aov-ai-checkout-upsell
+Final URL        : https://apps.shopify.com/aov-ai-checkout-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,305 bytes / 212,188 chars
+Elapsed          : 0.882s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AOV.ai Checkout Rules & Upsell - Validate orders. Customize payment, delivery, and discounts. | Shopify App Store
+meta description : Customize Shopify checkout with rules: validate addresses, VAT, block regions, set order limits, and customize payment methods. Free to install, no code.
+canonical URL    : https://apps.shopify.com/aov-ai-checkout-upsell
+<h1> tags ( 1)  : 'AOV.ai Checkout Rules & Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

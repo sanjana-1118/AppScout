@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wowmybag_20260830T151549Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wowmybag_20260830T151549Z.html
+Requested URL    : https://apps.shopify.com/wowmybag
+Final URL        : https://apps.shopify.com/wowmybag
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,938 bytes / 152,849 chars
+Elapsed          : 0.858s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : wowmybag: Bags&Clothes Fulfill - Dropship and wholesale bags directly made in our factory . | Shopify App Store
+meta description : Wowmybag is a factory-direct supplier of bags and clothing. We own our bag factory and offer private label, dropshipping, wholesale, no MOQ, custom branding and
+canonical URL    : https://apps.shopify.com/wowmybag
+<h1> tags ( 1)  : 'wowmybag: Bags&Clothes Fulfill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

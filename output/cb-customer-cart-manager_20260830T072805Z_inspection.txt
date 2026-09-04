@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cb-customer-cart-manager_20260830T072805Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cb-customer-cart-manager_20260830T072805Z.html
+Requested URL    : https://apps.shopify.com/cb-customer-cart-manager
+Final URL        : https://apps.shopify.com/cb-customer-cart-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,836 bytes / 214,737 chars
+Elapsed          : 0.971s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CB Customer Cart Manager - CB Customer Cart Manager for Easy Cart Tracking & Recovery | Shopify App Store
+meta description : CB Customer Cart Manager helps track customer carts, recover abandoned carts, manage cart activity, and create draft orders with line attributes.
+canonical URL    : https://apps.shopify.com/cb-customer-cart-manager
+<h1> tags ( 1)  : 'CB Customer Cart Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

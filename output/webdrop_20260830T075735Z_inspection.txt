@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webdrop_20260830T075735Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webdrop_20260830T075735Z.html
+Requested URL    : https://apps.shopify.com/webdrop
+Final URL        : https://apps.shopify.com/webdrop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,583 bytes / 157,494 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webdrop  - Find products for sale on through dropshipping | Shopify App Store
+meta description : This dropshipping app is developed to help you easily integrate (and sync) products into your e-commerce store....
+canonical URL    : https://apps.shopify.com/webdrop
+<h1> tags ( 1)  : 'Webdrop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

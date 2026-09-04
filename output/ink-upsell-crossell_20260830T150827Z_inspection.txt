@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ink-upsell-crossell_20260830T150827Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ink-upsell-crossell_20260830T150827Z.html
+Requested URL    : https://apps.shopify.com/ink-upsell-crossell
+Final URL        : https://apps.shopify.com/ink-upsell-crossell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,088 bytes / 178,973 chars
+Elapsed          : 0.538s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inkble: Upsell/Cross Sell - Customizable checkbox upsells/cross-sell. | Shopify App Store
+meta description : Customizable checkbox upsells, cross-sell add-ons, and relevant product suggestions super quick and simple to set up
+canonical URL    : https://apps.shopify.com/ink-upsell-crossell
+<h1> tags ( 1)  : 'Inkble: Upsell/Cross Sell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

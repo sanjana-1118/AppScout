@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tab-back-grabber_20260830T185412Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tab-back-grabber_20260830T185412Z.html
+Requested URL    : https://apps.shopify.com/tab-back-grabber
+Final URL        : https://apps.shopify.com/tab-back-grabber
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,512 bytes / 161,398 chars
+Elapsed          : 0.973s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tab‑Back Grabber - Win back tab-switchers with a live tab title & favicon | Shopify App Store
+meta description : Shoppers open your store, then drift to another tab and forget you're there. Tab-Back Grabber calls them back: when a visitor switches away, it cha...
+canonical URL    : https://apps.shopify.com/tab-back-grabber
+<h1> tags ( 1)  : 'Tab‑Back Grabber'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

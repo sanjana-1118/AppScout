@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pickypal-chatbot_20260830T151509Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pickypal-chatbot_20260830T151509Z.html
+Requested URL    : https://apps.shopify.com/pickypal-chatbot
+Final URL        : https://apps.shopify.com/pickypal-chatbot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,414 bytes / 232,316 chars
+Elapsed          : 1.646s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PickyPal AI Shopping Assistant - Install an AI shopping assistant to improve your conversions | Shopify App Store
+meta description : PickyPal is the AI shopping assistant for Shopify. It guides every shopper to the right products through conversation, like a 24/7 sales associate.
+canonical URL    : https://apps.shopify.com/pickypal-chatbot
+<h1> tags ( 1)  : 'PickyPal AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

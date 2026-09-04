@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mandaloahora-dac_20260830T165053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mandaloahora-dac_20260830T165053Z.html
+Requested URL    : https://apps.shopify.com/mandaloahora-dac
+Final URL        : https://apps.shopify.com/mandaloahora-dac
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,115 bytes / 154,992 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MandaloAhora - Solución de envíos con Agencia Central (DAC) | Shopify App Store
+meta description : MandaloAhora es una herramienta disponible para Uruguay que permite a los vendedores poder gestionar y concentrar sus envíos a través de Agencia Ce...
+canonical URL    : https://apps.shopify.com/mandaloahora-dac?locale=es
+<h1> tags ( 1)  : 'MandaloAhora'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

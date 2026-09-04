@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\debutify-scroll-to-top_20260830T062828Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\debutify-scroll-to-top_20260830T062828Z.html
+Requested URL    : https://apps.shopify.com/debutify-scroll-to-top
+Final URL        : https://apps.shopify.com/debutify-scroll-to-top
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,532 bytes / 171,431 chars
+Elapsed          : 0.748s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DB Back To Top - Improve accessibility with a customizable back-to-top button | Shopify App Store
+meta description : Boost user experience with Debutify Back to Top. Add a smooth, customizable scroll button—no code needed. Works with any Shopify theme, effortlessly.
+canonical URL    : https://apps.shopify.com/debutify-scroll-to-top
+<h1> tags ( 1)  : 'DB Back To Top'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pack-combo-product_20260830T132140Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pack-combo-product_20260830T132140Z.html
+Requested URL    : https://apps.shopify.com/pack-combo-product
+Final URL        : https://apps.shopify.com/pack-combo-product
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,561 bytes / 189,458 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Bundle Product - Create Bundles | Create Combo's | Offer Discounts in Bundles... | Shopify App Store
+meta description : We all know that as a store owner how important is to increase the Sales & revenue  but figuring out how to do that isn’t always easy. Presenting w...
+canonical URL    : https://apps.shopify.com/pack-combo-product
+<h1> tags ( 1)  : 'Webkul Bundle Product'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

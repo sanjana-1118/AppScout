@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-tracking-5_20260830T165317Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-tracking-5_20260830T165317Z.html
+Requested URL    : https://apps.shopify.com/order-tracking-5
+Final URL        : https://apps.shopify.com/order-tracking-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,412 bytes / 164,323 chars
+Elapsed          : 0.481s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GSP Order Tracker - Real-time order tracking with order ID and email | Shopify App Store
+meta description : GSP Order Tracker lets customers track orders using email and order ID. Shows real-time shipment tracking securely without storing customer data.
+canonical URL    : https://apps.shopify.com/order-tracking-5
+<h1> tags ( 1)  : 'GSP Order Tracker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

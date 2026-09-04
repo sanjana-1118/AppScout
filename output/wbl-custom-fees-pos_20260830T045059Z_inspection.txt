@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wbl-custom-fees-pos_20260830T045059Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wbl-custom-fees-pos_20260830T045059Z.html
+Requested URL    : https://apps.shopify.com/wbl-custom-fees-pos
+Final URL        : https://apps.shopify.com/wbl-custom-fees-pos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,298 bytes / 169,189 chars
+Elapsed          : 0.728s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WBL ‑ Custom Fees (POS) - Add and manage custom POS fees with flexibility | Shopify App Store
+meta description : The app lets you create and manage custom fees directly in your POS. Add delivery, handling, or platform fees as fixed amounts or percentages, with...
+canonical URL    : https://apps.shopify.com/wbl-custom-fees-pos
+<h1> tags ( 1)  : 'WBL ‑ Custom Fees (POS)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

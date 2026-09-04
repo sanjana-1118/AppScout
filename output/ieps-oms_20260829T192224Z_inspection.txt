@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ieps-oms_20260829T192224Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ieps-oms_20260829T192224Z.html
+Requested URL    : https://apps.shopify.com/ieps-oms
+Final URL        : https://apps.shopify.com/ieps-oms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,481 bytes / 176,388 chars
+Elapsed          : 0.714s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : IEPS OMS | Courier & Logistics - IEPS OMS Seamless Shipping Solutions for Your Store | Shopify App Store
+meta description : Welcome to IEPS OMS the ultimate solution for streamlining your e-commerce operations
+canonical URL    : https://apps.shopify.com/ieps-oms
+<h1> tags ( 1)  : 'IEPS OMS | Courier & Logistics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

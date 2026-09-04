@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsterra_20260830T074342Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsterra_20260830T074342Z.html
+Requested URL    : https://apps.shopify.com/shopsterra
+Final URL        : https://apps.shopify.com/shopsterra
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,264 bytes / 171,170 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopsterra - Real profit tracking after ads, refunds, and fees | Shopify App Store
+meta description : See your real profit after ad spend, refunds, fees, and shipping. Profit tracking dashboard built for stores doing up to 2M in revenue.
+canonical URL    : https://apps.shopify.com/shopsterra
+<h1> tags ( 1)  : 'Shopsterra'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockcue-inventory-forecast_20260831T030306Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockcue-inventory-forecast_20260831T030306Z.html
+Requested URL    : https://apps.shopify.com/stockcue-inventory-forecast
+Final URL        : https://apps.shopify.com/stockcue-inventory-forecast
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,216 bytes / 207,121 chars
+Elapsed          : 0.690s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockCue: Inventory Forecast - Know what to reorder before you run out of stock | Shopify App Store
+meta description : StockCue is a Shopify app for demand forecasting, reorder points, purchase orders, and stock counts — see what's about to run out and reorder on time.
+canonical URL    : https://apps.shopify.com/stockcue-inventory-forecast
+<h1> tags ( 1)  : 'StockCue: Inventory Forecast'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\disable-toolbox-country-block_20260830T144539Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\disable-toolbox-country-block_20260830T144539Z.html
+Requested URL    : https://apps.shopify.com/disable-toolbox-country-block
+Final URL        : https://apps.shopify.com/disable-toolbox-country-block
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,206 bytes / 190,117 chars
+Elapsed          : 0.689s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopupup Disable Toolbox - Protect your information and code,Ban specific users. | Shopify App Store
+meta description : Disable toolbox-Disable IP & Country.
+Disable Chinese browser access,
+Disable access from specific countries,
+Disable devtool,Protect your codes.
+canonical URL    : https://apps.shopify.com/disable-toolbox-country-block
+<h1> tags ( 1)  : 'Shopupup Disable Toolbox'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

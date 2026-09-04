@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\myparcel-asia-3_20260830T032703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\myparcel-asia-3_20260830T032703Z.html
+Requested URL    : https://apps.shopify.com/myparcel-asia-3
+Final URL        : https://apps.shopify.com/myparcel-asia-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,077 bytes / 166,970 chars
+Elapsed          : 0.572s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MPA ‑ Send Your Parcel - Use J&T, Poslaju, Flash, Fedex and more to send your... | Shopify App Store
+meta description : Want to save time and money sending documents and parcels? Managed by industry specialist, MyParcel Asia's online platform allows you to choose your Door to Doo
+canonical URL    : https://apps.shopify.com/myparcel-asia-3
+<h1> tags ( 1)  : 'MPA ‑ Send Your Parcel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

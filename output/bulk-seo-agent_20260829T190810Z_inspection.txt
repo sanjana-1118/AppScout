@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-seo-agent_20260829T190810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-seo-agent_20260829T190810Z.html
+Requested URL    : https://apps.shopify.com/bulk-seo-agent
+Final URL        : https://apps.shopify.com/bulk-seo-agent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,458 bytes / 195,367 chars
+Elapsed          : 0.563s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bulk SEO Agent - Generate SEO titles, meta tags, and descriptions in bulk | Shopify App Store
+meta description : Generate SEO title tags, meta descriptions, and product or collection copy in bulk, then review changes before publishing.
+canonical URL    : https://apps.shopify.com/bulk-seo-agent
+<h1> tags ( 1)  : 'Bulk SEO Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

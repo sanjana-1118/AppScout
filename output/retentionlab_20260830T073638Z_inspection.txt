@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retentionlab_20260830T073638Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retentionlab_20260830T073638Z.html
+Requested URL    : https://apps.shopify.com/retentionlab
+Final URL        : https://apps.shopify.com/retentionlab
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,453 bytes / 179,360 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RetentionLab: Reduce Churn  - Retention on autopilot for ecommerce brands | Shopify App Store
+meta description : RetentionLab helps ecommerce brands increase retention, grow customer lifetime value, reduce churn risk, and turn one-time buyers into loyal repeat customers
+canonical URL    : https://apps.shopify.com/retentionlab
+<h1> tags ( 1)  : 'RetentionLab: Reduce Churn'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

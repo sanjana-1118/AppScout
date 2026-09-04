@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/flowpo-by-parex",
+  "fetch_timestamp": "2026-08-30T17:53:47.656034+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\flowpo-by-parex_20260830T175347Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\flowpo-by-parex_20260830T175347Z.html",
+    "url": "https://apps.shopify.com/flowpo-by-parex",
+    "final_url": "https://apps.shopify.com/flowpo-by-parex",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 216882,
+    "body_text_length": 216785,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.000504,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "FlowPO Purchase Orders - Master Your Inventory Lifecycle with Smarter Purchase Orders | Shopify App Store",
+    "meta_description": "Running a retail business shouldn’t be a guessing game. FlowPO is built for Shopify and POS merchants who need to master their inventory lifecycle....",
+    "canonical_url": "https://apps.shopify.com/flowpo-by-parex",
+    "h1_tags": [
+      "FlowPO Purchase Orders"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "FlowPO Purchase Orders",
+    "app_slug": "flowpo-by-parex",
+    "app_url": "https://apps.shopify.com/flowpo-by-parex",
+    "developer_name": "Parex Technologies Pvt Ltd",
+    "description": "Running a retail business shouldn’t be a guessing game. FlowPO is built for Shopify and POS merchants who need to master their inventory lifecycle....",
+    "average_rating": 5.0,
+    "review_count": 4,
+    "category": "Inventory optimization"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\flowpo-by-parex_20260830T175347Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\flowpo-by-parex_20260830T175347Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "FlowPO Purchase Orders",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "flowpo-by-parex",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/flowpo-by-parex",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Parex Technologies Pvt Ltd",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Running a retail business shouldn’t be a guessing game. FlowPO is built for Shopify and POS merchants who need to master their inventory lifecycle....",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 4,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Inventory optimization",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

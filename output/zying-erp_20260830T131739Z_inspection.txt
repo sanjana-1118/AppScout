@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zying-erp_20260830T131739Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zying-erp_20260830T131739Z.html
+Requested URL    : https://apps.shopify.com/zying-erp
+Final URL        : https://apps.shopify.com/zying-erp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,382 bytes / 165,203 chars
+Elapsed          : 0.609s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZYing - multi store, product agent, logistics transfer services | Shopify App Store
+meta description : Product library: Products can be uploaded to the store in batches with one click.
+Product distribution: ZYing users share product information, and ...
+canonical URL    : https://apps.shopify.com/zying-erp
+<h1> tags ( 1)  : 'ZYing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

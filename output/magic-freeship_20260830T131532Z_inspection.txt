@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-freeship_20260830T131532Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-freeship_20260830T131532Z.html
+Requested URL    : https://apps.shopify.com/magic-freeship
+Final URL        : https://apps.shopify.com/magic-freeship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,810 bytes / 167,721 chars
+Elapsed          : 0.975s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magic Freeship Bar - Free shipping bar with cart goal and progress to boost... | Shopify App Store
+meta description : Encourage higher orders by using progressive messages in your promotional materials. For example, you could use a tiered structure like "free shipp...
+canonical URL    : https://apps.shopify.com/magic-freeship
+<h1> tags ( 1)  : 'Magic Freeship Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

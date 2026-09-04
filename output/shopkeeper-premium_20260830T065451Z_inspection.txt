@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopkeeper-premium_20260830T065451Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopkeeper-premium_20260830T065451Z.html
+Requested URL    : https://apps.shopify.com/shopkeeper-premium
+Final URL        : https://apps.shopify.com/shopkeeper-premium
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,006 bytes / 227,917 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopKeeper Premium Gift Cards - Send and sell customized gift cards that express your brand! | Shopify App Store
+meta description : The gift of personalization with a gift card app that lets customers customize and send digital gift cards that match your branding. Flat fee monthly fee!
+canonical URL    : https://apps.shopify.com/shopkeeper-premium
+<h1> tags ( 1)  : 'ShopKeeper Premium Gift Cards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

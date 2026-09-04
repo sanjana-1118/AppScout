@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-bulk-upload_20260830T131906Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-bulk-upload_20260830T131906Z.html
+Requested URL    : https://apps.shopify.com/magic-bulk-upload
+Final URL        : https://apps.shopify.com/magic-bulk-upload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,546 bytes / 162,457 chars
+Elapsed          : 0.911s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magic Product Sync for Stores - Bulk Upload Product To Multiple Stores Using A Few Click | Shopify App Store
+meta description : Sometimes if you own more than one store on Shopify you find occasions where you want to copy or transfer a product to another store. The process i...
+canonical URL    : https://apps.shopify.com/magic-bulk-upload
+<h1> tags ( 1)  : 'Magic Product Sync for Stores'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

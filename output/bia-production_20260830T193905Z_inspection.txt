@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bia-production_20260830T193905Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bia-production_20260830T193905Z.html
+Requested URL    : https://apps.shopify.com/bia-production
+Final URL        : https://apps.shopify.com/bia-production
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,217 bytes / 193,118 chars
+Elapsed          : 0.838s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Buy It Again - Let returning customers reorder past purchases in one click | Shopify App Store
+meta description : Show returning customers their past purchases and let them reorder in one click. Works on homepage, product pages, and account. 7-day free trial.
+canonical URL    : https://apps.shopify.com/bia-production
+<h1> tags ( 1)  : 'Buy It Again'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

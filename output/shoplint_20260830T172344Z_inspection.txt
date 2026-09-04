@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoplint_20260830T172344Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoplint_20260830T172344Z.html
+Requested URL    : https://apps.shopify.com/shoplint
+Final URL        : https://apps.shopify.com/shoplint
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,358 bytes / 168,269 chars
+Elapsed          : 0.821s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopLint - Catch silent storefront errors before they impact sales. | Shopify App Store
+meta description : ShopLint audits your Shopify store for problems that are hard to spot manually, at scale. Products with missing images, empty descriptions, inverte...
+canonical URL    : https://apps.shopify.com/shoplint
+<h1> tags ( 1)  : 'ShopLint'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

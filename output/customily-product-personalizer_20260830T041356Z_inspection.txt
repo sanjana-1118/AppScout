@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customily-product-personalizer_20260830T041356Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customily-product-personalizer_20260830T041356Z.html
+Requested URL    : https://apps.shopify.com/customily-product-personalizer
+Final URL        : https://apps.shopify.com/customily-product-personalizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 264,331 bytes / 264,232 chars
+Elapsed          : 0.955s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Customily Product Personalizer - Smart product customizer with live preview & print ready files | Shopify App Store
+meta description : Design and sell personalized products with our Shopify product customizer: live previews & print-ready files. Shoppers personalize live & you fulfill faster!
+canonical URL    : https://apps.shopify.com/customily-product-personalizer
+<h1> tags ( 1)  : 'Customily Product Personalizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

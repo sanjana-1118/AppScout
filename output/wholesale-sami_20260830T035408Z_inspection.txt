@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-sami_20260830T035408Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-sami_20260830T035408Z.html
+Requested URL    : https://apps.shopify.com/wholesale-sami
+Final URL        : https://apps.shopify.com/wholesale-sami
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 247,670 bytes / 247,577 chars
+Elapsed          : 1.013s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sami B2B Wholesale Pricing - All-in-1 Wholesale B2B: Volume discount, b2b registration, tax | Shopify App Store
+meta description : Unlock powerful B2B features with Sami: wholesale & volume pricing, tax-exempt checkout, multi-currency, quick order forms, and net term payments.
+canonical URL    : https://apps.shopify.com/wholesale-sami
+<h1> tags ( 1)  : 'Sami B2B Wholesale Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\polidep_20260830T033238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\polidep_20260830T033238Z.html
+Requested URL    : https://apps.shopify.com/polidep
+Final URL        : https://apps.shopify.com/polidep
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,419 bytes / 181,330 chars
+Elapsed          : 0.744s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : polidep - Bulk shipping labels and order sync across cargo carriers. | Shopify App Store
+meta description : Polidep is a multi-tenant order, inventory, and shipping management platform built for merchants who need centralized control across one or more st...
+canonical URL    : https://apps.shopify.com/polidep
+<h1> tags ( 1)  : 'polidep'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

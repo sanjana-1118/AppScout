@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fashion-ai-app-v2_20260830T063311Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fashion-ai-app-v2_20260830T063311Z.html
+Requested URL    : https://apps.shopify.com/fashion-ai-app-v2
+Final URL        : https://apps.shopify.com/fashion-ai-app-v2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,550 bytes / 186,451 chars
+Elapsed          : 0.691s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SailorSoft AI Fashion Search - Shoppers upload a photo or description to find matching items | Shopify App Store
+meta description : Fashion AI adds visual and text search to your store — shoppers upload a photo or describe an item to find similar products in your catalog. Free 30-day trial.
+canonical URL    : https://apps.shopify.com/fashion-ai-app-v2
+<h1> tags ( 1)  : 'SailorSoft AI Fashion Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\surcharge-guard-uk_20260830T181458Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\surcharge-guard-uk_20260830T181458Z.html
+Requested URL    : https://apps.shopify.com/surcharge-guard-uk
+Final URL        : https://apps.shopify.com/surcharge-guard-uk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,139 bytes / 176,036 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Surcharge Guard UK - Block remote UK postcodes at checkout with a clear message. | Shopify App Store
+meta description : Block deliveries to Scottish Highlands and other remote UK postcodes. Stop losing money on remote surcharges— works on every Shopify Plan even Basic
+canonical URL    : https://apps.shopify.com/surcharge-guard-uk
+<h1> tags ( 1)  : 'Surcharge Guard UK'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

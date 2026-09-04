@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\edge-subscription_20260830T181055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\edge-subscription_20260830T181055Z.html
+Requested URL    : https://apps.shopify.com/edge-subscription
+Final URL        : https://apps.shopify.com/edge-subscription
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,896 bytes / 191,803 chars
+Elapsed          : 0.927s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Edge Subscription - Create and manage subscriptions to build recurring revenue | Shopify App Store
+meta description : Create and manage subscriptions with 0% transaction fees. Automate recurring orders, reduce churn with dunning management, and track revenue analytics.
+canonical URL    : https://apps.shopify.com/edge-subscription
+<h1> tags ( 1)  : 'Edge Subscription'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supportpilotai_20260830T165036Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supportpilotai_20260830T165036Z.html
+Requested URL    : https://apps.shopify.com/supportpilotai
+Final URL        : https://apps.shopify.com/supportpilotai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,436 bytes / 199,302 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Support Pilot AI ‑ helpdesk - AI support that replies, recommends, recovers, resells. | Shopify App Store
+meta description : Stop seeing support as a cost. AI replies, recommends, recovers, and resells on every ticket — 24/7. Auto-send by default, surgical escalation on what you flag.
+canonical URL    : https://apps.shopify.com/supportpilotai
+<h1> tags ( 1)  : 'Support Pilot AI ‑ helpdesk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensevit_20260830T165722Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensevit_20260830T165722Z.html
+Requested URL    : https://apps.shopify.com/sensevit
+Final URL        : https://apps.shopify.com/sensevit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,684 bytes / 170,500 chars
+Elapsed          : 0.714s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sensevit - Virtual Try-On, Coloração Pessoal, Personal Stylist e Analytic | Shopify App Store
+meta description : O SenseVit transforma a experiência de compra na sua loja com inteligência artificial de moda:
+
+✨ Virtual Try-On — Seus clientes experimentam roupa...
+canonical URL    : https://apps.shopify.com/sensevit?locale=pt-BR
+<h1> tags ( 1)  : 'Sensevit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

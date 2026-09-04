@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-openerp-connector_20260830T034515Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-openerp-connector_20260830T034515Z.html
+Requested URL    : https://apps.shopify.com/shopify-openerp-connector
+Final URL        : https://apps.shopify.com/shopify-openerp-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,650 bytes / 216,550 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Odoo Connector - Real time Sync to Odoo for Products, Orders, Qty | Shopify App Store
+meta description : With this app users will be able to synchronize all the products , customers , orders fulfilment , payment and much more from Shopify to Odoo.
+
+Com...
+canonical URL    : https://apps.shopify.com/shopify-openerp-connector
+<h1> tags ( 1)  : 'Webkul Odoo Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

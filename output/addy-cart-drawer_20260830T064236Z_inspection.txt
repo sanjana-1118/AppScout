@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\addy-cart-drawer_20260830T064236Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\addy-cart-drawer_20260830T064236Z.html
+Requested URL    : https://apps.shopify.com/addy-cart-drawer
+Final URL        : https://apps.shopify.com/addy-cart-drawer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,647 bytes / 224,550 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Addy: Free Shipping Bar Cart - Add cart upsells in slide cart drawer – free shipping... | Shopify App Store
+meta description : Shopify cart drawer with AI upsells, product recommendations, volume discounts, free gifts, subscriptions, ETA delivery and advanced targeting.
+canonical URL    : https://apps.shopify.com/addy-cart-drawer
+<h1> tags ( 1)  : 'Addy: Free Shipping Bar Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

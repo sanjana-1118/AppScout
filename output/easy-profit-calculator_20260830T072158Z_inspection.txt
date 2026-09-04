@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-profit-calculator_20260830T072158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-profit-calculator_20260830T072158Z.html
+Requested URL    : https://apps.shopify.com/easy-profit-calculator
+Final URL        : https://apps.shopify.com/easy-profit-calculator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,684 bytes / 194,595 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Profit Calculator +AI - Claude AI profit assistant shows true profit after every cost. | Shopify App Store
+meta description : Calculate true Shopify profit after COGS, shipping, fees, returns, ads and overhead. Track margins, P&L, ROAS, inventory and more.
+canonical URL    : https://apps.shopify.com/easy-profit-calculator
+<h1> tags ( 1)  : 'Easy Profit Calculator +AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

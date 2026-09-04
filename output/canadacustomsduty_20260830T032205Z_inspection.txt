@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\canadacustomsduty_20260830T032205Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\canadacustomsduty_20260830T032205Z.html
+Requested URL    : https://apps.shopify.com/canadacustomsduty
+Final URL        : https://apps.shopify.com/canadacustomsduty
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,979 bytes / 197,876 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BorderBuddy Ship to Canada - Ship International to Canada.  Simply customs duties paid! | Shopify App Store
+meta description : Discover Simply Duty: the ultimate Shopify app for hassle-free shipping to Canada. Enjoy low-cost international shipping with all duties and taxes included. No
+canonical URL    : https://apps.shopify.com/canadacustomsduty
+<h1> tags ( 1)  : 'BorderBuddy Ship to Canada'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

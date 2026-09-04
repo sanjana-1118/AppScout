@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kitchenkit_20260830T034030Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kitchenkit_20260830T034030Z.html
+Requested URL    : https://apps.shopify.com/kitchenkit
+Final URL        : https://apps.shopify.com/kitchenkit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,573 bytes / 172,482 chars
+Elapsed          : 0.587s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KitchenKit - Restaurant POS Solution | Shopify App Store
+meta description : Manage menus, categories, items, modifiers, and real-time kitchen views for precise orders and faster prep times.
+canonical URL    : https://apps.shopify.com/kitchenkit
+<h1> tags ( 1)  : 'KitchenKit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

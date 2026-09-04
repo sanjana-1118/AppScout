@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ci-hide-price_20260830T044243Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ci-hide-price_20260830T044243Z.html
+Requested URL    : https://apps.shopify.com/ci-hide-price
+Final URL        : https://apps.shopify.com/ci-hide-price
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,456 bytes / 215,365 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hide Price: Login to See Price - Hide price and add to cart button for product &... | Shopify App Store
+meta description : Hide Price and add to card app for those users who are not logged in on the website. If the user wants to view the price of a product, they must lo...
+canonical URL    : https://apps.shopify.com/ci-hide-price
+<h1> tags ( 1)  : 'Hide Price: Login to See Price'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

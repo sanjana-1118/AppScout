@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autocart-auto-add-to-cart_20260830T063720Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autocart-auto-add-to-cart_20260830T063720Z.html
+Requested URL    : https://apps.shopify.com/autocart-auto-add-to-cart
+Final URL        : https://apps.shopify.com/autocart-auto-add-to-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,162 bytes / 236,052 chars
+Elapsed          : 1.747s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AutoCart: Gift With Purchase - Auto add gifts, discounted or companion products to the cart | Shopify App Store
+meta description : Add free gifts (BOGO, buy X get Y etc.), discounted or companion products to your customers' carts based on custom conditions or automatically remove the offer
+canonical URL    : https://apps.shopify.com/autocart-auto-add-to-cart
+<h1> tags ( 1)  : 'AutoCart: Gift With Purchase'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

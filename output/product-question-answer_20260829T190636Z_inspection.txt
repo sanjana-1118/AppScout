@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-question-answer_20260829T190636Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-question-answer_20260829T190636Z.html
+Requested URL    : https://apps.shopify.com/product-question-answer
+Final URL        : https://apps.shopify.com/product-question-answer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,300 bytes / 173,211 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MirrorAsk: AI Ready Products - Make your products visible to AI agents | Shopify App Store
+meta description : MirrorAsk scans your store and products for AI-readiness gaps, then shows what to fix so shoppers and AI agents can better understand your products.
+canonical URL    : https://apps.shopify.com/product-question-answer
+<h1> tags ( 1)  : 'MirrorAsk: AI Ready Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

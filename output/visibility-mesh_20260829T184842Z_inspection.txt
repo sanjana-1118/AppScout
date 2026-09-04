@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\visibility-mesh_20260829T184842Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\visibility-mesh_20260829T184842Z.html
+Requested URL    : https://apps.shopify.com/visibility-mesh
+Final URL        : https://apps.shopify.com/visibility-mesh
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,266 bytes / 227,171 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Visibility Mesh - Measure, fix, and prove how AI search reads your store. | Shopify App Store
+meta description : Measure how AI search reads your Shopify store, get exact fixes from your own catalog, prove the lift on rescan, and see whether AI assistants name your store.
+canonical URL    : https://apps.shopify.com/visibility-mesh
+<h1> tags ( 1)  : 'Visibility Mesh'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

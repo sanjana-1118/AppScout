@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\linear-price-testing_20260830T044655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\linear-price-testing_20260830T044655Z.html
+Requested URL    : https://apps.shopify.com/linear-price-testing
+Final URL        : https://apps.shopify.com/linear-price-testing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,389 bytes / 173,286 chars
+Elapsed          : 0.911s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Linear A/B Testing Price Test - A/B test your pricing strategy with real-time data  | Shopify App Store
+meta description : Find the most profitable price for every product with A/B price testing built for eCommerce. Stop guessing product prices — run price experiments o...
+canonical URL    : https://apps.shopify.com/linear-price-testing
+<h1> tags ( 1)  : 'Linear A/B Testing Price Test'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

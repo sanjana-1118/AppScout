@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reeleezee_20260830T070224Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reeleezee_20260830T070224Z.html
+Requested URL    : https://apps.shopify.com/reeleezee
+Final URL        : https://apps.shopify.com/reeleezee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,352 bytes / 158,245 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reeleezee - Your webshop orders effortlessly in Reeleezee | Shopify App Store
+meta description : This app connects your Shopify webshop to your Reeleezee administration. That’s why you don’t have to manually type out data, the orders are transf...
+canonical URL    : https://apps.shopify.com/reeleezee
+<h1> tags ( 1)  : 'Reeleezee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

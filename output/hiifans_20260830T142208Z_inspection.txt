@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hiifans_20260830T142208Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hiifans_20260830T142208Z.html
+Requested URL    : https://apps.shopify.com/hiifans
+Final URL        : https://apps.shopify.com/hiifans
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,676 bytes / 205,887 chars
+Elapsed          : 0.868s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hiifans: Top‑of‑Inbox Emails - AI email: AI-tailored, timed; logs all opens&clicks. | Shopify App Store
+meta description : 邮件上C位，爱看，爱下单！AI生成对方感兴趣的内容，在对方刚好打开手机时发送。还能跟踪打开次数和点击次数，不漏一个兴趣客户！另外，还支持自动同步多渠道的订单信息和客服消息，AI机器人回复、工单系统、邮件群发、明信片群发等提效工具。
+canonical URL    : https://apps.shopify.com/hiifans
+<h1> tags ( 1)  : 'Hiifans: Top‑of‑Inbox Emails'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

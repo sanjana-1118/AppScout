@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensbot-ai-email-assistant_20260831T034148Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensbot-ai-email-assistant_20260831T034148Z.html
+Requested URL    : https://apps.shopify.com/sensbot-ai-email-assistant
+Final URL        : https://apps.shopify.com/sensbot-ai-email-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,004 bytes / 181,911 chars
+Elapsed          : 0.934s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sensbot AI Email Assistant - AI drafted email replies using your store’s context. | Shopify App Store
+meta description : Drafts customer email replies using your store's order and product data. You review, edit, and send. Works in Gmail, Outlook, and any inbox. Save support time.
+canonical URL    : https://apps.shopify.com/sensbot-ai-email-assistant
+<h1> tags ( 1)  : 'Sensbot AI Email Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

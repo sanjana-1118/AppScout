@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feed-beslist_20260830T144855Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feed-beslist_20260830T144855Z.html
+Requested URL    : https://apps.shopify.com/feed-beslist
+Final URL        : https://apps.shopify.com/feed-beslist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,670 bytes / 171,575 chars
+Elapsed          : 0.613s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Feed for Beslist - Automated Beslist feed: always up-to-date product information. | Shopify App Store
+meta description : Exporteer uw producten van Shopify naar Beslist. 100% compatibele feed.
+canonical URL    : https://apps.shopify.com/feed-beslist
+<h1> tags ( 1)  : 'Feed for Beslist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

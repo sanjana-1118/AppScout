@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-social-media-icons-bar_20260830T055735Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-social-media-icons-bar_20260830T055735Z.html
+Requested URL    : https://apps.shopify.com/sticky-social-media-icons-bar
+Final URL        : https://apps.shopify.com/sticky-social-media-icons-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,991 bytes / 246,902 chars
+Elapsed          : 0.458s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B:Instagram Social Media Icons - Social Bar: Add Instagramm, WhatsApp & more social share icon | Shopify App Store
+meta description : Add social share icons to your online store & redirect customers to your social media profiles. 80+ Medias supported: Facebook, Instagram, Discord, Etsy & more!
+canonical URL    : https://apps.shopify.com/sticky-social-media-icons-bar
+<h1> tags ( 1)  : 'B:Instagram Social Media Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qia_20260830T073244Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qia_20260830T073244Z.html
+Requested URL    : https://apps.shopify.com/qia
+Final URL        : https://apps.shopify.com/qia
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,665 bytes / 184,546 chars
+Elapsed          : 1.021s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qia ‑ AI Custom Report Agent - Ask plain English questions about your store | Shopify App Store
+meta description : Ask Qia AI anything about your store. Get instant reports on revenue growth and UTM ROI with direct links to Shopify to diagnose trends and scale what works.
+canonical URL    : https://apps.shopify.com/qia
+<h1> tags ( 1)  : 'Qia ‑ AI Custom Report Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

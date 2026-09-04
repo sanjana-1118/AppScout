@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\soryk-sales_20260830T041147Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\soryk-sales_20260830T041147Z.html
+Requested URL    : https://apps.shopify.com/soryk-sales
+Final URL        : https://apps.shopify.com/soryk-sales
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,993 bytes / 194,886 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Soryk ‑ B2B Sales Reps - Let your wholesale sales reps place B2B orders on the... | Shopify App Store
+meta description : ryk gives Shopify wholesale merchants a B2B sales-rep app: agents place orders for their companies, with per-company catalogs, commissions, and visit reports.
+canonical URL    : https://apps.shopify.com/soryk-sales
+<h1> tags ( 1)  : 'Soryk ‑ B2B Sales Reps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

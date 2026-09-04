@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emailwiz_20260829T184715Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emailwiz_20260829T184715Z.html
+Requested URL    : https://apps.shopify.com/emailwiz
+Final URL        : https://apps.shopify.com/emailwiz
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 285,642 bytes / 285,517 chars
+Elapsed          : 0.565s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wiz ‑ AI Email Marketing - Drive sales via AI email marketing & abandoned cart recovery | Shopify App Store
+meta description : Boost sales with an automated AI email marketing app, abandoned cart flow, AI email campaigns,15+ languages, 1-click setup, abandoned checkout, pop-up, & more
+canonical URL    : https://apps.shopify.com/emailwiz
+<h1> tags ( 1)  : 'Wiz ‑ AI Email Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

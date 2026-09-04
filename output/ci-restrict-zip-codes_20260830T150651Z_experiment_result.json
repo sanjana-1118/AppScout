@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/ci-restrict-zip-codes",
+  "fetch_timestamp": "2026-08-30T15:06:51.525601+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ci-restrict-zip-codes_20260830T150651Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ci-restrict-zip-codes_20260830T150651Z.html",
+    "url": "https://apps.shopify.com/ci-restrict-zip-codes",
+    "final_url": "https://apps.shopify.com/ci-restrict-zip-codes",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 180983,
+    "body_text_length": 180876,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.824887,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "CI Restrict: Zipcode Checker - Zipcode-based delivery availability & estimated delivery date | Shopify App Store",
+    "meta_description": "To enhance the functionality of the eCommerce store, customer’s zip code validation plays a very important role. The advantage of the zip code vali...",
+    "canonical_url": "https://apps.shopify.com/ci-restrict-zip-codes",
+    "h1_tags": [
+      "CI Restrict: Zipcode Checker"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "CI Restrict: Zipcode Checker",
+    "app_slug": "ci-restrict-zip-codes",
+    "app_url": "https://apps.shopify.com/ci-restrict-zip-codes",
+    "developer_name": "CynoInfotech",
+    "description": "To enhance the functionality of the eCommerce store, customer’s zip code validation plays a very important role. The advantage of the zip code vali...",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Delivery and pickup"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ci-restrict-zip-codes_20260830T150651Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ci-restrict-zip-codes_20260830T150651Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "CI Restrict: Zipcode Checker",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "ci-restrict-zip-codes",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/ci-restrict-zip-codes",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "CynoInfotech",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "To enhance the functionality of the eCommerce store, customer’s zip code validation plays a very important role. The advantage of the zip code vali...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Delivery and pickup",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

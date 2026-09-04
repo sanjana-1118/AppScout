@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easystock_20260830T185239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easystock_20260830T185239Z.html
+Requested URL    : https://apps.shopify.com/easystock
+Final URL        : https://apps.shopify.com/easystock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,575 bytes / 182,486 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasyStock - Fix stock, delivery, and product data from one view. | Shopify App Store
+meta description : Track inventory, review stock by location, manage delivery wait times, and bulk update product details from one operating dashboard.
+canonical URL    : https://apps.shopify.com/easystock
+<h1> tags ( 1)  : 'EasyStock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

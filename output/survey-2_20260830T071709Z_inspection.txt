@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\survey-2_20260830T071709Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\survey-2_20260830T071709Z.html
+Requested URL    : https://apps.shopify.com/survey-2
+Final URL        : https://apps.shopify.com/survey-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,631 bytes / 229,518 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zoww Post Purchase Survey NPS - Post-purchase surveys for retention, attribution & growth | Shopify App Store
+meta description : Find out where your best customers are really coming from. Zoww Surveys lets you ask the one question that matters most — "How did you hear about u...
+canonical URL    : https://apps.shopify.com/survey-2
+<h1> tags ( 1)  : 'Zoww Post Purchase Survey NPS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

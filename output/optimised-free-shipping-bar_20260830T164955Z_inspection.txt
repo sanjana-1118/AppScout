@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optimised-free-shipping-bar_20260830T164955Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optimised-free-shipping-bar_20260830T164955Z.html
+Requested URL    : https://apps.shopify.com/optimised-free-shipping-bar
+Final URL        : https://apps.shopify.com/optimised-free-shipping-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,922 bytes / 176,829 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Optimised Free Shipping Bar - A/B test Free Shipping Bar to optimise upsells and conversions | Shopify App Store
+meta description : Increase average order value with a smart free shipping progress bar. A/B test messages, designs, and thresholds to optimise conversions and motivate customers
+canonical URL    : https://apps.shopify.com/optimised-free-shipping-bar
+<h1> tags ( 1)  : 'Optimised Free Shipping Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

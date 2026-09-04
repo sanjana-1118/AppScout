@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotemycart_20260830T044254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotemycart_20260830T044254Z.html
+Requested URL    : https://apps.shopify.com/quotemycart
+Final URL        : https://apps.shopify.com/quotemycart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,098 bytes / 214,991 chars
+Elapsed          : 1.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuoteMyCart: B2B Quote PDF -  Instant PDF quotes from the cart — no forms, no... | Shopify App Store
+meta description : Add a Download Quote button to your Shopify cart. Customers get branded PDF quotes instantly — no forms, no waiting. VAT, reverse charge and 7 languages.
+canonical URL    : https://apps.shopify.com/quotemycart
+<h1> tags ( 1)  : 'QuoteMyCart: B2B Quote PDF'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profit-tracker-2_20260830T072144Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profit-tracker-2_20260830T072144Z.html
+Requested URL    : https://apps.shopify.com/profit-tracker-2
+Final URL        : https://apps.shopify.com/profit-tracker-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,993 bytes / 178,904 chars
+Elapsed          : 0.964s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProfitPulse - See true profit per order, not just revenue | Shopify App Store
+meta description : Track true profit per order and product on Shopify. See costs, fees, shipping, and ad spend in one clear dashboard.
+canonical URL    : https://apps.shopify.com/profit-tracker-2
+<h1> tags ( 1)  : 'ProfitPulse'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

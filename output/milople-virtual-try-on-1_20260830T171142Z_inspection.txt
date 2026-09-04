@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-virtual-try-on-1_20260830T171142Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-virtual-try-on-1_20260830T171142Z.html
+Requested URL    : https://apps.shopify.com/milople-virtual-try-on-1
+Final URL        : https://apps.shopify.com/milople-virtual-try-on-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,439 bytes / 176,320 chars
+Elapsed          : 0.816s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Milople Virtual try‑on - Let shoppers try products virtually before they buy | Shopify App Store
+meta description : Milople’s Virtual Try-On app lets customers preview products virtually before purchasing. Instead of relying only on product images, shoppers can s...
+canonical URL    : https://apps.shopify.com/milople-virtual-try-on-1
+<h1> tags ( 1)  : 'Milople Virtual try‑on'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

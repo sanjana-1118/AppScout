@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enovai-app_20260830T163432Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enovai-app_20260830T163432Z.html
+Requested URL    : https://apps.shopify.com/enovai-app
+Final URL        : https://apps.shopify.com/enovai-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,199 bytes / 201,105 chars
+Elapsed          : 1.369s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Enovai Group - Turn visitors into buyers with a 24/7 AI sales agent... | Shopify App Store
+meta description : Turn store visitors into buyers with an AI agent that chats, recommends products, recovers abandoned carts and captures every lead 24/7. Built for Shopify.
+canonical URL    : https://apps.shopify.com/enovai-app
+<h1> tags ( 1)  : 'Enovai Group'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

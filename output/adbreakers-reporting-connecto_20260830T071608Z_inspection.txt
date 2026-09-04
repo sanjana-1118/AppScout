@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adbreakers-reporting-connecto_20260830T071608Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adbreakers-reporting-connecto_20260830T071608Z.html
+Requested URL    : https://apps.shopify.com/adbreakers-reporting-connecto
+Final URL        : https://apps.shopify.com/adbreakers-reporting-connecto
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,552 bytes / 160,459 chars
+Elapsed          : 1.031s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AdBreakers Reporting - Sales, sessions & conversion insights in one simple dashboard | Shopify App Store
+meta description : AdBreakers Reporting shows a clear performance snapshot of your store without any setup. Open the app to see total sales, orders, average order val...
+canonical URL    : https://apps.shopify.com/adbreakers-reporting-connecto
+<h1> tags ( 1)  : 'AdBreakers Reporting'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

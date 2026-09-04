@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopassist-ai-chatbot",
+  "fetch_timestamp": "2026-08-31T02:48:27.651451+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopassist-ai-chatbot_20260831T024827Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopassist-ai-chatbot_20260831T024827Z.html",
+    "url": "https://apps.shopify.com/shopassist-ai-chatbot",
+    "final_url": "https://apps.shopify.com/shopassist-ai-chatbot",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 178857,
+    "body_text_length": 178763,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.833672,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "ShopAssist AI ChatBot - Provide AI customer support and personalized product suggests | Shopify App Store",
+    "meta_description": "ShopAssist AI ChatBot helps merchants provide instant assistance to customers throughout their shopping experience. The app answers common question...",
+    "canonical_url": "https://apps.shopify.com/shopassist-ai-chatbot",
+    "h1_tags": [
+      "ShopAssist AI ChatBot"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "ShopAssist AI ChatBot",
+    "app_slug": "shopassist-ai-chatbot",
+    "app_url": "https://apps.shopify.com/shopassist-ai-chatbot",
+    "developer_name": "Altora Technologies Limited",
+    "description": "ShopAssist AI ChatBot helps merchants provide instant assistance to customers throughout their shopping experience. The app answers common question...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Chat"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopassist-ai-chatbot_20260831T024827Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopassist-ai-chatbot_20260831T024827Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "ShopAssist AI ChatBot",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopassist-ai-chatbot",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopassist-ai-chatbot",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Altora Technologies Limited",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "ShopAssist AI ChatBot helps merchants provide instant assistance to customers throughout their shopping experience. The app answers common question...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Chat",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

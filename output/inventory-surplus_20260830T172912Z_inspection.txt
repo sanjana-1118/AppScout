@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-surplus_20260830T172912Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-surplus_20260830T172912Z.html
+Requested URL    : https://apps.shopify.com/inventory-surplus
+Final URL        : https://apps.shopify.com/inventory-surplus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,645 bytes / 183,548 chars
+Elapsed          : 0.782s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inventory Surplus - Spot dead stock, price it to sell, recover your frozen... | Shopify App Store
+meta description : Inventory Surplus helps you quickly identify, manage, and sell slow-moving stock.
+
+Moving off Stocky? Inventory Surplus is your replacement.
+canonical URL    : https://apps.shopify.com/inventory-surplus
+<h1> tags ( 1)  : 'Inventory Surplus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

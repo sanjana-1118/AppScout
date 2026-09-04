@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-217_20260830T144608Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-217_20260830T144608Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-217
+Final URL        : https://apps.shopify.com/shopify-application-217
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,761 bytes / 149,762 chars
+Elapsed          : 0.713s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 捷境跨境电商综合服务平台 - 为跨境电商商家提供 订单管理、一键制单、一键通关、无纸化单证备案等多项SaaS服务 | Shopify App Store
+meta description : 捷境跨境电商综合服务平台，为跨境电商商家提供通关和退税合规SaaS服务，帮助跨境电商企业实现一键通关和一键退税。具体包括：
+A 帮助企业申请、办理跨境电商业务相关资质，让企业无忧迈向跨境生意第一步；
+B 系统自动获取多平台多店铺的所有订单、listing数据、内部商品信息，帮助电商企业在一个平...
+canonical URL    : https://apps.shopify.com/shopify-application-217?locale=zh-CN
+<h1> tags ( 1)  : '捷境跨境电商综合服务平台'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restrict-product-by-customer_20260830T170939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restrict-product-by-customer_20260830T170939Z.html
+Requested URL    : https://apps.shopify.com/restrict-product-by-customer
+Final URL        : https://apps.shopify.com/restrict-product-by-customer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,858 bytes / 174,763 chars
+Elapsed          : 0.887s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ultimate ProductGuard - Hide products by customer tags and rules for precise access... | Shopify App Store
+meta description : Hide products from specific customers using tag‑based rules. Show custom messages or redirect restricted shoppers with simple rule management.
+canonical URL    : https://apps.shopify.com/restrict-product-by-customer
+<h1> tags ( 1)  : 'Ultimate ProductGuard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

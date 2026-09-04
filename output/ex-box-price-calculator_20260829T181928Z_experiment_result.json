@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/ex-box-price-calculator",
+  "fetch_timestamp": "2026-08-29T18:19:28.787459+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ex-box-price-calculator_20260829T181928Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ex-box-price-calculator_20260829T181928Z.html",
+    "url": "https://apps.shopify.com/ex-box-price-calculator",
+    "final_url": "https://apps.shopify.com/ex-box-price-calculator",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 182397,
+    "body_text_length": 182305,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.645141,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Ex Box Price Calculator - Calculate prices for box & roll products instantly | Shopify App Store",
+    "meta_description": "The Box & Roll Calculator lets customers calculate product prices based on the number of boxes or rolls required for their project. Customers simpl...",
+    "canonical_url": "https://apps.shopify.com/ex-box-price-calculator",
+    "h1_tags": [
+      "Ex Box Price Calculator"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Ex Box Price Calculator",
+    "app_slug": "ex-box-price-calculator",
+    "app_url": "https://apps.shopify.com/ex-box-price-calculator",
+    "developer_name": "Extendons",
+    "description": "The Box & Roll Calculator lets customers calculate product prices based on the number of boxes or rolls required for their project. Customers simpl...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Pricing - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ex-box-price-calculator_20260829T181928Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ex-box-price-calculator_20260829T181928Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Ex Box Price Calculator",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "ex-box-price-calculator",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/ex-box-price-calculator",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Extendons",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "The Box & Roll Calculator lets customers calculate product prices based on the number of boxes or rolls required for their project. Customers simpl...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Pricing - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

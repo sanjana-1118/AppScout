@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\report-pundit_20260830T065747Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\report-pundit_20260830T065747Z.html
+Requested URL    : https://apps.shopify.com/report-pundit
+Final URL        : https://apps.shopify.com/report-pundit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 271,426 bytes / 271,335 chars
+Elapsed          : 0.656s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Report Pundit: Custom Reports - Create custom reports, combine data, and automate delivery | Shopify App Store
+meta description : Shopify Report customizations, automated report scheduling, and 30+ app data integration to analyze Sales, Inventory, Tax, Payout, Shipping, Customers, and more
+canonical URL    : https://apps.shopify.com/report-pundit
+<h1> tags ( 1)  : 'Report Pundit: Custom Reports'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\propel-low-stock-alerts_20260830T181308Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\propel-low-stock-alerts_20260830T181308Z.html
+Requested URL    : https://apps.shopify.com/propel-low-stock-alerts
+Final URL        : https://apps.shopify.com/propel-low-stock-alerts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,576 bytes / 181,483 chars
+Elapsed          : 0.968s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PL Inventory Forecast & Alerts - Inventory management with forecasting and low stock alerts | Shopify App Store
+meta description : Propel Inventory Forecast & Alerts turns your real sales history into reorder plans: days of cover, projected stockout dates, and suggested reorder...
+canonical URL    : https://apps.shopify.com/propel-low-stock-alerts
+<h1> tags ( 1)  : 'PL Inventory Forecast & Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

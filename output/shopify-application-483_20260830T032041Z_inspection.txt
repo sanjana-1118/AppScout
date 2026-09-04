@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-483_20260830T032041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-483_20260830T032041Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-483
+Final URL        : https://apps.shopify.com/shopify-application-483
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,687 bytes / 214,174 chars
+Elapsed          : 0.811s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 台灣超商取貨物流 支援綠界串接 四大超商 貨到付款 -   整合綠界四大超商取貨與貨到付款服務,自動產生標籤並計算運費,為台灣顧客提供熟悉配送選項,同時簡化商家物流管理流程 | Shopify App Store
+meta description : 整合綠界ECPay物流系統，支援7-11、全家、萊爾富、OK超商取貨與貨到付款服務。自動產生物流標籤、計算運費、管理訂單，為台灣電商提供完整的在地化配送解決方案，提升顧客結帳完成率並簡化物流管理流程。
+canonical URL    : https://apps.shopify.com/shopify-application-483?locale=zh-TW
+<h1> tags ( 1)  : '台灣超商取貨物流 支援綠界串接 四大超商 貨到付款'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

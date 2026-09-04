@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\netparcel_20260829T191552Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\netparcel_20260829T191552Z.html
+Requested URL    : https://apps.shopify.com/netparcel
+Final URL        : https://apps.shopify.com/netparcel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,600 bytes / 209,503 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : netParcel - Save on UPS, Purolator, & Canada Post + Real-Time Duties... | Shopify App Store
+meta description : Expert-negotiated rates for all major carriers in Canada, and several regional couriers. Get cheap shipping with netParcel.
+canonical URL    : https://apps.shopify.com/netparcel
+<h1> tags ( 1)  : 'netParcel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recoverly-ai_20260830T173129Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recoverly-ai_20260830T173129Z.html
+Requested URL    : https://apps.shopify.com/recoverly-ai
+Final URL        : https://apps.shopify.com/recoverly-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,070 bytes / 216,945 chars
+Elapsed          : 0.860s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Recoverly: AI Cart Recovery - AI recovery emails that learn what wins your shoppers back | Shopify App Store
+meta description : AI-written recovery emails with a built-in testing engine that learns what wins shoppers back
+canonical URL    : https://apps.shopify.com/recoverly-ai
+<h1> tags ( 1)  : 'Recoverly: AI Cart Recovery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

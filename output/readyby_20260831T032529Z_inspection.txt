@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\readyby_20260831T032529Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\readyby_20260831T032529Z.html
+Requested URL    : https://apps.shopify.com/readyby
+Final URL        : https://apps.shopify.com/readyby
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,082 bytes / 198,993 chars
+Elapsed          : 0.786s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Readyby Pickup Delivery Dates - Click and collect or local delivery, on dates you can... | Shopify App Store
+meta description : Let customers choose a pickup or local delivery date. Per-product lead times, same-day cutoffs, daily capacity caps and closed days. Free plan available.
+canonical URL    : https://apps.shopify.com/readyby
+<h1> tags ( 1)  : 'Readyby Pickup Delivery Dates'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

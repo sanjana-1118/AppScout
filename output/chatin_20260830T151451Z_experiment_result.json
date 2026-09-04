@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/chatin",
+  "fetch_timestamp": "2026-08-30T15:14:51.288574+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatin_20260830T151451Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatin_20260830T151451Z.html",
+    "url": "https://apps.shopify.com/chatin",
+    "final_url": "https://apps.shopify.com/chatin",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 213706,
+    "body_text_length": 213611,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.761748,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "ChatIn: AI Chatbot Support - AI chatbot agent answers sales support questions, boosts sales | Shopify App Store",
+    "meta_description": "Instant 24/7 AI customer support and sales chatbot for Shopify. Answer product & order questions, deflect tickets, boost conversion – no extra staff required",
+    "canonical_url": "https://apps.shopify.com/chatin",
+    "h1_tags": [
+      "ChatIn: AI Chatbot Support"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "ChatIn: AI Chatbot Support",
+    "app_slug": "chatin",
+    "app_url": "https://apps.shopify.com/chatin",
+    "developer_name": "ChatIn",
+    "description": "Instant 24/7 AI customer support and sales chatbot for Shopify. Answer product & order questions, deflect tickets, boost conversion – no extra staff required",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Chat"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatin_20260830T151451Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatin_20260830T151451Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "ChatIn: AI Chatbot Support",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "chatin",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/chatin",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "ChatIn",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Instant 24/7 AI customer support and sales chatbot for Shopify. Answer product & order questions, deflect tickets, boost conversion – no extra staff required",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Chat",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

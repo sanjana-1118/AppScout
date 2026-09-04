@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ga-faq_20260830T144838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ga-faq_20260830T144838Z.html
+Requested URL    : https://apps.shopify.com/ga-faq
+Final URL        : https://apps.shopify.com/ga-faq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,125 bytes / 207,034 chars
+Elapsed          : 0.987s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FAQ Page:Accordion+Help Center - Easy FAQ app with help centre and helpdesk | Shopify App Store
+meta description : Our versatile FAQ app is crafted to enhance your help center and provide seamless support for your customers. With this app, you can effortlessly m...
+canonical URL    : https://apps.shopify.com/ga-faq
+<h1> tags ( 1)  : 'FAQ Page:Accordion+Help Center'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

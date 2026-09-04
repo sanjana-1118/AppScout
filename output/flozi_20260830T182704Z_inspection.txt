@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flozi_20260830T182704Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flozi_20260830T182704Z.html
+Requested URL    : https://apps.shopify.com/flozi
+Final URL        : https://apps.shopify.com/flozi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,936 bytes / 168,839 chars
+Elapsed          : 0.842s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flozi - Discover and optimize how AI search engines find your store | Shopify App Store
+meta description : Discover how AI search engines find and reference your store. Identify content gaps, improve visibility, and prioritize content improvements.
+canonical URL    : https://apps.shopify.com/flozi
+<h1> tags ( 1)  : 'Flozi'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

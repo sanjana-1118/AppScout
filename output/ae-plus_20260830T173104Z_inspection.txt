@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ae-plus_20260830T173104Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ae-plus_20260830T173104Z.html
+Requested URL    : https://apps.shopify.com/ae-plus
+Final URL        : https://apps.shopify.com/ae-plus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,164 bytes / 216,075 chars
+Elapsed          : 0.689s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AE Plus: Order Edit & Cancel - Let customers edit orders, cancel & swap with store credit | Shopify App Store
+meta description : Let customers edit orders, change addresses, and self-cancel after checkout. Reduce support tickets and retain revenue with store credit on Shopify.
+canonical URL    : https://apps.shopify.com/ae-plus
+<h1> tags ( 1)  : 'AE Plus: Order Edit & Cancel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

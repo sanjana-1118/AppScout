@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\productdocs-hub_20260830T185012Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\productdocs-hub_20260830T185012Z.html
+Requested URL    : https://apps.shopify.com/productdocs-hub
+Final URL        : https://apps.shopify.com/productdocs-hub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,031 bytes / 164,942 chars
+Elapsed          : 0.889s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProductDocs Hub - Put the right manuals and safety docs on every product... | Shopify App Store
+meta description : Attach manuals, SDS, warranty docs, specs, and install guides to Shopify products and variants, then show them on product pages and packaging QR.
+canonical URL    : https://apps.shopify.com/productdocs-hub
+<h1> tags ( 1)  : 'ProductDocs Hub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

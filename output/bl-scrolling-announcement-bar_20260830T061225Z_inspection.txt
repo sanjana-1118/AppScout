@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bl-scrolling-announcement-bar_20260830T061225Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bl-scrolling-announcement-bar_20260830T061225Z.html
+Requested URL    : https://apps.shopify.com/bl-scrolling-announcement-bar
+Final URL        : https://apps.shopify.com/bl-scrolling-announcement-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,326 bytes / 223,907 chars
+Elapsed          : 0.659s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BL Scrolling Announcement Bar - Scrolling announcement bar to animate messages and updates. | Shopify App Store
+meta description : Enhance your store with a scrolling announcement bar. Animate messages and share offers, updates, and news effectively to engage your customers!
+canonical URL    : https://apps.shopify.com/bl-scrolling-announcement-bar
+<h1> tags ( 1)  : 'BL Scrolling Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

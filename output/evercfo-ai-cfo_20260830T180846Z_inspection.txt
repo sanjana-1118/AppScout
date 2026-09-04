@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\evercfo-ai-cfo_20260830T180846Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\evercfo-ai-cfo_20260830T180846Z.html
+Requested URL    : https://apps.shopify.com/evercfo-ai-cfo
+Final URL        : https://apps.shopify.com/evercfo-ai-cfo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,690 bytes / 171,555 chars
+Elapsed          : 0.493s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EverCFO — AI CFO - Every dollar — tracked, understood, optimized. | Shopify App Store
+meta description : EverCFO is an AI fractional CFO for Shopify merchants and SMBs. We explain your numbers, flag risks early, and draft board-ready reports from your books.
+canonical URL    : https://apps.shopify.com/evercfo-ai-cfo
+<h1> tags ( 1)  : 'EverCFO — AI CFO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oceanacdp_20260830T072933Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oceanacdp_20260830T072933Z.html
+Requested URL    : https://apps.shopify.com/oceanacdp
+Final URL        : https://apps.shopify.com/oceanacdp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,431 bytes / 181,342 chars
+Elapsed          : 0.816s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OceanaCDP Customer Analytics - Segment customers by behavior and track their lifetime value | Shopify App Store
+meta description : OceanaCDP turns your order history into a clear picture of who your customers are, what they're worth, and what they'll buy next. It syncs your Sho...
+canonical URL    : https://apps.shopify.com/oceanacdp
+<h1> tags ( 1)  : 'OceanaCDP Customer Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

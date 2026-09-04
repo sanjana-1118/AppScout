@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-quote-1_20260830T044403Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-quote-1_20260830T044403Z.html
+Requested URL    : https://apps.shopify.com/easy-quote-1
+Final URL        : https://apps.shopify.com/easy-quote-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,677 bytes / 192,036 chars
+Elapsed          : 0.766s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Quote | カート画面から見積書作成 - お客様がカート画面から見積書を作成 | Shopify App Store
+meta description : 顧客がカートに追加した商品から見積書をPDF形式で生成することができます。
+ショップ名、住所、ショップロゴ、電子印鑑を見積書でカスタマイズが可能です。
+管理画面から出力した見積書の履歴を見ることもできます。
+canonical URL    : https://apps.shopify.com/easy-quote-1?locale=ja
+<h1> tags ( 1)  : 'Easy Quote | カート画面から見積書作成'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

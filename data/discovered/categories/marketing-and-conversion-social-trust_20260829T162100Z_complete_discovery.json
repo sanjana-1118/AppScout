@@ -1,0 +1,38 @@
+{
+  "category_url": "https://apps.shopify.com/categories/marketing-and-conversion-social-trust",
+  "category_slug": "marketing-and-conversion-social-trust",
+  "traversal_timestamp": "2026-08-29T16:21:00.130740+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/marketing-and-conversion-social-trust"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/product-reviews-addon",
+    "https://apps.shopify.com/instafeed",
+    "https://apps.shopify.com/ali-reviews",
+    "https://apps.shopify.com/yotpo-social-reviews",
+    "https://apps.shopify.com/aliexpress-review-importer",
+    "https://apps.shopify.com/gsc-instagram-feed-instafeed",
+    "https://apps.shopify.com/okendo-reviews",
+    "https://apps.shopify.com/google-reviews-trust-badge",
+    "https://apps.shopify.com/instafeed-for-instagram-feed",
+    "https://apps.shopify.com/tolstoy",
+    "https://apps.shopify.com/klaviyo-reviews",
+    "https://apps.shopify.com/google-review-plus-by-entangle-1",
+    "https://apps.shopify.com/judgeme",
+    "https://apps.shopify.com/air-reviews",
+    "https://apps.shopify.com/junip",
+    "https://apps.shopify.com/trustshop",
+    "https://apps.shopify.com/reputon-store-reviews",
+    "https://apps.shopify.com/loox",
+    "https://apps.shopify.com/reelfy",
+    "https://apps.shopify.com/shopvid-shoppable-videos"
+  ],
+  "total_urls_encountered": 30,
+  "unique_app_urls": 20,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wilcode-amazon-importer_20260830T182721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wilcode-amazon-importer_20260830T182721Z.html
+Requested URL    : https://apps.shopify.com/wilcode-amazon-importer
+Final URL        : https://apps.shopify.com/wilcode-amazon-importer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,271 bytes / 192,178 chars
+Elapsed          : 0.948s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wilcode Amazon Importer - Import Amazon products to your store in one click | Shopify App Store
+meta description : Import Amazon products into your Shopify store in just a few clicks. Whether you're building an Amazon dropshipping business or launching an Amazon...
+canonical URL    : https://apps.shopify.com/wilcode-amazon-importer
+<h1> tags ( 1)  : 'Wilcode Amazon Importer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

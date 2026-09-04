@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/bulk-square-images",
+  "fetch_timestamp": "2026-08-30T07:13:18.245688+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-square-images_20260830T071318Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-square-images_20260830T071318Z.html",
+    "url": "https://apps.shopify.com/bulk-square-images",
+    "final_url": "https://apps.shopify.com/bulk-square-images",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 201796,
+    "body_text_length": 201699,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.624179,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "SquareifyBulk - Square Product Images in Bulk for Neat & Professional Look | Shopify App Store",
+    "meta_description": "SquareifyBulk - The ultimate tool for bulk image squaring. Effortlessly transform your images into perfect squares, enhancing the visual appeal of your website.",
+    "canonical_url": "https://apps.shopify.com/bulk-square-images",
+    "h1_tags": [
+      "SquareifyBulk"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "SquareifyBulk",
+    "app_slug": "bulk-square-images",
+    "app_url": "https://apps.shopify.com/bulk-square-images",
+    "developer_name": "Manifester Technologies",
+    "description": "SquareifyBulk - The ultimate tool for bulk image squaring. Effortlessly transform your images into perfect squares, enhancing the visual appeal of your website.",
+    "average_rating": 4.9,
+    "review_count": 7,
+    "category": "Bulk editor"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-square-images_20260830T071318Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-square-images_20260830T071318Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "SquareifyBulk",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "bulk-square-images",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/bulk-square-images",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Manifester Technologies",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "SquareifyBulk - The ultimate tool for bulk image squaring. Effortlessly transform your images into perfect squares, enhancing the visual appeal of your website.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.9,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 7,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Bulk editor",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

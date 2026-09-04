@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kumi-uru_20260830T045354Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kumi-uru_20260830T045354Z.html
+Requested URL    : https://apps.shopify.com/kumi-uru
+Final URL        : https://apps.shopify.com/kumi-uru
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,511 bytes / 184,418 chars
+Elapsed          : 0.749s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KUMI‑URU ‑ カスタムオーダー販売 - 名入れ・受注生産・追加料金付きオプションなど、複雑な注文内容を条件分岐で整理して販売できます。 | Shopify App Store
+meta description : KUMI-URU（くみうる）は、Shopifyで名入れ商品、受注生産商品、追加料金付きオプション、複雑な仕様選択のある商品を販売しやすくするカスタムオーダー販売アプリです。標準の商品バリエーションだけでは整理しにくい注文項目を商品ページに追加し、購入者が選んだ内容を注文情報として残せます。オーダーメイド、サイズ指定
+canonical URL    : https://apps.shopify.com/kumi-uru?locale=ja
+<h1> tags ( 1)  : 'KUMI‑URU ‑ カスタムオーダー販売'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

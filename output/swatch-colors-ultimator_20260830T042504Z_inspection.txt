@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swatch-colors-ultimator_20260830T042504Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swatch-colors-ultimator_20260830T042504Z.html
+Requested URL    : https://apps.shopify.com/swatch-colors-ultimator
+Final URL        : https://apps.shopify.com/swatch-colors-ultimator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,204 bytes / 222,091 chars
+Elapsed          : 0.708s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supra Swatch Colors - Create beautiful swatches that match your brand’s style. | Shopify App Store
+meta description : Highly customizable Swatches app for Shopify that enables product grouping, variant linking, collection page display, and supports multilingual stores.
+canonical URL    : https://apps.shopify.com/swatch-colors-ultimator
+<h1> tags ( 1)  : 'Supra Swatch Colors'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

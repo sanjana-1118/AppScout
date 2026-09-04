@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeam_20260830T182508Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeam_20260830T182508Z.html
+Requested URL    : https://apps.shopify.com/chargeam
+Final URL        : https://apps.shopify.com/chargeam
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,244 bytes / 184,154 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChargeAM - Source-cited evidence packets for chargebacks. | Shopify App Store
+meta description : ChargeAM helps merchants prepare source-cited evidence packets for Stripe chargebacks using order, fulfillment, policy, and merchant-uploaded evidence.
+canonical URL    : https://apps.shopify.com/chargeam
+<h1> tags ( 1)  : 'ChargeAM'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

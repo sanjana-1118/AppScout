@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\panda-size-chart_20260830T042434Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\panda-size-chart_20260830T042434Z.html
+Requested URL    : https://apps.shopify.com/panda-size-chart
+Final URL        : https://apps.shopify.com/panda-size-chart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,976 bytes / 212,887 chars
+Elapsed          : 0.713s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Size Chart & AI Size Guide - Find your perfect fit with Panda Size Guide app. | Shopify App Store
+meta description : Find your perfect fit with Panda Size Chart. Avoid returns and exchanges for men and women's clothing. Just a few measurements for ideal size.
+canonical URL    : https://apps.shopify.com/panda-size-chart
+<h1> tags ( 1)  : 'Size Chart & AI Size Guide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

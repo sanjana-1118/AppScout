@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ec-lens_20260830T073045Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ec-lens_20260830T073045Z.html
+Requested URL    : https://apps.shopify.com/ec-lens
+Final URL        : https://apps.shopify.com/ec-lens
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,684 bytes / 187,556 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Signals - Pre-purchase behavior signals you own and can export | Shopify App Store
+meta description : Signals aggregates the pre-purchase behavior behind every order—the cues that decide whether a visitor buys or hesitates.
+
+See products added then ...
+canonical URL    : https://apps.shopify.com/ec-lens
+<h1> tags ( 1)  : 'Signals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

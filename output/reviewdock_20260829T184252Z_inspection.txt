@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reviewdock_20260829T184252Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reviewdock_20260829T184252Z.html
+Requested URL    : https://apps.shopify.com/reviewdock
+Final URL        : https://apps.shopify.com/reviewdock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,208 bytes / 182,113 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReviewDock Etsy Reviews Syncer - Import & Daily Auto-Sync Etsy Reviews to Your Own Shop | Shopify App Store
+meta description : ReviewDock lets you instantly sync & import your successful Etsy reviews to Shopify store, giving your new store the credibility boost it needs from day one.
+canonical URL    : https://apps.shopify.com/reviewdock
+<h1> tags ( 1)  : 'ReviewDock Etsy Reviews Syncer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

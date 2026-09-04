@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mergeit-combine-merge-orders_20260830T051808Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mergeit-combine-merge-orders_20260830T051808Z.html
+Requested URL    : https://apps.shopify.com/mergeit-combine-merge-orders
+Final URL        : https://apps.shopify.com/mergeit-combine-merge-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,665 bytes / 232,537 chars
+Elapsed          : 0.831s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MergeIt ‑ Combine Merge Orders - Merge & combine orders into one shipment. Cut shipping costs. | Shopify App Store
+meta description : Merge and combine Shopify orders into one shipment automatically. Cut shipping costs while keeping sales, tax and reports accurate. 7-day free trial.
+canonical URL    : https://apps.shopify.com/mergeit-combine-merge-orders
+<h1> tags ( 1)  : 'MergeIt ‑ Combine Merge Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchnet-social-post_20260831T041823Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchnet-social-post_20260831T041823Z.html
+Requested URL    : https://apps.shopify.com/merchnet-social-post
+Final URL        : https://apps.shopify.com/merchnet-social-post
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,607 bytes / 193,514 chars
+Elapsed          : 0.894s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Merchnet: Social - Generate AI images, posts, ads and  publish to social media | Shopify App Store
+meta description : Merchnet Social turns your product photos into social posts and ads inside the Shopify admin. Select a product, generate social posts and ad creati...
+canonical URL    : https://apps.shopify.com/merchnet-social-post
+<h1> tags ( 1)  : 'Merchnet: Social'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

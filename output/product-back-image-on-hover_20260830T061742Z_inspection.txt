@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-back-image-on-hover_20260830T061742Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-back-image-on-hover_20260830T061742Z.html
+Requested URL    : https://apps.shopify.com/product-back-image-on-hover
+Final URL        : https://apps.shopify.com/product-back-image-on-hover
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,217 bytes / 201,102 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SB Product Image Hover Effect - Show second image on hover effect with smooth animation | Shopify App Store
+meta description : Boost engagement with captivating hover effects: background image hover, second image reveal, and animated image changes. Elevate your product previews now!
+canonical URL    : https://apps.shopify.com/product-back-image-on-hover
+<h1> tags ( 1)  : 'SB Product Image Hover Effect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

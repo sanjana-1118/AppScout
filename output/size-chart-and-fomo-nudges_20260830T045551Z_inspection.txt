@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-chart-and-fomo-nudges_20260830T045551Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-chart-and-fomo-nudges_20260830T045551Z.html
+Requested URL    : https://apps.shopify.com/size-chart-and-fomo-nudges
+Final URL        : https://apps.shopify.com/size-chart-and-fomo-nudges
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,478 bytes / 180,389 chars
+Elapsed          : 0.615s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sale Star: Size Chart & Nudges - Reduce returns and create urgency with FOMO nudges | Shopify App Store
+meta description : Reduce returns and create urgency with size and FOMO nudges. Help customers shop with confidence using interactive sizing guides while motivating faster action
+canonical URL    : https://apps.shopify.com/size-chart-and-fomo-nudges
+<h1> tags ( 1)  : 'Sale Star: Size Chart & Nudges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

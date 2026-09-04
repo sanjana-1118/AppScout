@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-labels-badges-samita_20260830T055702Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-labels-badges-samita_20260830T055702Z.html
+Requested URL    : https://apps.shopify.com/product-labels-badges-samita
+Final URL        : https://apps.shopify.com/product-labels-badges-samita
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 259,500 bytes / 259,404 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sami AI Product Labels & Badge - Boost sale with product badges, labels, stickers, trust badges | Shopify App Store
+meta description : Customize your product labels and product badges. Upload your label or choose from the 5000+ pre-design labels. Show product labels on any pages.
+canonical URL    : https://apps.shopify.com/product-labels-badges-samita
+<h1> tags ( 1)  : 'Sami AI Product Labels & Badge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

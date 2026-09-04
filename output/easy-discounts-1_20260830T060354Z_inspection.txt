@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-discounts-1_20260830T060354Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-discounts-1_20260830T060354Z.html
+Requested URL    : https://apps.shopify.com/easy-discounts-1
+Final URL        : https://apps.shopify.com/easy-discounts-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,843 bytes / 157,756 chars
+Elapsed          : 0.439s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Discounts - Displays discount codes on product detail pages | Shopify App Store
+meta description : Enhance your Shopify store with Easy Discounts! Showcase customizable discount codes on the Product page to improve customer engagement.
+canonical URL    : https://apps.shopify.com/easy-discounts-1
+<h1> tags ( 1)  : 'Easy Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

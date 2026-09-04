@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carma-treeapp_20260830T064753Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carma-treeapp_20260830T064753Z.html
+Requested URL    : https://apps.shopify.com/carma-treeapp
+Final URL        : https://apps.shopify.com/carma-treeapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,672 bytes / 192,578 chars
+Elapsed          : 0.504s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Carma: Plant Trees at Checkout - Carma: Plant Trees, Kelp at Checkout" | Shopify App Store
+meta description : Install for free and pay from 50p per tree planted. Access all features, pay as you grow, and enhance your eco-credentials with every sale. Make an impact now.
+canonical URL    : https://apps.shopify.com/carma-treeapp
+<h1> tags ( 1)  : 'Carma: Plant Trees at Checkout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-digital-downloads_20260830T152908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-digital-downloads_20260830T152908Z.html
+Requested URL    : https://apps.shopify.com/ez-digital-downloads
+Final URL        : https://apps.shopify.com/ez-digital-downloads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,263 bytes / 231,174 chars
+Elapsed          : 0.938s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EZ Digital Downloads | Ebooks  - Sell digital products, PDF, ebooks, videos, & license keys | Shopify App Store
+meta description : EZ Digital Downloads lets you sell digital products & downloads on Shopify. Whether you are looking to sell ebooks, courses, PDF, guides, digital a...
+canonical URL    : https://apps.shopify.com/ez-digital-downloads
+<h1> tags ( 1)  : 'EZ Digital Downloads | Ebooks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

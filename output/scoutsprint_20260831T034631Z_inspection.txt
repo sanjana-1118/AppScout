@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scoutsprint_20260831T034631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scoutsprint_20260831T034631Z.html
+Requested URL    : https://apps.shopify.com/scoutsprint
+Final URL        : https://apps.shopify.com/scoutsprint
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,797 bytes / 181,694 chars
+Elapsed          : 0.508s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ScoutSprint: Bulk Price Editor - Price by real cost. Protect margins. Never sell at a... | Shopify App Store
+meta description : ScoutSprint shows the breakeven price and real profit margin of every
+product, including packaging, shipping, tax and payment fees, then fixes
+prices in bulk.
+canonical URL    : https://apps.shopify.com/scoutsprint
+<h1> tags ( 1)  : 'ScoutSprint: Bulk Price Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

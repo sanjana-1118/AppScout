@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mystery-box-1_20260830T141217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mystery-box-1_20260830T141217Z.html
+Requested URL    : https://apps.shopify.com/mystery-box-1
+Final URL        : https://apps.shopify.com/mystery-box-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,233 bytes / 219,090 chars
+Elapsed          : 0.859s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mystery Box ‑ More Sales - Curated surprises unleashed: Effortless automated mystery box | Shopify App Store
+meta description : Discover our automated mystery box selection app that revolutionizes customer experiences. Unleash delightful surprises with each order.
+canonical URL    : https://apps.shopify.com/mystery-box-1
+<h1> tags ( 1)  : 'Mystery Box ‑ More Sales'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

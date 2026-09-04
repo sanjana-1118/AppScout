@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\infinite-marquee_20260830T055740Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\infinite-marquee_20260830T055740Z.html
+Requested URL    : https://apps.shopify.com/infinite-marquee
+Final URL        : https://apps.shopify.com/infinite-marquee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,624 bytes / 224,509 chars
+Elapsed          : 0.760s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fab Marquee Scrolling Text - Scrolling announcement bar: marquee with text, images & logos | Shopify App Store
+meta description : Use scrolling marquee to attract visitors attention to the promo message or announcement on your website. Use customizable multiple infinite marquees.
+canonical URL    : https://apps.shopify.com/infinite-marquee
+<h1> tags ( 1)  : 'Fab Marquee Scrolling Text'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

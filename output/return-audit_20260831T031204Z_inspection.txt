@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\return-audit_20260831T031204Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\return-audit_20260831T031204Z.html
+Requested URL    : https://apps.shopify.com/return-audit
+Final URL        : https://apps.shopify.com/return-audit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,208 bytes / 165,101 chars
+Elapsed          : 0.473s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Return Audit - Find why customers return — and fix it with AI... | Shopify App Store
+meta description : Return Audit connects to your Shopify store and automatically analyzes your return data to identify which products are being returned and why. Ever...
+canonical URL    : https://apps.shopify.com/return-audit
+<h1> tags ( 1)  : 'Return Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

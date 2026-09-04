@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elevate-ab-testing_20260830T044036Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elevate-ab-testing_20260830T044036Z.html
+Requested URL    : https://apps.shopify.com/elevate-ab-testing
+Final URL        : https://apps.shopify.com/elevate-ab-testing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,071 bytes / 222,978 chars
+Elapsed          : 0.676s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elevate A/B Testing Price Test - Boost sales with AB testing: prices, shipping, content & more | Shopify App Store
+meta description : The all-in-one Shopify AB testing solution. Easily test product prices, theme changes, content, shipping rates and more to boost conversions and maximize profit
+canonical URL    : https://apps.shopify.com/elevate-ab-testing
+<h1> tags ( 1)  : 'Elevate A/B Testing Price Test'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

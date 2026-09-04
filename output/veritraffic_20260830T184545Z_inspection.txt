@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\veritraffic_20260830T184545Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\veritraffic_20260830T184545Z.html
+Requested URL    : https://apps.shopify.com/veritraffic
+Final URL        : https://apps.shopify.com/veritraffic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,042 bytes / 182,935 chars
+Elapsed          : 1.110s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Veritraffic - Clean bot & fake traffic from Klaviyo, analytics & ad... | Shopify App Store
+meta description : Bot and fake traffic pollutes your store. Fake accounts inflate your Klaviyo bill, bot clicks corrupt your Meta and Google ad reporting, and your r...
+canonical URL    : https://apps.shopify.com/veritraffic
+<h1> tags ( 1)  : 'Veritraffic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

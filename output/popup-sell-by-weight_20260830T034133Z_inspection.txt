@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-sell-by-weight_20260830T034133Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-sell-by-weight_20260830T034133Z.html
+Requested URL    : https://apps.shopify.com/popup-sell-by-weight
+Final URL        : https://apps.shopify.com/popup-sell-by-weight
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,273 bytes / 181,150 chars
+Elapsed          : 0.574s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PopUp ‑ Sell by Weight - Sell by weight or item. On-device catalog, no Square needed. | Shopify App Store
+meta description : Market vendors use Square because Shopify can't sell by weight. PopUp fixes that - weight-based selling for Shopify POS with an on-device catalog
+canonical URL    : https://apps.shopify.com/popup-sell-by-weight
+<h1> tags ( 1)  : 'PopUp ‑ Sell by Weight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

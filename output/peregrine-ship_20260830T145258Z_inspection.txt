@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peregrine-ship_20260830T145258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peregrine-ship_20260830T145258Z.html
+Requested URL    : https://apps.shopify.com/peregrine-ship
+Final URL        : https://apps.shopify.com/peregrine-ship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,446 bytes / 208,343 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Peregrine Ship - Peregrine Ship: Direct Factory Sourcing & 3PL Fulfillment | Shopify App Store
+meta description : Transform your e-commerce store with Peregrine Ship, the ultimate dropshipping and DTC solution designed for efficiency. Access thousands of produc...
+canonical URL    : https://apps.shopify.com/peregrine-ship
+<h1> tags ( 1)  : 'Peregrine Ship'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

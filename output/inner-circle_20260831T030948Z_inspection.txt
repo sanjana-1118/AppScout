@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inner-circle_20260831T030948Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inner-circle_20260831T030948Z.html
+Requested URL    : https://apps.shopify.com/inner-circle
+Final URL        : https://apps.shopify.com/inner-circle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,856 bytes / 199,767 chars
+Elapsed          : 0.859s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inner Circle: Members Only - Members-only buying, by access code or a request you approve | Shopify App Store
+meta description : Lock any product, collection, or your whole store so only members can buy. Let people in with an access code or a request you approve. Tiers, drops, waitlists.
+canonical URL    : https://apps.shopify.com/inner-circle
+<h1> tags ( 1)  : 'Inner Circle: Members Only'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

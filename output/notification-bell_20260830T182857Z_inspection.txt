@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notification-bell_20260830T182857Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notification-bell_20260830T182857Z.html
+Requested URL    : https://apps.shopify.com/notification-bell
+Final URL        : https://apps.shopify.com/notification-bell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,062 bytes / 172,951 chars
+Elapsed          : 0.672s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ultimate Notification Bell - The notification bell your customers already know how to use | Shopify App Store
+meta description : Add a notification bell to your Shopify store. Schedule announcements, offers & product drops with targeting, discount codes, countdowns, and analytics.
+canonical URL    : https://apps.shopify.com/notification-bell
+<h1> tags ( 1)  : 'Ultimate Notification Bell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

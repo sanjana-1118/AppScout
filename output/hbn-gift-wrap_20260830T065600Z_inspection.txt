@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hbn-gift-wrap_20260830T065600Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hbn-gift-wrap_20260830T065600Z.html
+Requested URL    : https://apps.shopify.com/hbn-gift-wrap
+Final URL        : https://apps.shopify.com/hbn-gift-wrap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,120 bytes / 186,023 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HBN: Gift Wrap - Let shoppers choose gift wrap and add personal messages | Shopify App Store
+meta description : Help shoppers add gift wrapping and a personal message from product pages. Keep packaging selections connected through cart, checkout, and order details.
+canonical URL    : https://apps.shopify.com/hbn-gift-wrap
+<h1> tags ( 1)  : 'HBN: Gift Wrap'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

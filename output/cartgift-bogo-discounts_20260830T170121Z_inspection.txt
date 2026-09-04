@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartgift-bogo-discounts_20260830T170121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartgift-bogo-discounts_20260830T170121Z.html
+Requested URL    : https://apps.shopify.com/cartgift-bogo-discounts
+Final URL        : https://apps.shopify.com/cartgift-bogo-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,482 bytes / 212,356 chars
+Elapsed          : 0.851s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartGift: BOGO ‑ Discounts - Create BOGO, spend tiers, gifts and flexible discount stacking | Shopify App Store
+meta description : Create BOGO, Spend X Get Y, volume, and VIP discounts. Auto-add free gifts, control rule combinations, and show cart and PDP progress widgets.
+canonical URL    : https://apps.shopify.com/cartgift-bogo-discounts
+<h1> tags ( 1)  : 'CartGift: BOGO ‑ Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

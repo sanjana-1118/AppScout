@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ycf-digital-full-content-seo_20260829T190544Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ycf-digital-full-content-seo_20260829T190544Z.html
+Requested URL    : https://apps.shopify.com/ycf-digital-full-content-seo
+Final URL        : https://apps.shopify.com/ycf-digital-full-content-seo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,364 bytes / 201,238 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : YCF Digital ‑ Full Content SEO - AI-powered SEO automation with blog writing and schema builder | Shopify App Store
+meta description : Automate your store's SEO with AI-generated meta tags, JSON-LD schemas, blog posts with product links, image alt text, sitemap, and hreflang management.
+canonical URL    : https://apps.shopify.com/ycf-digital-full-content-seo
+<h1> tags ( 1)  : 'YCF Digital ‑ Full Content SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

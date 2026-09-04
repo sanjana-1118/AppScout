@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unvault_20260831T031047Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unvault_20260831T031047Z.html
+Requested URL    : https://apps.shopify.com/unvault
+Final URL        : https://apps.shopify.com/unvault
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,332 bytes / 155,245 chars
+Elapsed          : 0.498s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Unvault - Help shoppers unlock the value of jewelry they already own | Shopify App Store
+meta description : Add a jewelry valuation prompt to your product pages. Customize it in the theme editor and give shoppers a way to value jewelry they already own.
+canonical URL    : https://apps.shopify.com/unvault
+<h1> tags ( 1)  : 'Unvault'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

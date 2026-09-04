@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reelshop_20260830T165318Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reelshop_20260830T165318Z.html
+Requested URL    : https://apps.shopify.com/reelshop
+Final URL        : https://apps.shopify.com/reelshop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,883 bytes / 181,770 chars
+Elapsed          : 0.474s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reelshop‑ Shoppable Videos UGC - Boost sales with TikTok & Instagram style shoppable videos | Shopify App Store
+meta description : Static product pages are failing to capture modern attention. Turn your social content into shoppable carousels with a one-click "Add to Cart" function.
+canonical URL    : https://apps.shopify.com/reelshop
+<h1> tags ( 1)  : 'Reelshop‑ Shoppable Videos UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

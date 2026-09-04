@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docify_20260830T055145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docify_20260830T055145Z.html
+Requested URL    : https://apps.shopify.com/docify
+Final URL        : https://apps.shopify.com/docify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,229 bytes / 192,068 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Docify ‑ Docs to Blog - Turn Google Docs into content for your pages and blog... | Shopify App Store
+meta description : Effortlessly transform your Google Docs into precise HTML, preserving headings, fonts, images, and tables, easily use for your Shopify pages and blog posts.
+canonical URL    : https://apps.shopify.com/docify
+<h1> tags ( 1)  : 'Docify ‑ Docs to Blog'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

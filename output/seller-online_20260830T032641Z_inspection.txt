@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seller-online_20260830T032641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seller-online_20260830T032641Z.html
+Requested URL    : https://apps.shopify.com/seller-online
+Final URL        : https://apps.shopify.com/seller-online
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,164 bytes / 170,057 chars
+Elapsed          : 0.901s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Seller‑Online Connect - We will make shipments in 1 click | Shopify App Store
+meta description : This app connect your store with Seller-Online account for use fulfilment. You can create postal label by 1-click and deliver your products from th...
+canonical URL    : https://apps.shopify.com/seller-online
+<h1> tags ( 1)  : 'Seller‑Online Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

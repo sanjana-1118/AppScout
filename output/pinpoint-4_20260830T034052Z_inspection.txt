@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pinpoint-4_20260830T034052Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pinpoint-4_20260830T034052Z.html
+Requested URL    : https://apps.shopify.com/pinpoint-4
+Final URL        : https://apps.shopify.com/pinpoint-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,448 bytes / 195,359 chars
+Elapsed          : 0.748s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PinPoint Store & Product Map - Store Locator Map for Finding Products & Stores Nearby | Shopify App Store
+meta description : Add a beautiful, customizable store locator to your Shopify store. Features interactive maps, search by location, filters, tags, and embeddable widgets.
+canonical URL    : https://apps.shopify.com/pinpoint-4
+<h1> tags ( 1)  : 'PinPoint Store & Product Map'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

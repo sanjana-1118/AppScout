@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zoho-sync_20260830T050745Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zoho-sync_20260830T050745Z.html
+Requested URL    : https://apps.shopify.com/zoho-sync
+Final URL        : https://apps.shopify.com/zoho-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,440 bytes / 196,349 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zohra | Sales Sync to Zoho - Sync your orders automatically to your Zoho Inventory / Books | Shopify App Store
+meta description : Synchronize your Shopify orders with Zoho Inventory or Zoho Books in real time. Automatic and fast syncing.
+canonical URL    : https://apps.shopify.com/zoho-sync
+<h1> tags ( 1)  : 'Zohra | Sales Sync to Zoho'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

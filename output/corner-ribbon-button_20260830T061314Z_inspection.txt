@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corner-ribbon-button_20260830T061314Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corner-ribbon-button_20260830T061314Z.html
+Requested URL    : https://apps.shopify.com/corner-ribbon-button
+Final URL        : https://apps.shopify.com/corner-ribbon-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,349 bytes / 183,248 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RT: Corner Ribbon Add to Cart - Another great way to highlight your Add to Cart button. | Shopify App Store
+meta description : This app helps merchants add a widget to the add to cart button — a corner ribbon with a text message.
+
+Merchants can customize text content on the...
+canonical URL    : https://apps.shopify.com/corner-ribbon-button
+<h1> tags ( 1)  : 'RT: Corner Ribbon Add to Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wxwerp_20260830T051041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wxwerp_20260830T051041Z.html
+Requested URL    : https://apps.shopify.com/wxwerp
+Final URL        : https://apps.shopify.com/wxwerp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,810 bytes / 196,863 chars
+Elapsed          : 0.782s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 旺销王ERP - 丰富的营销功能，让您体验强大的营销 | Shopify App Store
+meta description : 旺销王ERP是一个专业的SaaS软件平台，在为电子商务卖家提供高质量服务。该平台支持商家在软件内进行多种关键业务操作，包括商品刊登、订单处理和物流管理。
+
+产品管理方面，旺销王ERP能够从Aliexpress、eBay、Amazon等超过一百家网站采集产品信息，并提供产品编辑功能。这一功能帮助...
+canonical URL    : https://apps.shopify.com/wxwerp?locale=zh-TW
+<h1> tags ( 1)  : '旺销王ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

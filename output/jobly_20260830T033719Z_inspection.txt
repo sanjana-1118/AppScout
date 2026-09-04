@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jobly_20260830T033719Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jobly_20260830T033719Z.html
+Requested URL    : https://apps.shopify.com/jobly
+Final URL        : https://apps.shopify.com/jobly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,805 bytes / 208,671 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Careers Page ‑ Job Posting J. - Create job postings, career pages and job boards easily. | Shopify App Store
+meta description : Our app is user-friendly and smart, with two key sections for job management, applicant handling, and Staff. When you add job listings, it automati...
+canonical URL    : https://apps.shopify.com/jobly
+<h1> tags ( 1)  : 'Careers Page ‑ Job Posting J.'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

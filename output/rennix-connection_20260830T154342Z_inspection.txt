@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rennix-connection_20260830T154342Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rennix-connection_20260830T154342Z.html
+Requested URL    : https://apps.shopify.com/rennix-connection
+Final URL        : https://apps.shopify.com/rennix-connection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,991 bytes / 171,902 chars
+Elapsed          : 0.693s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rennix Connector App - Sync retail products from Rennix | Shopify App Store
+meta description : Easily sync retail products from Rennix into Shopify. Sell online globally while Rennix manages your retail inventory, rentals, and operations.
+canonical URL    : https://apps.shopify.com/rennix-connection
+<h1> tags ( 1)  : 'Rennix Connector App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

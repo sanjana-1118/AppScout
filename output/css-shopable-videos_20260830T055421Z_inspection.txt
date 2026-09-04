@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\css-shopable-videos_20260830T055421Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\css-shopable-videos_20260830T055421Z.html
+Requested URL    : https://apps.shopify.com/css-shopable-videos
+Final URL        : https://apps.shopify.com/css-shopable-videos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,624 bytes / 185,529 chars
+Elapsed          : 0.449s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CSS Shoppable Videos and Reels - Embed shoppable videos & Instagram reels to boost conversion | Shopify App Store
+meta description : Shoppable Videos & Reels on Shopify-Easily embed Instagram Reels, product videos, and customer testimonials to create engaging, high-converting video galleries.
+canonical URL    : https://apps.shopify.com/css-shopable-videos
+<h1> tags ( 1)  : 'CSS Shoppable Videos and Reels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

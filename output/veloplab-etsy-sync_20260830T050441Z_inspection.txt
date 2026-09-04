@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\veloplab-etsy-sync_20260830T050441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\veloplab-etsy-sync_20260830T050441Z.html
+Requested URL    : https://apps.shopify.com/veloplab-etsy-sync
+Final URL        : https://apps.shopify.com/veloplab-etsy-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,135 bytes / 202,036 chars
+Elapsed          : 0.641s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Etsy Sync & Importer velopLab - Sync Etsy products and orders – everything always up to... | Shopify App Store
+meta description : The Best Etsy App in Shopify App Store. Try risk-free for 30 days: Export products, sync  and import orders to Shopify. All you need for Etsy.
+canonical URL    : https://apps.shopify.com/veloplab-etsy-sync
+<h1> tags ( 1)  : 'Etsy Sync & Importer velopLab'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

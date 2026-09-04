@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commufund_20260830T143222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commufund_20260830T143222Z.html
+Requested URL    : https://apps.shopify.com/commufund
+Final URL        : https://apps.shopify.com/commufund
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,186 bytes / 165,089 chars
+Elapsed          : 0.967s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CommuFund - Multiple campaigns donating to fundraiser from total of sales | Shopify App Store
+meta description : Run fundraising campaigns on Shopify and auto-donate a percentage of product sales to any cause. Increase sales, build trust, and support your community.
+canonical URL    : https://apps.shopify.com/commufund
+<h1> tags ( 1)  : 'CommuFund'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

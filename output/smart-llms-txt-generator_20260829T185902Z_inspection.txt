@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-llms-txt-generator_20260829T185902Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-llms-txt-generator_20260829T185902Z.html
+Requested URL    : https://apps.shopify.com/smart-llms-txt-generator
+Final URL        : https://apps.shopify.com/smart-llms-txt-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,392 bytes / 196,276 chars
+Elapsed          : 0.607s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart LLMS.txt Generator - Improve AI visibility with an instant LLMS.txt generator | Shopify App Store
+meta description : Generate and manage your store’s llms.txt file for AI platforms like ChatGPT, Claude, and Perplexity. Get discovered in conversational AI search.
+canonical URL    : https://apps.shopify.com/smart-llms-txt-generator
+<h1> tags ( 1)  : 'Smart LLMS.txt Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

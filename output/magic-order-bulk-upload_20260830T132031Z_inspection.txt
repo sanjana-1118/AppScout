@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-order-bulk-upload_20260830T132031Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-order-bulk-upload_20260830T132031Z.html
+Requested URL    : https://apps.shopify.com/magic-order-bulk-upload
+Final URL        : https://apps.shopify.com/magic-order-bulk-upload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,848 bytes / 155,759 chars
+Elapsed          : 1.133s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magic Order Bulk Upload - Transfer orders in bulk between stores effortlessly | Shopify App Store
+meta description : If you have multiple Shopify stores, there may be situations when you need to copy or transfer orders to another store. When you own multiple store...
+canonical URL    : https://apps.shopify.com/magic-order-bulk-upload
+<h1> tags ( 1)  : 'Magic Order Bulk Upload'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

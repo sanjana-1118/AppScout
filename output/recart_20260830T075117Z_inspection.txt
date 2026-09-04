@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recart_20260830T075117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recart_20260830T075117Z.html
+Requested URL    : https://apps.shopify.com/recart
+Final URL        : https://apps.shopify.com/recart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,190 bytes / 223,077 chars
+Elapsed          : 0.523s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Recart: SMS & List Growth - SMS marketing to help you spend less, sell more &... | Shopify App Store
+meta description : Recart's Shopify SMS app for text marketing includes fully managed service & AI campaigns: grow your email + SMS lists, automate flows & rescue abandoned carts.
+canonical URL    : https://apps.shopify.com/recart
+<h1> tags ( 1)  : 'Recart: SMS & List Growth'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/automatic-returns",
+  "fetch_timestamp": "2026-08-31T04:03:41.557277+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\automatic-returns_20260831T040341Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\automatic-returns_20260831T040341Z.html",
+    "url": "https://apps.shopify.com/automatic-returns",
+    "final_url": "https://apps.shopify.com/automatic-returns",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 174873,
+    "body_text_length": 170654,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.697741,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "キャンセルリカバリー｜再注文を生むカゴ落ちに次ぐ新マーケ手法 - キャンセルの自動受付を試しましょう！ | Shopify App Store",
+    "meta_description": "まずは無料版で使える自動キャンセル窓口をノーコードで設置し、これまでオペレーター達の大きな負担だったキャンセル対応を全て自動化してみてください。\nダッシュボードでは実際に発生しているキャンセル数を元に、キャンセル率が月次で確認可能です。\n\nキャンセルを申し込んだお客様は決済を完了し会員登録まで...",
+    "canonical_url": "https://apps.shopify.com/automatic-returns?locale=ja",
+    "h1_tags": [
+      "キャンセルリカバリー｜再注文を生むカゴ落ちに次ぐ新マーケ手法"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "キャンセルリカバリー｜再注文を生むカゴ落ちに次ぐ新マーケ手法",
+    "app_slug": "automatic-returns",
+    "app_url": "https://apps.shopify.com/automatic-returns?locale=ja",
+    "developer_name": "株式会社リターンズ",
+    "description": "まずは無料版で使える自動キャンセル窓口をノーコードで設置し、これまでオペレーター達の大きな負担だったキャンセル対応を全て自動化してみてください。\nダッシュボードでは実際に発生しているキャンセル数を元に、キャンセル率が月次で確認可能です。\n\nキャンセルを申し込んだお客様は決済を完了し会員登録まで...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Orders - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\automatic-returns_20260831T040341Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\automatic-returns_20260831T040341Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "キャンセルリカバリー｜再注文を生むカゴ落ちに次ぐ新マーケ手法",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "automatic-returns",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/automatic-returns?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "株式会社リターンズ",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "まずは無料版で使える自動キャンセル窓口をノーコードで設置し、これまでオペレーター達の大きな負担だったキャンセル対応を全て自動化してみてください。\nダッシュボードでは実際に発生しているキャンセル数を元に、キャンセル率が月次で確認可能です。\n\nキャンセルを申し込んだお客様は決済を完了し会員登録まで...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Orders - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

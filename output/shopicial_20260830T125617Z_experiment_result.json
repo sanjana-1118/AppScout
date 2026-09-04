@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopicial",
+  "fetch_timestamp": "2026-08-30T12:56:17.967455+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopicial_20260830T125617Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopicial_20260830T125617Z.html",
+    "url": "https://apps.shopify.com/shopicial",
+    "final_url": "https://apps.shopify.com/shopicial",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 221101,
+    "body_text_length": 220986,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.003664,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Shopicial ‑ Community Forum - Build a social network with your brand, allow Paid Memberships | Shopify App Store",
+    "meta_description": "A social network will help customers feel free to share their feelings about your product/brand. Building a private social network makes your brand...",
+    "canonical_url": "https://apps.shopify.com/shopicial",
+    "h1_tags": [
+      "Shopicial ‑ Community Forum"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Shopicial ‑ Community Forum",
+    "app_slug": "shopicial",
+    "app_url": "https://apps.shopify.com/shopicial",
+    "developer_name": "app1pro",
+    "description": "A social network will help customers feel free to share their feelings about your product/brand. Building a private social network makes your brand...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Page builder"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopicial_20260830T125617Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopicial_20260830T125617Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Shopicial ‑ Community Forum",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopicial",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopicial",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "app1pro",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "A social network will help customers feel free to share their feelings about your product/brand. Building a private social network makes your brand...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Page builder",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

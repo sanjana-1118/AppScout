@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imgpress-image-compression_20260830T165618Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imgpress-image-compression_20260830T165618Z.html
+Requested URL    : https://apps.shopify.com/imgpress-image-compression
+Final URL        : https://apps.shopify.com/imgpress-image-compression
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,225 bytes / 178,134 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : IMGPress Image Compression - Compress images in bulk without losing quality | Shopify App Store
+meta description : Compress and optimize images in bulk without losing quality. Improve store speed and search visibility with full control over what gets optimized.
+canonical URL    : https://apps.shopify.com/imgpress-image-compression
+<h1> tags ( 1)  : 'IMGPress Image Compression'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

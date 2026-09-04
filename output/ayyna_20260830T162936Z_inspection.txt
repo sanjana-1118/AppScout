@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ayyna_20260830T162936Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ayyna_20260830T162936Z.html
+Requested URL    : https://apps.shopify.com/ayyna
+Final URL        : https://apps.shopify.com/ayyna
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,610 bytes / 182,487 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ayyna: Virtual try‑on - Ayyna try-on shows exactly how your products will look on... | Shopify App Store
+meta description : Virtual try-on app powered by AI. See how jewellery, dresses, and clothing look on you instantly. Upload your photo and visualise fashion items before buying.
+canonical URL    : https://apps.shopify.com/ayyna
+<h1> tags ( 1)  : 'Ayyna: Virtual try‑on'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

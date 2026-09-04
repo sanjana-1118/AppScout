@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\serial-manager-fresh_20260830T155533Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\serial-manager-fresh_20260830T155533Z.html
+Requested URL    : https://apps.shopify.com/serial-manager-fresh
+Final URL        : https://apps.shopify.com/serial-manager-fresh
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,205 bytes / 165,112 chars
+Elapsed          : 0.712s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : H and Co Serial Manager  - Assign serial numbers from the orders page | Shopify App Store
+meta description : Serial Manager integrates serial number tracking directly into your order fulfillment workflow. Generate unique serials in bulk or import existing ...
+canonical URL    : https://apps.shopify.com/serial-manager-fresh
+<h1> tags ( 1)  : 'H and Co Serial Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

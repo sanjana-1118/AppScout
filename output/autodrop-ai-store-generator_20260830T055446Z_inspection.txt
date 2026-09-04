@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autodrop-ai-store-generator_20260830T055446Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autodrop-ai-store-generator_20260830T055446Z.html
+Requested URL    : https://apps.shopify.com/autodrop-ai-store-generator
+Final URL        : https://apps.shopify.com/autodrop-ai-store-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,575 bytes / 179,472 chars
+Elapsed          : 0.893s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dropshipping: AI Store Builder - AI-powered dropshipping store from AliExpress URL in 2 minutes | Shopify App Store
+meta description : Simplified dropshipping store creation. Automate product imports, generate SEO-friendly titles and descriptions, and adjust image backgrounds.
+canonical URL    : https://apps.shopify.com/autodrop-ai-store-generator
+<h1> tags ( 1)  : 'Dropshipping: AI Store Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

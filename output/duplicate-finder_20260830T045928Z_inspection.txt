@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\duplicate-finder_20260830T045928Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\duplicate-finder_20260830T045928Z.html
+Requested URL    : https://apps.shopify.com/duplicate-finder
+Final URL        : https://apps.shopify.com/duplicate-finder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,942 bytes / 217,825 chars
+Elapsed          : 0.652s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WTE ‑ Duplicate Finder - Improve store catalogue by removing duplicates | Shopify App Store
+meta description : Let us say you are importing products into your store, but somehow by mistake it may happen that you have uploaded the same products multiple times...
+canonical URL    : https://apps.shopify.com/duplicate-finder
+<h1> tags ( 1)  : 'WTE ‑ Duplicate Finder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

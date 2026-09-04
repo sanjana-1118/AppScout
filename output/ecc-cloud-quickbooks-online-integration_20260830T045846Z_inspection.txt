@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecc-cloud-quickbooks-online-integration_20260830T045846Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecc-cloud-quickbooks-online-integration_20260830T045846Z.html
+Requested URL    : https://apps.shopify.com/ecc-cloud-quickbooks-online-integration
+Final URL        : https://apps.shopify.com/ecc-cloud-quickbooks-online-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 254,402 bytes / 254,301 chars
+Elapsed          : 0.827s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webgility x QuickBooks Desktop - Automate accounting, inventory and payout reconciliation | Shopify App Store
+meta description : Webgility connects Shopify to QuickBooks Desktop, so orders, expenses, payouts and inventory are accurate without any manual work.
+canonical URL    : https://apps.shopify.com/ecc-cloud-quickbooks-online-integration
+<h1> tags ( 1)  : 'Webgility x QuickBooks Desktop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

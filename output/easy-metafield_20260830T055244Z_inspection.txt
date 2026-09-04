@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-metafield_20260830T055244Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-metafield_20260830T055244Z.html
+Requested URL    : https://apps.shopify.com/easy-metafield
+Final URL        : https://apps.shopify.com/easy-metafield
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,473 bytes / 178,384 chars
+Elapsed          : 0.866s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy MetaField - Create as many custom metafields to provide more product info. | Shopify App Store
+meta description : Create unlimited custom fields to display extra product details and offer a richer shopping experience. all with a few clicks.
+canonical URL    : https://apps.shopify.com/easy-metafield
+<h1> tags ( 1)  : 'Easy MetaField'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rulepilot_20260830T163314Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rulepilot_20260830T163314Z.html
+Requested URL    : https://apps.shopify.com/rulepilot
+Final URL        : https://apps.shopify.com/rulepilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,679 bytes / 157,566 chars
+Elapsed          : 0.750s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RulePilot – Checkout Rules - Reduce order issues with automatic shipping and payment rules | Shopify App Store
+meta description : Create rules to hide shipping rates, disable payment methods, or block checkout based on cart contents, customer type, and delivery address.
+canonical URL    : https://apps.shopify.com/rulepilot
+<h1> tags ( 1)  : 'RulePilot – Checkout Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

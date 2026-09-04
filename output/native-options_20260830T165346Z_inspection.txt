@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\native-options_20260830T165346Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\native-options_20260830T165346Z.html
+Requested URL    : https://apps.shopify.com/native-options
+Final URL        : https://apps.shopify.com/native-options
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,308 bytes / 176,219 chars
+Elapsed          : 0.662s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NATIVE OPTIONS - Free product options. Server-rendered to reduce layout shift | Shopify App Store
+meta description : Add custom product options with server-rendered fields that help reduce layout shift. Free manual plan; Pro at $19/mo. Built for Online Store 2.0.
+canonical URL    : https://apps.shopify.com/native-options
+<h1> tags ( 1)  : 'NATIVE OPTIONS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

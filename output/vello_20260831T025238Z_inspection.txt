@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vello_20260831T025238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vello_20260831T025238Z.html
+Requested URL    : https://apps.shopify.com/vello
+Final URL        : https://apps.shopify.com/vello
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,203 bytes / 198,114 chars
+Elapsed          : 0.946s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vello - Embed shoppable short-form videos directly on your storefront. | Shopify App Store
+meta description : Embed shoppable short-form videos directly on your store. Import Instagram Reels and TikToks instantly to turn your viewers into buyers with Vello.
+canonical URL    : https://apps.shopify.com/vello
+<h1> tags ( 1)  : 'Vello'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

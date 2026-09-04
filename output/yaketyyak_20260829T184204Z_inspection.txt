@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yaketyyak_20260829T184204Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yaketyyak_20260829T184204Z.html
+Requested URL    : https://apps.shopify.com/yaketyyak
+Final URL        : https://apps.shopify.com/yaketyyak
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,465 bytes / 176,340 chars
+Elapsed          : 1.069s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : YaketyYak Product Reviews - Fully managed product reviews service. Social Proof & SEO | Shopify App Store
+meta description : Collect, display and manage product reviews from your customers. Fully managed service for productsG-KRJXJZMDFT
+canonical URL    : https://apps.shopify.com/yaketyyak
+<h1> tags ( 1)  : 'YaketyYak Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

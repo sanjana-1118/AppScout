@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopaw-diamondify_20260830T043715Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopaw-diamondify_20260830T043715Z.html
+Requested URL    : https://apps.shopify.com/shopaw-diamondify
+Final URL        : https://apps.shopify.com/shopaw-diamondify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,836 bytes / 181,737 chars
+Elapsed          : 0.610s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopaw Diamondify - Turn Your Photo into a Diamond Painting Preview | Shopify App Store
+meta description : Enable image upload, size selection, and real-time preview for diamond paintings and printed canvas products. Customization data is saved with each order.
+canonical URL    : https://apps.shopify.com/shopaw-diamondify
+<h1> tags ( 1)  : 'Shopaw Diamondify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

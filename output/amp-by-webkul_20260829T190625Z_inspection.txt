@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amp-by-webkul_20260829T190625Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amp-by-webkul_20260829T190625Z.html
+Requested URL    : https://apps.shopify.com/amp-by-webkul
+Final URL        : https://apps.shopify.com/amp-by-webkul
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,761 bytes / 182,668 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AMP by Webkul - AMP - "Amp up" your store using Google AMP for... | Shopify App Store
+meta description : As per the Google Algorithms, Mobile-Friendly Website is important for Ranking in search results. So let's get started, how you can use the app to ...
+canonical URL    : https://apps.shopify.com/amp-by-webkul
+<h1> tags ( 1)  : 'AMP by Webkul'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

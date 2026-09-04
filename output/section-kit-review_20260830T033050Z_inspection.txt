@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\section-kit-review_20260830T033050Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\section-kit-review_20260830T033050Z.html
+Requested URL    : https://apps.shopify.com/section-kit-review
+Final URL        : https://apps.shopify.com/section-kit-review
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,698 bytes / 217,605 chars
+Elapsed          : 0.400s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SA Product Reviews & UGC - Collect photo reviews with emails, QR codes & discounts. | Shopify App Store
+meta description : Sectionkit Review helps merchants build customer trust and boost conversions by collecting and displaying authentic product reviews. Automatically ...
+canonical URL    : https://apps.shopify.com/section-kit-review
+<h1> tags ( 1)  : 'SA Product Reviews & UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

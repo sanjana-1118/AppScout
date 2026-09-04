@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-google-fonts_20260830T055444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-google-fonts_20260830T055444Z.html
+Requested URL    : https://apps.shopify.com/k-google-fonts
+Final URL        : https://apps.shopify.com/k-google-fonts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,696 bytes / 169,589 chars
+Elapsed          : 0.439s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Google Fonts & Custom Fonts - Easily apply Google Font to your store typography in minutes. | Shopify App Store
+meta description : Google Fonts app lets you easily change your store’s tipografias without editing code. Choose from variety of Google fonts and apply them to headin...
+canonical URL    : https://apps.shopify.com/k-google-fonts
+<h1> tags ( 1)  : 'K: Google Fonts & Custom Fonts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sp-sales-popup_20260830T125317Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sp-sales-popup_20260830T125317Z.html
+Requested URL    : https://apps.shopify.com/sp-sales-popup
+Final URL        : https://apps.shopify.com/sp-sales-popup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,278 bytes / 168,175 chars
+Elapsed          : 1.090s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SP (Sales Exit Intent Popup) - Boost conversions with strategic exit-intent popups. | Shopify App Store
+meta description : The SP (Sales Exit Intent Popup) app amplifies your Shopify sales through user-friendly popups. Set up is swift with built-in templates, no coding ...
+canonical URL    : https://apps.shopify.com/sp-sales-popup
+<h1> tags ( 1)  : 'SP (Sales Exit Intent Popup)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

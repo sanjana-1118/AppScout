@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boxful-business_20260830T032252Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boxful-business_20260830T032252Z.html
+Requested URL    : https://apps.shopify.com/boxful-business
+Final URL        : https://apps.shopify.com/boxful-business
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,542 bytes / 166,989 chars
+Elapsed          : 0.707s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BOXFUL電商物流 ‑ 出貨小幫手 (Taiwan) - 您的電商出貨小幫手，可串接您的店面，提供一站式倉儲物流服務、線上庫存管理，以及電商高效率揀貨出貨，並完成宅配超取多通路配送。 | Shopify App Store
+meta description : 協助您出貨、庫存管理的好幫手！ Boxful電商物流提供即時庫存系統，並串接Shopify商店，讓您的商店能自動拋接訂單至讓您不需要一筆筆自行下載訂單後。...
+canonical URL    : https://apps.shopify.com/boxful-business?locale=zh-TW
+<h1> tags ( 1)  : 'BOXFUL電商物流 ‑ 出貨小幫手 (Taiwan)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,40 @@
+{
+  "category_url": "https://apps.shopify.com/categories/selling-products-payments-subscriptions",
+  "category_slug": "selling-products-payments-subscriptions",
+  "traversal_timestamp": "2026-08-29T16:12:14.133845+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/selling-products-payments-subscriptions"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/subscriptions-by-appstle",
+    "https://apps.shopify.com/kaching-subscriptions",
+    "https://apps.shopify.com/seal-subscriptions",
+    "https://apps.shopify.com/appstle-memberships",
+    "https://apps.shopify.com/subscriptions-app",
+    "https://apps.shopify.com/loop-subscriptions",
+    "https://apps.shopify.com/easy-subscription",
+    "https://apps.shopify.com/shopify-subscriptions",
+    "https://apps.shopify.com/joy-subscription",
+    "https://apps.shopify.com/subi-subscriptions-memberships",
+    "https://apps.shopify.com/yoyoloyalty",
+    "https://apps.shopify.com/subscription-payments",
+    "https://apps.shopify.com/pendora-digital-download",
+    "https://apps.shopify.com/cowlendar",
+    "https://apps.shopify.com/courses-app",
+    "https://apps.shopify.com/appointly",
+    "https://apps.shopify.com/digital-downloads",
+    "https://apps.shopify.com/digital-assets",
+    "https://apps.shopify.com/suppr-appointment-booking",
+    "https://apps.shopify.com/digital-download-products",
+    "https://apps.shopify.com/appointo-appointments-and-bookings",
+    "https://apps.shopify.com/paywhirl"
+  ],
+  "total_urls_encountered": 23,
+  "unique_app_urls": 22,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

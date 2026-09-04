@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leo-mobile-app-builder_20260830T142847Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leo-mobile-app-builder_20260830T142847Z.html
+Requested URL    : https://apps.shopify.com/leo-mobile-app-builder
+Final URL        : https://apps.shopify.com/leo-mobile-app-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,628 bytes / 223,513 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LEO ‑ Mobile App Builder - Effortlessly Build Native Mobile Apps for Android & iOS | Shopify App Store
+meta description : LEO Mobile App Builder, Effortlessly enhance your home screen with ready-to-use sections. Perfect appearance with customizable settings. Add more c...
+canonical URL    : https://apps.shopify.com/leo-mobile-app-builder
+<h1> tags ( 1)  : 'LEO ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

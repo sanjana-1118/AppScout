@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/bopisafe",
+  "fetch_timestamp": "2026-08-30T17:52:16.383620+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bopisafe_20260830T175216Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bopisafe_20260830T175216Z.html",
+    "url": "https://apps.shopify.com/bopisafe",
+    "final_url": "https://apps.shopify.com/bopisafe",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 186071,
+    "body_text_length": 185978,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.868676,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "BopiSafe: Pickup Stock & Times - Per-store stock, a store picker and pickup times that stick. | Shopify App Store",
+    "meta_description": "Store pickup for Shopify: the real count at each store, a store picker and pickup time slots. Unlimited locations, free up to 100 pickup orders a month.",
+    "canonical_url": "https://apps.shopify.com/bopisafe",
+    "h1_tags": [
+      "BopiSafe: Pickup Stock & Times"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "BopiSafe: Pickup Stock & Times",
+    "app_slug": "bopisafe",
+    "app_url": "https://apps.shopify.com/bopisafe",
+    "developer_name": "BopiSafe",
+    "description": "Store pickup for Shopify: the real count at each store, a store picker and pickup time slots. Unlimited locations, free up to 100 pickup orders a month.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Delivery and pickup"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bopisafe_20260830T175216Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bopisafe_20260830T175216Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "BopiSafe: Pickup Stock & Times",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "bopisafe",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/bopisafe",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "BopiSafe",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Store pickup for Shopify: the real count at each store, a store picker and pickup time slots. Unlimited locations, free up to 100 pickup orders a month.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Delivery and pickup",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

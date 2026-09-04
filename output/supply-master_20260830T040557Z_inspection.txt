@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supply-master_20260830T040557Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supply-master_20260830T040557Z.html
+Requested URL    : https://apps.shopify.com/supply-master
+Final URL        : https://apps.shopify.com/supply-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,762 bytes / 220,671 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supply Master - Integrate with suppliers like S&S, Sanmar & PromoStandards | Shopify App Store
+meta description : Grow sales by integrating your store with top suppliers like S&S Activewear, Sanmar & Alphabroder for importing products, images and automated inventory syncs.
+canonical URL    : https://apps.shopify.com/supply-master
+<h1> tags ( 1)  : 'Supply Master'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

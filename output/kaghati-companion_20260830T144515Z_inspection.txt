@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kaghati-companion_20260830T144515Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kaghati-companion_20260830T144515Z.html
+Requested URL    : https://apps.shopify.com/kaghati-companion
+Final URL        : https://apps.shopify.com/kaghati-companion
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,177 bytes / 167,070 chars
+Elapsed          : 0.475s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kaghati ‑ Custom Shipping Name - Display custom messages based on zip code, province or state | Shopify App Store
+meta description : You can display custom messages specific to certain zip codes, province or state at the checkout and inform the customers well in advance if there are any delay
+canonical URL    : https://apps.shopify.com/kaghati-companion
+<h1> tags ( 1)  : 'Kaghati ‑ Custom Shipping Name'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

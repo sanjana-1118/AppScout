@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unifaun_20260830T032759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unifaun_20260830T032759Z.html
+Requested URL    : https://apps.shopify.com/unifaun
+Final URL        : https://apps.shopify.com/unifaun
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,479 bytes / 195,381 chars
+Elapsed          : 0.516s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Unifaun1 - Automate label creation, customs documents, and tracking links | Shopify App Store
+meta description : Shopify Unifaun Integration sync shipping details from Shopify store to your nshift account. You can let the sync happen automatically and instantl...
+canonical URL    : https://apps.shopify.com/unifaun
+<h1> tags ( 1)  : 'Unifaun1'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

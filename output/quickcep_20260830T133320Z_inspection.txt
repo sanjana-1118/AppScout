@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickcep_20260830T133320Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickcep_20260830T133320Z.html
+Requested URL    : https://apps.shopify.com/quickcep
+Final URL        : https://apps.shopify.com/quickcep
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 247,637 bytes / 246,784 chars
+Elapsed          : 0.996s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuickCEP: AI Support Agent - Increase sales while providing excellent customer service. | Shopify App Store
+meta description : 在当今竞争激烈的电子商务领域，提高转化率对于Shopify商家和电子商务企业家来说至关重要。为了应对这一挑战，QuickCEP AI Agent提供了一种有效的解决方案，可以增强客户支持和互动。通过将人工智能与人工协助相结合，这些聊天机器人提供卓越的客户支持，推动转化率和销售额的增长，并提高整体效率
+canonical URL    : https://apps.shopify.com/quickcep
+<h1> tags ( 1)  : 'QuickCEP: AI Support Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

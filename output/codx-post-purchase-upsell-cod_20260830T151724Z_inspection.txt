@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codx-post-purchase-upsell-cod_20260830T151724Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codx-post-purchase-upsell-cod_20260830T151724Z.html
+Requested URL    : https://apps.shopify.com/codx-post-purchase-upsell-cod
+Final URL        : https://apps.shopify.com/codx-post-purchase-upsell-cod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,071 bytes / 180,958 chars
+Elapsed          : 0.757s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CODX: Post Purchase Upsell - One-click frictionless post-purchase upsells that sell crazy | Shopify App Store
+meta description : Personalize your upsell and turn your boring upsell into a conversion engine!
+canonical URL    : https://apps.shopify.com/codx-post-purchase-upsell-cod
+<h1> tags ( 1)  : 'CODX: Post Purchase Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

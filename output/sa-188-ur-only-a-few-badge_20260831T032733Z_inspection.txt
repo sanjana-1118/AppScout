@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-188-ur-only-a-few-badge_20260831T032733Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-188-ur-only-a-few-badge_20260831T032733Z.html
+Requested URL    : https://apps.shopify.com/sa-188-ur-only-a-few-badge
+Final URL        : https://apps.shopify.com/sa-188-ur-only-a-few-badge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,912 bytes / 178,786 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Low Stock Badge｜Counter - Auto-display low stock badges on products. No code needed. | Shopify App Store
+meta description : Automatically display low stock badges on products. Show text or image badges with live stock count. Fully customizable, no coding required. Supports 20 languag
+canonical URL    : https://apps.shopify.com/sa-188-ur-only-a-few-badge
+<h1> tags ( 1)  : 'UR: Low Stock Badge｜Counter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

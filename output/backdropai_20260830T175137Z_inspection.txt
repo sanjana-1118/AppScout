@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\backdropai_20260830T175137Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\backdropai_20260830T175137Z.html
+Requested URL    : https://apps.shopify.com/backdropai
+Final URL        : https://apps.shopify.com/backdropai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,170 bytes / 183,069 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BackdropAI - AI background removal for your product images | Shopify App Store
+meta description : BackdropAI removes backgrounds from your product images using AI — turning
+cluttered photos into clean, transparent PNGs in seconds.
+
+Select any pr...
+canonical URL    : https://apps.shopify.com/backdropai
+<h1> tags ( 1)  : 'BackdropAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

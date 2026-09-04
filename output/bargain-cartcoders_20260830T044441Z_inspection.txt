@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bargain-cartcoders_20260830T044441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bargain-cartcoders_20260830T044441Z.html
+Requested URL    : https://apps.shopify.com/bargain-cartcoders
+Final URL        : https://apps.shopify.com/bargain-cartcoders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,654 bytes / 199,523 chars
+Elapsed          : 0.701s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bargain – Make an Offer App - Turn visitor hesitation into sales with smart price offers. | Shopify App Store
+meta description : Let customers make offers, auto-approve discounts, and buy instantly. Boost sales with Bargain – Make an Offer App for Shopify stores.
+canonical URL    : https://apps.shopify.com/bargain-cartcoders
+<h1> tags ( 1)  : 'Bargain – Make an Offer App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

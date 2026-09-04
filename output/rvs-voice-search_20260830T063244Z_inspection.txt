@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rvs-voice-search_20260830T063244Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rvs-voice-search_20260830T063244Z.html
+Requested URL    : https://apps.shopify.com/rvs-voice-search
+Final URL        : https://apps.shopify.com/rvs-voice-search
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,466 bytes / 159,367 chars
+Elapsed          : 0.624s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RVS Voice Search - Improve product discovery with faster, intuitive voice search. | Shopify App Store
+meta description : Speak to Search by RVS Voice Search
+canonical URL    : https://apps.shopify.com/rvs-voice-search
+<h1> tags ( 1)  : 'RVS Voice Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

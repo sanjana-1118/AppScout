@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\icontact-tools_20260830T141300Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\icontact-tools_20260830T141300Z.html
+Requested URL    : https://apps.shopify.com/icontact-tools
+Final URL        : https://apps.shopify.com/icontact-tools
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,570 bytes / 174,481 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : iContact Tools -  Effortlessly automate store workflows with iContact. | Shopify App Store
+meta description : Efficiently automate email marketing campaigns by seamlessly managing Shopify customers in iContact.
+canonical URL    : https://apps.shopify.com/icontact-tools
+<h1> tags ( 1)  : 'iContact Tools'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digital-download-products_20260830T043750Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digital-download-products_20260830T043750Z.html
+Requested URL    : https://apps.shopify.com/digital-download-products
+Final URL        : https://apps.shopify.com/digital-download-products
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 244,305 bytes / 244,202 chars
+Elapsed          : 0.704s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Digital Downloads PDF file BIG - Sell digital downloads, PDF, ebook, files, file & license keys | Shopify App Store
+meta description : Sell digital products, music, & ebooks on Shopify. Automate file delivery with secure, protected links. No file size limits. Start your free trial today!
+canonical URL    : https://apps.shopify.com/digital-download-products
+<h1> tags ( 1)  : 'Digital Downloads PDF file BIG'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

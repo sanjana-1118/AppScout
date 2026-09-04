@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ci-product-designer_20260830T043309Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ci-product-designer_20260830T043309Z.html
+Requested URL    : https://apps.shopify.com/ci-product-designer
+Final URL        : https://apps.shopify.com/ci-product-designer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,660 bytes / 198,563 chars
+Elapsed          : 0.897s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Custom Product Designer - Custom creation products using product designer personalizer | Shopify App Store
+meta description : A product designer to make every order unique with custom product. Product customization makes your store more interactive, creative, and conversio...
+canonical URL    : https://apps.shopify.com/ci-product-designer
+<h1> tags ( 1)  : 'Custom Product Designer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\superskin-ai_20260830T061604Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\superskin-ai_20260830T061604Z.html
+Requested URL    : https://apps.shopify.com/superskin-ai
+Final URL        : https://apps.shopify.com/superskin-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,447 bytes / 232,336 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : superskin AI ‑ Skin Analysis  - AI skin analysis that matches customers to the right products | Shopify App Store
+meta description : superskin AI helps beauty and skincare brands increase conversions with AI-powered skin analysis and personalized product recommendations. Customer...
+canonical URL    : https://apps.shopify.com/superskin-ai
+<h1> tags ( 1)  : 'superskin AI ‑ Skin Analysis'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

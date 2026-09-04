@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\testral-visual-qa-regressio_20260830T171333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\testral-visual-qa-regressio_20260830T171333Z.html
+Requested URL    : https://apps.shopify.com/testral-visual-qa-regressio
+Final URL        : https://apps.shopify.com/testral-visual-qa-regressio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,007 bytes / 161,890 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Testral ‑ QA tester - Protect store design with automated visual regression testing. | Shopify App Store
+meta description : This tool automates visual quality assurance by monitoring your store for layout shifts and broken design elements. When you update your theme or i...
+canonical URL    : https://apps.shopify.com/testral-visual-qa-regressio
+<h1> tags ( 1)  : 'Testral ‑ QA tester'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taptool_20260830T142056Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taptool_20260830T142056Z.html
+Requested URL    : https://apps.shopify.com/taptool
+Final URL        : https://apps.shopify.com/taptool
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,258 bytes / 220,143 chars
+Elapsed          : 1.244s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taptool - Launch your Mobile App in minutes - build loyalty, sell... | Shopify App Store
+meta description : Drive sales, boost engagement, and expand reach! Create a powerful Shopify mobile app effortlessly – no coding required. Unlock your next sales channel!
+canonical URL    : https://apps.shopify.com/taptool
+<h1> tags ( 1)  : 'Taptool'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

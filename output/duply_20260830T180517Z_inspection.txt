@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\duply_20260830T180517Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\duply_20260830T180517Z.html
+Requested URL    : https://apps.shopify.com/duply
+Final URL        : https://apps.shopify.com/duply
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,997 bytes / 181,906 chars
+Elapsed          : 1.513s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Duply - One-click product copies with variants and image options. | Shopify App Store
+meta description : Duply duplicates Shopify products with variants in one click. Preview titles, copy images, and launch seasonal SKUs faster from admin.
+canonical URL    : https://apps.shopify.com/duply
+<h1> tags ( 1)  : 'Duply'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

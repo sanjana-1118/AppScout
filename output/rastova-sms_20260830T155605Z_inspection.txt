@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rastova-sms_20260830T155605Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rastova-sms_20260830T155605Z.html
+Requested URL    : https://apps.shopify.com/rastova-sms
+Final URL        : https://apps.shopify.com/rastova-sms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,951 bytes / 191,834 chars
+Elapsed          : 1.118s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rastova (WhatsApp ‑ SMS) - Send automated and personalized SMS notifications | Shopify App Store
+meta description : Send automated and personalized SMS for order updates, marketing, and cart recovery. Full support for Egyptian numbers.
+canonical URL    : https://apps.shopify.com/rastova-sms
+<h1> tags ( 1)  : 'Rastova (WhatsApp ‑ SMS)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

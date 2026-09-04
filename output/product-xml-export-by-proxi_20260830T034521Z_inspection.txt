@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-xml-export-by-proxi_20260830T034521Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-xml-export-by-proxi_20260830T034521Z.html
+Requested URL    : https://apps.shopify.com/product-xml-export-by-proxi
+Final URL        : https://apps.shopify.com/product-xml-export-by-proxi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,251 bytes / 225,154 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : XML Product Export & XML Feed - Transfer store products to custom XML feeds in seconds. | Shopify App Store
+meta description : Export your store’s products into clean, customizable XML feeds. Simple product export for any use. Easily sync and update your products, export your store
+canonical URL    : https://apps.shopify.com/product-xml-export-by-proxi
+<h1> tags ( 1)  : 'XML Product Export & XML Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

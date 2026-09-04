@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-by-repocean_20260829T183612Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-by-repocean_20260829T183612Z.html
+Requested URL    : https://apps.shopify.com/google-reviews-by-repocean
+Final URL        : https://apps.shopify.com/google-reviews-by-repocean
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,937 bytes / 214,843 chars
+Elapsed          : 0.576s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Google Reviews by RepOcean - Display Google reviews to build trust and credibility. | Shopify App Store
+meta description : Showcase Google business reviews on your shopify store with a customizable, trust-boosting carousel.
+canonical URL    : https://apps.shopify.com/google-reviews-by-repocean
+<h1> tags ( 1)  : 'Google Reviews by RepOcean'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

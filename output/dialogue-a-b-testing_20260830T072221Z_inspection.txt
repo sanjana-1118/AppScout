@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dialogue-a-b-testing_20260830T072221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dialogue-a-b-testing_20260830T072221Z.html
+Requested URL    : https://apps.shopify.com/dialogue-a-b-testing
+Final URL        : https://apps.shopify.com/dialogue-a-b-testing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,810 bytes / 177,713 chars
+Elapsed          : 1.191s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ABcommerce A/B Testing - No-code A/B tests for pages, templates, sections and user flow | Shopify App Store
+meta description : Run easy A/B tests on pages, templates, and sections. ABcommerce helps Shopify brands improve conversions with no-code setup and real-time analytics.
+canonical URL    : https://apps.shopify.com/dialogue-a-b-testing
+<h1> tags ( 1)  : 'ABcommerce A/B Testing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

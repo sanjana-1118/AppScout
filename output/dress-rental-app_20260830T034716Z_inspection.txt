@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dress-rental-app_20260830T034716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dress-rental-app_20260830T034716Z.html
+Requested URL    : https://apps.shopify.com/dress-rental-app
+Final URL        : https://apps.shopify.com/dress-rental-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,875 bytes / 178,786 chars
+Elapsed          : 0.538s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : The Dress Rental App - Rent dresses by date with bookings, returns and try-ons | Shopify App Store
+meta description : Add rental calendars, date selection, booking management, try-ons and return tracking to your Shopify dress hire store.
+canonical URL    : https://apps.shopify.com/dress-rental-app
+<h1> tags ( 1)  : 'The Dress Rental App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

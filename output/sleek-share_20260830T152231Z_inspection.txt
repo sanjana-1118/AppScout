@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sleek-share_20260830T152231Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sleek-share_20260830T152231Z.html
+Requested URL    : https://apps.shopify.com/sleek-share
+Final URL        : https://apps.shopify.com/sleek-share
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,876 bytes / 180,775 chars
+Elapsed          : 0.649s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sleek Social Sharing - Share products from an elegant popup on 24 channels | Shopify App Store
+meta description : This app adds a customizable share button to product pages, letting customers share products via 24 channels like WhatsApp, Facebook, and Twitter. ...
+canonical URL    : https://apps.shopify.com/sleek-share
+<h1> tags ( 1)  : 'Sleek Social Sharing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

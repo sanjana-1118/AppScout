@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scanowl_20260830T033901Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scanowl_20260830T033901Z.html
+Requested URL    : https://apps.shopify.com/scanowl
+Final URL        : https://apps.shopify.com/scanowl
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,821 bytes / 191,706 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ScanOwl ‑ QR Code Generator - Dynamic QR codes with unlimited scans and real-time analytics. | Shopify App Store
+meta description : Create dynamic QR codes for product, checkout, and cart pages. Track unlimited scans with real-time analytics. Boost your store’s marketing with ScanOwl.
+canonical URL    : https://apps.shopify.com/scanowl
+<h1> tags ( 1)  : 'ScanOwl ‑ QR Code Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

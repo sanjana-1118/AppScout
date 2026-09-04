@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repost-global_20260830T033315Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repost-global_20260830T033315Z.html
+Requested URL    : https://apps.shopify.com/repost-global
+Final URL        : https://apps.shopify.com/repost-global
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,728 bytes / 167,630 chars
+Elapsed          : 0.836s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : rePost Global - Ecommerce logistics provider for Ukrainian sellers | Shopify App Store
+meta description : rePost automates international shipping by syncing your Shopify orders into one dashboard, where you can compare rates from top carriers like DHL, ...
+canonical URL    : https://apps.shopify.com/repost-global
+<h1> tags ( 1)  : 'rePost Global'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

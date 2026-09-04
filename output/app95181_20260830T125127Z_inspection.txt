@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\app95181_20260830T125127Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\app95181_20260830T125127Z.html
+Requested URL    : https://apps.shopify.com/app95181
+Final URL        : https://apps.shopify.com/app95181
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,745 bytes / 156,652 chars
+Elapsed          : 0.857s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sailthru Marketing Automation - Build deep relationships with email marketing automation | Shopify App Store
+meta description : Sailthru's Marketing Automation app allows you to quickly integrate Sailthru into your Shopify store workflow. Automatically sync customer informat...
+canonical URL    : https://apps.shopify.com/app95181
+<h1> tags ( 1)  : 'Sailthru Marketing Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nit-picker_20260830T155216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nit-picker_20260830T155216Z.html
+Requested URL    : https://apps.shopify.com/nit-picker
+Final URL        : https://apps.shopify.com/nit-picker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,347 bytes / 173,204 chars
+Elapsed          : 0.609s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pickadoodl ‑ Pick. Pack. Tag. - Bulk pick lists, packing slips, scanning, order tagging, bins | Shopify App Store
+meta description : Pickadoodl: bulk pick lists with bin sort, stock flags, barcode scan-to-confirm, packing slips, CSV export, and order tagging for Shopify. No 50-order limit.
+canonical URL    : https://apps.shopify.com/nit-picker
+<h1> tags ( 1)  : 'Pickadoodl ‑ Pick. Pack. Tag.'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

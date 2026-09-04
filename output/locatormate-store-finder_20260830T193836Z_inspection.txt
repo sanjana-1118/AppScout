@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\locatormate-store-finder_20260830T193836Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\locatormate-store-finder_20260830T193836Z.html
+Requested URL    : https://apps.shopify.com/locatormate-store-finder
+Final URL        : https://apps.shopify.com/locatormate-store-finder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,020 bytes / 170,905 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LocatorMate Store Finder - Searchable store locator map for retail locations. | Shopify App Store
+meta description : Add a searchable store locator map, location list, and storefront app block for retail stores, dealers, showrooms, and pickup points.
+canonical URL    : https://apps.shopify.com/locatormate-store-finder
+<h1> tags ( 1)  : 'LocatorMate Store Finder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

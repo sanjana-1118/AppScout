@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contact-form-by-qikify_20260830T060934Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contact-form-by-qikify_20260830T060934Z.html
+Requested URL    : https://apps.shopify.com/contact-form-by-qikify
+Final URL        : https://apps.shopify.com/contact-form-by-qikify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,961 bytes / 265,862 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qikify Contact Form Builder - No-code form builder for custom forms, contact forms, surveys | Shopify App Store
+meta description : Powerful Shopify form builder to enhance customer engagement. Create form to collect leads, wholesale, custom order, survey, and more with no code. Free to try!
+canonical URL    : https://apps.shopify.com/contact-form-by-qikify
+<h1> tags ( 1)  : 'Qikify Contact Form Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

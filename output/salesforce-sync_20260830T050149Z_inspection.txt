@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\salesforce-sync_20260830T050149Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\salesforce-sync_20260830T050149Z.html
+Requested URL    : https://apps.shopify.com/salesforce-sync
+Final URL        : https://apps.shopify.com/salesforce-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,937 bytes / 192,846 chars
+Elapsed          : 0.729s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CRM Perks: Salesforce Sync - Quickly integrate Orders and Customers with Salesforce | Shopify App Store
+meta description : App automatically sends Shopify Customers and Orders to Salesforce, you can create Account, Contact, Lead or Sales Order in salesforce. You can als...
+canonical URL    : https://apps.shopify.com/salesforce-sync
+<h1> tags ( 1)  : 'CRM Perks: Salesforce Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

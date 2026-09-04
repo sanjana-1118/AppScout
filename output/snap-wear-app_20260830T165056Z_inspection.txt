@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-wear-app_20260830T165056Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-wear-app_20260830T165056Z.html
+Requested URL    : https://apps.shopify.com/snap-wear-app
+Final URL        : https://apps.shopify.com/snap-wear-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,391 bytes / 177,018 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Snap Wear｜AIバーチャル試着（日本語・英語対応） - 商品ページで写真試着し、試着から注文まで可視化できるアプリ | Shopify App Store
+meta description : Snap Wearは商品ページに試着ボタンを追加し、顧客写真で試着イメージを表示できます。試着回数の上限管理に加え、試着経由の注文数と試着から購入までの時間を管理画面で確認できます。
+canonical URL    : https://apps.shopify.com/snap-wear-app?locale=ja
+<h1> tags ( 1)  : 'Snap Wear｜AIバーチャル試着（日本語・英語対応）'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

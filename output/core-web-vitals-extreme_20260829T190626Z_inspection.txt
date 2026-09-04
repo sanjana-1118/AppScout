@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\core-web-vitals-extreme_20260829T190626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\core-web-vitals-extreme_20260829T190626Z.html
+Requested URL    : https://apps.shopify.com/core-web-vitals-extreme
+Final URL        : https://apps.shopify.com/core-web-vitals-extreme
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,684 bytes / 170,564 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Page Speed Extreme - Optimize Core Web Vitals metrics to improve SEO rankings | Shopify App Store
+meta description : Improve your Core Web Vitals metrics as LCP, CLS, and INP by boosting up your Online Store browsing performance.
+canonical URL    : https://apps.shopify.com/core-web-vitals-extreme
+<h1> tags ( 1)  : 'Page Speed Extreme'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/watermarkme-image-enhancer-1",
+  "fetch_timestamp": "2026-08-30T14:33:38.012390+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\watermarkme-image-enhancer-1_20260830T143337Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\watermarkme-image-enhancer-1_20260830T143337Z.html",
+    "url": "https://apps.shopify.com/watermarkme-image-enhancer-1",
+    "final_url": "https://apps.shopify.com/watermarkme-image-enhancer-1",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 184828,
+    "body_text_length": 184715,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.943077,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "ImageToonify ‑ Watermark & BG - Protect & Customize: Watermark & Images Background with Ease | Shopify App Store",
+    "meta_description": "WatermarkMe enhances your Shopify store with image watermarking and resizing capabilities. Protect your brand and customize images effortlessly.",
+    "canonical_url": "https://apps.shopify.com/watermarkme-image-enhancer-1",
+    "h1_tags": [
+      "ImageToonify ‑ Watermark & BG"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "ImageToonify ‑ Watermark & BG",
+    "app_slug": "watermarkme-image-enhancer-1",
+    "app_url": "https://apps.shopify.com/watermarkme-image-enhancer-1",
+    "developer_name": "Brain Station 23 PLC",
+    "description": "WatermarkMe enhances your Shopify store with image watermarking and resizing capabilities. Protect your brand and customize images effortlessly.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Images and media - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\watermarkme-image-enhancer-1_20260830T143337Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\watermarkme-image-enhancer-1_20260830T143337Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "ImageToonify ‑ Watermark & BG",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "watermarkme-image-enhancer-1",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/watermarkme-image-enhancer-1",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Brain Station 23 PLC",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "WatermarkMe enhances your Shopify store with image watermarking and resizing capabilities. Protect your brand and customize images effortlessly.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Images and media - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

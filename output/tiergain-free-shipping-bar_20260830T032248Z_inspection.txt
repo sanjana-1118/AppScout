@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tiergain-free-shipping-bar_20260830T032248Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tiergain-free-shipping-bar_20260830T032248Z.html
+Requested URL    : https://apps.shopify.com/tiergain-free-shipping-bar
+Final URL        : https://apps.shopify.com/tiergain-free-shipping-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,380 bytes / 164,287 chars
+Elapsed          : 0.814s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tiergain GCR Google Reviews - Collect verified Google reviews from every completed order | Shopify App Store
+meta description : Collect verified Google Customer Reviews after checkout. One-field setup with your Merchant Center ID. Grows your Google seller rating. Free forever.
+canonical URL    : https://apps.shopify.com/tiergain-free-shipping-bar
+<h1> tags ( 1)  : 'Tiergain GCR Google Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

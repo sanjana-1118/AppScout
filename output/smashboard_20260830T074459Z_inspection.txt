@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smashboard_20260830T074459Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smashboard_20260830T074459Z.html
+Requested URL    : https://apps.shopify.com/smashboard
+Final URL        : https://apps.shopify.com/smashboard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,873 bytes / 191,770 chars
+Elapsed          : 0.498s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : dashboardSMASHBOARD! - Set the goal. The dashboard judges you accordingly. | Shopify App Store
+meta description : Set Shopify goals. Track automated status, risk ratings, and probability across four pre-built dashboards in 60 seconds. Share views via email, Slack, or Teams.
+canonical URL    : https://apps.shopify.com/smashboard
+<h1> tags ( 1)  : 'dashboardSMASHBOARD!'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

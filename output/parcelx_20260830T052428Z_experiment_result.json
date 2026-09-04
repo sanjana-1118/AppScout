@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/parcelx",
+  "fetch_timestamp": "2026-08-30T05:24:29.392960+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\parcelx_20260830T052428Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\parcelx_20260830T052428Z.html",
+    "url": "https://apps.shopify.com/parcelx",
+    "final_url": "https://apps.shopify.com/parcelx",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 188706,
+    "body_text_length": 188611,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.733269,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "ParcelX -  Shipping is now smarter & easier | Shopify App Store",
+    "meta_description": "Discover ParcelX, the ultimate Shopify app for automating shipping workflows, managing returns.",
+    "canonical_url": "https://apps.shopify.com/parcelx",
+    "h1_tags": [
+      "ParcelX"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "ParcelX",
+    "app_slug": "parcelx",
+    "app_url": "https://apps.shopify.com/parcelx",
+    "developer_name": "Parcel X ",
+    "description": "Discover ParcelX, the ultimate Shopify app for automating shipping workflows, managing returns.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Returns and exchanges"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\parcelx_20260830T052428Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\parcelx_20260830T052428Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "ParcelX",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "parcelx",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/parcelx",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Parcel X ",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Discover ParcelX, the ultimate Shopify app for automating shipping workflows, managing returns.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Returns and exchanges",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

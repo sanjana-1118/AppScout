@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replacement-orders_20260830T135451Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replacement-orders_20260830T135451Z.html
+Requested URL    : https://apps.shopify.com/replacement-orders
+Final URL        : https://apps.shopify.com/replacement-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,055 bytes / 157,948 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Replacify ‑ Replacement Orders - Manage lost & damaged orders and shipments | Shopify App Store
+meta description : Easily manage lost & damaged orders by creating replacement orders within seconds. Keep track of your replacement orders tracking & inventory.
+canonical URL    : https://apps.shopify.com/replacement-orders
+<h1> tags ( 1)  : 'Replacify ‑ Replacement Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eiz-fulfillment_20260829T191625Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eiz-fulfillment_20260829T191625Z.html
+Requested URL    : https://apps.shopify.com/eiz-fulfillment
+Final URL        : https://apps.shopify.com/eiz-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,386 bytes / 176,295 chars
+Elapsed          : 0.823s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EIZ Fulfillment Technology - Manage each step of fulfilment, manage orders, generate labels | Shopify App Store
+meta description : EIZ Technology has developed a range of customizable solutions to help the growth of your business, especially within the eCommerce space.
+Easily m...
+canonical URL    : https://apps.shopify.com/eiz-fulfillment
+<h1> tags ( 1)  : 'EIZ Fulfillment Technology'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\net-vantage_20260830T070258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\net-vantage_20260830T070258Z.html
+Requested URL    : https://apps.shopify.com/net-vantage
+Final URL        : https://apps.shopify.com/net-vantage
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,423 bytes / 175,334 chars
+Elapsed          : 0.611s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Net Vantage: B2B Credit & A/R - Set credit limits, track A/R aging, and flag risky orders | Shopify App Store
+meta description : Assign Net 30 terms & Credit Limits to wholesale B2B customers. Automatically warn sales staff on Draft Orders and track outstanding B2B balances.
+canonical URL    : https://apps.shopify.com/net-vantage
+<h1> tags ( 1)  : 'Net Vantage: B2B Credit & A/R'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

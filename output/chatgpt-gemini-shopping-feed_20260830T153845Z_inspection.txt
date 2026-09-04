@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatgpt-gemini-shopping-feed_20260830T153845Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatgpt-gemini-shopping-feed_20260830T153845Z.html
+Requested URL    : https://apps.shopify.com/chatgpt-gemini-shopping-feed
+Final URL        : https://apps.shopify.com/chatgpt-gemini-shopping-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,486 bytes / 223,383 chars
+Elapsed          : 0.929s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChatGPT Gemini Shopping Feed - Reach shoppers who ask ChatGPT and Gemini what to buy | Shopify App Store
+meta description : VirtueNest helps optimize your product feed so AI shopping assistants can find, understand, and recommend your catalog. It shows how ChatGPT, Gemin...
+canonical URL    : https://apps.shopify.com/chatgpt-gemini-shopping-feed
+<h1> tags ( 1)  : 'ChatGPT Gemini Shopping Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

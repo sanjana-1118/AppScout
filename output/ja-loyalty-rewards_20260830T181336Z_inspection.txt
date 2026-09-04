@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ja-loyalty-rewards_20260830T181336Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ja-loyalty-rewards_20260830T181336Z.html
+Requested URL    : https://apps.shopify.com/ja-loyalty-rewards
+Final URL        : https://apps.shopify.com/ja-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,076 bytes / 171,983 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JA Loyalty Program Rewards	 - Let customers earn points and redeem discounts | Shopify App Store
+meta description : Loyalty Program helps merchants turn one-time buyers into repeat customers. Customers earn points for placing orders and redeem them for rewards, i...
+canonical URL    : https://apps.shopify.com/ja-loyalty-rewards
+<h1> tags ( 1)  : 'JA Loyalty Program Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

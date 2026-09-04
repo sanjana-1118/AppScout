@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spinnify-360-studio_20260830T180610Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spinnify-360-studio_20260830T180610Z.html
+Requested URL    : https://apps.shopify.com/spinnify-360-studio
+Final URL        : https://apps.shopify.com/spinnify-360-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,721 bytes / 191,612 chars
+Elapsed          : 0.803s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Spinnify 360° Studio - Add 360 spins and 3D viewers with hotspots to product... | Shopify App Store
+meta description : Add 360-degree product spins and 3D models to Shopify product pages. Shoppers drag to rotate, zoom, and open hotspots. Theme app block. Free plan.
+canonical URL    : https://apps.shopify.com/spinnify-360-studio
+<h1> tags ( 1)  : 'Spinnify 360° Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

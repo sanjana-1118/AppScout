@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ultima-ads_20260830T160044Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ultima-ads_20260830T160044Z.html
+Requested URL    : https://apps.shopify.com/ultima-ads
+Final URL        : https://apps.shopify.com/ultima-ads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,306 bytes / 159,213 chars
+Elapsed          : 0.800s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ultima Ads - Manage ads with AI creative and machine learning bidding | Shopify App Store
+meta description : Ultima Ads Plugin helps to place advertisements for Shopify Advertisers. 
+It uses machine learning technology to bid for the personalized campaign ...
+canonical URL    : https://apps.shopify.com/ultima-ads
+<h1> tags ( 1)  : 'Ultima Ads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

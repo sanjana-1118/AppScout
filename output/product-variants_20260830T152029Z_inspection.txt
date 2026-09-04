@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-variants_20260830T152029Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-variants_20260830T152029Z.html
+Requested URL    : https://apps.shopify.com/product-variants
+Final URL        : https://apps.shopify.com/product-variants
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,288 bytes / 178,197 chars
+Elapsed          : 0.803s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Productify Groups - Link products as swatches with unique images and details | Shopify App Store
+meta description : Group products as color or style variants with customizable swatches. Keep unique images and details. Boost product discovery and streamline navigation.
+canonical URL    : https://apps.shopify.com/product-variants
+<h1> tags ( 1)  : 'Productify Groups'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

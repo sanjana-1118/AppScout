@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\accessioai-ai-accessibility_20260830T162822Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\accessioai-ai-accessibility_20260830T162822Z.html
+Requested URL    : https://apps.shopify.com/accessioai-ai-accessibility
+Final URL        : https://apps.shopify.com/accessioai-ai-accessibility
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,078 bytes / 195,965 chars
+Elapsed          : 0.855s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AccessioAI ‑ AI Accessibility - AI alt text and accessibility widget for WCAG compliance | Shopify App Store
+meta description : Accessio.ai adds an accessibility widget for contrast and font adjustments. AI automatically creates and adds alt text to all your website images
+canonical URL    : https://apps.shopify.com/accessioai-ai-accessibility
+<h1> tags ( 1)  : 'AccessioAI ‑ AI Accessibility'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

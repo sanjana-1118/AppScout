@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-description-accordion_20260830T061659Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-description-accordion_20260830T061659Z.html
+Requested URL    : https://apps.shopify.com/product-description-accordion
+Final URL        : https://apps.shopify.com/product-description-accordion
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,489 bytes / 217,338 chars
+Elapsed          : 1.054s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasySlide Accordion tabs & FAQ - Accordion Product tabs and FAQ pages | Shopify App Store
+meta description : EasySlide Accordion tabs & FAQ page - Accordions for Product Description or FAQ page.
+canonical URL    : https://apps.shopify.com/product-description-accordion
+<h1> tags ( 1)  : 'EasySlide Accordion tabs & FAQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

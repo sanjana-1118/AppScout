@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hey-product-highlights_20260830T170944Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hey-product-highlights_20260830T170944Z.html
+Requested URL    : https://apps.shopify.com/hey-product-highlights
+Final URL        : https://apps.shopify.com/hey-product-highlights
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,919 bytes / 180,830 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hey! Product Highlights - Highlight key product messages with vertical scrolling text | Shopify App Store
+meta description : Display animated product messages on Shopify product pages. Customize colors, speed, size, and direction to highlight offers and key details.
+canonical URL    : https://apps.shopify.com/hey-product-highlights
+<h1> tags ( 1)  : 'Hey! Product Highlights'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

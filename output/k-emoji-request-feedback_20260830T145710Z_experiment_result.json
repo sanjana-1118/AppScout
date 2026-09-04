@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/k-emoji-request-feedback",
+  "fetch_timestamp": "2026-08-30T14:57:10.087528+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\k-emoji-request-feedback_20260830T145710Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\k-emoji-request-feedback_20260830T145710Z.html",
+    "url": "https://apps.shopify.com/k-emoji-request-feedback",
+    "final_url": "https://apps.shopify.com/k-emoji-request-feedback",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 210632,
+    "body_text_length": 210526,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.810972,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "K: Emoji Form + Reviews&Rating - Capture customer reviews with easy, AI emoji-powered forms. | Shopify App Store",
+    "meta_description": "The Emoji Request Feedback and Reviews app offers a fun and engaging way to collect customer feedback. Store owners can effortlessly create custom ...",
+    "canonical_url": "https://apps.shopify.com/k-emoji-request-feedback",
+    "h1_tags": [
+      "K: Emoji Form + Reviews&Rating"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "K: Emoji Form + Reviews&Rating",
+    "app_slug": "k-emoji-request-feedback",
+    "app_url": "https://apps.shopify.com/k-emoji-request-feedback",
+    "developer_name": "Kaktus",
+    "description": "The Emoji Request Feedback and Reviews app offers a fun and engaging way to collect customer feedback. Store owners can effortlessly create custom ...",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Forms"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\k-emoji-request-feedback_20260830T145710Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\k-emoji-request-feedback_20260830T145710Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "K: Emoji Form + Reviews&Rating",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "k-emoji-request-feedback",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/k-emoji-request-feedback",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Kaktus",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "The Emoji Request Feedback and Reviews app offers a fun and engaging way to collect customer feedback. Store owners can effortlessly create custom ...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Forms",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payu-commercepro-checkout_20260830T144705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payu-commercepro-checkout_20260830T144705Z.html
+Requested URL    : https://apps.shopify.com/payu-commercepro-checkout
+Final URL        : https://apps.shopify.com/payu-commercepro-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,638 bytes / 200,545 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PayU CommercePro Checkout - Faster checkouts, reduced RTOs, and improved sales conversions | Shopify App Store
+meta description : Provide your customers with a faster checkout experience with a two-step login via OTP & show securely saved customer addresses. PayU CommercePro i...
+canonical URL    : https://apps.shopify.com/payu-commercepro-checkout
+<h1> tags ( 1)  : 'PayU CommercePro Checkout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

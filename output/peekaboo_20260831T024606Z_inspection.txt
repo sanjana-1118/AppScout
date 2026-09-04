@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peekaboo_20260831T024606Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peekaboo_20260831T024606Z.html
+Requested URL    : https://apps.shopify.com/peekaboo
+Final URL        : https://apps.shopify.com/peekaboo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,255 bytes / 164,159 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Peekaboo | Exit Intent Popup - Recovers lost sales with an exit-intent discount popup | Shopify App Store
+meta description : Recover lost sales with Peekaboo — an exit-intent popup that offers shoppers a discount and sends them straight to checkout.
+canonical URL    : https://apps.shopify.com/peekaboo
+<h1> tags ( 1)  : 'Peekaboo | Exit Intent Popup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twiwt-headfit-what-is-my-size_20260831T040544Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twiwt-headfit-what-is-my-size_20260831T040544Z.html
+Requested URL    : https://apps.shopify.com/twiwt-headfit-what-is-my-size
+Final URL        : https://apps.shopify.com/twiwt-headfit-what-is-my-size
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,646 bytes / 187,501 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HeadFit ‑ What Is My Size? - Measure your head size for helmets or caps — no... | Shopify App Store
+meta description : A game-changing online measurement tool that requires no ruler or name card. Simply use the camera to measure head for hats, helmets, or wigs.
+canonical URL    : https://apps.shopify.com/twiwt-headfit-what-is-my-size
+<h1> tags ( 1)  : 'HeadFit ‑ What Is My Size?'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

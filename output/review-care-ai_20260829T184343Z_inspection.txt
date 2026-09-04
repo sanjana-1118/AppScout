@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\review-care-ai_20260829T184343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\review-care-ai_20260829T184343Z.html
+Requested URL    : https://apps.shopify.com/review-care-ai
+Final URL        : https://apps.shopify.com/review-care-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,826 bytes / 183,737 chars
+Elapsed          : 1.003s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Review Care AI: Recover Sales - Turn negative reviews into loyal customers with AI.  | Shopify App Store
+meta description : Automatically sync negative reviews from Judgeme, generate AI-powered recovery emails, and send personalized discounts to win back unhappy Shopify customers.
+canonical URL    : https://apps.shopify.com/review-care-ai
+<h1> tags ( 1)  : 'Review Care AI: Recover Sales'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

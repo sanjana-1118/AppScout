@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rayik-product-reviews_20260829T183857Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rayik-product-reviews_20260829T183857Z.html
+Requested URL    : https://apps.shopify.com/rayik-product-reviews
+Final URL        : https://apps.shopify.com/rayik-product-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,853 bytes / 189,742 chars
+Elapsed          : 0.854s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rayik ‑ Product Reviews - Verified reviews matched by phone, plus WhatsApp requests | Shopify App Store
+meta description : Review apps verify buyers by email, which quietly fails for guest checkout, cash on delivery and phone orders. Those are real customers, and their ...
+canonical URL    : https://apps.shopify.com/rayik-product-reviews
+<h1> tags ( 1)  : 'Rayik ‑ Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

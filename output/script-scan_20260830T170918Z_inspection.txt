@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\script-scan_20260830T170918Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\script-scan_20260830T170918Z.html
+Requested URL    : https://apps.shopify.com/script-scan
+Final URL        : https://apps.shopify.com/script-scan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,469 bytes / 172,374 chars
+Elapsed          : 0.489s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Script Scan - Find duplicate/orphaned scripts & conflicts slowing your store | Shopify App Store
+meta description : Script Scan audits your theme for scripts left behind by uninstalled apps and detects conflicts like duplicate analytics tags, multiple jQuery vers...
+canonical URL    : https://apps.shopify.com/script-scan
+<h1> tags ( 1)  : 'Script Scan'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

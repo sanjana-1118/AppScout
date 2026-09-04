@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\i-agree-checkbox_20260830T125642Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\i-agree-checkbox_20260830T125642Z.html
+Requested URL    : https://apps.shopify.com/i-agree-checkbox
+Final URL        : https://apps.shopify.com/i-agree-checkbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,232 bytes / 226,118 chars
+Elapsed          : 0.539s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Terms and Conditions checkbox - Add terms & conditions checkbox to build trust & protect... | Shopify App Store
+meta description : Add a required terms and conditions checkbox to your cart or drawer. Ask customers to accept your refund policy, shipping terms, privacy policy, GD...
+canonical URL    : https://apps.shopify.com/i-agree-checkbox
+<h1> tags ( 1)  : 'Terms and Conditions checkbox'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

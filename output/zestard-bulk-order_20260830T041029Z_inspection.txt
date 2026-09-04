@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zestard-bulk-order_20260830T041029Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zestard-bulk-order_20260830T041029Z.html
+Requested URL    : https://apps.shopify.com/zestard-bulk-order
+Final URL        : https://apps.shopify.com/zestard-bulk-order
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,132 bytes / 197,035 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zestard Bulk Order - Bulk product order is easy now! Bulk order from a... | Shopify App Store
+meta description : Zestard Bulk Order is a great solution for businesses that need to buy large quantities of products at one time, or anyone who wants to streamline ...
+canonical URL    : https://apps.shopify.com/zestard-bulk-order
+<h1> tags ( 1)  : 'Zestard Bulk Order'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

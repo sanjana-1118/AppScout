@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sirdab-fulfillment_20260830T165401Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sirdab-fulfillment_20260830T165401Z.html
+Requested URL    : https://apps.shopify.com/sirdab-fulfillment
+Final URL        : https://apps.shopify.com/sirdab-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,713 bytes / 167,624 chars
+Elapsed          : 0.774s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sirdab Fulfillment - eCommerce fulfillment in KSA, with express & bullet delivery | Shopify App Store
+meta description : Sirdab connects your store to professional 3PL fulfillment in Saudi Arabia. Automatic order fulfillment, real-time inventory sync.
+canonical URL    : https://apps.shopify.com/sirdab-fulfillment
+<h1> tags ( 1)  : 'Sirdab Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

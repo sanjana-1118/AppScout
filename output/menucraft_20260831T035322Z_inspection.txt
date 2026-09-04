@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\menucraft_20260831T035322Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\menucraft_20260831T035322Z.html
+Requested URL    : https://apps.shopify.com/menucraft
+Final URL        : https://apps.shopify.com/menucraft
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,307 bytes / 196,200 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MenuCraft - Design mega menus and dropdowns visually, no coding needed | Shopify App Store
+meta description : MenuCraft is a visual navigation builder for Shopify themes. Design dropdown menus, mega menus, and tabbed navigation with a live drag-and-drop edi...
+canonical URL    : https://apps.shopify.com/menucraft
+<h1> tags ( 1)  : 'MenuCraft'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

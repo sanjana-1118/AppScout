@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\get-it-picked_20260830T153902Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\get-it-picked_20260830T153902Z.html
+Requested URL    : https://apps.shopify.com/get-it-picked
+Final URL        : https://apps.shopify.com/get-it-picked
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,299 bytes / 161,204 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Get It Picked - On-demand delivery with live tracking and updates: Get It Pick | Shopify App Store
+meta description : Get It Picked is a delivery service that allows you to have your items picked up and delivered to your desired location in Nova Scotia, Canada.
+We ...
+canonical URL    : https://apps.shopify.com/get-it-picked
+<h1> tags ( 1)  : 'Get It Picked'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

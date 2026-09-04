@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omnibus-insight-price-tracker-by-amasty_20260830T044103Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omnibus-insight-price-tracker-by-amasty_20260830T044103Z.html
+Requested URL    : https://apps.shopify.com/omnibus-insight-price-tracker-by-amasty
+Final URL        : https://apps.shopify.com/omnibus-insight-price-tracker-by-amasty
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,601 bytes / 239,485 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Omnibus Insight: Price History - Comply with EU Price Indication with Omnibus Price Tracker | Shopify App Store
+meta description : Ensure transparent pricing by following EU Omnibus Directive guidelines with ease
+canonical URL    : https://apps.shopify.com/omnibus-insight-price-tracker-by-amasty
+<h1> tags ( 1)  : 'Omnibus Insight: Price History'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

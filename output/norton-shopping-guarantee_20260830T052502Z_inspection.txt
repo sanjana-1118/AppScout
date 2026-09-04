@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\norton-shopping-guarantee_20260830T052502Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\norton-shopping-guarantee_20260830T052502Z.html
+Requested URL    : https://apps.shopify.com/norton-shopping-guarantee
+Final URL        : https://apps.shopify.com/norton-shopping-guarantee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,273 bytes / 198,174 chars
+Elapsed          : 0.679s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Norton Shopping Guarantee - Protect Packages & Build Customer Confidence | Shopify App Store
+meta description : Increase your sales by instilling trust the moment consumers enter your online store and protecting them from purchase to delivery—for free.
+canonical URL    : https://apps.shopify.com/norton-shopping-guarantee
+<h1> tags ( 1)  : 'Norton Shopping Guarantee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickbook-field-by-commercient_20260830T150211Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickbook-field-by-commercient_20260830T150211Z.html
+Requested URL    : https://apps.shopify.com/quickbook-field-by-commercient
+Final URL        : https://apps.shopify.com/quickbook-field-by-commercient
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,681 bytes / 170,590 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Quickbook Field By Commercient - SYNC Quickbook ERP fields, save time and reduce errors. | Shopify App Store
+meta description : Commercient provides a platform so users can store Quickbook's custom field in Shopify.
+canonical URL    : https://apps.shopify.com/quickbook-field-by-commercient
+<h1> tags ( 1)  : 'Quickbook Field By Commercient'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

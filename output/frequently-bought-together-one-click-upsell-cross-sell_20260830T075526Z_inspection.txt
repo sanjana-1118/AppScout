@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frequently-bought-together-one-click-upsell-cross-sell_20260830T075526Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frequently-bought-together-one-click-upsell-cross-sell_20260830T075526Z.html
+Requested URL    : https://apps.shopify.com/frequently-bought-together-one-click-upsell-cross-sell
+Final URL        : https://apps.shopify.com/frequently-bought-together-one-click-upsell-cross-sell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,151 bytes / 228,034 chars
+Elapsed          : 0.615s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upselly: Bundles, BOGO & Gifts - Bundles, BOGO, free gifts & cart goals — no fake... | Shopify App Store
+meta description : Upsell & cross-sell; boost average order value by offering personalized product recommendations, add-on items, product bundles and frequently bought together.
+canonical URL    : https://apps.shopify.com/frequently-bought-together-one-click-upsell-cross-sell
+<h1> tags ( 1)  : 'Upselly: Bundles, BOGO & Gifts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

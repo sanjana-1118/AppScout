@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\friends2a-google-forms_20260830T061555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\friends2a-google-forms_20260830T061555Z.html
+Requested URL    : https://apps.shopify.com/friends2a-google-forms
+Final URL        : https://apps.shopify.com/friends2a-google-forms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,662 bytes / 186,571 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Friends2a Google Forms - Separate iframe height for mobile & desktop | Shopify App Store
+meta description : Embed any Google Form on your store. Paste the link, show a clean, scroll-free embed, control mobile/desktop height, and optionally hide footer links.
+canonical URL    : https://apps.shopify.com/friends2a-google-forms
+<h1> tags ( 1)  : 'Friends2a Google Forms'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

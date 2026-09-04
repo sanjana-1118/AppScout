@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\savena_20260830T175013Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\savena_20260830T175013Z.html
+Requested URL    : https://apps.shopify.com/savena
+Final URL        : https://apps.shopify.com/savena
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,121 bytes / 220,011 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Savena ‑ AI Chat & Support  - AI-powered live chat and support inbox for your store | Shopify App Store
+meta description : Automate customer support with an AI agent, live chat widget, and unified inbox. Handle emails, Instagram DMs, and chats from one dashboard. 14-day free trial.
+canonical URL    : https://apps.shopify.com/savena
+<h1> tags ( 1)  : 'Savena ‑ AI Chat & Support'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

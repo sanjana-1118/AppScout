@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\runsheet_20260831T030739Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\runsheet_20260831T030739Z.html
+Requested URL    : https://apps.shopify.com/runsheet
+Final URL        : https://apps.shopify.com/runsheet
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,659 bytes / 171,570 chars
+Elapsed          : 0.525s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RunSheet - Every custom order on one screen, batched and ready to... | Shopify App Store
+meta description : See every custom order on one screen with its details inline. Batch identical work across orders, track production separately, and print sheets for the bench.
+canonical URL    : https://apps.shopify.com/runsheet
+<h1> tags ( 1)  : 'RunSheet'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

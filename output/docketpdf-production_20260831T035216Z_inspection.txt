@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docketpdf-production_20260831T035216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docketpdf-production_20260831T035216Z.html
+Requested URL    : https://apps.shopify.com/docketpdf-production
+Final URL        : https://apps.shopify.com/docketpdf-production
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,172 bytes / 186,079 chars
+Elapsed          : 0.912s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Docket: PDF Invoice Printer - Flat price. Generate PDFs for unlimited orders. | Shopify App Store
+meta description : Invoices, packing slips, credit notes and quotes for Shopify orders. Print in bulk, add PDF links to notifications, and keep immutable versions on file.
+canonical URL    : https://apps.shopify.com/docketpdf-production
+<h1> tags ( 1)  : 'Docket: PDF Invoice Printer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

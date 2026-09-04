@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dingdoong-rental-appointment_20260830T175112Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dingdoong-rental-appointment_20260830T175112Z.html
+Requested URL    : https://apps.shopify.com/dingdoong-rental-appointment
+Final URL        : https://apps.shopify.com/dingdoong-rental-appointment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,596 bytes / 184,505 chars
+Elapsed          : 0.928s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : D: Rental Booking Appointment - Rental appointment booking app with flexible scheduling | Shopify App Store
+meta description : Manage rental bookings with calendar, inventory control and delivery options. Prevent conflicts, boost conversions and streamline the rental business.
+canonical URL    : https://apps.shopify.com/dingdoong-rental-appointment
+<h1> tags ( 1)  : 'D: Rental Booking Appointment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\predispute_20260831T024547Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\predispute_20260831T024547Z.html
+Requested URL    : https://apps.shopify.com/predispute
+Final URL        : https://apps.shopify.com/predispute
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,382 bytes / 180,292 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Predispute: Chargeback Alerts - Chargeback intelligence solutions for merchants | Shopify App Store
+meta description : Four intelligence systems for chargebacks: estimated Visa and Mastercard ratios, a fight, refund, or accept call on every dispute, fraud flags, win rates.
+canonical URL    : https://apps.shopify.com/predispute
+<h1> tags ( 1)  : 'Predispute: Chargeback Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

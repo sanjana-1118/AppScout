@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arcs-support-ticketing-system_20260830T133428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arcs-support-ticketing-system_20260830T133428Z.html
+Requested URL    : https://apps.shopify.com/arcs-support-ticketing-system
+Final URL        : https://apps.shopify.com/arcs-support-ticketing-system
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,785 bytes / 172,696 chars
+Elapsed          : 0.662s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ARCS Support Ticketing System - Easy and Reliable Support System | Shopify App Store
+meta description : ARCS Support Ticketing System is simple and scalable app to assist stores in better customer support and communication management.
+
+Stores can prov...
+canonical URL    : https://apps.shopify.com/arcs-support-ticketing-system
+<h1> tags ( 1)  : 'ARCS Support Ticketing System'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

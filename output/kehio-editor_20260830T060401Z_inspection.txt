@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kehio-editor_20260830T060401Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kehio-editor_20260830T060401Z.html
+Requested URL    : https://apps.shopify.com/kehio-editor
+Final URL        : https://apps.shopify.com/kehio-editor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 245,402 bytes / 245,226 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kehio Editor  - Revolutionize your store, section by section !  | Shopify App Store
+meta description : Transformez votre boutique avec Kehio Editor.  
+Accordéon, onglet, FAQs, listes d'icônes, bordures, et arrière-plans, donner vie à la boutique de vos rêves.
+canonical URL    : https://apps.shopify.com/kehio-editor
+<h1> tags ( 1)  : 'Kehio Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

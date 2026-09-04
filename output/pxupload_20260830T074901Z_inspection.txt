@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pxupload_20260830T074901Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pxupload_20260830T074901Z.html
+Requested URL    : https://apps.shopify.com/pxupload
+Final URL        : https://apps.shopify.com/pxupload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,421 bytes / 211,328 chars
+Elapsed          : 0.946s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PxUpload - Bulk Image Upload by image name, product sku and product... | Shopify App Store
+meta description : The app is simple to used and it has multiple options to upload in bulk. You can upload by images base on tag name.  You can sort images by drag an...
+canonical URL    : https://apps.shopify.com/pxupload
+<h1> tags ( 1)  : 'PxUpload'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

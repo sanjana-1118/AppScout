@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\app85151_20260830T050043Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\app85151_20260830T050043Z.html
+Requested URL    : https://apps.shopify.com/app85151
+Final URL        : https://apps.shopify.com/app85151
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,730 bytes / 157,633 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : fabric Dropship Platform - Connect seamlessly with retailers to automate drop shipping. | Shopify App Store
+meta description : Expand your product assortment and power your business growth by connecting with thousands of dropship vendors on fabric Marketplace.
+canonical URL    : https://apps.shopify.com/app85151
+<h1> tags ( 1)  : 'fabric Dropship Platform'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

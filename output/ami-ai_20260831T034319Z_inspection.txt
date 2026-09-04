@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ami-ai_20260831T034319Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ami-ai_20260831T034319Z.html
+Requested URL    : https://apps.shopify.com/ami-ai
+Final URL        : https://apps.shopify.com/ami-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,015 bytes / 179,900 chars
+Elapsed          : 0.899s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ami ‑ AI Shopping Agent - Predicts product questions, answers instantly and drives sales | Shopify App Store
+meta description : Drive sales with a predictive AI Shopping Agent. Predicts questions that drive sales, answers instantly, and suggests alternative products to boost sales.
+canonical URL    : https://apps.shopify.com/ami-ai
+<h1> tags ( 1)  : 'Ami ‑ AI Shopping Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

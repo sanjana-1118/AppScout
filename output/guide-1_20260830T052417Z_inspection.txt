@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\guide-1_20260830T052417Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\guide-1_20260830T052417Z.html
+Requested URL    : https://apps.shopify.com/guide-1
+Final URL        : https://apps.shopify.com/guide-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,032 bytes / 233,943 chars
+Elapsed          : 0.981s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Guide Protection + Returns - Turn protected reorders into revenue with returns & tracking | Shopify App Store
+meta description : Make every approved replacement a second sale. Guide funds full-retail reorders placed through your Shopify store and covers approved refunds. Mana...
+canonical URL    : https://apps.shopify.com/guide-1
+<h1> tags ( 1)  : 'Guide Protection + Returns'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

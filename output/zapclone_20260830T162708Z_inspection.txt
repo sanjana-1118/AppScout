@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zapclone_20260830T162708Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zapclone_20260830T162708Z.html
+Requested URL    : https://apps.shopify.com/zapclone
+Final URL        : https://apps.shopify.com/zapclone
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,302 bytes / 168,209 chars
+Elapsed          : 1.080s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZapClone - Clone products instantly | Shopify App Store
+meta description : Clone products from a store in seconds. Import images, variants, pricing, and full details instantly to grow your catalog fast with ZapClone.
+canonical URL    : https://apps.shopify.com/zapclone
+<h1> tags ( 1)  : 'ZapClone'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\priya-cod-form_20260830T142543Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\priya-cod-form_20260830T142543Z.html
+Requested URL    : https://apps.shopify.com/priya-cod-form
+Final URL        : https://apps.shopify.com/priya-cod-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,292 bytes / 196,199 chars
+Elapsed          : 0.813s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Priya COD Form: Made In India - Highly Customizable COD Form | Shopify App Store
+meta description : Highly Customizable COD Form
+canonical URL    : https://apps.shopify.com/priya-cod-form
+<h1> tags ( 1)  : 'Priya COD Form: Made In India'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fitsee_20260830T145049Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fitsee_20260830T145049Z.html
+Requested URL    : https://apps.shopify.com/fitsee
+Final URL        : https://apps.shopify.com/fitsee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,808 bytes / 181,681 chars
+Elapsed          : 1.018s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Virtual Try On ‑ FitSee - Let shoppers try on products with AI before they buy. | Shopify App Store
+meta description : Let customers try on your products before buying. Boost sales, reduce returns, and improve shopper confidence with Ty On Me’s AI-powered product previews.
+canonical URL    : https://apps.shopify.com/fitsee
+<h1> tags ( 1)  : 'AI Virtual Try On ‑ FitSee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dalibor-xml-feed_20260830T034412Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dalibor-xml-feed_20260830T034412Z.html
+Requested URL    : https://apps.shopify.com/dalibor-xml-feed
+Final URL        : https://apps.shopify.com/dalibor-xml-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,778 bytes / 212,673 chars
+Elapsed          : 0.732s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Exporto ‑ Products data export - Create custom xml file(link)  from products. Real time update | Shopify App Store
+meta description : Exports products from Shopify in various file formats that can be integrated with platforms like Facebook, Google, Heureka, Shopflix, Skroutz,Glami,Mall,Vivino
+canonical URL    : https://apps.shopify.com/dalibor-xml-feed
+<h1> tags ( 1)  : 'Exporto ‑ Products data export'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

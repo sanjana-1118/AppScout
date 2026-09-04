@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thnkrai-pricing-platform_20260830T044715Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thnkrai-pricing-platform_20260830T044715Z.html
+Requested URL    : https://apps.shopify.com/thnkrai-pricing-platform
+Final URL        : https://apps.shopify.com/thnkrai-pricing-platform
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,779 bytes / 190,658 chars
+Elapsed          : 0.870s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : thnkr ‑ Price tracking - Automatic Competitor Monitoring & Repricing - Boost Sales | Shopify App Store
+meta description : Automatically beat competitors and optimize prices with thnkrAI to boost sales and save time.
+canonical URL    : https://apps.shopify.com/thnkrai-pricing-platform
+<h1> tags ( 1)  : 'thnkr ‑ Price tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

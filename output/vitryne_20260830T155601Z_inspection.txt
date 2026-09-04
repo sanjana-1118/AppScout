@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vitryne_20260830T155601Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vitryne_20260830T155601Z.html
+Requested URL    : https://apps.shopify.com/vitryne
+Final URL        : https://apps.shopify.com/vitryne
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,255 bytes / 178,162 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vitryne - Virtual fitting room for your clients to reduce returns | Shopify App Store
+meta description : Reduce returns & boost sales with 3D virtual try-on technology. Customers create avatars to see exact clothing fit. Easy Shopify integration for fashion stores.
+canonical URL    : https://apps.shopify.com/vitryne
+<h1> tags ( 1)  : 'Vitryne'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

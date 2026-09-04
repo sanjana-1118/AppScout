@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mx-brand-logo-marquee_20260830T170140Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mx-brand-logo-marquee_20260830T170140Z.html
+Requested URL    : https://apps.shopify.com/mx-brand-logo-marquee
+Final URL        : https://apps.shopify.com/mx-brand-logo-marquee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,381 bytes / 169,292 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mx Brand Logo Marquee - Display logos smoothly with size, speed, and layout control. | Shopify App Store
+meta description : Display scrolling brand and partner logos with an easy-to-use marquee slider. Add multiple logos, control speed and size, and keep it fully responsive.
+canonical URL    : https://apps.shopify.com/mx-brand-logo-marquee
+<h1> tags ( 1)  : 'Mx Brand Logo Marquee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

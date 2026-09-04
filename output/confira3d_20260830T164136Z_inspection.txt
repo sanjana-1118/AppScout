@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\confira3d_20260830T164136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\confira3d_20260830T164136Z.html
+Requested URL    : https://apps.shopify.com/confira3d
+Final URL        : https://apps.shopify.com/confira3d
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,503 bytes / 187,410 chars
+Elapsed          : 0.763s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Confira 3D Configurator - No-code 3D & AR viewer with variant-based configuration | Shopify App Store
+meta description : Add a no-code 3D & AR viewer to product pages with a Theme Editor block. Sync variants, and set textures, materials, visibility, and camera limits
+canonical URL    : https://apps.shopify.com/confira3d
+<h1> tags ( 1)  : 'Confira 3D Configurator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

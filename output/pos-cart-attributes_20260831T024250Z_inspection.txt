@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pos-cart-attributes_20260831T024250Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pos-cart-attributes_20260831T024250Z.html
+Requested URL    : https://apps.shopify.com/pos-cart-attributes
+Final URL        : https://apps.shopify.com/pos-cart-attributes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,189 bytes / 177,064 chars
+Elapsed          : 0.845s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AttrCart - Cart and line-item attributes in POS—admin keys, no backend. | Shopify App Store
+meta description : Set order-level and per-item values from admin key lists. Same flow on tile and line items—no backend.
+canonical URL    : https://apps.shopify.com/pos-cart-attributes
+<h1> tags ( 1)  : 'AttrCart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

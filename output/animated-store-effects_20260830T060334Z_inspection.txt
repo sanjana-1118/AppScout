@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\animated-store-effects_20260830T060334Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\animated-store-effects_20260830T060334Z.html
+Requested URL    : https://apps.shopify.com/animated-store-effects
+Final URL        : https://apps.shopify.com/animated-store-effects
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,567 bytes / 204,477 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ASE Animated Store Effects - Celebrate Add-to-Cart moments with animated effects | Shopify App Store
+meta description : Add animated effects to your Shopify store. Celebrate Add-to-Cart with confetti, create festive snowfall, heartfall, starfall or custom emoji animations.
+canonical URL    : https://apps.shopify.com/animated-store-effects
+<h1> tags ( 1)  : 'ASE Animated Store Effects'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

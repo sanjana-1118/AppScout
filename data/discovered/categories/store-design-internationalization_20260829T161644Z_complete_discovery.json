@@ -1,0 +1,42 @@
+{
+  "category_url": "https://apps.shopify.com/categories/store-design-internationalization",
+  "category_slug": "store-design-internationalization",
+  "traversal_timestamp": "2026-08-29T16:16:44.791413+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/store-design-internationalization"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/langify",
+    "https://apps.shopify.com/bucks-currency-converter",
+    "https://apps.shopify.com/avada-cookie-bar",
+    "https://apps.shopify.com/translate-and-adapt",
+    "https://apps.shopify.com/transtore-language-and-currency",
+    "https://apps.shopify.com/content-translation",
+    "https://apps.shopify.com/orbe",
+    "https://apps.shopify.com/weglot",
+    "https://apps.shopify.com/multilingual-shop-by-gtranslate",
+    "https://apps.shopify.com/gdpr-backpack",
+    "https://apps.shopify.com/gdpr-cookie-consent",
+    "https://apps.shopify.com/transcy-multiple-languages",
+    "https://apps.shopify.com/selectors",
+    "https://apps.shopify.com/ea-auto-translate-language",
+    "https://apps.shopify.com/ez-product-image-translate",
+    "https://apps.shopify.com/translate-my-store",
+    "https://apps.shopify.com/hoppy-currency-converter",
+    "https://apps.shopify.com/convercy",
+    "https://apps.shopify.com/eu-cookies-notification",
+    "https://apps.shopify.com/ga-gdpr-ccpa-cookie-banner",
+    "https://apps.shopify.com/cookiebot-cmp-gdpr-compliance",
+    "https://apps.shopify.com/hoppy-cookie",
+    "https://apps.shopify.com/tinycookie",
+    "https://apps.shopify.com/complianz-gdpr-cookie-consent"
+  ],
+  "total_urls_encountered": 30,
+  "unique_app_urls": 24,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\private-sourcing_20260830T142112Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\private-sourcing_20260830T142112Z.html
+Requested URL    : https://apps.shopify.com/private-sourcing
+Final URL        : https://apps.shopify.com/private-sourcing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,985 bytes / 150,784 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Private‑Sourcing Dropshipping - One-click product import and automated order fulfillment | Shopify App Store
+meta description : We provide efficient fulfillment services in sourcing, purchasing, warehousing, and shipping. 1 on 1 private agents can quickly respond to your nee...
+canonical URL    : https://apps.shopify.com/private-sourcing?locale=zh-CN
+<h1> tags ( 1)  : 'Private‑Sourcing Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

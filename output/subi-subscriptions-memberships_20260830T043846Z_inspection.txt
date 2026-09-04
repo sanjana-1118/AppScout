@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\subi-subscriptions-memberships_20260830T043846Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\subi-subscriptions-memberships_20260830T043846Z.html
+Requested URL    : https://apps.shopify.com/subi-subscriptions-memberships
+Final URL        : https://apps.shopify.com/subi-subscriptions-memberships
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 287,990 bytes / 287,878 chars
+Elapsed          : 0.589s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Subi Subscriptions App - Boost sales with subscriptions, memberships, bundles & loyalty | Shopify App Store
+meta description : Elevate your store's revenue with Subi - the all-in-one subscription and recurring payment tool for products, boxes, memberships, and more. Get started today!
+canonical URL    : https://apps.shopify.com/subi-subscriptions-memberships
+<h1> tags ( 1)  : 'Subi Subscriptions App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

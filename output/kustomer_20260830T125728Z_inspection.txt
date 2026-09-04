@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kustomer_20260830T125728Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kustomer_20260830T125728Z.html
+Requested URL    : https://apps.shopify.com/kustomer
+Final URL        : https://apps.shopify.com/kustomer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,541 bytes / 209,452 chars
+Elapsed          : 0.766s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kustomer - AI-Powered Support: Seamless Integration & Insights | Shopify App Store
+meta description : Discover Kustomer's AI-powered CRM for Shopify. Tailored omnichannel support and customer insights to elevate your eCommerce and retail experience.
+canonical URL    : https://apps.shopify.com/kustomer
+<h1> tags ( 1)  : 'Kustomer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

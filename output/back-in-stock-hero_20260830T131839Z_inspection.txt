@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-hero_20260830T131839Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-hero_20260830T131839Z.html
+Requested URL    : https://apps.shopify.com/back-in-stock-hero
+Final URL        : https://apps.shopify.com/back-in-stock-hero
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,513 bytes / 197,404 chars
+Elapsed          : 1.009s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Back in Stock Hero - Grow Sales with back in stock alerts | Shopify App Store
+meta description : Improve your sales with our Back in stock hero, Installation with just one click  No coding needed. Send back-in-stock emails to your subscribers w...
+canonical URL    : https://apps.shopify.com/back-in-stock-hero
+<h1> tags ( 1)  : 'Back in Stock Hero'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

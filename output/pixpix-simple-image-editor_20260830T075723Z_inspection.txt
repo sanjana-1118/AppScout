@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixpix-simple-image-editor_20260830T075723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixpix-simple-image-editor_20260830T075723Z.html
+Requested URL    : https://apps.shopify.com/pixpix-simple-image-editor
+Final URL        : https://apps.shopify.com/pixpix-simple-image-editor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,929 bytes / 203,838 chars
+Elapsed          : 0.813s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PixPix Image Editor - Easy way to edit your product images | Shopify App Store
+meta description : PixPix image editor is a simple to use editor with a lot of image editing options like photo resize.
+
+PixPix have a simple and intuitive interface ...
+canonical URL    : https://apps.shopify.com/pixpix-simple-image-editor
+<h1> tags ( 1)  : 'PixPix Image Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

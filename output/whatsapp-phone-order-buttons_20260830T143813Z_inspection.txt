@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-phone-order-buttons_20260830T143813Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-phone-order-buttons_20260830T143813Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-phone-order-buttons
+Final URL        : https://apps.shopify.com/whatsapp-phone-order-buttons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,582 bytes / 167,484 chars
+Elapsed          : 0.718s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Phone Order buttons - Quickly add "Order by Phone" and "Order on WhatsApp" buttons... | Shopify App Store
+meta description : Quickly add "order by phone" and "order on whatsapp" buttons to your store with no coding required.
+
+Fully customisable buttons anywhere on the product page
+canonical URL    : https://apps.shopify.com/whatsapp-phone-order-buttons
+<h1> tags ( 1)  : 'Phone Order buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

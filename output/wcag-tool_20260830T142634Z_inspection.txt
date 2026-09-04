@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wcag-tool_20260830T142634Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wcag-tool_20260830T142634Z.html
+Requested URL    : https://apps.shopify.com/wcag-tool
+Final URL        : https://apps.shopify.com/wcag-tool
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,282 bytes / 185,180 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WebComply ADA & WCAG - Safeguard Your Site: Streamlined Compliance & Legal Shielding | Shopify App Store
+meta description : Enhance your site with WebComply ADA & WCAG: Effortless ADA & WCAG compliance and legal protection in one simple Shopify solution.
+canonical URL    : https://apps.shopify.com/wcag-tool
+<h1> tags ( 1)  : 'WebComply ADA & WCAG'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

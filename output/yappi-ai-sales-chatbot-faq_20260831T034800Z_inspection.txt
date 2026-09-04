@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yappi-ai-sales-chatbot-faq_20260831T034800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yappi-ai-sales-chatbot-faq_20260831T034800Z.html
+Requested URL    : https://apps.shopify.com/yappi-ai-sales-chatbot-faq
+Final URL        : https://apps.shopify.com/yappi-ai-sales-chatbot-faq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,769 bytes / 213,657 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yappi: Live Chat & AI Agent - AI agents for proactive sales, support. Live Chat, Emails. | Shopify App Store
+meta description : Instant AI live chat with zero login or forms. Yappi answers product, shipping, and order questions 24/7 from your catalog and captures every shopper lead.
+canonical URL    : https://apps.shopify.com/yappi-ai-sales-chatbot-faq
+<h1> tags ( 1)  : 'Yappi: Live Chat & AI Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

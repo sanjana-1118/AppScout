@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kaching-post-purchase-upsell_20260829T184653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kaching-post-purchase-upsell_20260829T184653Z.html
+Requested URL    : https://apps.shopify.com/kaching-post-purchase-upsell
+Final URL        : https://apps.shopify.com/kaching-post-purchase-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 237,431 bytes / 237,338 chars
+Elapsed          : 0.783s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kaching Post Purchase Upsell - Boost AOV via 1-click Checkout upsells & Thank You page... | Shopify App Store
+meta description : Offer one-click upsells after checkout to boost your AOV. Easy setup, seamless customization!
+canonical URL    : https://apps.shopify.com/kaching-post-purchase-upsell
+<h1> tags ( 1)  : 'Kaching Post Purchase Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

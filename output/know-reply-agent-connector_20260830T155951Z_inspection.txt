@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\know-reply-agent-connector_20260830T155951Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\know-reply-agent-connector_20260830T155951Z.html
+Requested URL    : https://apps.shopify.com/know-reply-agent-connector
+Final URL        : https://apps.shopify.com/know-reply-agent-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,503 bytes / 185,390 chars
+Elapsed          : 0.545s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Know Reply‑AI Email Engagement - Automatically handle email replies from campaigns/transactions | Shopify App Store
+meta description : Know Reply answers every customer email to resolve questions and keep buyers engaged. AI manages no-reply and campaign inboxes with personalized responses.
+canonical URL    : https://apps.shopify.com/know-reply-agent-connector
+<h1> tags ( 1)  : 'Know Reply‑AI Email Engagement'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

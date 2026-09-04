@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/runtodropship-dropshipping-pod",
+  "fetch_timestamp": "2026-08-30T15:44:27.465755+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\runtodropship-dropshipping-pod_20260830T154427Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\runtodropship-dropshipping-pod_20260830T154427Z.html",
+    "url": "https://apps.shopify.com/runtodropship-dropshipping-pod",
+    "final_url": "https://apps.shopify.com/runtodropship-dropshipping-pod",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 183967,
+    "body_text_length": 183846,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.884435,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Runtodropship‑Dropshipping&POD - Trusted Dropshipping suppliers & Sourcing agent from China | Shopify App Store",
+    "meta_description": "Connect your Shopify store with a China private dropshipping agent for sourcing, product checks, packaging, shipping, and after-sales support.",
+    "canonical_url": "https://apps.shopify.com/runtodropship-dropshipping-pod",
+    "h1_tags": [
+      "Runtodropship‑Dropshipping&POD"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Runtodropship‑Dropshipping&POD",
+    "app_slug": "runtodropship-dropshipping-pod",
+    "app_url": "https://apps.shopify.com/runtodropship-dropshipping-pod",
+    "developer_name": "Runtodropship",
+    "description": "Connect your Shopify store with a China private dropshipping agent for sourcing, product checks, packaging, shipping, and after-sales support.",
+    "average_rating": 5.0,
+    "review_count": 3,
+    "category": "Sourcing options - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\runtodropship-dropshipping-pod_20260830T154427Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\runtodropship-dropshipping-pod_20260830T154427Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Runtodropship‑Dropshipping&POD",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "runtodropship-dropshipping-pod",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/runtodropship-dropshipping-pod",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Runtodropship",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Connect your Shopify store with a China private dropshipping agent for sourcing, product checks, packaging, shipping, and after-sales support.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 3,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Sourcing options - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

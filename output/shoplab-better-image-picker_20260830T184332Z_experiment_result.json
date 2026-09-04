@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shoplab-better-image-picker",
+  "fetch_timestamp": "2026-08-30T18:43:32.014616+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shoplab-better-image-picker_20260830T184332Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shoplab-better-image-picker_20260830T184332Z.html",
+    "url": "https://apps.shopify.com/shoplab-better-image-picker",
+    "final_url": "https://apps.shopify.com/shoplab-better-image-picker",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 164454,
+    "body_text_length": 164365,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.641221,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "shoplab: Easy Image Picker - Easily organize and access your images, no more endless scroll | Shopify App Store",
+    "meta_description": "Organize image files and pick them faster from your theme. Easy Image Picker brings folders and tags to your store.",
+    "canonical_url": "https://apps.shopify.com/shoplab-better-image-picker",
+    "h1_tags": [
+      "shoplab: Easy Image Picker"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "shoplab: Easy Image Picker",
+    "app_slug": "shoplab-better-image-picker",
+    "app_url": "https://apps.shopify.com/shoplab-better-image-picker",
+    "developer_name": "shoplab",
+    "description": "Organize image files and pick them faster from your theme. Easy Image Picker brings folders and tags to your store.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Image gallery"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shoplab-better-image-picker_20260830T184332Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shoplab-better-image-picker_20260830T184332Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "shoplab: Easy Image Picker",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shoplab-better-image-picker",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shoplab-better-image-picker",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "shoplab",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Organize image files and pick them faster from your theme. Easy Image Picker brings folders and tags to your store.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Image gallery",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

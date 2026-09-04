@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ex-box-price-calculator_20260829T181928Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ex-box-price-calculator_20260829T181928Z.html
+Requested URL    : https://apps.shopify.com/ex-box-price-calculator
+Final URL        : https://apps.shopify.com/ex-box-price-calculator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,397 bytes / 182,305 chars
+Elapsed          : 0.645s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ex Box Price Calculator - Calculate prices for box & roll products instantly | Shopify App Store
+meta description : The Box & Roll Calculator lets customers calculate product prices based on the number of boxes or rolls required for their project. Customers simpl...
+canonical URL    : https://apps.shopify.com/ex-box-price-calculator
+<h1> tags ( 1)  : 'Ex Box Price Calculator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

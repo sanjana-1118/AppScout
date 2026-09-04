@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\postcard-app_20260830T142856Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\postcard-app_20260830T142856Z.html
+Requested URL    : https://apps.shopify.com/postcard-app
+Final URL        : https://apps.shopify.com/postcard-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,055 bytes / 165,962 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PaperNotes Postcards - Boost Sales Through Personalized Postcard Campaigns | Shopify App Store
+meta description : PaperNotes Postcards revolutionizes customer retention by automating personalized postcard campaigns for Shopify merchants. This app is an invaluab...
+canonical URL    : https://apps.shopify.com/postcard-app
+<h1> tags ( 1)  : 'PaperNotes Postcards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

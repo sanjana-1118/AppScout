@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ups-shipping-label-printing_20260830T182751Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ups-shipping-label-printing_20260830T182751Z.html
+Requested URL    : https://apps.shopify.com/ups-shipping-label-printing
+Final URL        : https://apps.shopify.com/ups-shipping-label-printing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,495 bytes / 182,406 chars
+Elapsed          : 0.655s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PoCo's UPS Shipping & Labels - Get accurate UPS rates with dimensional weight & package sizes | Shopify App Store
+meta description : Show your customers real-time UPS shipping rates at checkout, with full support for dimensional weight. Define the box sizes you ship with, assign ...
+canonical URL    : https://apps.shopify.com/ups-shipping-label-printing
+<h1> tags ( 1)  : "PoCo's UPS Shipping & Labels"
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

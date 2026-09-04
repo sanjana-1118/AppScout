@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seguno-popups_20260830T060947Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seguno-popups_20260830T060947Z.html
+Requested URL    : https://apps.shopify.com/seguno-popups
+Final URL        : https://apps.shopify.com/seguno-popups
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,484 bytes / 250,377 chars
+Elapsed          : 0.565s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Seguno Popups & Forms - Easy SMS & email pop up forms with triggers like... | Shopify App Store
+meta description : Turn site visitors into loyal customers. Seguno Popups & Forms lets you create, trigger, and track your popups and forms right inside Shopify.
+canonical URL    : https://apps.shopify.com/seguno-popups
+<h1> tags ( 1)  : 'Seguno Popups & Forms'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

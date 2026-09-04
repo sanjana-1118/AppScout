@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartchat-multi-channel-sync_20260830T144537Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartchat-multi-channel-sync_20260830T144537Z.html
+Requested URL    : https://apps.shopify.com/smartchat-multi-channel-sync
+Final URL        : https://apps.shopify.com/smartchat-multi-channel-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,581 bytes / 176,469 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SmartChat: Multi‑Channel Sync - Boost Customer Engagement with Instant Multi-Channel Chat | Shopify App Store
+meta description : SmartChat integrates WhatsApp, Instagram, Messenger, and more into your Shopify store, enhancing customer engagement with customizable chat options.
+canonical URL    : https://apps.shopify.com/smartchat-multi-channel-sync
+<h1> tags ( 1)  : 'SmartChat: Multi‑Channel Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

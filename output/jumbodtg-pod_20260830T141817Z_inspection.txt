@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jumbodtg-pod_20260830T141817Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jumbodtg-pod_20260830T141817Z.html
+Requested URL    : https://apps.shopify.com/jumbodtg-pod
+Final URL        : https://apps.shopify.com/jumbodtg-pod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,506 bytes / 162,417 chars
+Elapsed          : 0.968s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Jumbodtg POD - Design and Market Personalized Merchandise, We'll Ship It! | Shopify App Store
+meta description : We offer large format DTG printing on luxury and ordinary garments for businesses of all kinds. Our maximum print area of 16"x21" inches allows you...
+canonical URL    : https://apps.shopify.com/jumbodtg-pod
+<h1> tags ( 1)  : 'Jumbodtg POD'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\converta_20260830T182954Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\converta_20260830T182954Z.html
+Requested URL    : https://apps.shopify.com/converta
+Final URL        : https://apps.shopify.com/converta
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,709 bytes / 173,606 chars
+Elapsed          : 0.920s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Converta: AI Conversion Audit - Simulate shoppers, find conversion killers, get ranked fixes. | Shopify App Store
+meta description : Simulate 15 shoppers across 3 buyer personas to find exactly why your store loses sales. Get ranked fixes with CVR predictions before and after.
+canonical URL    : https://apps.shopify.com/converta
+<h1> tags ( 1)  : 'Converta: AI Conversion Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

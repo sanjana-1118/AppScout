@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\livemeup_20260830T142626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\livemeup_20260830T142626Z.html
+Requested URL    : https://apps.shopify.com/livemeup
+Final URL        : https://apps.shopify.com/livemeup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 262,673 bytes / 262,577 chars
+Elapsed          : 0.630s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LiveMeUp Live Shopping - Grow your Sales with Live Selling and Facebook Live Shopping | Shopify App Store
+meta description : Video commerce platform for Live shopping sessions and Shoppable videos. Available on Shopify App store. Free 14-day trial, no credit card.
+canonical URL    : https://apps.shopify.com/livemeup
+<h1> tags ( 1)  : 'LiveMeUp Live Shopping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

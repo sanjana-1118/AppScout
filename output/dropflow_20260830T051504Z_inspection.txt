@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropflow_20260830T051504Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropflow_20260830T051504Z.html
+Requested URL    : https://apps.shopify.com/dropflow
+Final URL        : https://apps.shopify.com/dropflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,544 bytes / 202,449 chars
+Elapsed          : 0.609s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Excel CSV Tracking MassImport - Easily Import thousands of tracking numbers in one click | Shopify App Store
+meta description : Quick start:
+1) After installing the app, just download the sample file by clicking the link above the "upload" button
+2) Modify this file with you...
+canonical URL    : https://apps.shopify.com/dropflow
+<h1> tags ( 1)  : 'Excel CSV Tracking MassImport'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

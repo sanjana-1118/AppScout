@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-multi-currency-converter_20260830T033409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-multi-currency-converter_20260830T033409Z.html
+Requested URL    : https://apps.shopify.com/auto-multi-currency-converter
+Final URL        : https://apps.shopify.com/auto-multi-currency-converter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,971 bytes / 226,882 chars
+Elapsed          : 0.517s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Currency Converter Bear - Display prices & allow checkout with customer's local currency | Shopify App Store
+meta description : Use our Shopify multi currency converter app to show your prices to a local currency based on your customer's geo location.
+canonical URL    : https://apps.shopify.com/auto-multi-currency-converter
+<h1> tags ( 1)  : 'Currency Converter Bear'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

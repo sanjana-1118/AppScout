@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lalamove-us-e-com-connector_20260830T181258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lalamove-us-e-com-connector_20260830T181258Z.html
+Requested URL    : https://apps.shopify.com/lalamove-us-e-com-connector
+Final URL        : https://apps.shopify.com/lalamove-us-e-com-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,309 bytes / 189,202 chars
+Elapsed          : 0.976s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lalamove US E‑Com Connector - Effortlessly manage delivery requests across multiple channels | Shopify App Store
+meta description : Feeling hassel in managing delviery from multiple platforms? You can start to pipe Shopify demands to Lalamove webpage's Order Management Tool. An ...
+canonical URL    : https://apps.shopify.com/lalamove-us-e-com-connector
+<h1> tags ( 1)  : 'Lalamove US E‑Com Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

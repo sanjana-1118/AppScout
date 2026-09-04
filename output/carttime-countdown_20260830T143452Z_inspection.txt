@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carttime-countdown_20260830T143452Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carttime-countdown_20260830T143452Z.html
+Requested URL    : https://apps.shopify.com/carttime-countdown
+Final URL        : https://apps.shopify.com/carttime-countdown
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,371 bytes / 183,278 chars
+Elapsed          : 0.848s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Carttime Countdown - Get more orders by making urgency and necessity in customers. | Shopify App Store
+meta description : Try countdown timer free app to increase sales and revenue.
+canonical URL    : https://apps.shopify.com/carttime-countdown
+<h1> tags ( 1)  : 'Carttime Countdown'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

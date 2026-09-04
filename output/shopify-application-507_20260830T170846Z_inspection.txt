@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-507_20260830T170846Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-507_20260830T170846Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-507
+Final URL        : https://apps.shopify.com/shopify-application-507
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,599 bytes / 165,092 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 特定商取引法ページ - フォーム入力だけで特商法ページを自動作成・公開　完全無料 | Shopify App Store
+meta description : 日本でECサイトを運営する上で法律上必須の「特定商取引法に基づく表記」ページを、管理画面からかんたんに作成・公開できるアプリです。販売業者名・代表者名・所在地・電話番号・メールアドレス・返品条件など、特商法で求められる全ての記載項目をフォームに入力するだけで、法令に準拠したページが自動生成され...
+canonical URL    : https://apps.shopify.com/shopify-application-507?locale=ja
+<h1> tags ( 1)  : '特定商取引法ページ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

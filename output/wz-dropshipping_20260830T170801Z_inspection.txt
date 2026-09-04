@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wz-dropshipping_20260830T170801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wz-dropshipping_20260830T170801Z.html
+Requested URL    : https://apps.shopify.com/wz-dropshipping
+Final URL        : https://apps.shopify.com/wz-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,778 bytes / 158,669 chars
+Elapsed          : 0.802s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WZ Dropshipping - Sync products, orders, and fulfillment workflows | Shopify App Store
+meta description : WZ Dropshipping helps Shopify merchants sync products and orders, submit sourcing requests, and manage fulfillment workflows in one place.
+canonical URL    : https://apps.shopify.com/wz-dropshipping
+<h1> tags ( 1)  : 'WZ Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

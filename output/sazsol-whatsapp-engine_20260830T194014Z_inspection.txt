@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sazsol-whatsapp-engine_20260830T194014Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sazsol-whatsapp-engine_20260830T194014Z.html
+Requested URL    : https://apps.shopify.com/sazsol-whatsapp-engine
+Final URL        : https://apps.shopify.com/sazsol-whatsapp-engine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,500 bytes / 176,411 chars
+Elapsed          : 0.726s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sazsol: WhatsApp Engine - Private client servers for WhatsApp & courier booking. | Shopify App Store
+meta description : Reduce Cash on Delivery (COD) returns with automated WhatsApp verification. Book and track shipments across multiple local courier services in one dashboard.
+canonical URL    : https://apps.shopify.com/sazsol-whatsapp-engine
+<h1> tags ( 1)  : 'Sazsol: WhatsApp Engine'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\picking-list-wizard_20260830T051814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\picking-list-wizard_20260830T051814Z.html
+Requested URL    : https://apps.shopify.com/picking-list-wizard
+Final URL        : https://apps.shopify.com/picking-list-wizard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,971 bytes / 188,882 chars
+Elapsed          : 0.840s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Picking List Wizard - Speed up and optimize your order fulfilment process | Shopify App Store
+meta description : Picking list wizard allows to create product picking lists from within Shopify app area.
+
+A picking list is usually is a document sent to your ware...
+canonical URL    : https://apps.shopify.com/picking-list-wizard
+<h1> tags ( 1)  : 'Picking List Wizard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-chart-guide-by-jotly_20260830T041537Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-chart-guide-by-jotly_20260830T041537Z.html
+Requested URL    : https://apps.shopify.com/size-chart-guide-by-jotly
+Final URL        : https://apps.shopify.com/size-chart-guide-by-jotly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,010 bytes / 264,913 chars
+Elapsed          : 0.978s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Jotly Size Chart & Size Guide - Size chart, size guide to help pick right size +... | Shopify App Store
+meta description : Size charts and size guides for Shopify made simple with Jotly. Add text, images, and multi-language support using our drag-and-drop builder.
+canonical URL    : https://apps.shopify.com/size-chart-guide-by-jotly
+<h1> tags ( 1)  : 'Jotly Size Chart & Size Guide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

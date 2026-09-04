@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zentra-announcement-bar_20260830T165655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zentra-announcement-bar_20260830T165655Z.html
+Requested URL    : https://apps.shopify.com/zentra-announcement-bar
+Final URL        : https://apps.shopify.com/zentra-announcement-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,111 bytes / 214,020 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zentra Announcement Bar - Promote sales with an easy-to-customize announcement bar | Shopify App Store
+meta description : Create eye-catching announcement bars for your storefront. Promote sales, shipping info, and special offers. Easy to customize, mobile-responsive, code free.
+canonical URL    : https://apps.shopify.com/zentra-announcement-bar
+<h1> tags ( 1)  : 'Zentra Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

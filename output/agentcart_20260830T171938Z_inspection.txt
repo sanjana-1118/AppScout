@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agentcart_20260830T171938Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agentcart_20260830T171938Z.html
+Requested URL    : https://apps.shopify.com/agentcart
+Final URL        : https://apps.shopify.com/agentcart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,403 bytes / 156,282 chars
+Elapsed          : 0.494s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AgentCart - Make your store discoverable to every AI shopping agent | Shopify App Store
+meta description : Connect your Shopify store to Claude, ChatGPT, Gemini, and every AI shopping agent in minutes. Auto-generate a UCP manifest and monitor agent interactions.
+canonical URL    : https://apps.shopify.com/agentcart
+<h1> tags ( 1)  : 'AgentCart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

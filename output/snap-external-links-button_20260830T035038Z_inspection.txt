@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-external-links-button_20260830T035038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-external-links-button_20260830T035038Z.html
+Requested URL    : https://apps.shopify.com/snap-external-links-button
+Final URL        : https://apps.shopify.com/snap-external-links-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,302 bytes / 198,213 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Snap: External Links Button - External link buttons for affiliate links, products, and more | Shopify App Store
+meta description : Add customizable external link buttons to your Shopify store for affiliate sales, product links, and more. Boost conversions with easy button integration.
+canonical URL    : https://apps.shopify.com/snap-external-links-button
+<h1> tags ( 1)  : 'Snap: External Links Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

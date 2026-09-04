@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockflow-3_20260831T024549Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockflow-3_20260831T024549Z.html
+Requested URL    : https://apps.shopify.com/stockflow-3
+Final URL        : https://apps.shopify.com/stockflow-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,399 bytes / 167,306 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockFlow - Purchase orders, receiving, and landed-cost tracking. | Shopify App Store
+meta description : Create purchase orders, receive stock with automatic inventory sync, and track weighted-average landed cost. All inside Shopify admin.
+canonical URL    : https://apps.shopify.com/stockflow-3
+<h1> tags ( 1)  : 'StockFlow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

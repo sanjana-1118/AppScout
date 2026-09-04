@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intempt_20260830T131827Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intempt_20260830T131827Z.html
+Requested URL    : https://apps.shopify.com/intempt
+Final URL        : https://apps.shopify.com/intempt
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,819 bytes / 181,730 chars
+Elapsed          : 0.884s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Intempt Experiences - Personalize & A/B test your storefront | Shopify App Store
+meta description : Launch no-code experiences. Personalization and experiments that react to customer behavior and improve conversion.
+canonical URL    : https://apps.shopify.com/intempt
+<h1> tags ( 1)  : 'Intempt Experiences'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

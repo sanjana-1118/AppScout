@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\theme-sections-ai-pages_20260830T034815Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\theme-sections-ai-pages_20260830T034815Z.html
+Requested URL    : https://apps.shopify.com/theme-sections-ai-pages
+Final URL        : https://apps.shopify.com/theme-sections-ai-pages
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,177 bytes / 220,075 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Theme Sections & Page Builder - Build pages faster with 40+ theme sections and AI page... | Shopify App Store
+meta description : Theme Sections & AI Page Builder gives you the freedom to change your store design without the hassle of a full redesign and build entire pages.
+canonical URL    : https://apps.shopify.com/theme-sections-ai-pages
+<h1> tags ( 1)  : 'Theme Sections & Page Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lightning-deals-and-discounts_20260830T151745Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lightning-deals-and-discounts_20260830T151745Z.html
+Requested URL    : https://apps.shopify.com/lightning-deals-and-discounts
+Final URL        : https://apps.shopify.com/lightning-deals-and-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,856 bytes / 227,738 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lightning Deals: Sales Booster - Lightning deals & Flash Sales - with quantity and timer... | Shopify App Store
+meta description : Boost urgency and conversions with Black Friday Lightning Deals. Run limited-time, limited-quantity offers like Amazon or Temu – all on your Shopify store.
+canonical URL    : https://apps.shopify.com/lightning-deals-and-discounts
+<h1> tags ( 1)  : 'Lightning Deals: Sales Booster'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

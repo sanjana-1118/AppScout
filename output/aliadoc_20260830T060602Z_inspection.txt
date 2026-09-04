@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aliadoc_20260830T060602Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aliadoc_20260830T060602Z.html
+Requested URL    : https://apps.shopify.com/aliadoc
+Final URL        : https://apps.shopify.com/aliadoc
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,316 bytes / 161,223 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Aliadoc - Fine tune style of your store theme to make it... | Shopify App Store
+meta description : A simple tool that helps you enhance your existing Shopify web store theme.
+canonical URL    : https://apps.shopify.com/aliadoc
+<h1> tags ( 1)  : 'Aliadoc'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

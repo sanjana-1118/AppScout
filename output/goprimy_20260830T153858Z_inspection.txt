@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goprimy_20260830T153858Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goprimy_20260830T153858Z.html
+Requested URL    : https://apps.shopify.com/goprimy
+Final URL        : https://apps.shopify.com/goprimy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,821 bytes / 165,727 chars
+Elapsed          : 1.003s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GoPrimy: AI Email Sales Agent - Skip the Promotions tab and recover more sales automatically. | Shopify App Store
+meta description : GoPrimy is your AI Sales Rep that writes like a human and lands in the Primary inbox to help Shopify stores recover carts and boost revenue on autopilot.
+canonical URL    : https://apps.shopify.com/goprimy
+<h1> tags ( 1)  : 'GoPrimy: AI Email Sales Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

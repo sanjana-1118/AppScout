@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\droplink-checkout-links_20260830T180214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\droplink-checkout-links_20260830T180214Z.html
+Requested URL    : https://apps.shopify.com/droplink-checkout-links
+Final URL        : https://apps.shopify.com/droplink-checkout-links
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,971 bytes / 186,882 chars
+Elapsed          : 0.624s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DropLink Checkout Links - Shareable checkout links with subscriptions, UTMs, and A/B | Shopify App Store
+meta description : Shareable Shopify checkout links with subscriptions, discounts, UTMs, and A/B testing. The only app for cart permalinks with subscriptions pre-applied.
+canonical URL    : https://apps.shopify.com/droplink-checkout-links
+<h1> tags ( 1)  : 'DropLink Checkout Links'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hatimeria-checkout-branding_20260830T060458Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hatimeria-checkout-branding_20260830T060458Z.html
+Requested URL    : https://apps.shopify.com/hatimeria-checkout-branding
+Final URL        : https://apps.shopify.com/hatimeria-checkout-branding
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,156 bytes / 162,067 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hatimeria Checkout Branding - Customize checkout to boost sales and convert more visitors. | Shopify App Store
+meta description : Customize checkout on Shopify for more sales. Tailor every element to boost your brand and convert more visitors into loyal customers. Try it now!
+canonical URL    : https://apps.shopify.com/hatimeria-checkout-branding
+<h1> tags ( 1)  : 'Hatimeria Checkout Branding'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

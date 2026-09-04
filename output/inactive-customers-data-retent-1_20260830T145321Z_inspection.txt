@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inactive-customers-data-retent-1_20260830T145321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inactive-customers-data-retent-1_20260830T145321Z.html
+Requested URL    : https://apps.shopify.com/inactive-customers-data-retent-1
+Final URL        : https://apps.shopify.com/inactive-customers-data-retent-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,022 bytes / 161,933 chars
+Elapsed          : 0.943s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dormant Customer Manager - Keep Your Customer List Clean and Up-to-Date | Shopify App Store
+meta description : Running an online store means managing not only your products but also your online shopper's list. Over time, your customer database can become clu...
+canonical URL    : https://apps.shopify.com/inactive-customers-data-retent-1
+<h1> tags ( 1)  : 'Dormant Customer Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

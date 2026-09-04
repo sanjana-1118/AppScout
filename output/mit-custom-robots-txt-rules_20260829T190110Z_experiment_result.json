@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/mit-custom-robots-txt-rules",
+  "fetch_timestamp": "2026-08-29T19:01:11.017592+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mit-custom-robots-txt-rules_20260829T190110Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mit-custom-robots-txt-rules_20260829T190110Z.html",
+    "url": "https://apps.shopify.com/mit-custom-robots-txt-rules",
+    "final_url": "https://apps.shopify.com/mit-custom-robots-txt-rules",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 175650,
+    "body_text_length": 175559,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.956667,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "MIT Custom Robots.txt Rules - Easy way to edit the default robots.txt | Shopify App Store",
+    "meta_description": "The MIT Custom Robots.txt Rules Shopify app makes it super easy to edit the default robots.txt file without any complicated steps or coding.",
+    "canonical_url": "https://apps.shopify.com/mit-custom-robots-txt-rules",
+    "h1_tags": [
+      "MIT Custom Robots.txt Rules"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "MIT Custom Robots.txt Rules",
+    "app_slug": "mit-custom-robots-txt-rules",
+    "app_url": "https://apps.shopify.com/mit-custom-robots-txt-rules",
+    "developer_name": "Meetanshi Technologies LLP",
+    "description": "The MIT Custom Robots.txt Rules Shopify app makes it super easy to edit the default robots.txt file without any complicated steps or coding.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "SEO"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mit-custom-robots-txt-rules_20260829T190110Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mit-custom-robots-txt-rules_20260829T190110Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "MIT Custom Robots.txt Rules",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "mit-custom-robots-txt-rules",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/mit-custom-robots-txt-rules",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Meetanshi Technologies LLP",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "The MIT Custom Robots.txt Rules Shopify app makes it super easy to edit the default robots.txt file without any complicated steps or coding.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "SEO",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cs-business-email_20260830T143845Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cs-business-email_20260830T143845Z.html
+Requested URL    : https://apps.shopify.com/cs-business-email
+Final URL        : https://apps.shopify.com/cs-business-email
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,738 bytes / 177,623 chars
+Elapsed          : 0.665s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CS ‑ Business Email - Stop using Gmail — get support@yourstore.com in minutes | Shopify App Store
+meta description : CS - Business Email offers a unique solution to enhance business communication by providing unlimited custom email addresses under your domain.
+canonical URL    : https://apps.shopify.com/cs-business-email
+<h1> tags ( 1)  : 'CS ‑ Business Email'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

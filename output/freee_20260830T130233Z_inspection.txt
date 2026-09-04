@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\freee_20260830T130233Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\freee_20260830T130233Z.html
+Requested URL    : https://apps.shopify.com/freee
+Final URL        : https://apps.shopify.com/freee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,766 bytes / 222,762 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : かんたんfreee会計データ連携 - 発生した注文を自動/手動でfreee会計に連携！決済手数料や送料などを商品とは別の勘定科目に指定することもできます | Shopify App Store
+meta description : Shopifyの注文データをfreee会計に連携できるアプリです。毎日発生する注文を、自動／手動で連携できます。割引や送料を商品とは別の勘定科目に記帳することもできます。軽減税率やPOSにも対応しています。
+canonical URL    : https://apps.shopify.com/freee?locale=ja
+<h1> tags ( 1)  : 'かんたんfreee会計データ連携'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

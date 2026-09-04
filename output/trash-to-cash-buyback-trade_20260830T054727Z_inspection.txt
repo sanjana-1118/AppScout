@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trash-to-cash-buyback-trade_20260830T054727Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trash-to-cash-buyback-trade_20260830T054727Z.html
+Requested URL    : https://apps.shopify.com/trash-to-cash-buyback-trade
+Final URL        : https://apps.shopify.com/trash-to-cash-buyback-trade
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,865 bytes / 184,772 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trash to Cash: Buyback & Trade - Turn Used Goods into New Growth with Automated Re-commerce | Shopify App Store
+meta description : With Trash to Cash, you can launch a professional circular commerce program in minutes. Give your customers an easy way to trade in their pre-loved items.
+canonical URL    : https://apps.shopify.com/trash-to-cash-buyback-trade
+<h1> tags ( 1)  : 'Trash to Cash: Buyback & Trade'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

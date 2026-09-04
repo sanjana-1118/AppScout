@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pushdy-cta-buttons_20260830T134604Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pushdy-cta-buttons_20260830T134604Z.html
+Requested URL    : https://apps.shopify.com/pushdy-cta-buttons
+Final URL        : https://apps.shopify.com/pushdy-cta-buttons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,629 bytes / 173,518 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MaxLeads ‑ CTA, Social buttons - Floating buttons are an easy way to help improve product... | Shopify App Store
+meta description : Pushdy - MaxLeads | Floating buttons: Phone, Chat, SMS, Cart, Telegram, Discord, line, instagram, Whatsapp live chat, Call now form, Email contact form and more
+canonical URL    : https://apps.shopify.com/pushdy-cta-buttons
+<h1> tags ( 1)  : 'MaxLeads ‑ CTA, Social buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apurata-widgets_20260830T160125Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apurata-widgets_20260830T160125Z.html
+Requested URL    : https://apps.shopify.com/apurata-widgets
+Final URL        : https://apps.shopify.com/apurata-widgets
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,366 bytes / 161,233 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Acuotaz‑Widgets - Ofrece pagos en cuotas sin tarjeta y aumenta tus ventas | Shopify App Store
+meta description : Con esta aplicación se podrá mejorar la visibilidad de nuestra opción de pago mediante 
+nuestros tres componentes. Esto ayuda a los merchants a aum...
+canonical URL    : https://apps.shopify.com/apurata-widgets?locale=es
+<h1> tags ( 1)  : 'Acuotaz‑Widgets'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

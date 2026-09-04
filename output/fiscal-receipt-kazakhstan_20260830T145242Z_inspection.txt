@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fiscal-receipt-kazakhstan_20260830T145242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fiscal-receipt-kazakhstan_20260830T145242Z.html
+Requested URL    : https://apps.shopify.com/fiscal-receipt-kazakhstan
+Final URL        : https://apps.shopify.com/fiscal-receipt-kazakhstan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,227 bytes / 174,134 chars
+Elapsed          : 0.887s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopiCraft OFD KZ - Generate fiscal receipts for Kazakhstan merchants | Shopify App Store
+meta description : ShopiCraft OFD is an app for merchants in Kazakhstan, designed to streamline compliance with local tax regulations. This app automatically generate...
+canonical URL    : https://apps.shopify.com/fiscal-receipt-kazakhstan
+<h1> tags ( 1)  : 'ShopiCraft OFD KZ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

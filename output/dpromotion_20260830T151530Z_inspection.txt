@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dpromotion_20260830T151530Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dpromotion_20260830T151530Z.html
+Requested URL    : https://apps.shopify.com/dpromotion
+Final URL        : https://apps.shopify.com/dpromotion
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,720 bytes / 191,605 chars
+Elapsed          : 0.779s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DPromotion ‑ Game & Rewards  - Drive engagement with gamified Promotions, created with ease | Shopify App Store
+meta description : DPromotion gives you full control over Promotions with customizable gamified campaigns. Create engaging experiences with Spin the Wheel, Quiz, Raff...
+canonical URL    : https://apps.shopify.com/dpromotion
+<h1> tags ( 1)  : 'DPromotion ‑ Game & Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

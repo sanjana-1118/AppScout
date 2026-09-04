@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-builder_20260829T191044Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-builder_20260829T191044Z.html
+Requested URL    : https://apps.shopify.com/seo-builder
+Final URL        : https://apps.shopify.com/seo-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,237 bytes / 176,146 chars
+Elapsed          : 0.860s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Seo Builder - AI SEO suggestions, reviewed by you before applying | Shopify App Store
+meta description : Keeping SEO consistent across a large catalog takes time. SEO Builder brings meta titles, descriptions, image alt text, and structured data for pro...
+canonical URL    : https://apps.shopify.com/seo-builder
+<h1> tags ( 1)  : 'Seo Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

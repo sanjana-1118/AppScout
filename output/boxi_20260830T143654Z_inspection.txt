@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boxi_20260830T143654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boxi_20260830T143654Z.html
+Requested URL    : https://apps.shopify.com/boxi
+Final URL        : https://apps.shopify.com/boxi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 245,985 bytes / 245,881 chars
+Elapsed          : 0.668s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boxi: Bundle Builder & BYOB - Boost AOV with bundle builder, build a box, BYOB, mix... | Shopify App Store
+meta description : Boxi is build a box and bundle builder Shopify app to increase AOV. Works for gift boxes, hampers, cookie boxes, mix and match bundles, product bundling.
+canonical URL    : https://apps.shopify.com/boxi
+<h1> tags ( 1)  : 'Boxi: Bundle Builder & BYOB'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

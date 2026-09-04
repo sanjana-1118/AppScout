@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ruffruff-pre-orders_20260830T063542Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ruffruff-pre-orders_20260830T063542Z.html
+Requested URL    : https://apps.shopify.com/ruffruff-pre-orders
+Final URL        : https://apps.shopify.com/ruffruff-pre-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 249,793 bytes / 239,828 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RuffRuff 予約販売｜期間限定セールも会員限定販売も - 期間限定セールやVIP会員限定販売、後払い、割引、同梱制御、購入制限、発売予告、卸価格、カウントダウンタイマー｜シンプル設定 | Shopify App Store
+meta description : シンプル設定で予約販売を可能にするShopifyアプリです。アプリ１つで期間限定セールや発売予告、繰り返し販売、販売期間設定、受注販売、会員割引、VIP会員限定販売、後払い、同梱制御、割引、個数制限、販売制限、バッジ表示、配送日時指定の非表示、デザインカスタマイズ、カウントダウンタイマーを実現！最高品質アプリにも採用！
+canonical URL    : https://apps.shopify.com/ruffruff-pre-orders?locale=ja
+<h1> tags ( 1)  : 'RuffRuff 予約販売｜期間限定セールも会員限定販売も'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

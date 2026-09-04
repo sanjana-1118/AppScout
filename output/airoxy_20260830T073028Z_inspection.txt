@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airoxy_20260830T073028Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airoxy_20260830T073028Z.html
+Requested URL    : https://apps.shopify.com/airoxy
+Final URL        : https://apps.shopify.com/airoxy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,839 bytes / 164,750 chars
+Elapsed          : 0.703s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AIROXY - Load products to AirOxy and gain full marketplace analysis | Shopify App Store
+meta description : Easily synch your store and upload its latest products to AirOxy in one click. AirOxy provides AI driven analysis across your listings, giving insi...
+canonical URL    : https://apps.shopify.com/airoxy
+<h1> tags ( 1)  : 'AIROXY'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

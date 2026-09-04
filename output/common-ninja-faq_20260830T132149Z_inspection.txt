@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\common-ninja-faq_20260830T132149Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\common-ninja-faq_20260830T132149Z.html
+Requested URL    : https://apps.shopify.com/common-ninja-faq
+Final URL        : https://apps.shopify.com/common-ninja-faq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,230 bytes / 201,141 chars
+Elapsed          : 0.781s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Common Ninja FAQ - FAQ Editor rich with features, layouts and design options | Shopify App Store
+meta description : Provide Answers to Common Questions & Improve User Experience With the
+FAQ Page App for Shopify.
+canonical URL    : https://apps.shopify.com/common-ninja-faq
+<h1> tags ( 1)  : 'Common Ninja FAQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

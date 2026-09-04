@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\preorder-back-in-stock-presale_20260830T164135Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\preorder-back-in-stock-presale_20260830T164135Z.html
+Requested URL    : https://apps.shopify.com/preorder-back-in-stock-presale
+Final URL        : https://apps.shopify.com/preorder-back-in-stock-presale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,269 bytes / 219,174 chars
+Elapsed          : 0.881s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Preorder, Back in Stock Notify - Grow preorders sales with 'notify me' & back in stock... | Shopify App Store
+meta description : Don't miss a sale on out of stock products. Replace "Sold Out" buttons with Pre Order Now to capture revenue directly. Run Presale campaigns for co...
+canonical URL    : https://apps.shopify.com/preorder-back-in-stock-presale
+<h1> tags ( 1)  : 'Preorder, Back in Stock Notify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

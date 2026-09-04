@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instant-3d_20260831T041457Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instant-3d_20260831T041457Z.html
+Requested URL    : https://apps.shopify.com/instant-3d
+Final URL        : https://apps.shopify.com/instant-3d
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,709 bytes / 185,597 chars
+Elapsed          : 0.744s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Instant 3D - Interactive 3D with AR | Shopify App Store
+meta description : Instant 3D adds interactive 3D product viewers to your Shopify pages. Customers rotate, zoom, and inspect products from every angle. Upload 3D mode...
+canonical URL    : https://apps.shopify.com/instant-3d
+<h1> tags ( 1)  : 'Instant 3D'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

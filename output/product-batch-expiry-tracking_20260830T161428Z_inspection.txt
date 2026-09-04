@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-batch-expiry-tracking_20260830T161428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-batch-expiry-tracking_20260830T161428Z.html
+Requested URL    : https://apps.shopify.com/product-batch-expiry-tracking
+Final URL        : https://apps.shopify.com/product-batch-expiry-tracking
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,834 bytes / 183,721 chars
+Elapsed          : 0.908s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ADY‑Stock Batch Expiry Tracker - Manage expiries with alerts, discounts, & smart batch tracking | Shopify App Store
+meta description : Track and manage product batches with expiry dates using automated alerts, discount rules, and clearance tagging to reduce waste and optimize inventory flow.
+canonical URL    : https://apps.shopify.com/product-batch-expiry-tracking
+<h1> tags ( 1)  : 'ADY‑Stock Batch Expiry Tracker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

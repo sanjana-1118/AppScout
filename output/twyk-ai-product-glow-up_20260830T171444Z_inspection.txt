@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twyk-ai-product-glow-up_20260830T171444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twyk-ai-product-glow-up_20260830T171444Z.html
+Requested URL    : https://apps.shopify.com/twyk-ai-product-glow-up
+Final URL        : https://apps.shopify.com/twyk-ai-product-glow-up
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,792 bytes / 181,654 chars
+Elapsed          : 0.951s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Twyk ‑ AI Product Glow‑Up - AI descriptions, photos, and badges for your products | Shopify App Store
+meta description : Generate professional product photography, benefit badge images, and social media ad creatives from your existing catalog. Publish directly to your Shopify stor
+canonical URL    : https://apps.shopify.com/twyk-ai-product-glow-up
+<h1> tags ( 1)  : 'Twyk ‑ AI Product Glow‑Up'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

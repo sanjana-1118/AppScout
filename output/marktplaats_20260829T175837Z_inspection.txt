@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marktplaats_20260829T175837Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marktplaats_20260829T175837Z.html
+Requested URL    : https://apps.shopify.com/marktplaats
+Final URL        : https://apps.shopify.com/marktplaats
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,030 bytes / 191,936 chars
+Elapsed          : 1.359s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Marktplaats Pro - Reach potential customers on Marktplaats Pro | Shopify App Store
+meta description : With Marktplaats Pro you advertise on the best spots on Marktplaats. This way your business stands out and you'll be able to sell more products. So...
+canonical URL    : https://apps.shopify.com/marktplaats
+<h1> tags ( 1)  : 'Marktplaats Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

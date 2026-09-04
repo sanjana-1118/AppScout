@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-video-generator_20260830T152026Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-video-generator_20260830T152026Z.html
+Requested URL    : https://apps.shopify.com/ai-video-generator
+Final URL        : https://apps.shopify.com/ai-video-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,649 bytes / 192,556 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OmniGen: AI Video Ads & Reels - Easily create AI video ads & reels starting from your... | Shopify App Store
+meta description : Turn your Shopify product images into video ads with OmniGen AI Video. Use AI talking avatars in 25+ languages, pre-made scripts, and no editing skills needed.
+canonical URL    : https://apps.shopify.com/ai-video-generator
+<h1> tags ( 1)  : 'OmniGen: AI Video Ads & Reels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

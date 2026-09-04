@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\handy-mini-apps_20260830T041020Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\handy-mini-apps_20260830T041020Z.html
+Requested URL    : https://apps.shopify.com/handy-mini-apps
+Final URL        : https://apps.shopify.com/handy-mini-apps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,086 bytes / 181,979 chars
+Elapsed          : 1.416s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wholesale • Handy - Manage Wholesales in one powerful app | Shopify App Store
+meta description : Your useful case with different tools for managing your Web Store. We've carefully put together some essential tools for your store so that instead...
+canonical URL    : https://apps.shopify.com/handy-mini-apps
+<h1> tags ( 1)  : 'Wholesale • Handy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

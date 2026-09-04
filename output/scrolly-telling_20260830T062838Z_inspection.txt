@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scrolly-telling_20260830T062838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scrolly-telling_20260830T062838Z.html
+Requested URL    : https://apps.shopify.com/scrolly-telling
+Final URL        : https://apps.shopify.com/scrolly-telling
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,337 bytes / 167,246 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scrolly Telling - Create scroll-based animations visually | Shopify App Store
+meta description : Scroll Telling is a tool that you can use to make your store more engaging. It allows you to add motion and visual interest to a scrollable area, l...
+canonical URL    : https://apps.shopify.com/scrolly-telling
+<h1> tags ( 1)  : 'Scrolly Telling'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

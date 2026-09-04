@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anfix_20260830T070149Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anfix_20260830T070149Z.html
+Requested URL    : https://apps.shopify.com/anfix
+Final URL        : https://apps.shopify.com/anfix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,666 bytes / 164,547 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Anfix - Integra tu tienda con Anfix | Shopify App Store
+meta description : Vincula tu tienda con Anfix para ver reflejadas todas y cada una de las transacciones que tengan lugar en ella en las cuentas de tu negocio.
+
+Todas...
+canonical URL    : https://apps.shopify.com/anfix?locale=es
+<h1> tags ( 1)  : 'Anfix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

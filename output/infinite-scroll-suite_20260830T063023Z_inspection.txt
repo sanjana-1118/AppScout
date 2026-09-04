@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\infinite-scroll-suite_20260830T063023Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\infinite-scroll-suite_20260830T063023Z.html
+Requested URL    : https://apps.shopify.com/infinite-scroll-suite
+Final URL        : https://apps.shopify.com/infinite-scroll-suite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,936 bytes / 206,809 chars
+Elapsed          : 0.657s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Infinityfy ‑ Infinite Scroll - Replace pagination with infinite scroll on collection pages | Shopify App Store
+meta description : Infinityfy – Infinite Scroll replaces pagination on Shopify collection pages with seamless Infinite Scroll or a customizable Load More button. Keep...
+canonical URL    : https://apps.shopify.com/infinite-scroll-suite
+<h1> tags ( 1)  : 'Infinityfy ‑ Infinite Scroll'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

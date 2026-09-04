@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/playbook",
+  "fetch_timestamp": "2026-08-30T05:54:57.062143+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\playbook_20260830T055457Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\playbook_20260830T055457Z.html",
+    "url": "https://apps.shopify.com/playbook",
+    "final_url": "https://apps.shopify.com/playbook",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 193355,
+    "body_text_length": 193262,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.500519,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Playbook - Create and organize internal notes and checklists in the admin | Shopify App Store",
+    "meta_description": "Create and organize internal notes for you or your team in one place and build your perfect playbook with interactive checklists to help you stay on task.",
+    "canonical_url": "https://apps.shopify.com/playbook",
+    "h1_tags": [
+      "Playbook"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Playbook",
+    "app_slug": "playbook",
+    "app_url": "https://apps.shopify.com/playbook",
+    "developer_name": "Solver Collective",
+    "description": "Create and organize internal notes for you or your team in one place and build your perfect playbook with interactive checklists to help you stay on task.",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Staff notifications"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\playbook_20260830T055457Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\playbook_20260830T055457Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Playbook",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "playbook",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/playbook",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Solver Collective",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Create and organize internal notes for you or your team in one place and build your perfect playbook with interactive checklists to help you stay on task.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Staff notifications",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

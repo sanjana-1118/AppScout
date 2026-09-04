@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cost-cost-based-discounts_20260830T142053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cost-cost-based-discounts_20260830T142053Z.html
+Requested URL    : https://apps.shopify.com/cost-cost-based-discounts
+Final URL        : https://apps.shopify.com/cost-cost-based-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,975 bytes / 205,886 chars
+Elapsed          : 0.766s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cost+: Advanced POS Discounts - Apply complex discounts to the POS cart & draft orders.... | Shopify App Store
+meta description : Cost+ seamlessly integrates with Shopify POS, empowering merchants to swiftly apply cost-based discounts to their cart.
+canonical URL    : https://apps.shopify.com/cost-cost-based-discounts
+<h1> tags ( 1)  : 'Cost+: Advanced POS Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

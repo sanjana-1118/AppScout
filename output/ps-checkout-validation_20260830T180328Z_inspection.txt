@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ps-checkout-validation_20260830T180328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ps-checkout-validation_20260830T180328Z.html
+Requested URL    : https://apps.shopify.com/ps-checkout-validation
+Final URL        : https://apps.shopify.com/ps-checkout-validation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,817 bytes / 190,727 chars
+Elapsed          : 1.067s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BlockCart: Checkout Validation - Block unwanted orders with flexible multi-condition rules | Shopify App Store
+meta description : Block invalid Shopify orders with no-code cart and checkout rules. Set order limits, restrict products by ZIP code, enforce B2B rules, and show clear errors.
+canonical URL    : https://apps.shopify.com/ps-checkout-validation
+<h1> tags ( 1)  : 'BlockCart: Checkout Validation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

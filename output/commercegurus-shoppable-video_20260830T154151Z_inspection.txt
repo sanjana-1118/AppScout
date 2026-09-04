@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commercegurus-shoppable-video_20260830T154151Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commercegurus-shoppable-video_20260830T154151Z.html
+Requested URL    : https://apps.shopify.com/commercegurus-shoppable-video
+Final URL        : https://apps.shopify.com/commercegurus-shoppable-video
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,285 bytes / 196,182 chars
+Elapsed          : 0.577s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CommerceGurus Shoppable Video - Shoppable videos without limits, fees, or hidden costs! | Shopify App Store
+meta description : Turn videos into sales with Instagram-style shoppable clips. Upload unlimited, import from IG/TikTok, and start converting fast — mobile-first, no hidden fees!
+canonical URL    : https://apps.shopify.com/commercegurus-shoppable-video
+<h1> tags ( 1)  : 'CommerceGurus Shoppable Video'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

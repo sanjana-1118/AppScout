@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\noaxai_20260830T151128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\noaxai_20260830T151128Z.html
+Requested URL    : https://apps.shopify.com/noaxai
+Final URL        : https://apps.shopify.com/noaxai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,771 bytes / 163,664 chars
+Elapsed          : 0.770s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NoaxAI ‑ Agentic Live Chatbot - AI Chatbot to recommend products & answer most asked questions | Shopify App Store
+meta description : Ecommerce features include product recommendations, FAQs and connect-to-support
+canonical URL    : https://apps.shopify.com/noaxai
+<h1> tags ( 1)  : 'NoaxAI ‑ Agentic Live Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

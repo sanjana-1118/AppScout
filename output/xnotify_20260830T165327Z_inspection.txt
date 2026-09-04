@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xnotify_20260830T165327Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xnotify_20260830T165327Z.html
+Requested URL    : https://apps.shopify.com/xnotify
+Final URL        : https://apps.shopify.com/xnotify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,255 bytes / 162,162 chars
+Elapsed          : 0.731s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : xNotify - Send notifications across multiple channels from one place | Shopify App Store
+meta description : xNotify connects your Shopify store to a powerful notification engine that sends real-time order updates to customers. Automatically notify custome...
+canonical URL    : https://apps.shopify.com/xnotify
+<h1> tags ( 1)  : 'xNotify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

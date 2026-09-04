@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\posibolt-integration_20260830T141245Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\posibolt-integration_20260830T141245Z.html
+Requested URL    : https://apps.shopify.com/posibolt-integration
+Final URL        : https://apps.shopify.com/posibolt-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 149,905 bytes / 149,796 chars
+Elapsed          : 1.002s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POSibolt ERP Integration - Seamless Integration with POSibolt Cloud ERP | Shopify App Store
+meta description : Transform your retail operations with seamless integration to POSibolt ERP. 
+
+Enjoy live data, 2-way sync for products, orders,and stock availabili...
+canonical URL    : https://apps.shopify.com/posibolt-integration
+<h1> tags ( 1)  : 'POSibolt ERP Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

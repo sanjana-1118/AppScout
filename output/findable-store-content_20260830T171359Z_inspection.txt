@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\findable-store-content_20260830T171359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\findable-store-content_20260830T171359Z.html
+Requested URL    : https://apps.shopify.com/findable-store-content
+Final URL        : https://apps.shopify.com/findable-store-content
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,063 bytes / 181,970 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Findable: Store Content - Be visible where your competitors and customers are. | Shopify App Store
+meta description : While you're reading this, someone searched for exactly what you sell. They didn't find you. They found a store that publishes content every week -...
+canonical URL    : https://apps.shopify.com/findable-store-content
+<h1> tags ( 1)  : 'Findable: Store Content'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

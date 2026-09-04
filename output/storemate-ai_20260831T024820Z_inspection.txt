@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storemate-ai_20260831T024820Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storemate-ai_20260831T024820Z.html
+Requested URL    : https://apps.shopify.com/storemate-ai
+Final URL        : https://apps.shopify.com/storemate-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,801 bytes / 165,699 chars
+Elapsed          : 0.840s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreMate AI: Store Assistant - Automate customer support with a 24/7 AI chatbot. | Shopify App Store
+meta description : StoreMate AI answers customer questions the moment they're asked — no wait times, no ticket queues. It learns your products, policies, and FAQs, th...
+canonical URL    : https://apps.shopify.com/storemate-ai
+<h1> tags ( 1)  : 'StoreMate AI: Store Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

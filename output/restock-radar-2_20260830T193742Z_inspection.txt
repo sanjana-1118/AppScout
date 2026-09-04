@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restock-radar-2_20260830T193742Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restock-radar-2_20260830T193742Z.html
+Requested URL    : https://apps.shopify.com/restock-radar-2
+Final URL        : https://apps.shopify.com/restock-radar-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,442 bytes / 170,353 chars
+Elapsed          : 0.869s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Restock Radar - Know what to order and how many units. | Shopify App Store
+meta description : Track inventory risk, reorder points, supplier orders, and product-specific restock rules from recent Shopify sales and stock data.
+canonical URL    : https://apps.shopify.com/restock-radar-2
+<h1> tags ( 1)  : 'Restock Radar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

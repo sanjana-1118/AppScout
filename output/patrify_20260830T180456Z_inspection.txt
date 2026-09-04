@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\patrify_20260830T180456Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\patrify_20260830T180456Z.html
+Requested URL    : https://apps.shopify.com/patrify
+Final URL        : https://apps.shopify.com/patrify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,608 bytes / 174,515 chars
+Elapsed          : 1.104s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Patrify - Easily import your Patreon subcriptions for order fulfillement | Shopify App Store
+meta description : Patrify helps merchants fulfill Patreon Benefits through Shopify. Import Patreon Benefit files and map each benefit to Shopify product(s) to create orders
+canonical URL    : https://apps.shopify.com/patrify
+<h1> tags ( 1)  : 'Patrify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

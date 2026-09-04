@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ifg-registro-dei-corrispettivi_20260830T070439Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ifg-registro-dei-corrispettivi_20260830T070439Z.html
+Requested URL    : https://apps.shopify.com/ifg-registro-dei-corrispettivi
+Final URL        : https://apps.shopify.com/ifg-registro-dei-corrispettivi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,609 bytes / 183,513 chars
+Elapsed          : 1.079s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : IFG Registro dei Corrispettivi - Registro corrispettivi automatico, riconciliato con le fatture | Shopify App Store
+meta description : Automatizza il Registro dei Corrispettivi su Shopify: calcolo per aliquota IVA, riconciliazione con fatture emesse, invio automatico al commercialista.
+canonical URL    : https://apps.shopify.com/ifg-registro-dei-corrispettivi?locale=it
+<h1> tags ( 1)  : 'IFG Registro dei Corrispettivi'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

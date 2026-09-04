@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\permalink-generator_20260830T072618Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\permalink-generator_20260830T072618Z.html
+Requested URL    : https://apps.shopify.com/permalink-generator
+Final URL        : https://apps.shopify.com/permalink-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,522 bytes / 150,435 chars
+Elapsed          : 0.635s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Sections and tools - Generate permalinks with preloaded carts and track performance | Shopify App Store
+meta description : Shopify app that sends your customers straight to checkout with customizable pre-loaded carts.
+canonical URL    : https://apps.shopify.com/permalink-generator
+<h1> tags ( 1)  : 'B2B Sections and tools'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

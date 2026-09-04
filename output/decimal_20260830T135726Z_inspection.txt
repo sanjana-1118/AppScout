@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decimal_20260830T135726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decimal_20260830T135726Z.html
+Requested URL    : https://apps.shopify.com/decimal
+Final URL        : https://apps.shopify.com/decimal
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,129 bytes / 232,036 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EDD and Shipping Rates Manager - Control over Shipping Rates, Options, EDDs at Checkout and PDP | Shopify App Store
+meta description : Rate-Shopping technology uses predicted Delivery Dates and A/B Testing to optimize shipping options at checkout, guided by merchant's business rules.
+canonical URL    : https://apps.shopify.com/decimal
+<h1> tags ( 1)  : 'EDD and Shipping Rates Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

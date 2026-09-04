@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\terms_conditions_box_20260830T162139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\terms_conditions_box_20260830T162139Z.html
+Requested URL    : https://apps.shopify.com/terms_conditions_box
+Final URL        : https://apps.shopify.com/terms_conditions_box
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,588 bytes / 187,469 chars
+Elapsed          : 0.634s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trustify: Terms and Conditions - Add Terms and Conditions checkbox to every checkout & buy... | Shopify App Store
+meta description : Add a Terms & Conditions checkbox to your Shopify cart and checkout. Protect your store, get customer consent, and ensure compliance with one simple app.
+canonical URL    : https://apps.shopify.com/terms_conditions_box
+<h1> tags ( 1)  : 'Trustify: Terms and Conditions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

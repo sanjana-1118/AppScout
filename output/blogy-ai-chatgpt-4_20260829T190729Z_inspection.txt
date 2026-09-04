@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogy-ai-chatgpt-4_20260829T190729Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogy-ai-chatgpt-4_20260829T190729Z.html
+Requested URL    : https://apps.shopify.com/blogy-ai-chatgpt-4
+Final URL        : https://apps.shopify.com/blogy-ai-chatgpt-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,683 bytes / 163,572 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blogy.AI ‑ ChatGPT4 - Powered by ChatGPT4, creates highly optimized SEO articles | Shopify App Store
+meta description : Blogy Ai is an innovative Shopify tool designed to boost your store's SEO effortlessly. Provide a few essential store details, and our app uses thi...
+canonical URL    : https://apps.shopify.com/blogy-ai-chatgpt-4
+<h1> tags ( 1)  : 'Blogy.AI ‑ ChatGPT4'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

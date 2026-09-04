@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brand-connector_20260830T135151Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brand-connector_20260830T135151Z.html
+Requested URL    : https://apps.shopify.com/brand-connector
+Final URL        : https://apps.shopify.com/brand-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,212 bytes / 153,125 chars
+Elapsed          : 0.968s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BrandConnector - Compresentive NFT token-gating solution | Shopify App Store
+meta description : Brand Connector for Shopify allows you to configure tokenized NFT access for discounts, products, collections and content.
+canonical URL    : https://apps.shopify.com/brand-connector
+<h1> tags ( 1)  : 'BrandConnector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

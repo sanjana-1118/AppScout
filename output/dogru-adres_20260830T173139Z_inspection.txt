@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dogru-adres_20260830T173139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dogru-adres_20260830T173139Z.html
+Requested URL    : https://apps.shopify.com/dogru-adres
+Final URL        : https://apps.shopify.com/dogru-adres
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,502 bytes / 162,353 chars
+Elapsed          : 1.501s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Doğru Adres - Turkish address dropdowns on your cart to prevent wrong orders | Shopify App Store
+meta description : Turkish addresses are organized by il, ilçe, and mahalle, but Shopify's default cart
+  asks for free‑text input. Buyers misspell mahalle names or l...
+canonical URL    : https://apps.shopify.com/dogru-adres?locale=tr
+<h1> tags ( 1)  : 'Doğru Adres'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

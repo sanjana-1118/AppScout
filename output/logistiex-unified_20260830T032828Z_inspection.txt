@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logistiex-unified_20260830T032828Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logistiex-unified_20260830T032828Z.html
+Requested URL    : https://apps.shopify.com/logistiex-unified
+Final URL        : https://apps.shopify.com/logistiex-unified
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,772 bytes / 158,659 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Logistiex‑Fulfillment - Enabling best suited fulfillment service for all order types | Shopify App Store
+meta description : We provide a technology backed integration with all the e-commerce platforms, storefronts and fulfilment service providers. We bring the most diffe...
+canonical URL    : https://apps.shopify.com/logistiex-unified
+<h1> tags ( 1)  : 'Logistiex‑Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tax-switcher-zonvi_20260830T070309Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tax-switcher-zonvi_20260830T070309Z.html
+Requested URL    : https://apps.shopify.com/tax-switcher-zonvi
+Final URL        : https://apps.shopify.com/tax-switcher-zonvi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,203 bytes / 183,116 chars
+Elapsed          : 0.729s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taxly: VAT Switcher - Show prices with and without VAT for B2C & B2B... | Shopify App Store
+meta description : Manage VAT rates by country. Display VAT-inclusive prices to individuals and VAT-exclusive prices to businesses. Multilanguage support.
+canonical URL    : https://apps.shopify.com/tax-switcher-zonvi
+<h1> tags ( 1)  : 'Taxly: VAT Switcher'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

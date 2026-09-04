@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\404-custom-page_20260830T075725Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\404-custom-page_20260830T075725Z.html
+Requested URL    : https://apps.shopify.com/404-custom-page
+Final URL        : https://apps.shopify.com/404-custom-page
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,777 bytes / 199,660 chars
+Elapsed          : 0.449s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Redirect ‑ Fix 404 links  - 404 Custom page - Customize your 404 page and engage... | Shopify App Store
+meta description : This unique marketing tool is a great asset to any website! Using our 404 app, you can customize your 404 page and turn an unfortunate incident int...
+canonical URL    : https://apps.shopify.com/404-custom-page
+<h1> tags ( 1)  : 'Redirect ‑ Fix 404 links'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

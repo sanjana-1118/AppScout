@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blokk_20260830T175010Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blokk_20260830T175010Z.html
+Requested URL    : https://apps.shopify.com/blokk
+Final URL        : https://apps.shopify.com/blokk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,893 bytes / 169,778 chars
+Elapsed          : 0.948s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blokk - Type what you want — AI builds it as a... | Shopify App Store
+meta description : Type what you want — a hero banner, testimonial section, product grid, FAQ, or anything else — and Blokk builds it for you in seconds. The generat...
+canonical URL    : https://apps.shopify.com/blokk
+<h1> tags ( 1)  : 'Blokk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

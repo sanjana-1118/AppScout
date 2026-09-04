@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\d-planet-e-fatura-entegreturk_20260830T151657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\d-planet-e-fatura-entegreturk_20260830T151657Z.html
+Requested URL    : https://apps.shopify.com/d-planet-e-fatura-entegreturk
+Final URL        : https://apps.shopify.com/d-planet-e-fatura-entegreturk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,318 bytes / 199,890 chars
+Elapsed          : 0.678s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : S.Digital Planet‑ EntegreTürk - Sovos Dijital Planet E-Fatura ile siparişleri faturalandır | Shopify App Store
+meta description : Sovos Dijital Planet E-Fatura - EntegreTürk işbirliği ile siparişlerinizi tek tıkla faturalandırın.
+canonical URL    : https://apps.shopify.com/d-planet-e-fatura-entegreturk?locale=tr
+<h1> tags ( 1)  : 'S.Digital Planet‑ EntegreTürk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

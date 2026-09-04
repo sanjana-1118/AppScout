@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\festival-decorations_20260830T060157Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\festival-decorations_20260830T060157Z.html
+Requested URL    : https://apps.shopify.com/festival-decorations
+Final URL        : https://apps.shopify.com/festival-decorations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,892 bytes / 201,802 chars
+Elapsed          : 0.471s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Festival Decorations Dawnify - Decorate your store for all occasions with beautiful designs | Shopify App Store
+meta description : Beautify your website with no coding for special occasions 
+
+* Schedule decorations based on country, day, and timings 
+* Use your own icons for un...
+canonical URL    : https://apps.shopify.com/festival-decorations
+<h1> tags ( 1)  : 'Festival Decorations Dawnify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

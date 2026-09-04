@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ship-captain_20260830T154703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ship-captain_20260830T154703Z.html
+Requested URL    : https://apps.shopify.com/ship-captain
+Final URL        : https://apps.shopify.com/ship-captain
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,291 bytes / 159,174 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ship Captain - Integrate with 3PL for real-time stock sync & shipping | Shopify App Store
+meta description : Connect Shopify to third-party warehouses for real-time inventory sync to prevent oversells and stockouts. Automatically route orders to warehouses...
+canonical URL    : https://apps.shopify.com/ship-captain
+<h1> tags ( 1)  : 'Ship Captain'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

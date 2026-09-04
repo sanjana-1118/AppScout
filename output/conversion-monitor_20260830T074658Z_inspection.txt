@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conversion-monitor_20260830T074658Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conversion-monitor_20260830T074658Z.html
+Requested URL    : https://apps.shopify.com/conversion-monitor
+Final URL        : https://apps.shopify.com/conversion-monitor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,710 bytes / 173,613 chars
+Elapsed          : 0.790s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Untracked: Conversion Monitor - Find the orders your conversion tracking never reported | Shopify App Store
+meta description : Conversion tracking runs in your shopper's browser, so ad blockers, consent banners, closed tabs and broken theme scripts all silently stop it. Not...
+canonical URL    : https://apps.shopify.com/conversion-monitor
+<h1> tags ( 1)  : 'Untracked: Conversion Monitor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

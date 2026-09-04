@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/ryder-ecommerce",
+  "fetch_timestamp": "2026-08-30T07:56:09.042989+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ryder-ecommerce_20260830T075609Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ryder-ecommerce_20260830T075609Z.html",
+    "url": "https://apps.shopify.com/ryder-ecommerce",
+    "final_url": "https://apps.shopify.com/ryder-ecommerce",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 198717,
+    "body_text_length": 198616,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.727822,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "RyderShip - Elevated e-commerce fulfillment with a trusted 3PL | Shopify App Store",
+    "meta_description": "Seamlessly connect with your e-commerce fulfillment tech to turn orders into shipped packages with Ryder’s end-to-end supply chain solutions.",
+    "canonical_url": "https://apps.shopify.com/ryder-ecommerce",
+    "h1_tags": [
+      "RyderShip"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "RyderShip",
+    "app_slug": "ryder-ecommerce",
+    "app_url": "https://apps.shopify.com/ryder-ecommerce",
+    "developer_name": "Whiplash",
+    "description": "Seamlessly connect with your e-commerce fulfillment tech to turn orders into shipped packages with Ryder’s end-to-end supply chain solutions.",
+    "average_rating": 4.4,
+    "review_count": 29,
+    "category": "Third-party logistics (3PL)"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ryder-ecommerce_20260830T075609Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ryder-ecommerce_20260830T075609Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "RyderShip",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "ryder-ecommerce",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/ryder-ecommerce",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Whiplash",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Seamlessly connect with your e-commerce fulfillment tech to turn orders into shipped packages with Ryder’s end-to-end supply chain solutions.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.4,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 29,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Third-party logistics (3PL)",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omsguru_20260830T133817Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omsguru_20260830T133817Z.html
+Requested URL    : https://apps.shopify.com/omsguru
+Final URL        : https://apps.shopify.com/omsguru
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,360 bytes / 182,253 chars
+Elapsed          : 0.969s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OMSGuru ‑ Easy to use OMS - Single Platform for managing your business operations | Shopify App Store
+meta description : OMSGuru gives you a single solution for your business. 
+- Centrally manage inventory for your shopify store and other marketplaces
+- Centrally proc...
+canonical URL    : https://apps.shopify.com/omsguru
+<h1> tags ( 1)  : 'OMSGuru ‑ Easy to use OMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

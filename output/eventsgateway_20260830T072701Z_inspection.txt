@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eventsgateway_20260830T072701Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eventsgateway_20260830T072701Z.html
+Requested URL    : https://apps.shopify.com/eventsgateway
+Final URL        : https://apps.shopify.com/eventsgateway
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,663 bytes / 178,574 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Events Gateway: Pixels for Ads - Send conversions to Meta/Facebook, Google Ads and TikTok | Shopify App Store
+meta description : Track storefront and checkout events, then route clean conversion signals to ads and analytics.
+canonical URL    : https://apps.shopify.com/eventsgateway
+<h1> tags ( 1)  : 'Events Gateway: Pixels for Ads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

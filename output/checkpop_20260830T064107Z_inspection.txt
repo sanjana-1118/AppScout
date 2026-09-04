@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkpop_20260830T064107Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkpop_20260830T064107Z.html
+Requested URL    : https://apps.shopify.com/checkpop
+Final URL        : https://apps.shopify.com/checkpop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,811 bytes / 204,692 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CheckPop ‑ Terms & Conditions - Add checkbox with popup for terms, return policy on Cart... | Shopify App Store
+meta description : Show terms and conditions, return and refund policy on cart page so that there are less chargebacks
+canonical URL    : https://apps.shopify.com/checkpop
+<h1> tags ( 1)  : 'CheckPop ‑ Terms & Conditions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

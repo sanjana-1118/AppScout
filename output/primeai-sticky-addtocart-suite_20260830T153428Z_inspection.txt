@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\primeai-sticky-addtocart-suite_20260830T153428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\primeai-sticky-addtocart-suite_20260830T153428Z.html
+Requested URL    : https://apps.shopify.com/primeai-sticky-addtocart-suite
+Final URL        : https://apps.shopify.com/primeai-sticky-addtocart-suite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,054 bytes / 164,961 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PrimeAI Sticky AddToCart Suite - Fully Customisable on a Theme to Theme Basis & Multi-Lingual | Shopify App Store
+meta description : Sticky Add to Cart Suite. Urgency timers, reviews, promos, and more. Always-visible CTA bar for any online store. Shopify App - FREE - Install Now
+canonical URL    : https://apps.shopify.com/primeai-sticky-addtocart-suite
+<h1> tags ( 1)  : 'PrimeAI Sticky AddToCart Suite'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

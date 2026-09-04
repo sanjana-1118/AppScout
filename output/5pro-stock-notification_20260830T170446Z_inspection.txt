@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\5pro-stock-notification_20260830T170446Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\5pro-stock-notification_20260830T170446Z.html
+Requested URL    : https://apps.shopify.com/5pro-stock-notification
+Final URL        : https://apps.shopify.com/5pro-stock-notification
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,284 bytes / 185,183 chars
+Elapsed          : 0.803s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 5Pro Stock Notification - Automated low-stock alerts with threshold rules and schedules | Shopify App Store
+meta description : Set inventory thresholds and get instant notifications when stock is low. Prevent stockouts and manage your Shopify inventory easily.
+canonical URL    : https://apps.shopify.com/5pro-stock-notification
+<h1> tags ( 1)  : '5Pro Stock Notification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

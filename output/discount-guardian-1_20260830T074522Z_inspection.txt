@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-guardian-1_20260830T074522Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-guardian-1_20260830T074522Z.html
+Requested URL    : https://apps.shopify.com/discount-guardian-1
+Final URL        : https://apps.shopify.com/discount-guardian-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,942 bytes / 185,855 chars
+Elapsed          : 0.849s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount Guardian: Margin - See which discount codes still make a profit after costs | Shopify App Store
+meta description : Track net profit for every discount code after product costs, shipping, and fees. Keep, Review, or Stop promotions and protect margins at checkout.
+canonical URL    : https://apps.shopify.com/discount-guardian-1
+<h1> tags ( 1)  : 'Discount Guardian: Margin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

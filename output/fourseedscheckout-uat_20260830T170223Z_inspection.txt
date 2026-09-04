@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fourseedscheckout-uat_20260830T170223Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fourseedscheckout-uat_20260830T170223Z.html
+Requested URL    : https://apps.shopify.com/fourseedscheckout-uat
+Final URL        : https://apps.shopify.com/fourseedscheckout-uat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,530 bytes / 162,439 chars
+Elapsed          : 0.471s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fourseeds Voucher Selector - Let customers select their vouchers directly at checkout | Shopify App Store
+meta description : Add a voucher selector directly to the Shopify checkout.
+
+Customers can view and choose from all discounts available to them before completing thei...
+canonical URL    : https://apps.shopify.com/fourseedscheckout-uat?locale=fr
+<h1> tags ( 1)  : 'Fourseeds Voucher Selector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

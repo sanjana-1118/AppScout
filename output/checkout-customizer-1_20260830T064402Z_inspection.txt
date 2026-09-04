@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-customizer-1_20260830T064402Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-customizer-1_20260830T064402Z.html
+Requested URL    : https://apps.shopify.com/checkout-customizer-1
+Final URL        : https://apps.shopify.com/checkout-customizer-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,590 bytes / 184,497 chars
+Elapsed          : 0.942s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bravas Checkout Customizer - Personalize checkout, thank you, and order pages. | Shopify App Store
+meta description : Bravas Checkout Customize enhances your checkout, thank you & order pages with social media links, custom messages & trust badges. Ideal for Shopify Plus users.
+canonical URL    : https://apps.shopify.com/checkout-customizer-1
+<h1> tags ( 1)  : 'Bravas Checkout Customizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

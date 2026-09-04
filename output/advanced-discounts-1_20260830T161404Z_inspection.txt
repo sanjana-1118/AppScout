@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-discounts-1_20260830T161404Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-discounts-1_20260830T161404Z.html
+Requested URL    : https://apps.shopify.com/advanced-discounts-1
+Final URL        : https://apps.shopify.com/advanced-discounts-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,948 bytes / 180,855 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ADM Discount Blocker & Manager - Block discounts on sale items, discount cheapest item in cart | Shopify App Store
+meta description : Block codes on sale items or apply discount on second item, e.g. cheapest or most expensive product in cart. Shopify discount app for advanced promotions.
+canonical URL    : https://apps.shopify.com/advanced-discounts-1
+<h1> tags ( 1)  : 'ADM Discount Blocker & Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

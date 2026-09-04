@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipalert_20260830T184417Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipalert_20260830T184417Z.html
+Requested URL    : https://apps.shopify.com/shipalert
+Final URL        : https://apps.shopify.com/shipalert
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,772 bytes / 183,683 chars
+Elapsed          : 0.929s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipAlert - Spot delayed orders before customers complain | Shopify App Store
+meta description : ShipAlert auto-detects shipping delays and alerts you and your customers. Track every order, catch stuck shipments early, and protect your store's reviews.
+canonical URL    : https://apps.shopify.com/shipalert
+<h1> tags ( 1)  : 'ShipAlert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

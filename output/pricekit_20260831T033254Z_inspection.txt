@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pricekit_20260831T033254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pricekit_20260831T033254Z.html
+Requested URL    : https://apps.shopify.com/pricekit
+Final URL        : https://apps.shopify.com/pricekit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,482 bytes / 192,385 chars
+Elapsed          : 0.957s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PriceKit: Smart Price Tracking - Track competitors, adjust prices, and protect your margins. | Shopify App Store
+meta description : Automate your Shopify pricing with PriceKit. Track competitor prices 24/7, set dynamic repricing rules, and protect your profit margins. Try it for free!
+canonical URL    : https://apps.shopify.com/pricekit
+<h1> tags ( 1)  : 'PriceKit: Smart Price Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avia-pos-store-analytics_20260830T071452Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avia-pos-store-analytics_20260830T071452Z.html
+Requested URL    : https://apps.shopify.com/avia-pos-store-analytics
+Final URL        : https://apps.shopify.com/avia-pos-store-analytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,343 bytes / 228,194 chars
+Elapsed          : 0.680s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avia ‑ POS Traffic Counter - Track in-store traffic, conversions, and customer demographics | Shopify App Store
+meta description : Understand visitor behavior, hourly trends, and conversions. Use age, gender, and traffic data to boost sales and optimize store performance.
+canonical URL    : https://apps.shopify.com/avia-pos-store-analytics
+<h1> tags ( 1)  : 'Avia ‑ POS Traffic Counter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bcn-dropshipping_20260830T131736Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bcn-dropshipping_20260830T131736Z.html
+Requested URL    : https://apps.shopify.com/bcn-dropshipping
+Final URL        : https://apps.shopify.com/bcn-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,758 bytes / 169,593 chars
+Elapsed          : 1.021s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BCN Dropshipping‑Verde Amarelo - Conectamos Você ao Mundo com um clique | Shopify App Store
+meta description : O BCN Dropshipping é um aplicativo de dropshipping que conecta e facilita a gestão dos seus pedidos. Com esta aplicação você poderá checar suas ord...
+canonical URL    : https://apps.shopify.com/bcn-dropshipping?locale=pt-BR
+<h1> tags ( 1)  : 'BCN Dropshipping‑Verde Amarelo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

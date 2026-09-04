@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-showcase-1_20260830T181238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-showcase-1_20260830T181238Z.html
+Requested URL    : https://apps.shopify.com/product-showcase-1
+Final URL        : https://apps.shopify.com/product-showcase-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,729 bytes / 169,612 chars
+Elapsed          : 0.600s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Product‑Showcase - Display products using beautifully tailored style template. | Shopify App Store
+meta description : Product Showcase transforms bland product displays into stunning storefronts. Choose from 6 professionally designed templates — Carousel Spotlight,...
+canonical URL    : https://apps.shopify.com/product-showcase-1
+<h1> tags ( 1)  : 'Product‑Showcase'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

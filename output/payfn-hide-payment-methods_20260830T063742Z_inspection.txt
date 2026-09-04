@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payfn-hide-payment-methods_20260830T063742Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payfn-hide-payment-methods_20260830T063742Z.html
+Requested URL    : https://apps.shopify.com/payfn-hide-payment-methods
+Final URL        : https://apps.shopify.com/payfn-hide-payment-methods
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,020 bytes / 218,931 chars
+Elapsed          : 0.951s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : payFn: Payment Method Rules - Hide, rename or sort any payment methods on checkout page. | Shopify App Store
+meta description : Hide, rename or sort any payment method at checkout based on the rules. Rules can have multiple conditions on multiple payment methods.
+canonical URL    : https://apps.shopify.com/payfn-hide-payment-methods
+<h1> tags ( 1)  : 'payFn: Payment Method Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

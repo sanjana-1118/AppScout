@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\efaster_20260830T033147Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\efaster_20260830T033147Z.html
+Requested URL    : https://apps.shopify.com/efaster
+Final URL        : https://apps.shopify.com/efaster
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,348 bytes / 162,205 chars
+Elapsed          : 0.723s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EFASTER - Envíos accesibles y fáciles de crear | Shopify App Store
+meta description : Realiza tus envíos baratos en la mejor plataforma de México que integra las mejores paqueterías del país.
+canonical URL    : https://apps.shopify.com/efaster?locale=es
+<h1> tags ( 1)  : 'EFASTER'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

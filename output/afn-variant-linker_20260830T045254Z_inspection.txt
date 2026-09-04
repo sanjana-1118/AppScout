@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\afn-variant-linker_20260830T045254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\afn-variant-linker_20260830T045254Z.html
+Requested URL    : https://apps.shopify.com/afn-variant-linker
+Final URL        : https://apps.shopify.com/afn-variant-linker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,550 bytes / 191,461 chars
+Elapsed          : 0.615s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AFN Variant Linker - Link separate products as color & image swatches | Shopify App Store
+meta description : Show separate Shopify products as color, image, and collection swatches. Each product keeps its own URL, SEO, and inventory. No code required.
+canonical URL    : https://apps.shopify.com/afn-variant-linker
+<h1> tags ( 1)  : 'AFN Variant Linker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paypager-app_20260830T152933Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paypager-app_20260830T152933Z.html
+Requested URL    : https://apps.shopify.com/paypager-app
+Final URL        : https://apps.shopify.com/paypager-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,226 bytes / 180,136 chars
+Elapsed          : 0.564s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PayPager: Failed Payment Alert - Recover 'do not honor' & credit card declines instantly. | Shopify App Store
+meta description : Enable direct outreach when customer cards are declined or customers could not pay. Catch failed credit card payments before customers abandon.
+canonical URL    : https://apps.shopify.com/paypager-app
+<h1> tags ( 1)  : 'PayPager: Failed Payment Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

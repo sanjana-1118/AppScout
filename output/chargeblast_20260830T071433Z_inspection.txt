@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeblast_20260830T071433Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeblast_20260830T071433Z.html
+Requested URL    : https://apps.shopify.com/chargeblast
+Final URL        : https://apps.shopify.com/chargeblast
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,353 bytes / 212,247 chars
+Elapsed          : 0.721s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Chargeblast: Block Chargebacks - Prevent & Fight Chargebacks Automatically | Shopify App Store
+meta description : Chargeblast reduces chargebacks before they hit payment processors. Lower your dispute rate on Stripe and Shopify. Avoid Visa and Mastercard fraud programs.
+canonical URL    : https://apps.shopify.com/chargeblast
+<h1> tags ( 1)  : 'Chargeblast: Block Chargebacks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

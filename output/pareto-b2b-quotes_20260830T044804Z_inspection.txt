@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pareto-b2b-quotes_20260830T044804Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pareto-b2b-quotes_20260830T044804Z.html
+Requested URL    : https://apps.shopify.com/pareto-b2b-quotes
+Final URL        : https://apps.shopify.com/pareto-b2b-quotes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,105 bytes / 181,015 chars
+Elapsed          : 1.112s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PQ Request a Quote, Hide Price - Hide prices, collect quote requests, convert them to orders | Shopify App Store
+meta description : PQ Request a Quote adds a quote button on the products you choose and hides their price
+storewide, for B2B and wholesale catalogs. The store-wide r...
+canonical URL    : https://apps.shopify.com/pareto-b2b-quotes
+<h1> tags ( 1)  : 'PQ Request a Quote, Hide Price'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

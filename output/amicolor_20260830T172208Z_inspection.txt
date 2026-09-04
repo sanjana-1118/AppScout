@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amicolor_20260830T172208Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amicolor_20260830T172208Z.html
+Requested URL    : https://apps.shopify.com/amicolor
+Final URL        : https://apps.shopify.com/amicolor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,708 bytes / 172,611 chars
+Elapsed          : 0.875s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amicolor - Create fundraising campaigns and storefront announcements bar | Shopify App Store
+meta description : Fund Meter lets merchants create fundraising campaigns tied to real orders. Set a target amount, choose a percentage or fixed contribution per sale...
+canonical URL    : https://apps.shopify.com/amicolor
+<h1> tags ( 1)  : 'Amicolor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

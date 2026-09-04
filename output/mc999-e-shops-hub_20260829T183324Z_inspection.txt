@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mc999-e-shops-hub_20260829T183324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mc999-e-shops-hub_20260829T183324Z.html
+Requested URL    : https://apps.shopify.com/mc999-e-shops-hub
+Final URL        : https://apps.shopify.com/mc999-e-shops-hub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,169 bytes / 166,056 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MC999: E‑Shops Hub - E-Shops hub to trade worldwide contacting customers directly  | Shopify App Store
+meta description : Growing Marketplace will provide integration with e-commerce platforms to trade without censorship and restrictions.
+Be your boss of your own E-Sho...
+canonical URL    : https://apps.shopify.com/mc999-e-shops-hub
+<h1> tags ( 1)  : 'MC999: E‑Shops Hub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\beeapp-cart-animator_20260830T063650Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\beeapp-cart-animator_20260830T063650Z.html
+Requested URL    : https://apps.shopify.com/beeapp-cart-animator
+Final URL        : https://apps.shopify.com/beeapp-cart-animator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,306 bytes / 207,201 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PX Add To Cart Button - Fast checkout with sticky Add To Cart button to get... | Shopify App Store
+meta description : Animate Add To Cart Buttons- Bring your Add To Cart buttons to your customer’s attention using advanced beautiful animations. Your customers will l...
+canonical URL    : https://apps.shopify.com/beeapp-cart-animator
+<h1> tags ( 1)  : 'PX Add To Cart Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

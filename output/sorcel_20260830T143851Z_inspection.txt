@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sorcel_20260830T143851Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sorcel_20260830T143851Z.html
+Requested URL    : https://apps.shopify.com/sorcel
+Final URL        : https://apps.shopify.com/sorcel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,713 bytes / 157,626 chars
+Elapsed          : 0.906s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sorcel - Unlock Exclusive Products with NFTs | Shopify App Store
+meta description : Offer your clients a token-gated e-commerce experience. Access exclusive products based on the NFT your clients hold.
+canonical URL    : https://apps.shopify.com/sorcel
+<h1> tags ( 1)  : 'Sorcel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

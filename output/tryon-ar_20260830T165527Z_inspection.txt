@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tryon-ar_20260830T165527Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tryon-ar_20260830T165527Z.html
+Requested URL    : https://apps.shopify.com/tryon-ar
+Final URL        : https://apps.shopify.com/tryon-ar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,639 bytes / 171,522 chars
+Elapsed          : 0.451s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TRYON‑AR - Gain sales and customers using virtual TRYON-AR app in store | Shopify App Store
+meta description : App lets customers virtually try on products using the device camera with real-time tracking and less wait time. Built with advanced AR technology ...
+canonical URL    : https://apps.shopify.com/tryon-ar
+<h1> tags ( 1)  : 'TRYON‑AR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

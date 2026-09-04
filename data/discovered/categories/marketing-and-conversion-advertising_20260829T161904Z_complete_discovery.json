@@ -1,0 +1,42 @@
+{
+  "category_url": "https://apps.shopify.com/categories/marketing-and-conversion-advertising",
+  "category_slug": "marketing-and-conversion-advertising",
+  "traversal_timestamp": "2026-08-29T16:19:04.549919+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/marketing-and-conversion-advertising"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/affliate-by-secomapp",
+    "https://apps.shopify.com/shopify-audiences",
+    "https://apps.shopify.com/facebook-multi-pixels",
+    "https://apps.shopify.com/snapchat-ads",
+    "https://apps.shopify.com/tiktok",
+    "https://apps.shopify.com/microsoft-advertising",
+    "https://apps.shopify.com/gtm-datalayer-by-elevar",
+    "https://apps.shopify.com/google",
+    "https://apps.shopify.com/goaffpro",
+    "https://apps.shopify.com/adroll-retargeting",
+    "https://apps.shopify.com/parkour-pixel",
+    "https://apps.shopify.com/facebook",
+    "https://apps.shopify.com/ig-fb-shoppable-comments",
+    "https://apps.shopify.com/pinterest",
+    "https://apps.shopify.com/nabu-for-facebook-pixel",
+    "https://apps.shopify.com/facebook-multiple-pixel",
+    "https://apps.shopify.com/social-snowball",
+    "https://apps.shopify.com/bixgrow-affiliate-marketing",
+    "https://apps.shopify.com/affiliatery",
+    "https://apps.shopify.com/affilitrak",
+    "https://apps.shopify.com/referral-and-affiliates",
+    "https://apps.shopify.com/collabs",
+    "https://apps.shopify.com/impact-1",
+    "https://apps.shopify.com/shortly-affiliate-marketing"
+  ],
+  "total_urls_encountered": 32,
+  "unique_app_urls": 24,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

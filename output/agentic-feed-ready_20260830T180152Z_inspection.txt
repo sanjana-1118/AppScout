@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agentic-feed-ready_20260830T180152Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agentic-feed-ready_20260830T180152Z.html
+Requested URL    : https://apps.shopify.com/agentic-feed-ready
+Final URL        : https://apps.shopify.com/agentic-feed-ready
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,390 bytes / 178,269 chars
+Elapsed          : 0.967s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AgenticFeedReady - feed read for agentic gmc acp | Shopify App Store
+meta description : AI agents like ChatGPT decide whether to recommend your store based on your data, policies, and feeds. If they can't read you, they skip you.
+Agent...
+canonical URL    : https://apps.shopify.com/agentic-feed-ready
+<h1> tags ( 1)  : 'AgenticFeedReady'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\climateclick_20260830T064330Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\climateclick_20260830T064330Z.html
+Requested URL    : https://apps.shopify.com/climateclick
+Final URL        : https://apps.shopify.com/climateclick
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,410 bytes / 180,305 chars
+Elapsed          : 0.632s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Climate Click - Empower your customers to offset carbon emissions at checkout | Shopify App Store
+meta description : Climate Click enables climate investments based on the shopping cart – turning every purchase into positive climate action.
+Increase your conversio...
+canonical URL    : https://apps.shopify.com/climateclick
+<h1> tags ( 1)  : 'Climate Click'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

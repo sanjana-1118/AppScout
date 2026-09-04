@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sale-discount-manager_20260830T043941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sale-discount-manager_20260830T043941Z.html
+Requested URL    : https://apps.shopify.com/sale-discount-manager
+Final URL        : https://apps.shopify.com/sale-discount-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,330 bytes / 232,228 chars
+Elapsed          : 0.685s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Heartcoding Sales & Discounts - Set up and schedule your sales & promotions fast and easy | Shopify App Store
+meta description : product discounts, scheduled sale campaigns, countdown timer & sale labels all in one app
+canonical URL    : https://apps.shopify.com/sale-discount-manager
+<h1> tags ( 1)  : 'Heartcoding Sales & Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

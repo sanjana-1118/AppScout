@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paidquiz_20260830T142234Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paidquiz_20260830T142234Z.html
+Requested URL    : https://apps.shopify.com/paidquiz
+Final URL        : https://apps.shopify.com/paidquiz
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,832 bytes / 165,727 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PaidQuiz - Sell a quiz - Earn revenue by selling quizzes | Shopify App Store
+meta description : Make a quiz, charge customers—all-in-one Shopify solution. Create an interactive quiz and sell it as a digital product. Zero-risk to start, upgrade...
+canonical URL    : https://apps.shopify.com/paidquiz
+<h1> tags ( 1)  : 'PaidQuiz'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

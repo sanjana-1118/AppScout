@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\firwood-web-accessibility_20260830T161342Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\firwood-web-accessibility_20260830T161342Z.html
+Requested URL    : https://apps.shopify.com/firwood-web-accessibility
+Final URL        : https://apps.shopify.com/firwood-web-accessibility
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,527 bytes / 155,438 chars
+Elapsed          : 0.941s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : weedit Web Accessibility - Automatically enhances the web accessibility in line with WCAG | Shopify App Store
+meta description : This plugin automatically enhances the accessibility of any website in line with WCAG standards. It detects and fixes common issues such as missing...
+canonical URL    : https://apps.shopify.com/firwood-web-accessibility
+<h1> tags ( 1)  : 'weedit Web Accessibility'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

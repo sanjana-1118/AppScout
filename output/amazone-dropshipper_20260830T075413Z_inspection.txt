@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amazone-dropshipper_20260830T075413Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amazone-dropshipper_20260830T075413Z.html
+Requested URL    : https://apps.shopify.com/amazone-dropshipper
+Final URL        : https://apps.shopify.com/amazone-dropshipper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,309 bytes / 222,220 chars
+Elapsed          : 0.753s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AmaZone DropShipper + Walmart - Dropship any Amazon Prime product and Deliver in just 3... | Shopify App Store
+meta description : Import and DropShip from Amazon US, CA, DE, UK, MX, IN, JPN, FR, SP, IT and Walmart US. Get full products Reviews, Analytics and Automated Price Sync
+canonical URL    : https://apps.shopify.com/amazone-dropshipper
+<h1> tags ( 1)  : 'AmaZone DropShipper + Walmart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

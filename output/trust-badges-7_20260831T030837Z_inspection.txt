@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badges-7_20260831T030837Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badges-7_20260831T030837Z.html
+Requested URL    : https://apps.shopify.com/trust-badges-7
+Final URL        : https://apps.shopify.com/trust-badges-7
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,274 bytes / 207,185 chars
+Elapsed          : 0.574s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SA Trust Badges - Build buyer trust with custom trust badges and payment icons. | Shopify App Store
+meta description : Building customer confidence during checkout is critical for online stores. This app allows merchants to display custom trust badges, guarantee ban...
+canonical URL    : https://apps.shopify.com/trust-badges-7
+<h1> tags ( 1)  : 'SA Trust Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

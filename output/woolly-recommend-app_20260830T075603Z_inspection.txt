@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woolly-recommend-app_20260830T075603Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woolly-recommend-app_20260830T075603Z.html
+Requested URL    : https://apps.shopify.com/woolly-recommend-app
+Final URL        : https://apps.shopify.com/woolly-recommend-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,586 bytes / 175,241 chars
+Elapsed          : 0.550s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : レコメンド .amp - 「この商品を見た人はこんな商品も見ています」の実装が簡単に可能！閲覧履歴をもとに自動で計算された高性能なレコメンドを実現 | Shopify App Store
+meta description : レコメンド.ampは、商品ごとの閲覧履歴をもとに自動で計算された高性能なレコメンドを表示し、商品の販売機会を増やすShopifyアプリです。自社ECサイトに簡単に「この商品を見た人はこんな商品も見ています」を実装でき、ストア内の回遊率増加と顧客単価の向上をサポートし、商品詳細ページからの離脱や直帰の軽減を実現します。
+canonical URL    : https://apps.shopify.com/woolly-recommend-app?locale=ja
+<h1> tags ( 1)  : 'レコメンド .amp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

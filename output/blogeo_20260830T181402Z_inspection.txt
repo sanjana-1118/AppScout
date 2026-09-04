@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogeo_20260830T181402Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogeo_20260830T181402Z.html
+Requested URL    : https://apps.shopify.com/blogeo
+Final URL        : https://apps.shopify.com/blogeo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,733 bytes / 171,640 chars
+Elapsed          : 0.659s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blogeo - AI blog writing and auto-publishing for stores | Shopify App Store
+meta description : Blogeo uses AI to write SEO-optimised blog posts for your Shopify store and publishes them automatically on a schedule.
+canonical URL    : https://apps.shopify.com/blogeo
+<h1> tags ( 1)  : 'Blogeo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

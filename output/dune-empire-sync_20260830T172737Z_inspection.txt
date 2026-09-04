@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dune-empire-sync_20260830T172737Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dune-empire-sync_20260830T172737Z.html
+Requested URL    : https://apps.shopify.com/dune-empire-sync
+Final URL        : https://apps.shopify.com/dune-empire-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,509 bytes / 167,416 chars
+Elapsed          : 0.736s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dune Empire Sync - Sync products & orders with Dune Empire dropshipping | Shopify App Store
+meta description : Dune Empire Sync connects your Shopify store to the Dune Empire dropshipping platform. Automatically sync products, prices, and inventory levels fr...
+canonical URL    : https://apps.shopify.com/dune-empire-sync
+<h1> tags ( 1)  : 'Dune Empire Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

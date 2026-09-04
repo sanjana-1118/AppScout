@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nordic-b2b-checkout_20260830T184354Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nordic-b2b-checkout_20260830T184354Z.html
+Requested URL    : https://apps.shopify.com/nordic-b2b-checkout
+Final URL        : https://apps.shopify.com/nordic-b2b-checkout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,296 bytes / 177,197 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EU&UK B2B Checkout by NORDIC - Verify B2B buyers and flag risky orders before you fulfil | Shopify App Store
+meta description : Verify B2B buyers at checkout against official EU and UK registries, screen orders for sanctions, and check credit and insolvency risk — all in one app.
+canonical URL    : https://apps.shopify.com/nordic-b2b-checkout
+<h1> tags ( 1)  : 'EU&UK B2B Checkout by NORDIC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

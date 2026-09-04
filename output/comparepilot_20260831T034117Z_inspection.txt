@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\comparepilot_20260831T034117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\comparepilot_20260831T034117Z.html
+Requested URL    : https://apps.shopify.com/comparepilot
+Final URL        : https://apps.shopify.com/comparepilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,495 bytes / 170,410 chars
+Elapsed          : 0.941s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ComparePilot: Compare Products - Compare products side by side before buying | Shopify App Store
+meta description : Let customers compare products side by side with a product comparison table. Display key features, specifications, and add products to cart.
+canonical URL    : https://apps.shopify.com/comparepilot
+<h1> tags ( 1)  : 'ComparePilot: Compare Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

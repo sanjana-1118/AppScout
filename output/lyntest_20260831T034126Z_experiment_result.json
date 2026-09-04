@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/lyntest",
+  "fetch_timestamp": "2026-08-31T03:41:26.985111+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\lyntest_20260831T034126Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\lyntest_20260831T034126Z.html",
+    "url": "https://apps.shopify.com/lyntest",
+    "final_url": "https://apps.shopify.com/lyntest",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 169767,
+    "body_text_length": 169678,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.825162,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Lyntest: A/B Testing Image - A/B test product images to increase conversions | Shopify App Store",
+    "meta_description": "A/B test your Shopify product images with Lyntest. Find the most profitable visuals to boost add-to-carts, conversion rates, and revenue per visitor.",
+    "canonical_url": "https://apps.shopify.com/lyntest",
+    "h1_tags": [
+      "Lyntest: A/B Testing Image"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Lyntest: A/B Testing Image",
+    "app_slug": "lyntest",
+    "app_url": "https://apps.shopify.com/lyntest",
+    "developer_name": "Lyntest",
+    "description": "A/B test your Shopify product images with Lyntest. Find the most profitable visuals to boost add-to-carts, conversion rates, and revenue per visitor.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Site optimization - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\lyntest_20260831T034126Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\lyntest_20260831T034126Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Lyntest: A/B Testing Image",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "lyntest",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/lyntest",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Lyntest",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "A/B test your Shopify product images with Lyntest. Find the most profitable visuals to boost add-to-carts, conversion rates, and revenue per visitor.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Site optimization - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

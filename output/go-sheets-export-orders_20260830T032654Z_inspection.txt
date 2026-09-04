@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\go-sheets-export-orders_20260830T032654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\go-sheets-export-orders_20260830T032654Z.html
+Requested URL    : https://apps.shopify.com/go-sheets-export-orders
+Final URL        : https://apps.shopify.com/go-sheets-export-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,585 bytes / 173,472 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GoSheet ‑ Export Google Sheets - Export your orders easily and in real time | Shopify App Store
+meta description : Export your shopify orders in real-time or manually to your google sheets files, focus on the real work and let us manage your orders.
+canonical URL    : https://apps.shopify.com/go-sheets-export-orders
+<h1> tags ( 1)  : 'GoSheet ‑ Export Google Sheets'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

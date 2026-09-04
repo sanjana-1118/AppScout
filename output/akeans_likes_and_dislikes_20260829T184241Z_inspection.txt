@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\akeans_likes_and_dislikes_20260829T184241Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\akeans_likes_and_dislikes_20260829T184241Z.html
+Requested URL    : https://apps.shopify.com/akeans_likes_and_dislikes
+Final URL        : https://apps.shopify.com/akeans_likes_and_dislikes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,861 bytes / 173,768 chars
+Elapsed          : 0.740s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Akeans Likes and Dislikes - Engage Customers, Gather Insights, and Enhance Sales | Shopify App Store
+meta description : Discover the Akeans Likes and Dislikes app for Shopify. Engage customers, gather valuable insights, and improve sales with an interactive product feedback too.
+canonical URL    : https://apps.shopify.com/akeans_likes_and_dislikes
+<h1> tags ( 1)  : 'Akeans Likes and Dislikes'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

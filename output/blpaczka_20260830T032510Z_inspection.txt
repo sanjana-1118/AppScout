@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blpaczka_20260830T032510Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blpaczka_20260830T032510Z.html
+Requested URL    : https://apps.shopify.com/blpaczka
+Final URL        : https://apps.shopify.com/blpaczka
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,891 bytes / 171,708 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BLPaczka - Łatwiejsze nadawanie przesyłek | Shopify App Store
+meta description : Aplikacja umożliwia pełną obsługę wysyłek bezpośrednio z panelu Shopify. Dzięki integracji z BLPaczka proces nadawania przesyłek staje się szybki, …
+canonical URL    : https://apps.shopify.com/blpaczka?locale=pl
+<h1> tags ( 1)  : 'BLPaczka'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

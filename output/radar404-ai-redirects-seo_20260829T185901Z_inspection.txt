@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\radar404-ai-redirects-seo_20260829T185901Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\radar404-ai-redirects-seo_20260829T185901Z.html
+Requested URL    : https://apps.shopify.com/radar404-ai-redirects-seo
+Final URL        : https://apps.shopify.com/radar404-ai-redirects-seo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,907 bytes / 191,797 chars
+Elapsed          : 0.484s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Radar404 ‑ AI Redirects & SEO - Auto-detect 404s, AI-powered redirects & broken link repair | Shopify App Store
+meta description : Radar404 catches every 404 on your Shopify store and fixes it with AI-powered 301 redirects, automatically. Stop losing sales and SEO to dead links. Free plan.
+canonical URL    : https://apps.shopify.com/radar404-ai-redirects-seo
+<h1> tags ( 1)  : 'Radar404 ‑ AI Redirects & SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

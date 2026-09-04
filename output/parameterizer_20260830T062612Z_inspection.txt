@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parameterizer_20260830T062612Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parameterizer_20260830T062612Z.html
+Requested URL    : https://apps.shopify.com/parameterizer
+Final URL        : https://apps.shopify.com/parameterizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,432 bytes / 172,255 chars
+Elapsed          : 0.672s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Parameterizer - Advanced parameterization and product selection tool | Shopify App Store
+meta description : If your collection have many products with many different parameters:
+   geometric (length, width, thickness, diameter, etc.),
+   electrical (capac...
+canonical URL    : https://apps.shopify.com/parameterizer
+<h1> tags ( 1)  : 'Parameterizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

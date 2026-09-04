@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\iomnic_20260830T050910Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\iomnic_20260830T050910Z.html
+Requested URL    : https://apps.shopify.com/iomnic
+Final URL        : https://apps.shopify.com/iomnic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,627 bytes / 202,536 chars
+Elapsed          : 0.945s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : iOmniC - Omni-Channel data transfer for e-commerce | Shopify App Store
+meta description : No more time consuming manual updates necessary. All your Products, Orders, and Fulfillment are automatically synced between platforms within minut...
+canonical URL    : https://apps.shopify.com/iomnic
+<h1> tags ( 1)  : 'iOmniC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

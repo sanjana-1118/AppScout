@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\picsart_20260830T134902Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\picsart_20260830T134902Z.html
+Requested URL    : https://apps.shopify.com/picsart
+Final URL        : https://apps.shopify.com/picsart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,406 bytes / 197,303 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Edit Product Images in Bulk - Edit product images in bulk — fast, clean, easy | Shopify App Store
+meta description : Bulk edit product photos with AI. Remove backgrounds, crop, and resize in seconds. Save hours and boost your Shopify store visuals—no design skills needed.
+canonical URL    : https://apps.shopify.com/picsart
+<h1> tags ( 1)  : 'Edit Product Images in Bulk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

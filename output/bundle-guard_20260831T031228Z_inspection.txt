@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-guard_20260831T031228Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-guard_20260831T031228Z.html
+Requested URL    : https://apps.shopify.com/bundle-guard
+Final URL        : https://apps.shopify.com/bundle-guard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,746 bytes / 166,657 chars
+Elapsed          : 0.627s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 2Smart Bundle Guard - Monitor native bundles for product and inventory issues. | Shopify App Store
+meta description : Monitor native fixed bundles for inactive components, missing images, and insufficient inventory with a read-only Shopify Admin dashboard.
+canonical URL    : https://apps.shopify.com/bundle-guard
+<h1> tags ( 1)  : '2Smart Bundle Guard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

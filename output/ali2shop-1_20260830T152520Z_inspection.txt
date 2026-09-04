@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ali2shop-1_20260830T152520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ali2shop-1_20260830T152520Z.html
+Requested URL    : https://apps.shopify.com/ali2shop-1
+Final URL        : https://apps.shopify.com/ali2shop-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,791 bytes / 173,698 chars
+Elapsed          : 0.851s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ali2Shop - Helps merchants expand faster, simplify product management | Shopify App Store
+meta description : Import AliExpress products to Shopify in one click. Customize prices and texts easily. Automate product listings and start selling faster with less effort.
+canonical URL    : https://apps.shopify.com/ali2shop-1
+<h1> tags ( 1)  : 'Ali2Shop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

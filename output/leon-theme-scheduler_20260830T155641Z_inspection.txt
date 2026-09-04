@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leon-theme-scheduler_20260830T155641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leon-theme-scheduler_20260830T155641Z.html
+Requested URL    : https://apps.shopify.com/leon-theme-scheduler
+Final URL        : https://apps.shopify.com/leon-theme-scheduler
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,712 bytes / 198,553 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Léon ‑ Theme Scheduler & A/B - A/B Test, Schedule and automate your store’s theme changes | Shopify App Store
+meta description : Scheduling your store’s theme changes has never been easier. Léon lets you schedule updates for Black Friday, anniversaries, or any special event.
+canonical URL    : https://apps.shopify.com/leon-theme-scheduler
+<h1> tags ( 1)  : 'Léon ‑ Theme Scheduler & A/B'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

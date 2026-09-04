@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ga-polls_20260830T154622Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ga-polls_20260830T154622Z.html
+Requested URL    : https://apps.shopify.com/ga-polls
+Final URL        : https://apps.shopify.com/ga-polls
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,333 bytes / 202,236 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GA: AI Polls - Create poll, polling and voting poll to engage store visitors | Shopify App Store
+meta description : Polls make it easy to collect real-time feedback, understand your audience, turn opinions into smart business decisions. Whether you want to refine...
+canonical URL    : https://apps.shopify.com/ga-polls
+<h1> tags ( 1)  : 'GA: AI Polls'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

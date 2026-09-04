@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-pop_20260830T180951Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-pop_20260830T180951Z.html
+Requested URL    : https://apps.shopify.com/popup-pop
+Final URL        : https://apps.shopify.com/popup-pop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,173 bytes / 169,082 chars
+Elapsed          : 0.604s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Popup Pop - Beautiful popups, live in 2 minutes, no code. | Shopify App Store
+meta description : Popup Pop does one thing exceptionally well: display a clean, customizable popup on your store. No templates to browse, no rules to configure, no c...
+canonical URL    : https://apps.shopify.com/popup-pop
+<h1> tags ( 1)  : 'Popup Pop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

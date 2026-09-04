@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emailchange_20260830T065008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emailchange_20260830T065008Z.html
+Requested URL    : https://apps.shopify.com/emailchange
+Final URL        : https://apps.shopify.com/emailchange
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,587 bytes / 186,670 chars
+Elapsed          : 1.493s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ninja apps: email change - Enable userself email change and have no more inquiries | Shopify App Store
+meta description : ユーザーによるメールアドレス変更
+e-mail address change by customer.
+canonical URL    : https://apps.shopify.com/emailchange
+<h1> tags ( 1)  : 'Ninja apps: email change'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

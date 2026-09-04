@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\motiontools_20260830T032836Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\motiontools_20260830T032836Z.html
+Requested URL    : https://apps.shopify.com/motiontools
+Final URL        : https://apps.shopify.com/motiontools
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,022 bytes / 154,929 chars
+Elapsed          : 0.445s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MotionTools - MotionTools connects you to your favourite shipping carrier. | Shopify App Store
+meta description : This app connects online shops with delivery operators that run on the MotionTools Platform. Merchants can easily connect their shop with such ship...
+canonical URL    : https://apps.shopify.com/motiontools
+<h1> tags ( 1)  : 'MotionTools'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

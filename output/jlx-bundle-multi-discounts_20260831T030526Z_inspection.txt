@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jlx-bundle-multi-discounts_20260831T030526Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jlx-bundle-multi-discounts_20260831T030526Z.html
+Requested URL    : https://apps.shopify.com/jlx-bundle-multi-discounts
+Final URL        : https://apps.shopify.com/jlx-bundle-multi-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,270 bytes / 218,175 chars
+Elapsed          : 0.585s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JLX Bundle & Multi Discounts - Bundle and multibuy pricing without building bundle products | Shopify App Store
+meta description : Bundle and multibuy pricing usually means building bundle products you have to stock, or codes shoppers have to remember. This app needs neither. Y...
+canonical URL    : https://apps.shopify.com/jlx-bundle-multi-discounts
+<h1> tags ( 1)  : 'JLX Bundle & Multi Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

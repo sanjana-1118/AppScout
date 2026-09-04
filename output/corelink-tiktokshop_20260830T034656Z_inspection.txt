@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corelink-tiktokshop_20260830T034656Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corelink-tiktokshop_20260830T034656Z.html
+Requested URL    : https://apps.shopify.com/corelink-tiktokshop
+Final URL        : https://apps.shopify.com/corelink-tiktokshop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,253 bytes / 169,430 chars
+Elapsed          : 0.454s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CoreLink｜TikTok Shopコネクター - TikTokShopとの商品、在庫、受注データ連携サービス | Shopify App Store
+meta description : TikTok Shopと商品、在庫データ等の連携ができるコネクターです。
+このアプリでノーコードでかんたんにTikTok Shopへの出店ができます。
+canonical URL    : https://apps.shopify.com/corelink-tiktokshop?locale=ja
+<h1> tags ( 1)  : 'CoreLink｜TikTok Shopコネクター'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

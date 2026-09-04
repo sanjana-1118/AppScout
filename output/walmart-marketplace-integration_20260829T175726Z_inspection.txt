@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\walmart-marketplace-integration_20260829T175726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\walmart-marketplace-integration_20260829T175726Z.html
+Requested URL    : https://apps.shopify.com/walmart-marketplace-integration
+Final URL        : https://apps.shopify.com/walmart-marketplace-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,113 bytes / 248,016 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CedCommerce Walmart Connector - An all-in-one solution to simplify your way to sell on... | Shopify App Store
+meta description : Effortlessly connect your store to Walmart with CedCommerce Walmart Connector. Our app offers real-time data syncing to keep your product informati...
+canonical URL    : https://apps.shopify.com/walmart-marketplace-integration
+<h1> tags ( 1)  : 'CedCommerce Walmart Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

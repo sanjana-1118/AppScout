@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uploadkit_20260830T041419Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uploadkit_20260830T041419Z.html
+Requested URL    : https://apps.shopify.com/uploadkit
+Final URL        : https://apps.shopify.com/uploadkit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 244,023 bytes / 243,922 chars
+Elapsed          : 0.690s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : File Uploads by UploadKit - Seamless file uploads for personalized products | Shopify App Store
+meta description : UploadKit file uploads for Shopify lets you create personalized products
+canonical URL    : https://apps.shopify.com/uploadkit
+<h1> tags ( 1)  : 'File Uploads by UploadKit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

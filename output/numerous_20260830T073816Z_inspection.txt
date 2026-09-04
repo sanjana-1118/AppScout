@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\numerous_20260830T073816Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\numerous_20260830T073816Z.html
+Requested URL    : https://apps.shopify.com/numerous
+Final URL        : https://apps.shopify.com/numerous
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,441 bytes / 166,342 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Numeross Profit Analytics  - True profit after every cost—not just revenue | Shopify App Store
+meta description : Discover your real net margin by tracking COGS, shipping, transaction fees, and ad spend. Break down profitability per product and view break-even ROAS.
+canonical URL    : https://apps.shopify.com/numerous
+<h1> tags ( 1)  : 'Numeross Profit Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

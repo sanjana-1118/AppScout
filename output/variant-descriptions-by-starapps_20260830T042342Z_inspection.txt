@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variant-descriptions-by-starapps_20260830T042342Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variant-descriptions-by-starapps_20260830T042342Z.html
+Requested URL    : https://apps.shopify.com/variant-descriptions-by-starapps
+Final URL        : https://apps.shopify.com/variant-descriptions-by-starapps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,800 bytes / 223,709 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Variant Descriptions King - Show description of selected variant to reduce drop off on... | Shopify App Store
+meta description : Show unique Product Description of the selected Variant. Add collapsible Accordions /Tabs to Product pages, Store pages, or Theme Sections in your Shopify store
+canonical URL    : https://apps.shopify.com/variant-descriptions-by-starapps
+<h1> tags ( 1)  : 'Variant Descriptions King'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

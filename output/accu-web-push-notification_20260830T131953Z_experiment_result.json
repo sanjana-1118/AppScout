@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/accu-web-push-notification",
+  "fetch_timestamp": "2026-08-30T13:19:53.828327+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\accu-web-push-notification_20260830T131953Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\accu-web-push-notification_20260830T131953Z.html",
+    "url": "https://apps.shopify.com/accu-web-push-notification",
+    "final_url": "https://apps.shopify.com/accu-web-push-notification",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 179064,
+    "body_text_length": 178973,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.542937,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Accu Web Push Notifications - A smart way to send web push notifications | Shopify App Store",
+    "meta_description": "# Benefits\n* Any short message containing the title, message, logo and redirect URL link can be used for web push notifications.\n* Useful for sendi...",
+    "canonical_url": "https://apps.shopify.com/accu-web-push-notification",
+    "h1_tags": [
+      "Accu Web Push Notifications"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Accu Web Push Notifications",
+    "app_slug": "accu-web-push-notification",
+    "app_url": "https://apps.shopify.com/accu-web-push-notification",
+    "developer_name": "Dhanashree Inc",
+    "description": "# Benefits\n* Any short message containing the title, message, logo and redirect URL link can be used for web push notifications.\n* Useful for sendi...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Web push"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\accu-web-push-notification_20260830T131953Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\accu-web-push-notification_20260830T131953Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Accu Web Push Notifications",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "accu-web-push-notification",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/accu-web-push-notification",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Dhanashree Inc",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "# Benefits\n* Any short message containing the title, message, logo and redirect URL link can be used for web push notifications.\n* Useful for sendi...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Web push",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

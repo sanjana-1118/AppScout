@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mulberry_20260830T052451Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mulberry_20260830T052451Z.html
+Requested URL    : https://apps.shopify.com/mulberry
+Final URL        : https://apps.shopify.com/mulberry
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,187 bytes / 206,094 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mulberry Product Protection - Offer customers accident protection and extended warranties | Shopify App Store
+meta description : When you install the app, our AI-driven product classification engine automatically finds warranty offers for every eligible product in your catalo...
+canonical URL    : https://apps.shopify.com/mulberry
+<h1> tags ( 1)  : 'Mulberry Product Protection'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

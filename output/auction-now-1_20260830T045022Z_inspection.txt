@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auction-now-1_20260830T045022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auction-now-1_20260830T045022Z.html
+Requested URL    : https://apps.shopify.com/auction-now-1
+Final URL        : https://apps.shopify.com/auction-now-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,979 bytes / 173,884 chars
+Elapsed          : 0.552s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AuctionNow - Turn store products into timed auctions with live bids | Shopify App Store
+meta description : Turn products into live auctions in Shopify Admin. Timed bidding, theme widgets, and draft-order checkout for winners — start free.
+canonical URL    : https://apps.shopify.com/auction-now-1
+<h1> tags ( 1)  : 'AuctionNow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

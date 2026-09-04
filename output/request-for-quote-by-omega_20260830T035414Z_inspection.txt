@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\request-for-quote-by-omega_20260830T035414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\request-for-quote-by-omega_20260830T035414Z.html
+Requested URL    : https://apps.shopify.com/request-for-quote-by-omega
+Final URL        : https://apps.shopify.com/request-for-quote-by-omega
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 271,544 bytes / 271,404 chars
+Elapsed          : 0.959s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QS Request a Quote, Hide Price -  Request a quote, price negotiation & hide price for B2B... | Shopify App Store
+meta description : Add Request a Quote & Hide Price to your Shopify store. Let B2B & wholesale buyers propose prices, negotiate, and turn quotes into orders. Free plan available.
+canonical URL    : https://apps.shopify.com/request-for-quote-by-omega
+<h1> tags ( 1)  : 'QS Request a Quote, Hide Price'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

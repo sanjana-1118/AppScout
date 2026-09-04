@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fairconsent_20260831T025749Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fairconsent_20260831T025749Z.html
+Requested URL    : https://apps.shopify.com/fairconsent
+Final URL        : https://apps.shopify.com/fairconsent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,868 bytes / 181,779 chars
+Elapsed          : 0.663s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FairConsent GDPR Cookie Banner - Consent banner that keeps your pixels and ads working | Shopify App Store
+meta description : Cookie consent banner with Google Consent Mode v2 that never breaks your existing tracking.
+canonical URL    : https://apps.shopify.com/fairconsent
+<h1> tags ( 1)  : 'FairConsent GDPR Cookie Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

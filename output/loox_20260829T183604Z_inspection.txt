@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loox_20260829T183604Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loox_20260829T183604Z.html
+Requested URL    : https://apps.shopify.com/loox
+Final URL        : https://apps.shopify.com/loox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 271,140 bytes / 271,008 chars
+Elapsed          : 0.903s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loox ‑ Product Reviews App - Convert more with visual product reviews, superpowered by AI | Shopify App Store
+meta description : Turn customer love into sales. Product reviews, referrals and social proof upsells with Loox for Shopify and Shopify Plus. 100,000 ecommerce businesses use Loox
+canonical URL    : https://apps.shopify.com/loox
+<h1> tags ( 1)  : 'Loox ‑ Product Reviews App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cps-extended-warranty-upsell_20260830T052348Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cps-extended-warranty-upsell_20260830T052348Z.html
+Requested URL    : https://apps.shopify.com/cps-extended-warranty-upsell
+Final URL        : https://apps.shopify.com/cps-extended-warranty-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,819 bytes / 202,730 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CPS Extended Warranty Upsell - Cross sell extended & accidental warranty plans + $200 Bonus! | Shopify App Store
+meta description : Turn existing Shopify traffic into additional profit with built-in warranty upsells from CPS! Our app automatically offers protection plans on elig...
+canonical URL    : https://apps.shopify.com/cps-extended-warranty-upsell
+<h1> tags ( 1)  : 'CPS Extended Warranty Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

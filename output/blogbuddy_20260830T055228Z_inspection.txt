@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogbuddy_20260830T055228Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogbuddy_20260830T055228Z.html
+Requested URL    : https://apps.shopify.com/blogbuddy
+Final URL        : https://apps.shopify.com/blogbuddy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,031 bytes / 227,912 chars
+Elapsed          : 0.621s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BlogBuddy‑ Bulk Blog Manager - Bulk edit your whole blog, write with AI, add audio... | Shopify App Store
+meta description : Edit 100s of Shopify blog posts in one spreadsheet. AI writes full articles, Autopilot schedules weekly drafts, 32 voices read posts aloud, CSV in and out.
+canonical URL    : https://apps.shopify.com/blogbuddy
+<h1> tags ( 1)  : 'BlogBuddy‑ Bulk Blog Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

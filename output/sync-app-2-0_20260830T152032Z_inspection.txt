@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sync-app-2-0_20260830T152032Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sync-app-2-0_20260830T152032Z.html
+Requested URL    : https://apps.shopify.com/sync-app-2-0
+Final URL        : https://apps.shopify.com/sync-app-2-0
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,031 bytes / 173,929 chars
+Elapsed          : 0.843s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SYNC APP 2.0 - Inventory Syncing: Single or Multiple Products | Shopify App Store
+meta description : Our sync app connects with your data sources and updates your information in real-time. You can manually trigger a sync or set up custom API syncs.
+canonical URL    : https://apps.shopify.com/sync-app-2-0
+<h1> tags ( 1)  : 'SYNC APP 2.0'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

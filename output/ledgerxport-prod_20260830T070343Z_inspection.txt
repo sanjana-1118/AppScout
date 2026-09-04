@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ledgerxport-prod_20260830T070343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ledgerxport-prod_20260830T070343Z.html
+Requested URL    : https://apps.shopify.com/ledgerxport-prod
+Final URL        : https://apps.shopify.com/ledgerxport-prod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,716 bytes / 176,609 chars
+Elapsed          : 1.313s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LedgerXport – Invoice & Sales - Export invoice and sale reports for your accountant in 1... | Shopify App Store
+meta description : Export Shopify invoices and sales reports in CSV, Excel, or PDF. Share clean files with your accountant and save time with LedgerXport.
+canonical URL    : https://apps.shopify.com/ledgerxport-prod
+<h1> tags ( 1)  : 'LedgerXport – Invoice & Sales'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

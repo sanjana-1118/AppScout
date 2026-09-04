@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ameldo_20260829T183826Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ameldo_20260829T183826Z.html
+Requested URL    : https://apps.shopify.com/ameldo
+Final URL        : https://apps.shopify.com/ameldo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,537 bytes / 201,382 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ameldo - Gør anmeldelser læsbare for søgning, AI og indkøbsagenter | Shopify App Store
+meta description : Ameldo indsamler og matcher dine produkter op mod en fælles anmeldelsesdatabase, hvilket giver dig værdifuld, ekstra eksponering. Samtidig udgives ...
+canonical URL    : https://apps.shopify.com/ameldo?locale=da
+<h1> tags ( 1)  : 'Ameldo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

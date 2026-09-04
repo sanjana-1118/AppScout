@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skuprint_20260830T034215Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skuprint_20260830T034215Z.html
+Requested URL    : https://apps.shopify.com/skuprint
+Final URL        : https://apps.shopify.com/skuprint
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,827 bytes / 185,736 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SkuPrint - Bulk-print barcode, SKU & QR labels for your whole catalog | Shopify App Store
+meta description : Bulk-print scannable Code 128, EAN, UPC & QR labels for your Shopify products. 5 retail presets, thermal or A4 printing.
+canonical URL    : https://apps.shopify.com/skuprint
+<h1> tags ( 1)  : 'SkuPrint'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

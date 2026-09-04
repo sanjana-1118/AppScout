@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\embedded-chat_20260830T075231Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\embedded-chat_20260830T075231Z.html
+Requested URL    : https://apps.shopify.com/embedded-chat
+Final URL        : https://apps.shopify.com/embedded-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,093 bytes / 183,991 chars
+Elapsed          : 0.444s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Embedded Chat - Social Chat Integration For Your Website! | Shopify App Store
+meta description : Most online stores feel empty. Embedded Chat fixes that by adding a live group chat that runs across every page, so shoppers can ask questions, sha...
+canonical URL    : https://apps.shopify.com/embedded-chat
+<h1> tags ( 1)  : 'Embedded Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sds-1_20260830T130337Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sds-1_20260830T130337Z.html
+Requested URL    : https://apps.shopify.com/sds-1
+Final URL        : https://apps.shopify.com/sds-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,824 bytes / 182,039 chars
+Elapsed          : 1.090s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SDS定制选品 - 为电商卖家提供柔性定制服务的ERP软件 | Shopify App Store
+meta description : SDS定制选品。DIY定制、亚马逊柔性定制、亚马逊铺货选品、跨境电商定制、跨境b2b电商、一件代发平台、跨境pod模式、来图定制设计器、独立站选品、跨境电商供应链、定制女装、版型定制、原创素材
+canonical URL    : https://apps.shopify.com/sds-1?locale=zh-CN
+<h1> tags ( 1)  : 'SDS定制选品'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

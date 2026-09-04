@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\versus-ai-comparison-table_20260830T062525Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\versus-ai-comparison-table_20260830T062525Z.html
+Requested URL    : https://apps.shopify.com/versus-ai-comparison-table
+Final URL        : https://apps.shopify.com/versus-ai-comparison-table
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,379 bytes / 181,290 chars
+Elapsed          : 1.134s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Versus : AI Comparison Table - AI-powered comparison tables with mobile card layouts | Shopify App Store
+meta description : The smartest way to build product comparison tables. Automatically analyze features, generate "Us vs Them" charts, and drive more sales with Versus AI.
+canonical URL    : https://apps.shopify.com/versus-ai-comparison-table
+<h1> tags ( 1)  : 'Versus : AI Comparison Table'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

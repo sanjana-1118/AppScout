@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-app_20260830T055225Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-app_20260830T055225Z.html
+Requested URL    : https://apps.shopify.com/customer-account-app
+Final URL        : https://apps.shopify.com/customer-account-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,035 bytes / 219,760 chars
+Elapsed          : 0.800s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Howdy NewCustomer Registration - metafields and banners on new customer account profile page! | Shopify App Store
+meta description : Add Metafields / Banner Image blocks to Shopify's new customer account profile page!  Simplify customer data management with an easy-to-use solution.
+canonical URL    : https://apps.shopify.com/customer-account-app
+<h1> tags ( 1)  : 'Howdy NewCustomer Registration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

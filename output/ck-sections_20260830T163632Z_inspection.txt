@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ck-sections_20260830T163632Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ck-sections_20260830T163632Z.html
+Requested URL    : https://apps.shopify.com/ck-sections
+Final URL        : https://apps.shopify.com/ck-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,703 bytes / 219,592 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CK — Theme Sections & Upsells - Theme Sections, Bundle Discounts & Contact Forms available  | Shopify App Store
+meta description : Build Faster with CK section, Free and premium shopify theme sections for your shopify store | Store design Block | Theme sections | upsells and cross sale
+canonical URL    : https://apps.shopify.com/ck-sections
+<h1> tags ( 1)  : 'CK — Theme Sections & Upsells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

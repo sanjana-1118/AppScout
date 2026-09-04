@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchentia-size-fit-guide_20260830T045308Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchentia-size-fit-guide_20260830T045308Z.html
+Requested URL    : https://apps.shopify.com/merchentia-size-fit-guide
+Final URL        : https://apps.shopify.com/merchentia-size-fit-guide
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,443 bytes / 196,330 chars
+Elapsed          : 0.611s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Merch ‑ Size Chart Fit - Size charts and a fit recommender so shoppers find their... | Shopify App Store
+meta description : Add size charts and a "find my size" fit recommender to product pages. Assign by product, collection, type, or tag; cm/in toggle, 15 languages, no theme code.
+canonical URL    : https://apps.shopify.com/merchentia-size-fit-guide
+<h1> tags ( 1)  : 'Merch ‑ Size Chart Fit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

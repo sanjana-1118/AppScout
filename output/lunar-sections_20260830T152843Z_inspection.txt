@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lunar-sections_20260830T152843Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lunar-sections_20260830T152843Z.html
+Requested URL    : https://apps.shopify.com/lunar-sections
+Final URL        : https://apps.shopify.com/lunar-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,257 bytes / 171,166 chars
+Elapsed          : 0.621s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lunar Sections - Enhance your storefront with beautifully designed sections | Shopify App Store
+meta description : Enhance your store with beautifully designed, customizable sections. Add testimonials, CTAs, countdown timers, and about blocks-no coding required.
+canonical URL    : https://apps.shopify.com/lunar-sections
+<h1> tags ( 1)  : 'Lunar Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

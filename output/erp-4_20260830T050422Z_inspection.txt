@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\erp-4_20260830T050422Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\erp-4_20260830T050422Z.html
+Requested URL    : https://apps.shopify.com/erp-4
+Final URL        : https://apps.shopify.com/erp-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,607 bytes / 150,344 chars
+Elapsed          : 0.984s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 旺店通跨境ERP - Achieve the scale of enterprise development | Shopify App Store
+meta description : 1.Efficient order processing, supporting 30 cross-border e-commerce platforms such as Shopify, Shopee, Amazon, AliExpress, eBay, and Wish
+2.Connect...
+canonical URL    : https://apps.shopify.com/erp-4
+<h1> tags ( 1)  : '旺店通跨境ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

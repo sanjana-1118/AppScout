@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockalert_20260831T041520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockalert_20260831T041520Z.html
+Requested URL    : https://apps.shopify.com/stockalert
+Final URL        : https://apps.shopify.com/stockalert
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,689 bytes / 216,565 chars
+Elapsed          : 0.719s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockAlert ‑ Inventory Alerts - Low stock alerts by email or Slack, across all your... | Shopify App Store
+meta description : Low stock and out-of-stock alerts by email or Slack for your Shopify store. Track inventory across locations, set reorder points, forecast demand. Free plan.
+canonical URL    : https://apps.shopify.com/stockalert
+<h1> tags ( 1)  : 'StockAlert ‑ Inventory Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

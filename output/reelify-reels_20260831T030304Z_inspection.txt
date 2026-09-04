@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reelify-reels_20260831T030304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reelify-reels_20260831T030304Z.html
+Requested URL    : https://apps.shopify.com/reelify-reels
+Final URL        : https://apps.shopify.com/reelify-reels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,054 bytes / 186,937 chars
+Elapsed          : 0.990s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reelify‑Shoppable Videos Reels - Shoppable video pop-ups that turn browsers into buyers | Shopify App Store
+meta description : On most storefronts, products are shown as static images, while product videos live on social media. Reelify brings that video onto your store as s...
+canonical URL    : https://apps.shopify.com/reelify-reels
+<h1> tags ( 1)  : 'Reelify‑Shoppable Videos Reels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

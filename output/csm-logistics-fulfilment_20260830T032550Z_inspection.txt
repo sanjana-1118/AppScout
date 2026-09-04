@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\csm-logistics-fulfilment_20260830T032550Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\csm-logistics-fulfilment_20260830T032550Z.html
+Requested URL    : https://apps.shopify.com/csm-logistics-fulfilment
+Final URL        : https://apps.shopify.com/csm-logistics-fulfilment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,368 bytes / 177,279 chars
+Elapsed          : 0.619s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CSM Logistics Fulfilment - Complete Fulfilment, Pricing, and Tracking for CSM Logistics. | Shopify App Store
+meta description : Master fulfilment with CSM Logistics Fulfilment: Bulk 
+management, accurate checkout pricing, auto-tracking, and international invoice 
+creation.
+canonical URL    : https://apps.shopify.com/csm-logistics-fulfilment
+<h1> tags ( 1)  : 'CSM Logistics Fulfilment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

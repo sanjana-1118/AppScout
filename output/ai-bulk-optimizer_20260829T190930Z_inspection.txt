@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-bulk-optimizer_20260829T190930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-bulk-optimizer_20260829T190930Z.html
+Requested URL    : https://apps.shopify.com/ai-bulk-optimizer
+Final URL        : https://apps.shopify.com/ai-bulk-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,056 bytes / 169,946 chars
+Elapsed          : 0.484s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Aura Bulk Optimizer ‑ AI SEO - Bulk-generate SEO titles and descriptions with AI. | Shopify App Store
+meta description : Manually optimizing hundreds of products for SEO takes weeks. Aura Bulk Optimizer solves this by letting you bulk-generate SEO titles and meta desc...
+canonical URL    : https://apps.shopify.com/ai-bulk-optimizer
+<h1> tags ( 1)  : 'Aura Bulk Optimizer ‑ AI SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipshop_20260830T140649Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipshop_20260830T140649Z.html
+Requested URL    : https://apps.shopify.com/shipshop
+Final URL        : https://apps.shopify.com/shipshop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,096 bytes / 163,007 chars
+Elapsed          : 0.761s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipShop - Shop the best shipping rate with SHIPSHOP | Shopify App Store
+meta description : shop the best shipping rate with SHIPSHOP
+canonical URL    : https://apps.shopify.com/shipshop
+<h1> tags ( 1)  : 'ShipShop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

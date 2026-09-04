@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnoai_20260830T054852Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnoai_20260830T054852Z.html
+Requested URL    : https://apps.shopify.com/returnoai
+Final URL        : https://apps.shopify.com/returnoai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,668 bytes / 170,573 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReturnoAI - Easy returns and replacements with order search and checkout. | Shopify App Store
+meta description : Designed for merchants who value seamless post-purchase experiences, our app simplifies the process of returns and replacements by allowing custome...
+canonical URL    : https://apps.shopify.com/returnoai
+<h1> tags ( 1)  : 'ReturnoAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

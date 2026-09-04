@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\neurobloom-chatbot-chatgpt_20260830T152438Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\neurobloom-chatbot-chatgpt_20260830T152438Z.html
+Requested URL    : https://apps.shopify.com/neurobloom-chatbot-chatgpt
+Final URL        : https://apps.shopify.com/neurobloom-chatbot-chatgpt
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,709 bytes / 186,611 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Neurobloom Chatbot + ChatGPT - AI chatbot that talks, listens, remembers, and boosts sales | Shopify App Store
+meta description : Neurobloom is an AI-powered chatbot for Shopify stores that talks, listens, remembers users, and boosts conversions with personalized, proactive product suggest
+canonical URL    : https://apps.shopify.com/neurobloom-chatbot-chatgpt
+<h1> tags ( 1)  : 'Neurobloom Chatbot + ChatGPT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

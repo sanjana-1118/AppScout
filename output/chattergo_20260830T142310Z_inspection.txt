@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chattergo_20260830T142310Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chattergo_20260830T142310Z.html
+Requested URL    : https://apps.shopify.com/chattergo
+Final URL        : https://apps.shopify.com/chattergo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,909 bytes / 193,815 chars
+Elapsed          : 0.634s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CHATTERgo Agentic AI Chatbot - 24/7 AI-Powered Product Consultant and CS Agent | Shopify App Store
+meta description : Chattable Store Associate for your Shopify Store
+canonical URL    : https://apps.shopify.com/chattergo
+<h1> tags ( 1)  : 'CHATTERgo Agentic AI Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

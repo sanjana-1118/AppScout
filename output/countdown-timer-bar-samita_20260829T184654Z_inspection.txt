@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\countdown-timer-bar-samita_20260829T184654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\countdown-timer-bar-samita_20260829T184654Z.html
+Requested URL    : https://apps.shopify.com/countdown-timer-bar-samita
+Final URL        : https://apps.shopify.com/countdown-timer-bar-samita
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,458 bytes / 222,368 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Countdown Timer Bar Samita - Raise sales with a Countdown Timer | Shopify App Store
+meta description : Add countdown timers for low stock, promotions, BFCM and events to drive urgency and increase conversions. Perfect for any sale!
+canonical URL    : https://apps.shopify.com/countdown-timer-bar-samita
+<h1> tags ( 1)  : 'Countdown Timer Bar Samita'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

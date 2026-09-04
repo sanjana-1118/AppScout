@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zeos-fulfillment_20260830T152202Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zeos-fulfillment_20260830T152202Z.html
+Requested URL    : https://apps.shopify.com/zeos-fulfillment
+Final URL        : https://apps.shopify.com/zeos-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,558 bytes / 177,460 chars
+Elapsed          : 0.969s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZEOS Fulfilment - Multi-channel logistics built for fashion brands | Shopify App Store
+meta description : The ZEOS Fulfilment App connects your Shopify store to ZEOS Logistics, giving you access to a pan-European fulfilment network built for fashion.
+ZE...
+canonical URL    : https://apps.shopify.com/zeos-fulfillment
+<h1> tags ( 1)  : 'ZEOS Fulfilment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

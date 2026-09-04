@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\endless-discount-options_20260830T151057Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\endless-discount-options_20260830T151057Z.html
+Requested URL    : https://apps.shopify.com/endless-discount-options
+Final URL        : https://apps.shopify.com/endless-discount-options
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,451 bytes / 216,358 chars
+Elapsed          : 0.799s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Endless Discount Options - Set up automatic BOGO, bundle, volume & Buy X for... | Shopify App Store
+meta description : Shopify discount app with BOGO, volume, bundle, Buy X for $Y & shipping discounts. Conditional rules by product type, vendor, tags, and Shopify Markets.
+canonical URL    : https://apps.shopify.com/endless-discount-options
+<h1> tags ( 1)  : 'Endless Discount Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

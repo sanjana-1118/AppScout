@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mandelbaum_20260830T063002Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mandelbaum_20260830T063002Z.html
+Requested URL    : https://apps.shopify.com/mandelbaum
+Final URL        : https://apps.shopify.com/mandelbaum
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,797 bytes / 168,698 chars
+Elapsed          : 0.613s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mandelbaum.ai Search & Filter - No-Code AI search and Chat UI for your Shop | Shopify App Store
+meta description : Seamlessly connect your store with one click. Import products instantly, enable AI-powered search, chat, and social media UI—no coding required. Cu...
+canonical URL    : https://apps.shopify.com/mandelbaum
+<h1> tags ( 1)  : 'Mandelbaum.ai Search & Filter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

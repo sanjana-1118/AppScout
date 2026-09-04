@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlesuite_20260830T145217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlesuite_20260830T145217Z.html
+Requested URL    : https://apps.shopify.com/bundlesuite
+Final URL        : https://apps.shopify.com/bundlesuite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 261,458 bytes / 261,363 chars
+Elapsed          : 1.343s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BundleSuite Bundle Builder - Mix and Match Bundle Builder,Build a Box, Fast Bundle Builder | Shopify App Store
+meta description : Boost sales with BundleSuite, a Shopify bundle builder app. Create Product Bundles, Mix and Match, Build a Box, Fixed Bundle, Discounts, Gift, Buy X Get Y, BOGO
+canonical URL    : https://apps.shopify.com/bundlesuite
+<h1> tags ( 1)  : 'BundleSuite Bundle Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\socialsnap_20260830T163215Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\socialsnap_20260830T163215Z.html
+Requested URL    : https://apps.shopify.com/socialsnap
+Final URL        : https://apps.shopify.com/socialsnap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,424 bytes / 199,313 chars
+Elapsed          : 0.588s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SocialSnap ‑ Shoppable Reels -  Make your store's videos shoppable with a swipeable feed. | Shopify App Store
+meta description : Turn your videos and reels into a shoppable, swipeable feed for your Shopify store. Upload clips, tag products, and let shoppers buy in a tap. Try it free.
+canonical URL    : https://apps.shopify.com/socialsnap
+<h1> tags ( 1)  : 'SocialSnap ‑ Shoppable Reels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

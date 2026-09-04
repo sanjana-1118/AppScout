@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mayainsights_20260830T073525Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mayainsights_20260830T073525Z.html
+Requested URL    : https://apps.shopify.com/mayainsights
+Final URL        : https://apps.shopify.com/mayainsights
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,522 bytes / 193,427 chars
+Elapsed          : 0.536s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mayainsights - Chat to your store data with. On demand insights and... | Shopify App Store
+meta description : Chat with your Shopify data in plain English. Instant AI answers on sales, profit, ROAS & customers. Connect Claude via MCP — no dashboards, no spreadsheets.
+canonical URL    : https://apps.shopify.com/mayainsights
+<h1> tags ( 1)  : 'Mayainsights'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

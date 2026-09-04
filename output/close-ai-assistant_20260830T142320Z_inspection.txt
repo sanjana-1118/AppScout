@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\close-ai-assistant_20260830T142320Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\close-ai-assistant_20260830T142320Z.html
+Requested URL    : https://apps.shopify.com/close-ai-assistant
+Final URL        : https://apps.shopify.com/close-ai-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,828 bytes / 177,732 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Close AI Assistant - Your ChatGPT AI chatbot for 24/7 and optimal customer service | Shopify App Store
+meta description : Easily create in 3 steps your ChatGPT AI chatbot for your website with the Close Assistant!
+canonical URL    : https://apps.shopify.com/close-ai-assistant
+<h1> tags ( 1)  : 'Close AI Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

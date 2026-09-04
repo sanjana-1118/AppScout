@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\no-contact-delivery_20260830T125723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\no-contact-delivery_20260830T125723Z.html
+Requested URL    : https://apps.shopify.com/no-contact-delivery
+Final URL        : https://apps.shopify.com/no-contact-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,819 bytes / 201,706 chars
+Elapsed          : 0.798s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SpurIT No‑Contact Delivery -  Improve your store with 'No-contact' delivery option | Shopify App Store
+meta description : The No-Contact Delivery app allows your customers to request the contact-free delivery option and safely receive their orders.
+
+The selected non-co...
+canonical URL    : https://apps.shopify.com/no-contact-delivery
+<h1> tags ( 1)  : 'SpurIT No‑Contact Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

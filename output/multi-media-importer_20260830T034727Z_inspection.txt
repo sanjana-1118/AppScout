@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-media-importer_20260830T034727Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-media-importer_20260830T034727Z.html
+Requested URL    : https://apps.shopify.com/multi-media-importer
+Final URL        : https://apps.shopify.com/multi-media-importer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,999 bytes / 202,910 chars
+Elapsed          : 0.577s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UPC Express: Products Importer - Import Data From Toys and Games, Books, Movies, Music etc.... | Shopify App Store
+meta description : Retrieve and import your product data from books, movies, music, vinyl record and more by it's UPC or ISBN into your Shopify app store.
+canonical URL    : https://apps.shopify.com/multi-media-importer
+<h1> tags ( 1)  : 'UPC Express: Products Importer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

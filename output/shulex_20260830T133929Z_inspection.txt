@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shulex_20260830T133929Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shulex_20260830T133929Z.html
+Requested URL    : https://apps.shopify.com/shulex
+Final URL        : https://apps.shopify.com/shulex
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,077 bytes / 210,983 chars
+Elapsed          : 0.840s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Live Chat & AI Chatbots - AI Chatbot: Use in all sale stages.Boost your customer service | Shopify App Store
+meta description : Our AI chatbot seamlessly integrates into all sale stages, efficiently resolving most inquiries with rapid response times.
+canonical URL    : https://apps.shopify.com/shulex
+<h1> tags ( 1)  : 'Live Chat & AI Chatbots'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

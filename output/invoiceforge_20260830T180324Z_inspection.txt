@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invoiceforge_20260830T180324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invoiceforge_20260830T180324Z.html
+Requested URL    : https://apps.shopify.com/invoiceforge
+Final URL        : https://apps.shopify.com/invoiceforge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,883 bytes / 204,790 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : InvoiceForge: PDF Invoices - Branded invoices, packing slips, and receipts on autopilot. | Shopify App Store
+meta description : Automate branded PDF invoices, packing slips, receipts, and credit notes for every Shopify order. Email PDFs to customers and export to QuickBooks or Xero.
+canonical URL    : https://apps.shopify.com/invoiceforge
+<h1> tags ( 1)  : 'InvoiceForge: PDF Invoices'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cardora_20260831T033417Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cardora_20260831T033417Z.html
+Requested URL    : https://apps.shopify.com/cardora
+Final URL        : https://apps.shopify.com/cardora
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,325 bytes / 171,218 chars
+Elapsed          : 0.672s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cardora ‑ Gift Card Manager - Bulk create, import, and audit your store's gift cards. | Shopify App Store
+meta description : Cardora simplifies gift card management by enabling bulk creation, CSV importing, and real-time activity auditing. Instead of manually creating ind...
+canonical URL    : https://apps.shopify.com/cardora
+<h1> tags ( 1)  : 'Cardora ‑ Gift Card Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

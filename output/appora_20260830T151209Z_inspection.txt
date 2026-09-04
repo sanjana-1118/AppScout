@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appora_20260830T151209Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appora_20260830T151209Z.html
+Requested URL    : https://apps.shopify.com/appora
+Final URL        : https://apps.shopify.com/appora
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,333 bytes / 216,200 chars
+Elapsed          : 0.547s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Appora ‑ Mobile App Builder - Build an App to fuel sales with App Clips &... | Shopify App Store
+meta description : Take full control of your mobile app without being locked into a platform forever. Own your code, customize every detail, and transition to a fully...
+canonical URL    : https://apps.shopify.com/appora
+<h1> tags ( 1)  : 'Appora ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

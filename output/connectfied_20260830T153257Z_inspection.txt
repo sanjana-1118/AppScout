@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\connectfied_20260830T153257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\connectfied_20260830T153257Z.html
+Requested URL    : https://apps.shopify.com/connectfied
+Final URL        : https://apps.shopify.com/connectfied
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,847 bytes / 176,732 chars
+Elapsed          : 0.741s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Connectfied - The universal connector for print-on-demand. | Shopify App Store
+meta description : Connectfied is a unified integration platform for the print-on-demand (POD) industry. It connects POD services, e‑commerce platforms, and sales cha...
+canonical URL    : https://apps.shopify.com/connectfied
+<h1> tags ( 1)  : 'Connectfied'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

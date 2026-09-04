@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\add-sections_20260830T152315Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\add-sections_20260830T152315Z.html
+Requested URL    : https://apps.shopify.com/add-sections
+Final URL        : https://apps.shopify.com/add-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,334 bytes / 214,203 chars
+Elapsed          : 0.838s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Add Sections - Add high-converting pages and sections to any theme | Shopify App Store
+meta description : Instantly add conversion-focused, mobile-first sections and pages to any theme. Customize easily with no recurring fees or bloated code.
+canonical URL    : https://apps.shopify.com/add-sections
+<h1> tags ( 1)  : 'Add Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

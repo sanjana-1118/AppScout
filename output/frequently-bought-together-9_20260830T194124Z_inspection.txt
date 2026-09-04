@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frequently-bought-together-9_20260830T194124Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frequently-bought-together-9_20260830T194124Z.html
+Requested URL    : https://apps.shopify.com/frequently-bought-together-9
+Final URL        : https://apps.shopify.com/frequently-bought-together-9
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,928 bytes / 160,787 chars
+Elapsed          : 0.538s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZoroFrequently‑bought‑TOGETHER - Add backendless frequently bought together offers | Shopify App Store
+meta description : Frequently Bought Together helps merchants add a customizable cross-sell block to product, cart, and collection pages. The app uses storefront reco...
+canonical URL    : https://apps.shopify.com/frequently-bought-together-9
+<h1> tags ( 1)  : 'ZoroFrequently‑bought‑TOGETHER'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

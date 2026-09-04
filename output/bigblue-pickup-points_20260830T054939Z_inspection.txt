@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bigblue-pickup-points_20260830T054939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bigblue-pickup-points_20260830T054939Z.html
+Requested URL    : https://apps.shopify.com/bigblue-pickup-points
+Final URL        : https://apps.shopify.com/bigblue-pickup-points
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,405 bytes / 221,269 chars
+Elapsed          : 0.898s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Maple ‑ Pickup Points Selector - Multi-carrier pickup point selection map in and after checkout | Shopify App Store
+meta description : Améliorez le checkout de votre boutique Shopify avec la Carte point relais Bigblue. Interface mobile-first, recherche instantanée, et design à vos couleurs.
+canonical URL    : https://apps.shopify.com/bigblue-pickup-points
+<h1> tags ( 1)  : 'Maple ‑ Pickup Points Selector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\signonify_20260830T072542Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\signonify_20260830T072542Z.html
+Requested URL    : https://apps.shopify.com/signonify
+Final URL        : https://apps.shopify.com/signonify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,146 bytes / 177,041 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Signonify ‑ Single Sign On - Social Login simple configuration and Secure via OAuth, OpenID | Shopify App Store
+meta description : We provide a simple tool for authenticating users through popular social media accounts and identity providers. This helps users reduce the time to...
+canonical URL    : https://apps.shopify.com/signonify
+<h1> tags ( 1)  : 'Signonify ‑ Single Sign On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

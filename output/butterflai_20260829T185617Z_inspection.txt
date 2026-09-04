@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\butterflai_20260829T185617Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\butterflai_20260829T185617Z.html
+Requested URL    : https://apps.shopify.com/butterflai
+Final URL        : https://apps.shopify.com/butterflai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 249,911 bytes / 249,811 chars
+Elapsed          : 0.841s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ButterflAI Product Description - Create bulk SEO description, blogs, & alt text in minutes | Shopify App Store
+meta description : Generate product descriptions, alt text, blogs, images and videos in bulk for Shopify stores with AI trained on your brand.
+canonical URL    : https://apps.shopify.com/butterflai
+<h1> tags ( 1)  : 'ButterflAI Product Description'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

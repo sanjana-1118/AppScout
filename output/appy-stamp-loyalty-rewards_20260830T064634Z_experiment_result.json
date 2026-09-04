@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/appy-stamp-loyalty-rewards",
+  "fetch_timestamp": "2026-08-30T06:46:34.759131+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\appy-stamp-loyalty-rewards_20260830T064634Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\appy-stamp-loyalty-rewards_20260830T064634Z.html",
+    "url": "https://apps.shopify.com/appy-stamp-loyalty-rewards",
+    "final_url": "https://apps.shopify.com/appy-stamp-loyalty-rewards",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 234898,
+    "body_text_length": 234805,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.615291,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Appy Stamp: Loyalty Punch Card - Stamp card loyalty & rewards, VIP tiers, bonus days, POS... | Shopify App Store",
+    "meta_description": "Our merchants found points based loyalty and rewards programs didn't work for them or was too confusing for their customers. So we took a more trad...",
+    "canonical_url": "https://apps.shopify.com/appy-stamp-loyalty-rewards",
+    "h1_tags": [
+      "Appy Stamp: Loyalty Punch Card"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Appy Stamp: Loyalty Punch Card",
+    "app_slug": "appy-stamp-loyalty-rewards",
+    "app_url": "https://apps.shopify.com/appy-stamp-loyalty-rewards",
+    "developer_name": "Appy Design",
+    "description": "Our merchants found points based loyalty and rewards programs didn't work for them or was too confusing for their customers. So we took a more trad...",
+    "average_rating": 5.0,
+    "review_count": 12,
+    "category": "Loyalty and rewards"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\appy-stamp-loyalty-rewards_20260830T064634Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\appy-stamp-loyalty-rewards_20260830T064634Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Appy Stamp: Loyalty Punch Card",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "appy-stamp-loyalty-rewards",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/appy-stamp-loyalty-rewards",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Appy Design",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Our merchants found points based loyalty and rewards programs didn't work for them or was too confusing for their customers. So we took a more trad...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 12,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Loyalty and rewards",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

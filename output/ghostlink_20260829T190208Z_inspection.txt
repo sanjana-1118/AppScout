@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ghostlink_20260829T190208Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ghostlink_20260829T190208Z.html
+Requested URL    : https://apps.shopify.com/ghostlink
+Final URL        : https://apps.shopify.com/ghostlink
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,809 bytes / 169,688 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GhostLink – 404 Auto Redirects - Automatically fix 404s with smart redirects | Shopify App Store
+meta description : Stop losing traffic and sales to broken links. GhostLink quietly watches your store's 404 pages, logs every broken URL, and turns them into Shopify URL redirect
+canonical URL    : https://apps.shopify.com/ghostlink
+<h1> tags ( 1)  : 'GhostLink – 404 Auto Redirects'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

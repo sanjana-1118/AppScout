@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bon-loyalty-rewards_20260830T060931Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bon-loyalty-rewards_20260830T060931Z.html
+Requested URL    : https://apps.shopify.com/bon-loyalty-rewards
+Final URL        : https://apps.shopify.com/bon-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 269,019 bytes / 268,916 chars
+Elapsed          : 0.548s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BON Loyalty Program & Rewards - Drive repeat sales with points, VIP tiers & referrals program | Shopify App Store
+meta description : A powerful Shopify Loyalty App provides loyalty points, rewards & referral programs to build customer retention and encourage new customers to purchase.
+canonical URL    : https://apps.shopify.com/bon-loyalty-rewards
+<h1> tags ( 1)  : 'BON Loyalty Program & Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

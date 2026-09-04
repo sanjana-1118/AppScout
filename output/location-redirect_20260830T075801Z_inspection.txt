@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\location-redirect_20260830T075801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\location-redirect_20260830T075801Z.html
+Requested URL    : https://apps.shopify.com/location-redirect
+Final URL        : https://apps.shopify.com/location-redirect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,461 bytes / 204,372 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Unicorn Location Redirect - Easily redirect customers to the right store for their area | Shopify App Store
+meta description : Customers are more inclined to purchase from stores in their home countries - providing a seamless localised experience increases trust and provide...
+canonical URL    : https://apps.shopify.com/location-redirect
+<h1> tags ( 1)  : 'Unicorn Location Redirect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

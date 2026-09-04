@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartsee_20260830T133925Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartsee_20260830T133925Z.html
+Requested URL    : https://apps.shopify.com/cartsee
+Final URL        : https://apps.shopify.com/cartsee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,575 bytes / 195,870 chars
+Elapsed          : 0.892s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartSee - Increase sales through email marketing, SMS and Pop-ups | Shopify App Store
+meta description : Helps cross-border e-commerce marketers quickly build a marketing automation platform to build automated, personalized, cross-channel user marketin...
+canonical URL    : https://apps.shopify.com/cartsee
+<h1> tags ( 1)  : 'CartSee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoppable-instagram-feed-ugc_20260830T145039Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoppable-instagram-feed-ugc_20260830T145039Z.html
+Requested URL    : https://apps.shopify.com/shoppable-instagram-feed-ugc
+Final URL        : https://apps.shopify.com/shoppable-instagram-feed-ugc
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,374 bytes / 216,254 chars
+Elapsed          : 0.529s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shoppable Galleries Feed & UGC - Shoppable Instagram UGC galleries. Automated rights & tagging. | Shopify App Store
+meta description : Leverage the power of genuine customer content as social proof on your e-shop. Automate content collection, rights management and product tagging.
+canonical URL    : https://apps.shopify.com/shoppable-instagram-feed-ugc
+<h1> tags ( 1)  : 'Shoppable Galleries Feed & UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

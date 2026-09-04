@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dtf-gang-flow_20260830T171946Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dtf-gang-flow_20260830T171946Z.html
+Requested URL    : https://apps.shopify.com/dtf-gang-flow
+Final URL        : https://apps.shopify.com/dtf-gang-flow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,484 bytes / 173,395 chars
+Elapsed          : 0.497s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DTF Gang Flow -  Turn DTF orders into print-ready gang sheets automatically | Shopify App Store
+meta description : Labor is one of the biggest costs in a DTF shop. DTF Gang Flow helps cut that cost by doing the busy work for you. When a customer orders ready-to-...
+canonical URL    : https://apps.shopify.com/dtf-gang-flow
+<h1> tags ( 1)  : 'DTF Gang Flow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\np-kakebarai-shipment_20260830T051853Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\np-kakebarai-shipment_20260830T051853Z.html
+Requested URL    : https://apps.shopify.com/np-kakebarai-shipment
+Final URL        : https://apps.shopify.com/np-kakebarai-shipment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,948 bytes / 157,885 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NP掛け払い 請求書発行依頼アプリ - NP掛け払いでの請求書発行依頼を自動化することができます。 | Shopify App Store
+meta description : NP掛け払いの請求書発行依頼を自動で連携し、請求状況の確認をおこなえます。
+
+■注意
+利用にはアプリのインストールに加え、別途『NP掛け払い（法人向け請求書払い/銀行・コンビニ）』の決済アプリのインストールが必要となります。決済アプリのインストールには株式会社ネットプロテクションズとの契約が必...
+canonical URL    : https://apps.shopify.com/np-kakebarai-shipment?locale=ja
+<h1> tags ( 1)  : 'NP掛け払い 請求書発行依頼アプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

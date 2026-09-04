@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-clearance-manager_20260830T180716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-clearance-manager_20260830T180716Z.html
+Requested URL    : https://apps.shopify.com/smart-clearance-manager
+Final URL        : https://apps.shopify.com/smart-clearance-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,548 bytes / 176,447 chars
+Elapsed          : 1.011s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Clearance Manager - Clear slow-moving stock automatically with smart markdowns | Shopify App Store
+meta description : Smart Clearance Manager automatically discounts slow-moving inventory using customizable rules, price floors, and daily automated runs to help Shopify merchants
+canonical URL    : https://apps.shopify.com/smart-clearance-manager
+<h1> tags ( 1)  : 'Smart Clearance Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\botpenguin-1_20260830T143433Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\botpenguin-1_20260830T143433Z.html
+Requested URL    : https://apps.shopify.com/botpenguin-1
+Final URL        : https://apps.shopify.com/botpenguin-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,791 bytes / 162,701 chars
+Elapsed          : 0.618s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BotPenguin - Users can track their orders within the app using WhatsApp... | Shopify App Store
+meta description : BotPenguin is a powerful no-code AI agent platform. It enables customer engagement across 6+ channels, including WhatsApp, Instagram, web, Facebook...
+canonical URL    : https://apps.shopify.com/botpenguin-1
+<h1> tags ( 1)  : 'BotPenguin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

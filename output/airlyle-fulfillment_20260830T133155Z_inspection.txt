@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airlyle-fulfillment_20260830T133155Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airlyle-fulfillment_20260830T133155Z.html
+Requested URL    : https://apps.shopify.com/airlyle-fulfillment
+Final URL        : https://apps.shopify.com/airlyle-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,994 bytes / 156,905 chars
+Elapsed          : 1.115s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Airlyle Fulfillment  - Dropshipping, Fulfillment, Inventory Management, Shipping&More | Shopify App Store
+meta description : Comprehensive Logistics and Fulfillment Solutions For eCommerce Enterprises Across The Globe. From sourcing, picking, packaging to shipping, wareho...
+canonical URL    : https://apps.shopify.com/airlyle-fulfillment
+<h1> tags ( 1)  : 'Airlyle Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

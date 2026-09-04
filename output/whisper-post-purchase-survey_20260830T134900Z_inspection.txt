@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whisper-post-purchase-survey_20260830T134900Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whisper-post-purchase-survey_20260830T134900Z.html
+Requested URL    : https://apps.shopify.com/whisper-post-purchase-survey
+Final URL        : https://apps.shopify.com/whisper-post-purchase-survey
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,312 bytes / 161,223 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whisper Post Purchase Survey - Post purchase surveys made easy | Shopify App Store
+meta description : Post purchase surveys made simple! Easily create, analyse and edit your post purchase survey.
+canonical URL    : https://apps.shopify.com/whisper-post-purchase-survey
+<h1> tags ( 1)  : 'Whisper Post Purchase Survey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

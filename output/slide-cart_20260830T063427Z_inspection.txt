@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\slide-cart_20260830T063427Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\slide-cart_20260830T063427Z.html
+Requested URL    : https://apps.shopify.com/slide-cart
+Final URL        : https://apps.shopify.com/slide-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,363 bytes / 265,270 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amp Slide Cart Upsell Drawer - Lift AOV via slide cart drawer upsell, rewards bar, free... | Shopify App Store
+meta description : Trusted for premium-looking & fully on-brand design. We match aesthetics & increase AOV by adding progress bar, cart upsells, free gifts, BOGO (buy...
+canonical URL    : https://apps.shopify.com/slide-cart
+<h1> tags ( 1)  : 'Amp Slide Cart Upsell Drawer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

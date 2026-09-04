@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hff-products_20260830T040619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hff-products_20260830T040619Z.html
+Requested URL    : https://apps.shopify.com/hff-products
+Final URL        : https://apps.shopify.com/hff-products
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 258,802 bytes / 258,703 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cartifind: Temu Dropshipping - Import products, optimize with AI, sync inventory and orders. | Shopify App Store
+meta description : Import products from Temu, AliExpress, 1688, SHEIN, Amazon, Alibaba, Etsy, and supplier stores. Use AI editing, inventory sync, and fulfillment tools.
+canonical URL    : https://apps.shopify.com/hff-products
+<h1> tags ( 1)  : 'Cartifind: Temu Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

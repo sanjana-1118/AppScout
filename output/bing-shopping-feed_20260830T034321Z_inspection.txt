@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bing-shopping-feed_20260830T034321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bing-shopping-feed_20260830T034321Z.html
+Requested URL    : https://apps.shopify.com/bing-shopping-feed
+Final URL        : https://apps.shopify.com/bing-shopping-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 253,896 bytes / 253,803 chars
+Elapsed          : 0.615s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FeedAPIs For Bing Shopping /MS - Submits optimised product feed for Microsoft Advertising | Shopify App Store
+meta description : Sync optimized product feed, set up UET Tracking tags, & create Performance Max Campaigns for 185 countries in 113 different currencies & 41 different languages
+canonical URL    : https://apps.shopify.com/bing-shopping-feed
+<h1> tags ( 1)  : 'FeedAPIs For Bing Shopping /MS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

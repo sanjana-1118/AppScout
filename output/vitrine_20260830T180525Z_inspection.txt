@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vitrine_20260830T180525Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vitrine_20260830T180525Z.html
+Requested URL    : https://apps.shopify.com/vitrine
+Final URL        : https://apps.shopify.com/vitrine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,189 bytes / 171,093 chars
+Elapsed          : 0.561s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : vitrine - Add interactive 3D product viewers with a visual editor | Shopify App Store
+meta description : Add interactive 3D viewers to your product pages. Upload a GLB model, style the scene in the visual editor, and embed it. No code required.
+canonical URL    : https://apps.shopify.com/vitrine
+<h1> tags ( 1)  : 'vitrine'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retech-trust-badge_20260830T162215Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retech-trust-badge_20260830T162215Z.html
+Requested URL    : https://apps.shopify.com/retech-trust-badge
+Final URL        : https://apps.shopify.com/retech-trust-badge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,561 bytes / 155,438 chars
+Elapsed          : 1.008s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReTech Trust Badge - Build customer trust and credibility with secure store badges. | Shopify App Store
+meta description : ReTech Trust Badge helps you build customer confidence by displaying customizable trust badges on your store. Easily add badges like “Secure Checko...
+canonical URL    : https://apps.shopify.com/retech-trust-badge
+<h1> tags ( 1)  : 'ReTech Trust Badge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

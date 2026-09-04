@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intuitive-shipping_20260830T075020Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intuitive-shipping_20260830T075020Z.html
+Requested URL    : https://apps.shopify.com/intuitive-shipping
+Final URL        : https://apps.shopify.com/intuitive-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,559 bytes / 250,452 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Intuitive Shipping - Control how shipping is calculated and displayed at checkout.  | Shopify App Store
+meta description : Forget cookie cutter. Intuitive Shipping gives you unrivalled control of your checkout. It's time to push the limits of what is possible in online shipping.
+canonical URL    : https://apps.shopify.com/intuitive-shipping
+<h1> tags ( 1)  : 'Intuitive Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

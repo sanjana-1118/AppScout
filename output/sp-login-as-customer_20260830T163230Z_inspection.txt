@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sp-login-as-customer_20260830T163230Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sp-login-as-customer_20260830T163230Z.html
+Requested URL    : https://apps.shopify.com/sp-login-as-customer
+Final URL        : https://apps.shopify.com/sp-login-as-customer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,287 bytes / 179,182 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SP Login As Customer - Impersonate customers to see what they see and help faster | Shopify App Store
+meta description : Log in as your customers to see what they see, fix issues faster, review carts, and help them check out – no passwords needed, just quick and safe access.
+canonical URL    : https://apps.shopify.com/sp-login-as-customer
+<h1> tags ( 1)  : 'SP Login As Customer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

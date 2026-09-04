@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\virtualtry_20260830T144952Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\virtualtry_20260830T144952Z.html
+Requested URL    : https://apps.shopify.com/virtualtry
+Final URL        : https://apps.shopify.com/virtualtry
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,029 bytes / 197,908 chars
+Elapsed          : 0.776s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Virtual Try Glasses - Visualize Glasses in Real-time with our AI-based Try-On App. | Shopify App Store
+meta description : Enhance your online eyewear store with our AI-powered virtual try-on app. Allow customers to try and adjust glasses in real-time.
+canonical URL    : https://apps.shopify.com/virtualtry
+<h1> tags ( 1)  : 'Virtual Try Glasses'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

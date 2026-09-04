@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conditional-pricing-1_20260830T045037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conditional-pricing-1_20260830T045037Z.html
+Requested URL    : https://apps.shopify.com/conditional-pricing-1
+Final URL        : https://apps.shopify.com/conditional-pricing-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,632 bytes / 170,529 chars
+Elapsed          : 0.869s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Conditionap Pricing - Establece descuentos de forma fácil | Shopify App Store
+meta description : Muchas tiendas venden un producto principal junto con complementos opcionales que
+quieren ofrecer más baratos a quien compra el producto principal....
+canonical URL    : https://apps.shopify.com/conditional-pricing-1?locale=es
+<h1> tags ( 1)  : 'Conditionap Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

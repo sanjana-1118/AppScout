@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chiibi_20260830T075523Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chiibi_20260830T075523Z.html
+Requested URL    : https://apps.shopify.com/chiibi
+Final URL        : https://apps.shopify.com/chiibi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,688 bytes / 173,599 chars
+Elapsed          : 0.531s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Chiibi: Shoppable Photo Boards - Sell directly from beautiful photos in your shop | Shopify App Store
+meta description : With our app, you can easily create stunning photo that showcase your products in a visually appealing way, and share them on popular social media ...
+canonical URL    : https://apps.shopify.com/chiibi
+<h1> tags ( 1)  : 'Chiibi: Shoppable Photo Boards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\miko-bulk-image-resizer_20260831T030133Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\miko-bulk-image-resizer_20260831T030133Z.html
+Requested URL    : https://apps.shopify.com/miko-bulk-image-resizer
+Final URL        : https://apps.shopify.com/miko-bulk-image-resizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,401 bytes / 189,310 chars
+Elapsed          : 0.732s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Miko Bulk Image Resizer - Resize, compress and watermark images in bulk, previewed first | Shopify App Store
+meta description : Bulk resize, compress and watermark product images. Preview a real before and after, undo any run, and write alt text across your whole catalogue.
+canonical URL    : https://apps.shopify.com/miko-bulk-image-resizer
+<h1> tags ( 1)  : 'Miko Bulk Image Resizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

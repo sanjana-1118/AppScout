@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipany-1_20260829T191617Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipany-1_20260829T191617Z.html
+Requested URL    : https://apps.shopify.com/shipany-1
+Final URL        : https://apps.shopify.com/shipany-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,071 bytes / 217,316 chars
+Elapsed          : 0.897s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipAny: Label, Track, Pickup - Shipping SF Express(順豐),JDL(京東),Yamato,KEX,J&T,DHL,超商,FedEx | Shopify App Store
+meta description : 連接 Shopify 網店到本地及國際物流供應商，包括順豐速運 SF Express、黑貓宅急便、Jumppoint、嘉里快遞 Kerry、Lalamove、順豐冷運、alfred24、香港郵政 Hongkong Post、順豐智能櫃、7-11／FamilyMart 全家／萊爾富超商、中通快遞、UPS、新加坡郵政等。
+canonical URL    : https://apps.shopify.com/shipany-1
+<h1> tags ( 1)  : 'ShipAny: Label, Track, Pickup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

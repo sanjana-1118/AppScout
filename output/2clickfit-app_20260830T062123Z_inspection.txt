@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\2clickfit-app_20260830T062123Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\2clickfit-app_20260830T062123Z.html
+Requested URL    : https://apps.shopify.com/2clickfit-app
+Final URL        : https://apps.shopify.com/2clickfit-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,062 bytes / 200,971 chars
+Elapsed          : 0.593s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 2ClickFit: Virtual Try On - Help shoppers find the fit that they will love! | Shopify App Store
+meta description : 2ClickFit is a virtual try-on for shopify stores that helps their shoppers find the size that they will love!
+canonical URL    : https://apps.shopify.com/2clickfit-app
+<h1> tags ( 1)  : '2ClickFit: Virtual Try On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

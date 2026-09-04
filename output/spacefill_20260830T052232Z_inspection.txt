@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spacefill_20260830T052232Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spacefill_20260830T052232Z.html
+Requested URL    : https://apps.shopify.com/spacefill
+Final URL        : https://apps.shopify.com/spacefill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,038 bytes / 158,637 chars
+Elapsed          : 0.712s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 3PL Connect | Spacefill - La plateforme de collaboration entre chargeurs et 3PL | Shopify App Store
+meta description : 3PL Connect de Spacefill synchronise en temps réel votre boutique avec les systèmes de gestion d’entrepôt (WMS) de vos partenaires.
+
+- Descente aut...
+canonical URL    : https://apps.shopify.com/spacefill?locale=fr
+<h1> tags ( 1)  : '3PL Connect | Spacefill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

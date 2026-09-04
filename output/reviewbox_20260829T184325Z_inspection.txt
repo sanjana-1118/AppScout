@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reviewbox_20260829T184325Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reviewbox_20260829T184325Z.html
+Requested URL    : https://apps.shopify.com/reviewbox
+Final URL        : https://apps.shopify.com/reviewbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,962 bytes / 182,869 chars
+Elapsed          : 0.924s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReviewBox: Ratings & Reviews - Build credibility with authentic customer reviews | Shopify App Store
+meta description : Shoppers often look for trustworthy reviews before making a purchase. Without visible customer feedback, visitors may leave before making a decisio...
+canonical URL    : https://apps.shopify.com/reviewbox
+<h1> tags ( 1)  : 'ReviewBox: Ratings & Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

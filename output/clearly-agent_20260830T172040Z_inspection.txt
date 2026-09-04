@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearly-agent_20260830T172040Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearly-agent_20260830T172040Z.html
+Requested URL    : https://apps.shopify.com/clearly-agent
+Final URL        : https://apps.shopify.com/clearly-agent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,244 bytes / 191,104 chars
+Elapsed          : 0.845s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Clearly Agent — AI Sales Chat - AI store associate that actually knows your catalog | Shopify App Store
+meta description : The AI store associate that reads your real Shopify catalog — never invents a product. Handles live chat, tickets, 15+ languages. Free plan + $299/mo.
+canonical URL    : https://apps.shopify.com/clearly-agent
+<h1> tags ( 1)  : 'Clearly Agent — AI Sales Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

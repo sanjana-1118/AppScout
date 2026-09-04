@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-notifier_20260830T075146Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-notifier_20260830T075146Z.html
+Requested URL    : https://apps.shopify.com/stock-notifier
+Final URL        : https://apps.shopify.com/stock-notifier
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,442 bytes / 186,349 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stock Notifier - Notify Customers Automatically when Product is in stock again | Shopify App Store
+meta description : With the help of this app, Merchant can manage the stock with proper notifications once the product reaches to the minimum quantity after which the...
+canonical URL    : https://apps.shopify.com/stock-notifier
+<h1> tags ( 1)  : 'Stock Notifier'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

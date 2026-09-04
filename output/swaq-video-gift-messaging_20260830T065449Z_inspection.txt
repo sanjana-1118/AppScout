@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swaq-video-gift-messaging_20260830T065449Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swaq-video-gift-messaging_20260830T065449Z.html
+Requested URL    : https://apps.shopify.com/swaq-video-gift-messaging
+Final URL        : https://apps.shopify.com/swaq-video-gift-messaging
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,283 bytes / 181,194 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SWAQ Video Gift Notes & More - Add video messages to gift orders, boost revenue & referrals | Shopify App Store
+meta description : SWAQ Video Messaging allows customers to send social media style video messages with gifts. Recipients scan a QR code to view video and custom promotions.
+canonical URL    : https://apps.shopify.com/swaq-video-gift-messaging
+<h1> tags ( 1)  : 'SWAQ Video Gift Notes & More'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

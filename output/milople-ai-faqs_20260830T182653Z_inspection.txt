@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-ai-faqs_20260830T182653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-ai-faqs_20260830T182653Z.html
+Requested URL    : https://apps.shopify.com/milople-ai-faqs
+Final URL        : https://apps.shopify.com/milople-ai-faqs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,009 bytes / 183,920 chars
+Elapsed          : 1.093s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Milople AI FAQs - Generate AI FAQs, improve SEO, and answer shoppers. | Shopify App Store
+meta description : Generate AI-powered product FAQs, improve SEO with FAQ schema, answer customer questions instantly, support multiple languages, and increase conversions.
+canonical URL    : https://apps.shopify.com/milople-ai-faqs
+<h1> tags ( 1)  : 'Milople AI FAQs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

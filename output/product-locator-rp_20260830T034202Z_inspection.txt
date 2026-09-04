@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-locator-rp_20260830T034202Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-locator-rp_20260830T034202Z.html
+Requested URL    : https://apps.shopify.com/product-locator-rp
+Final URL        : https://apps.shopify.com/product-locator-rp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,692 bytes / 215,579 chars
+Elapsed          : 0.627s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RP ProFind ‑ Product Locator - Product First Discovery. Help Shoppers Locate Products Nearby. | Shopify App Store
+meta description : Quickly and easily add a new way to find your products, both in store and online. Using Geolocation and local search embedded with interactive maps.
+canonical URL    : https://apps.shopify.com/product-locator-rp
+<h1> tags ( 1)  : 'RP ProFind ‑ Product Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

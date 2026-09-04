@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\override-multi-tier-affiliate_20260830T035331Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\override-multi-tier-affiliate_20260830T035331Z.html
+Requested URL    : https://apps.shopify.com/override-multi-tier-affiliate
+Final URL        : https://apps.shopify.com/override-multi-tier-affiliate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,935 bytes / 187,808 chars
+Elapsed          : 0.773s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Override: Multi‑Tier Affiliate - Multi-tier affiliate program — flat fee, never % of sales | Shopify App Store
+meta description : Run a compliant multi-tier affiliate program on Shopify — click + code attribution, performance auto-tiers, one-click PayPal payouts. Flat fee, no rev share.
+canonical URL    : https://apps.shopify.com/override-multi-tier-affiliate
+<h1> tags ( 1)  : 'Override: Multi‑Tier Affiliate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

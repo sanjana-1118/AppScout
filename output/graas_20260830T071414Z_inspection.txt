@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\graas_20260830T071414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\graas_20260830T071414Z.html
+Requested URL    : https://apps.shopify.com/graas
+Final URL        : https://apps.shopify.com/graas
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,178 bytes / 177,057 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : hoppr ‑ by Graas.ai - hoppr turns your store data into instant answers. | Shopify App Store
+meta description : hoppr connects your Shopify store and sales channels to provide real-time insights into your business performance.
+
+Ask questions about sales trend...
+canonical URL    : https://apps.shopify.com/graas
+<h1> tags ( 1)  : 'hoppr ‑ by Graas.ai'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

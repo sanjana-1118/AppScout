@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-qa_20260830T181039Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-qa_20260830T181039Z.html
+Requested URL    : https://apps.shopify.com/product-qa
+Final URL        : https://apps.shopify.com/product-qa
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,792 bytes / 172,687 chars
+Elapsed          : 0.610s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Answer It ‑ Product Q&A - Answer customer questions with AI on product pages | Shopify App Store
+meta description : Shoppers who can't get a quick answer often leave without buying.
+
+Answer It AI adds a product Questions & Answers section to your Shopify store an...
+canonical URL    : https://apps.shopify.com/product-qa
+<h1> tags ( 1)  : 'Answer It ‑ Product Q&A'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

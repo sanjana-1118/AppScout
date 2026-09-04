@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unikuusou-lens-app_20260830T163257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unikuusou-lens-app_20260830T163257Z.html
+Requested URL    : https://apps.shopify.com/unikuusou-lens-app
+Final URL        : https://apps.shopify.com/unikuusou-lens-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,094 bytes / 182,985 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UniKuusou‑Lens App - Automate prescription lens orders & commission billing easily. | Shopify App Store
+meta description : Boost optical sales with a professional lens picker for frames and custom forms for contact lenses. Easy setup, unlimited orders, and 0% commission.
+canonical URL    : https://apps.shopify.com/unikuusou-lens-app
+<h1> tags ( 1)  : 'UniKuusou‑Lens App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopify-application-560",
+  "fetch_timestamp": "2026-08-31T03:05:40.686023+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-560_20260831T030540Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-560_20260831T030540Z.html",
+    "url": "https://apps.shopify.com/shopify-application-560",
+    "final_url": "https://apps.shopify.com/shopify-application-560",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 164199,
+    "body_text_length": 160464,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.350598,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "不正注文ガード - 日本特化ルールで不正注文を自動検知。発送前に印を付けて保留 | Shopify App Store",
+    "meta_description": "不正注文・いたずら注文の対応に、時間を取られていませんか。\n\n本アプリは、注文が入るたびに日本市場特有のリスク要因を自動でチェックします。郵便番号と都道府県の不一致、番地の欠落、使い捨てメールアドレス、同一人物による短期間の連続注文、代金引換×高額×匿名性メールの組み合わせなど、日本のストアで...",
+    "canonical_url": "https://apps.shopify.com/shopify-application-560?locale=ja",
+    "h1_tags": [
+      "不正注文ガード"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "不正注文ガード",
+    "app_slug": "shopify-application-560",
+    "app_url": "https://apps.shopify.com/shopify-application-560?locale=ja",
+    "developer_name": "Fusioncat inc.",
+    "description": "不正注文・いたずら注文の対応に、時間を取られていませんか。\n\n本アプリは、注文が入るたびに日本市場特有のリスク要因を自動でチェックします。郵便番号と都道府県の不一致、番地の欠落、使い捨てメールアドレス、同一人物による短期間の連続注文、代金引換×高額×匿名性メールの組み合わせなど、日本のストアで...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Orders - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-560_20260831T030540Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-560_20260831T030540Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "不正注文ガード",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopify-application-560",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopify-application-560?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Fusioncat inc.",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "不正注文・いたずら注文の対応に、時間を取られていませんか。\n\n本アプリは、注文が入るたびに日本市場特有のリスク要因を自動でチェックします。郵便番号と都道府県の不一致、番地の欠落、使い捨てメールアドレス、同一人物による短期間の連続注文、代金引換×高額×匿名性メールの組み合わせなど、日本のストアで...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Orders - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

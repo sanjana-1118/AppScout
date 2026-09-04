@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\euro-b2b-smart-hub_20260830T044751Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\euro-b2b-smart-hub_20260830T044751Z.html
+Requested URL    : https://apps.shopify.com/euro-b2b-smart-hub
+Final URL        : https://apps.shopify.com/euro-b2b-smart-hub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,764 bytes / 186,673 chars
+Elapsed          : 0.698s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Euro B2B Smart Hub - Dual pricing with official EU VAT validation via VIES | Shopify App Store
+meta description : EuroB2B Smart Hub helps Shopify merchants in the EU support B2B sales without Shopify Plus. 
+It enables dual pricing with and without VAT, validate...
+canonical URL    : https://apps.shopify.com/euro-b2b-smart-hub
+<h1> tags ( 1)  : 'Euro B2B Smart Hub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carti-cro-boost_20260830T181650Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carti-cro-boost_20260830T181650Z.html
+Requested URL    : https://apps.shopify.com/carti-cro-boost
+Final URL        : https://apps.shopify.com/carti-cro-boost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,843 bytes / 161,750 chars
+Elapsed          : 0.982s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Carti CRO - Helps merchants improve conversion rates and AOV. | Shopify App Store
+meta description : This app helps merchants display customizable CRO (Conversion Rate Optimization) widgets on storefront product and cart pages. The app includes wid...
+canonical URL    : https://apps.shopify.com/carti-cro-boost
+<h1> tags ( 1)  : 'Carti CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

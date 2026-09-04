@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\visual-merchandiser-2_20260830T062221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\visual-merchandiser-2_20260830T062221Z.html
+Requested URL    : https://apps.shopify.com/visual-merchandiser-2
+Final URL        : https://apps.shopify.com/visual-merchandiser-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,268 bytes / 190,170 chars
+Elapsed          : 0.546s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Visual Merchandiser - Visually and easily manage and sort your collections | Shopify App Store
+meta description : Visual Merchandiser helps you organize and sort your Shopify collections with automatic reorganization, drag & drop, precise insertion, and position locking.
+canonical URL    : https://apps.shopify.com/visual-merchandiser-2
+<h1> tags ( 1)  : 'Visual Merchandiser'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

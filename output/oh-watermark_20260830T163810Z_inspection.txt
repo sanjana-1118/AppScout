@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oh-watermark_20260830T163810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oh-watermark_20260830T163810Z.html
+Requested URL    : https://apps.shopify.com/oh-watermark
+Final URL        : https://apps.shopify.com/oh-watermark
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,557 bytes / 179,464 chars
+Elapsed          : 0.833s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Oh: Product Image Watermark - Bulk image and page watermarks with right-click protection. | Shopify App Store
+meta description : Bulk watermark product images, add page watermarks, and enable right-click protection. Auto-apply to new products and restore originals within 30 days.
+canonical URL    : https://apps.shopify.com/oh-watermark
+<h1> tags ( 1)  : 'Oh: Product Image Watermark'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

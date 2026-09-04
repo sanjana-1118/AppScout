@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\segments-1_20260830T182614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\segments-1_20260830T182614Z.html
+Requested URL    : https://apps.shopify.com/segments-1
+Final URL        : https://apps.shopify.com/segments-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,002 bytes / 181,913 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Segments -  AI agents that enrich your entire product catalog. | Shopify App Store
+meta description : Segments helps Shopify merchants improve and maintain product information in their store. The app pulls product data from Shopify, enriches fields ...
+canonical URL    : https://apps.shopify.com/segments-1
+<h1> tags ( 1)  : 'Segments'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

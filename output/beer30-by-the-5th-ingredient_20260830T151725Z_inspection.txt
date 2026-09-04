@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\beer30-by-the-5th-ingredient_20260830T151725Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\beer30-by-the-5th-ingredient_20260830T151725Z.html
+Requested URL    : https://apps.shopify.com/beer30-by-the-5th-ingredient
+Final URL        : https://apps.shopify.com/beer30-by-the-5th-ingredient
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,983 bytes / 153,874 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Beer30 by The 5th Ingredient - Integrate Beer30 and Bucha30 - real-time brewery management | Shopify App Store
+meta description : Brewery data management requirements
+canonical URL    : https://apps.shopify.com/beer30-by-the-5th-ingredient
+<h1> tags ( 1)  : 'Beer30 by The 5th Ingredient'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\star-product-reviews_20260829T184037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\star-product-reviews_20260829T184037Z.html
+Requested URL    : https://apps.shopify.com/star-product-reviews
+Final URL        : https://apps.shopify.com/star-product-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,950 bytes / 183,855 chars
+Elapsed          : 0.546s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Star Product Reviews App - Collect, manage and display product reviews | Shopify App Store
+meta description : Star empowers e-commerce with easy-to-use product review collection, ensuring quality reviews positively impact sales journey.
+canonical URL    : https://apps.shopify.com/star-product-reviews
+<h1> tags ( 1)  : 'Star Product Reviews App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

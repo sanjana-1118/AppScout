@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\passportify-eu-dpp_20260831T035229Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\passportify-eu-dpp_20260831T035229Z.html
+Requested URL    : https://apps.shopify.com/passportify-eu-dpp
+Final URL        : https://apps.shopify.com/passportify-eu-dpp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,645 bytes / 185,540 chars
+Elapsed          : 0.896s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Passportify EU DPP - EU Digital Product Passports — AI draft, seal, publish | Shopify App Store
+meta description : Create and publish EU Digital Product Passports on Shopify. AI drafts, cryptographic seals, public passport pages, and a storefront badge for shoppers.
+canonical URL    : https://apps.shopify.com/passportify-eu-dpp
+<h1> tags ( 1)  : 'Passportify EU DPP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

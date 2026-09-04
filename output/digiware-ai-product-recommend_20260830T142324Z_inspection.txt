@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digiware-ai-product-recommend_20260830T142324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digiware-ai-product-recommend_20260830T142324Z.html
+Requested URL    : https://apps.shopify.com/digiware-ai-product-recommend
+Final URL        : https://apps.shopify.com/digiware-ai-product-recommend
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,718 bytes / 175,625 chars
+Elapsed          : 0.868s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upsellflow Ai Pro - Upsellflow Ai Pro for Personalized Experiences | Shopify App Store
+meta description : Upsellflow Ai Pro is a user-centric app. It employs advanced AI technology to analyze user search queries and deliver tailored recommendations in r...
+canonical URL    : https://apps.shopify.com/digiware-ai-product-recommend
+<h1> tags ( 1)  : 'Upsellflow Ai Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

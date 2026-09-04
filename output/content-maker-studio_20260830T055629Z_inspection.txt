@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\content-maker-studio_20260830T055629Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\content-maker-studio_20260830T055629Z.html
+Requested URL    : https://apps.shopify.com/content-maker-studio
+Final URL        : https://apps.shopify.com/content-maker-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,441 bytes / 165,348 chars
+Elapsed          : 0.758s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Content Maker Studio - AI blog writer that publishes articles directly to your store | Shopify App Store
+meta description : Content Maker Studio helps merchants create blog content without hiring writers. The AI blog assistant researches topics, writes SEO-optimized arti...
+canonical URL    : https://apps.shopify.com/content-maker-studio
+<h1> tags ( 1)  : 'Content Maker Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

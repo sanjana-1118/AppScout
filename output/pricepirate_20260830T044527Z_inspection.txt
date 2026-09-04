@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pricepirate_20260830T044527Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pricepirate_20260830T044527Z.html
+Requested URL    : https://apps.shopify.com/pricepirate
+Final URL        : https://apps.shopify.com/pricepirate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,373 bytes / 229,225 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PricePirate – Dynamic Pricing - Price monitoring and repricing for Google Shopping and more | Shopify App Store
+meta description : PricePirate automatisiert Idealo-Listings für Shopify-Shops. Vergleiche Wettbewerberpreise, optimiere dein Dynamic Pricing und steigere deine Performance.
+canonical URL    : https://apps.shopify.com/pricepirate
+<h1> tags ( 1)  : 'PricePirate – Dynamic Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

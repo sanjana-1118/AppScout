@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recompal_20260830T152256Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recompal_20260830T152256Z.html
+Requested URL    : https://apps.shopify.com/recompal
+Final URL        : https://apps.shopify.com/recompal
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,910 bytes / 175,821 chars
+Elapsed          : 0.781s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RecomPal - AI chatbot that guides shoppers like an expert & drives... | Shopify App Store
+meta description : RecomPal is an AI chatbot for Shopify that offers expert product guidance, improves shopping experiences, and helps increase engagement and conversions.
+canonical URL    : https://apps.shopify.com/recompal
+<h1> tags ( 1)  : 'RecomPal'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

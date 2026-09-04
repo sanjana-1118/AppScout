@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-inspector_20260830T072250Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-inspector_20260830T072250Z.html
+Requested URL    : https://apps.shopify.com/cart-inspector
+Final URL        : https://apps.shopify.com/cart-inspector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,890 bytes / 184,783 chars
+Elapsed          : 0.770s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : xRay: Product Analytics - Track views, cart adds and checkouts for every product | Shopify App Store
+meta description : Get real-time insights into customer behavior with xRay. Track product views, adds to cart, and checkouts to optimize your Shopify store’s sales.
+canonical URL    : https://apps.shopify.com/cart-inspector
+<h1> tags ( 1)  : 'xRay: Product Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

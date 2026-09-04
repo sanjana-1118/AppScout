@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\korea-address-search_20260830T151404Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\korea-address-search_20260830T151404Z.html
+Requested URL    : https://apps.shopify.com/korea-address-search
+Final URL        : https://apps.shopify.com/korea-address-search
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,658 bytes / 155,703 chars
+Elapsed          : 0.506s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 한국 주소 검색 - 우리 앱은 한국 고객을 위한 스마트한 주소 검색 및 자동... | Shopify App Store
+meta description : "한국 주소 검색" 은 쇼피파이 스토어에서 한국 주소 입력을 간편하게 해주는 필수 앱입니다. 고객이 주소를 입력할 때 자동완성 기능을 제공하여 오타 및 입력 오류를 줄이고, 정확한 배송 주소를 보장합니다. 이를 통해 배송 문제를 예방하고 고객 만족도를 높이며, ...
+canonical URL    : https://apps.shopify.com/korea-address-search?locale=ko
+<h1> tags ( 1)  : '한국 주소 검색'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

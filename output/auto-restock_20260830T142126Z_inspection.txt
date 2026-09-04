@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-restock_20260830T142126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-restock_20260830T142126Z.html
+Requested URL    : https://apps.shopify.com/auto-restock
+Final URL        : https://apps.shopify.com/auto-restock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,848 bytes / 172,759 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BrightStock: Automatic Restock - Keep inventory changes on time across products and locations. | Shopify App Store
+meta description : Schedule one-time or recurring Shopify inventory updates for products, variants, and locations. Build multi-product restocks and review detailed results.
+canonical URL    : https://apps.shopify.com/auto-restock
+<h1> tags ( 1)  : 'BrightStock: Automatic Restock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

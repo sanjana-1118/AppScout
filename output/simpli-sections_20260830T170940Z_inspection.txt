@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simpli-sections_20260830T170940Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simpli-sections_20260830T170940Z.html
+Requested URL    : https://apps.shopify.com/simpli-sections
+Final URL        : https://apps.shopify.com/simpli-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,968 bytes / 217,879 chars
+Elapsed          : 0.736s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Simpli Sections - Add conversion-focused sections without editing code | Shopify App Store
+meta description : Simpli Sections helps you build converting storefronts with a library of premium, customizable sections. Create, edit, and optimize pages without c...
+canonical URL    : https://apps.shopify.com/simpli-sections
+<h1> tags ( 1)  : 'Simpli Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

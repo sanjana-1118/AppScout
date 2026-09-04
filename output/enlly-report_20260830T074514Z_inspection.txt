@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enlly-report_20260830T074514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enlly-report_20260830T074514Z.html
+Requested URL    : https://apps.shopify.com/enlly-report
+Final URL        : https://apps.shopify.com/enlly-report
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,590 bytes / 180,861 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 店舗日報｜AI売上分析×お礼メール×会員獲得 - 書くだけで売上集計もお礼メールも自動。店の毎日をお客様との絆に。 | Shopify App Store
+meta description : スタッフが日報を書くだけで売上・前年比・売れ筋を自動集計。AIが所感を作成し、来店客へのお礼メールやスタッフ評価、会員獲得まで。店舗の毎日をお客様との関係づくりに変えるShopifyアプリです。
+canonical URL    : https://apps.shopify.com/enlly-report?locale=ja
+<h1> tags ( 1)  : '店舗日報｜AI売上分析×お礼メール×会員獲得'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

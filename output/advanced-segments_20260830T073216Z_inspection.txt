@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-segments_20260830T073216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-segments_20260830T073216Z.html
+Requested URL    : https://apps.shopify.com/advanced-segments
+Final URL        : https://apps.shopify.com/advanced-segments
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,699 bytes / 190,610 chars
+Elapsed          : 0.523s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Advanced Customer Segments  - Compare customer segments, run RFM analysis, and create target | Shopify App Store
+meta description : Cohort intelligence for smarter customer growth.
+
+Stop guessing who your VIP customers are. Advanced Segments automatically analyzes your customer ...
+canonical URL    : https://apps.shopify.com/advanced-segments
+<h1> tags ( 1)  : 'Advanced Customer Segments'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

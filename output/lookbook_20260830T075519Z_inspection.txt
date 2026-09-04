@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lookbook_20260830T075519Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lookbook_20260830T075519Z.html
+Requested URL    : https://apps.shopify.com/lookbook
+Final URL        : https://apps.shopify.com/lookbook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,488 bytes / 210,355 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MOD: Lookbook - Beautiful Lookbooks in minutes & display products with links | Shopify App Store
+meta description : The Lookbook App
+• Easy setup with multiple themes to display
+• Link to purchase products
+• Customise your markers that display and connect your pr...
+canonical URL    : https://apps.shopify.com/lookbook
+<h1> tags ( 1)  : 'MOD: Lookbook'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

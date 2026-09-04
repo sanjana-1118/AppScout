@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snapchat-pixel-installer_20260830T071401Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snapchat-pixel-installer_20260830T071401Z.html
+Requested URL    : https://apps.shopify.com/snapchat-pixel-installer
+Final URL        : https://apps.shopify.com/snapchat-pixel-installer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,403 bytes / 205,310 chars
+Elapsed          : 1.136s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SnapX: Meta/Facebook Pixel - Unlimited facebook / meta pixels & Snapchat pixels with CAPI | Shopify App Store
+meta description : Add multi Snapchat pixels to your Shopify store in just a few clicks. Track conversions, optimize Snap ads, and maximize ROI with seamless integration.
+canonical URL    : https://apps.shopify.com/snapchat-pixel-installer
+<h1> tags ( 1)  : 'SnapX: Meta/Facebook Pixel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

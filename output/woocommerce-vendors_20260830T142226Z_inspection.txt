@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woocommerce-vendors_20260830T142226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woocommerce-vendors_20260830T142226Z.html
+Requested URL    : https://apps.shopify.com/woocommerce-vendors
+Final URL        : https://apps.shopify.com/woocommerce-vendors
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,215 bytes / 157,124 chars
+Elapsed          : 0.726s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PLATFORM WC Vendor Export - Export products into a WooCommerce site using WC Vendors. | Shopify App Store
+meta description : Our app allows store owners to export their product data into a special CSV format to make it easy to import products into a WooCommerce site using...
+canonical URL    : https://apps.shopify.com/woocommerce-vendors
+<h1> tags ( 1)  : 'PLATFORM WC Vendor Export'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

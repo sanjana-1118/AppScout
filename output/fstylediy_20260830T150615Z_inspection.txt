@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fstylediy_20260830T150615Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fstylediy_20260830T150615Z.html
+Requested URL    : https://apps.shopify.com/fstylediy
+Final URL        : https://apps.shopify.com/fstylediy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,103 bytes / 166,282 chars
+Elapsed          : 0.862s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : fstylediy - 一站式柔性定制服务的ERP软件 | Shopify App Store
+meta description : 运用 fstylediy 定制选品平台，即刻实现多样产品的个性化定制。无论是高端服饰、精致配饰，还是家居艺术品，我们的免费设计工具都能助您轻松打造独具匠心的作品，进而开启销售之门。我们承诺全程负责高品质的印刷、精美包装，并直接将您的订单运送至全球每一位尊贵客户手中。快速、便捷且毫无后顾之忧。...
+canonical URL    : https://apps.shopify.com/fstylediy?locale=zh-CN
+<h1> tags ( 1)  : 'fstylediy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apollon-omn_20260830T193800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apollon-omn_20260830T193800Z.html
+Requested URL    : https://apps.shopify.com/apollon-omn
+Final URL        : https://apps.shopify.com/apollon-omn
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,503 bytes / 172,406 chars
+Elapsed          : 0.774s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : apollon OMN - Sync your full product catalog from OMN to your store. | Shopify App Store
+meta description : apollon OMN connects merchants who manage their product information in the OMN platform to their online store. OMN stays your master system — deliv...
+canonical URL    : https://apps.shopify.com/apollon-omn
+<h1> tags ( 1)  : 'apollon OMN'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

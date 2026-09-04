@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\r2decide_20260830T063051Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\r2decide_20260830T063051Z.html
+Requested URL    : https://apps.shopify.com/r2decide
+Final URL        : https://apps.shopify.com/r2decide
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,530 bytes / 220,393 chars
+Elapsed          : 0.571s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : r2decide ‑ AI‑Powered Search - Boost Conversions with Cutting-Edge AI Search | Shopify App Store
+meta description : Experience substantial lifts in conversion and revenue with cutting-edge search that seamlessly guides users to a purchase.
+canonical URL    : https://apps.shopify.com/r2decide
+<h1> tags ( 1)  : 'r2decide ‑ AI‑Powered Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

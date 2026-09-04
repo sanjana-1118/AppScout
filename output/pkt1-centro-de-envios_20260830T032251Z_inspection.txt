@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pkt1-centro-de-envios_20260830T032251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pkt1-centro-de-envios_20260830T032251Z.html
+Requested URL    : https://apps.shopify.com/pkt1-centro-de-envios
+Final URL        : https://apps.shopify.com/pkt1-centro-de-envios
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,159 bytes / 150,030 chars
+Elapsed          : 0.643s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PKT1 Centro de Envíos - Plugin de comercio electrónico para envíos. | Shopify App Store
+meta description : Olvidate de cargar manualmente tarifas y guias de despacho, con PKT1, tendras tarifas justas en tiempo real, generaras las guias de despacho en for...
+canonical URL    : https://apps.shopify.com/pkt1-centro-de-envios?locale=es
+<h1> tags ( 1)  : 'PKT1 Centro de Envíos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

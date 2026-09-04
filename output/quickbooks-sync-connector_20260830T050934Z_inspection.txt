@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickbooks-sync-connector_20260830T050934Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickbooks-sync-connector_20260830T050934Z.html
+Requested URL    : https://apps.shopify.com/quickbooks-sync-connector
+Final URL        : https://apps.shopify.com/quickbooks-sync-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,319 bytes / 201,230 chars
+Elapsed          : 0.691s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Quickbooks Online Tools - Connect & automate workflows between store and quickbooks | Shopify App Store
+meta description : Sync or import all your Shopify orders, customers, and product details into QuickBooks to maintain your inventory and track all orders.
+canonical URL    : https://apps.shopify.com/quickbooks-sync-connector
+<h1> tags ( 1)  : 'Quickbooks Online Tools'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

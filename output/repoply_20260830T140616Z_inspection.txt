@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repoply_20260830T140616Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\repoply_20260830T140616Z.html
+Requested URL    : https://apps.shopify.com/repoply
+Final URL        : https://apps.shopify.com/repoply
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,170 bytes / 194,077 chars
+Elapsed          : 0.519s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Repoply - Subscribe and Save made EASY. | Shopify App Store
+meta description : The easiest way to sell products on a recurring basis. Add flexible repeat orders, custom discounts, and a customer portal to your store with no coding.
+canonical URL    : https://apps.shopify.com/repoply
+<h1> tags ( 1)  : 'Repoply'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

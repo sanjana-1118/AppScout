@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/restock-and-dead-stock-manager",
+  "fetch_timestamp": "2026-08-31T03:09:44.579613+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\restock-and-dead-stock-manager_20260831T030944Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\restock-and-dead-stock-manager_20260831T030944Z.html",
+    "url": "https://apps.shopify.com/restock-and-dead-stock-manager",
+    "final_url": "https://apps.shopify.com/restock-and-dead-stock-manager",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 192896,
+    "body_text_length": 192779,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.678322,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "PricePilot‑Smart Stock and PO - Restock and dead stock alerts from your real sales data | Shopify App Store",
+    "meta_description": "Turn sales history into restock and dead stock actions. Get reorder suggestions, purchase orders, and inventory health alerts for your Shopify store.",
+    "canonical_url": "https://apps.shopify.com/restock-and-dead-stock-manager",
+    "h1_tags": [
+      "PricePilot‑Smart Stock and PO"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "PricePilot‑Smart Stock and PO",
+    "app_slug": "restock-and-dead-stock-manager",
+    "app_url": "https://apps.shopify.com/restock-and-dead-stock-manager",
+    "developer_name": "Cyber Design",
+    "description": "Turn sales history into restock and dead stock actions. Get reorder suggestions, purchase orders, and inventory health alerts for your Shopify store.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Stock alerts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\restock-and-dead-stock-manager_20260831T030944Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\restock-and-dead-stock-manager_20260831T030944Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "PricePilot‑Smart Stock and PO",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "restock-and-dead-stock-manager",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/restock-and-dead-stock-manager",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Cyber Design",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Turn sales history into restock and dead stock actions. Get reorder suggestions, purchase orders, and inventory health alerts for your Shopify store.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Stock alerts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

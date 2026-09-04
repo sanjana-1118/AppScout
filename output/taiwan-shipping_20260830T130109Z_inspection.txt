@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taiwan-shipping_20260830T130109Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taiwan-shipping_20260830T130109Z.html
+Requested URL    : https://apps.shopify.com/taiwan-shipping
+Final URL        : https://apps.shopify.com/taiwan-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 237,751 bytes / 236,338 chars
+Elapsed          : 0.828s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ako Taiwan CVS Pickup Einvoice - Provide CVS pickup options and e-invoice for your customers | Shopify App Store
+meta description : 整合超商取貨宅配物流與發票自動開立，提供結帳頁自動驗證收件人資料、7-11 和全家超商取貨、支援郵局、黑貓和低溫配送、一鍵列印超商、宅配寄件單、即時更新包裹貨態，自動通知顧客、自訂購物車不可超取規則（特殊商品 / 金額 / 重量）、支援運費進階設定：區分本島 / 外島運費，依產品類型自訂運費合併規則。
+canonical URL    : https://apps.shopify.com/taiwan-shipping
+<h1> tags ( 1)  : 'Ako Taiwan CVS Pickup Einvoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

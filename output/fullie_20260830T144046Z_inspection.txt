@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fullie_20260830T144046Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fullie_20260830T144046Z.html
+Requested URL    : https://apps.shopify.com/fullie
+Final URL        : https://apps.shopify.com/fullie
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,964 bytes / 198,875 chars
+Elapsed          : 0.937s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fullie: Auto Fulfill & Deliver - Auto-fulfill and deliver digital files and license keys | Shopify App Store
+meta description : Fullie automates fulfillment for digital and non-shipping products on Shopify. Save time with hourly updates and easy product management.
+canonical URL    : https://apps.shopify.com/fullie
+<h1> tags ( 1)  : 'Fullie: Auto Fulfill & Deliver'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

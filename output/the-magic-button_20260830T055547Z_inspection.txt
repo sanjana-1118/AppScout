@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-magic-button_20260830T055547Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-magic-button_20260830T055547Z.html
+Requested URL    : https://apps.shopify.com/the-magic-button
+Final URL        : https://apps.shopify.com/the-magic-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,692 bytes / 176,563 chars
+Elapsed          : 0.489s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magic Button ‑ Import Products - Import new products quickly with just the SKU | Shopify App Store
+meta description : Import products to your Shopify store instantly using SKUs. Generate full product pages with titles, descriptions, images, and variants in seconds.
+canonical URL    : https://apps.shopify.com/the-magic-button
+<h1> tags ( 1)  : 'Magic Button ‑ Import Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

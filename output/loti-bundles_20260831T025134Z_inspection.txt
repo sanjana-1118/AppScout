@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loti-bundles_20260831T025134Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loti-bundles_20260831T025134Z.html
+Requested URL    : https://apps.shopify.com/loti-bundles
+Final URL        : https://apps.shopify.com/loti-bundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,950 bytes / 170,808 chars
+Elapsed          : 0.921s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loti Bundles - Remises automatiques mix-and-match par paliers de quantité | Shopify App Store
+meta description : Loti Bundles ajoute une remise automatique quand vos clients combinent plusieurs variantes d'un même produit. Paliers configurables, sans code.
+canonical URL    : https://apps.shopify.com/loti-bundles?locale=fr
+<h1> tags ( 1)  : 'Loti Bundles'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

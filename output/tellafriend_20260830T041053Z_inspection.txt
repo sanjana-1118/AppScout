@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tellafriend_20260830T041053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tellafriend_20260830T041053Z.html
+Requested URL    : https://apps.shopify.com/tellafriend
+Final URL        : https://apps.shopify.com/tellafriend
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,197 bytes / 189,108 chars
+Elapsed          : 1.110s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Buddyapps Wholesale orders - Allow your customers to make orders without upfront payment | Shopify App Store
+meta description : Our app offers a unique feature that allows your customers to create draft orders without any upfront payment.
+
+With this feature, your customers c...
+canonical URL    : https://apps.shopify.com/tellafriend
+<h1> tags ( 1)  : 'Buddyapps Wholesale orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

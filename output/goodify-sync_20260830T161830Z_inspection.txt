@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goodify-sync_20260830T161830Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goodify-sync_20260830T161830Z.html
+Requested URL    : https://apps.shopify.com/goodify-sync
+Final URL        : https://apps.shopify.com/goodify-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,583 bytes / 169,482 chars
+Elapsed          : 1.280s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Goodify - Integra velocemente e facilmente le donazioni sul tuo store | Shopify App Store
+meta description : Integra velocemente e facilmente le donazioni sul tuo store, aiutando milioni di persone nel mondo con i tuoi acquisti.
+canonical URL    : https://apps.shopify.com/goodify-sync?locale=it
+<h1> tags ( 1)  : 'Goodify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartorderlimit_20260830T035440Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartorderlimit_20260830T035440Z.html
+Requested URL    : https://apps.shopify.com/smartorderlimit
+Final URL        : https://apps.shopify.com/smartorderlimit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,070 bytes / 223,973 chars
+Elapsed          : 1.161s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Limits Quantity Smarter - Control min & max per item, collection or cart w/... | Shopify App Store
+meta description : Smart Order Flow lets you set min quantity & max quantity limits for products, variants, collections or the entire cart. Create quantity rules, ord...
+canonical URL    : https://apps.shopify.com/smartorderlimit
+<h1> tags ( 1)  : 'Order Limits Quantity Smarter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

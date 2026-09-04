@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\functionalai_20260830T152117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\functionalai_20260830T152117Z.html
+Requested URL    : https://apps.shopify.com/functionalai
+Final URL        : https://apps.shopify.com/functionalai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,658 bytes / 181,537 chars
+Elapsed          : 0.907s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FunctionalAI - AI chatbot widget for your store — create, track, and... | Shopify App Store
+meta description : Add an AI chatbot to your Shopify store. Engage visitors, track chats in real time, and improve your assistant’s replies based on customer conversations.
+canonical URL    : https://apps.shopify.com/functionalai
+<h1> tags ( 1)  : 'FunctionalAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

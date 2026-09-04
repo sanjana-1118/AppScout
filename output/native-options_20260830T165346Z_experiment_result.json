@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/native-options",
+  "fetch_timestamp": "2026-08-30T16:53:46.655657+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\native-options_20260830T165346Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\native-options_20260830T165346Z.html",
+    "url": "https://apps.shopify.com/native-options",
+    "final_url": "https://apps.shopify.com/native-options",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 176308,
+    "body_text_length": 176219,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.662145,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "NATIVE OPTIONS - Free product options. Server-rendered to reduce layout shift | Shopify App Store",
+    "meta_description": "Add custom product options with server-rendered fields that help reduce layout shift. Free manual plan; Pro at $19/mo. Built for Online Store 2.0.",
+    "canonical_url": "https://apps.shopify.com/native-options",
+    "h1_tags": [
+      "NATIVE OPTIONS"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "NATIVE OPTIONS",
+    "app_slug": "native-options",
+    "app_url": "https://apps.shopify.com/native-options",
+    "developer_name": "Amer tech",
+    "description": "Add custom product options with server-rendered fields that help reduce layout shift. Free manual plan; Pro at $19/mo. Built for Online Store 2.0.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Custom products - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\native-options_20260830T165346Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\native-options_20260830T165346Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "NATIVE OPTIONS",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "native-options",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/native-options",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Amer tech",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Add custom product options with server-rendered fields that help reduce layout shift. Free manual plan; Pro at $19/mo. Built for Online Store 2.0.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Custom products - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

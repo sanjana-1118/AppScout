@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bring4you_20260830T141520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bring4you_20260830T141520Z.html
+Requested URL    : https://apps.shopify.com/bring4you
+Final URL        : https://apps.shopify.com/bring4you
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,081 bytes / 158,953 chars
+Elapsed          : 0.754s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bring4You - Permet au vendeur d'éxpédier les colis par le réseau Bring4You | Shopify App Store
+meta description : Le module Bring4You permet d'ajouter le transporteur Bring4You dans le processus de livraison avec estimation des frais de port, il permet égalemen...
+canonical URL    : https://apps.shopify.com/bring4you?locale=fr
+<h1> tags ( 1)  : 'Bring4You'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

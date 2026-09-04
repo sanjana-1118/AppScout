@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-theme-sync_20260830T175626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-theme-sync_20260830T175626Z.html
+Requested URL    : https://apps.shopify.com/auto-theme-sync
+Final URL        : https://apps.shopify.com/auto-theme-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,806 bytes / 165,703 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Auto Theme Sync - Backup, copy and deploy theme files with diff preview. | Shopify App Store
+meta description : Back up every file in your Shopify theme, compare any two themes file by file,
+and restore a single file or the whole theme from any earlier backup.
+canonical URL    : https://apps.shopify.com/auto-theme-sync
+<h1> tags ( 1)  : 'Auto Theme Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

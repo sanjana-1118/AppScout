@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\admin-notifications_20260830T144506Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\admin-notifications_20260830T144506Z.html
+Requested URL    : https://apps.shopify.com/admin-notifications
+Final URL        : https://apps.shopify.com/admin-notifications
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,404 bytes / 174,321 chars
+Elapsed          : 0.731s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopAlert: Order Notifications - Get staff notification, order alert and low stock notification | Shopify App Store
+meta description : Automatically send email notifications to store admins and staff about store events. Stay informed with low stock alerts, new order notifications, and more.
+canonical URL    : https://apps.shopify.com/admin-notifications
+<h1> tags ( 1)  : 'ShopAlert: Order Notifications'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\community-commerce_20260830T035156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\community-commerce_20260830T035156Z.html
+Requested URL    : https://apps.shopify.com/community-commerce
+Final URL        : https://apps.shopify.com/community-commerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,048 bytes / 158,931 chars
+Elapsed          : 0.504s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CIPIO ‑ Community Commerce - Turning Brand Community into Trusted Commerce | Shopify App Store
+meta description : CIPIO.ai empowers brands to identify, engage and activate influential voices within its own community to Grow Exponentially.
+canonical URL    : https://apps.shopify.com/community-commerce
+<h1> tags ( 1)  : 'CIPIO ‑ Community Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

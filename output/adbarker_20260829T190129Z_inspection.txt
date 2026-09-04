@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adbarker_20260829T190129Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adbarker_20260829T190129Z.html
+Requested URL    : https://apps.shopify.com/adbarker
+Final URL        : https://apps.shopify.com/adbarker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,696 bytes / 206,601 chars
+Elapsed          : 1.204s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Podcast and YouTube Sync by AB - Use your podcast to drive organic traffic to your store | Shopify App Store
+meta description : Allow your visitors to explore your podcast or YouTube channel directly on your store and enable Google and other search engine crawlers to index r...
+canonical URL    : https://apps.shopify.com/adbarker
+<h1> tags ( 1)  : 'Podcast and YouTube Sync by AB'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

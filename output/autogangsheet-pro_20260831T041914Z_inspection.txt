@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autogangsheet-pro_20260831T041914Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autogangsheet-pro_20260831T041914Z.html
+Requested URL    : https://apps.shopify.com/autogangsheet-pro
+Final URL        : https://apps.shopify.com/autogangsheet
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,512 bytes / 194,419 chars
+Elapsed          : 0.451s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AGS: DTF Gang Sheet Builder - Let customers build, upload, or order DTF transfers by size | Shopify App Store
+meta description : AutoGangSheet Pro is the complete print-on-demand automation suite for DTF, UV, and custom apparel shops. Give customers an intuitive online gang s...
+canonical URL    : https://apps.shopify.com/autogangsheet
+<h1> tags ( 1)  : 'AGS: DTF Gang Sheet Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Redirect: HTTP 301 from https://apps.shopify.com/autogangsheet-pro
+  • Redirect: HTTP 301 from https://apps.shopify.com/6efa1137278d4359299facd454bffd95
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

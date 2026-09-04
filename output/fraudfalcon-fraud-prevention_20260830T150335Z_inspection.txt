@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fraudfalcon-fraud-prevention_20260830T150335Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fraudfalcon-fraud-prevention_20260830T150335Z.html
+Requested URL    : https://apps.shopify.com/fraudfalcon-fraud-prevention
+Final URL        : https://apps.shopify.com/fraudfalcon-fraud-prevention
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,319 bytes / 235,190 chars
+Elapsed          : 0.908s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fraud Falcon ‑ Block Blacklist - Blacklist & block bad customers to stop chargebacks | Shopify App Store
+meta description : Blacklist bad customers by email, address or IP. Fraud rules auto-cancel, refund and restock risky orders. Stop chargebacks. Set up in 2 minutes. Free trial.
+canonical URL    : https://apps.shopify.com/fraudfalcon-fraud-prevention
+<h1> tags ( 1)  : 'Fraud Falcon ‑ Block Blacklist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

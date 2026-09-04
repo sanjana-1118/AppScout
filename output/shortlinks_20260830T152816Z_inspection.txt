@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shortlinks_20260830T152816Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shortlinks_20260830T152816Z.html
+Requested URL    : https://apps.shopify.com/shortlinks
+Final URL        : https://apps.shopify.com/shortlinks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,430 bytes / 161,313 chars
+Elapsed          : 0.439s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tracksy ‑ Short Link Analytics - Track short links to optimize marketing and improve conversion | Shopify App Store
+meta description : Tracksy helps Shopify merchants create branded short links and track clicks across every marketing channels.
+canonical URL    : https://apps.shopify.com/shortlinks
+<h1> tags ( 1)  : 'Tracksy ‑ Short Link Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

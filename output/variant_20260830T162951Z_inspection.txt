@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variant_20260830T162951Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variant_20260830T162951Z.html
+Requested URL    : https://apps.shopify.com/variant
+Final URL        : https://apps.shopify.com/variant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,307 bytes / 205,182 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Variant ‑ AI CRO - Create personalized user journeys for every shopper instantly | Shopify App Store
+meta description : Build, preview, and run A/B tests using a conversational interface. Compare results and deploy winning variants directly from the app.
+canonical URL    : https://apps.shopify.com/variant
+<h1> tags ( 1)  : 'Variant ‑ AI CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

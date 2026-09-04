@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\csv-order-upload_20260830T034326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\csv-order-upload_20260830T034326Z.html
+Requested URL    : https://apps.shopify.com/csv-order-upload
+Final URL        : https://apps.shopify.com/csv-order-upload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,803 bytes / 211,706 chars
+Elapsed          : 0.851s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order's up! CSV Order Importer - Bulk import complete orders from spreadsheets | Shopify App Store
+meta description : Import CSV spreadsheets as complete Shopify orders. Map fields, match products and customers, and preserve order details in bulk.
+canonical URL    : https://apps.shopify.com/csv-order-upload
+<h1> tags ( 1)  : "Order's up! CSV Order Importer"
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

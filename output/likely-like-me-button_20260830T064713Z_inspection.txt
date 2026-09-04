@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\likely-like-me-button_20260830T064713Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\likely-like-me-button_20260830T064713Z.html
+Requested URL    : https://apps.shopify.com/likely-like-me-button
+Final URL        : https://apps.shopify.com/likely-like-me-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,279 bytes / 236,162 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Likely ‑ Like Me Button - Boost engagement & sales by adding a like button on... | Shopify App Store
+meta description : Improve customer engagement & conversion with social proof by adding a like button on your products.
+canonical URL    : https://apps.shopify.com/likely-like-me-button
+<h1> tags ( 1)  : 'Likely ‑ Like Me Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

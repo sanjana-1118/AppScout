@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contona-studio_20260830T180038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contona-studio_20260830T180038Z.html
+Requested URL    : https://apps.shopify.com/contona-studio
+Final URL        : https://apps.shopify.com/contona-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,989 bytes / 183,880 chars
+Elapsed          : 0.950s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Contona ‑ AI Creative Studio - Personalise product images and copy per visitor with AI. | Shopify App Store
+meta description : Producing fresh product photography, lifestyle imagery, banners, and video for every audience eats up time and budget. 
+
+Contona generates all of i...
+canonical URL    : https://apps.shopify.com/contona-studio
+<h1> tags ( 1)  : 'Contona ‑ AI Creative Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

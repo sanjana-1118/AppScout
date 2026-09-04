@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vidaxl-dropshipping_20260830T130429Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vidaxl-dropshipping_20260830T130429Z.html
+Requested URL    : https://apps.shopify.com/vidaxl-dropshipping
+Final URL        : https://apps.shopify.com/vidaxl-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,605 bytes / 216,497 chars
+Elapsed          : 0.860s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : vidaXL Dropshipping by Woosa - Import & sync products from vidaXL easily within your webshop | Shopify App Store
+meta description : This app makes it easy to start a Dropshipping store with vidaXL. Unlike other Dropshipping apps, you can import entire product categories to Shopi...
+canonical URL    : https://apps.shopify.com/vidaxl-dropshipping
+<h1> tags ( 1)  : 'vidaXL Dropshipping by Woosa'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

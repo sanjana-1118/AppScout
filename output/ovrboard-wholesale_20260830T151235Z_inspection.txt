@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ovrboard-wholesale_20260830T151235Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ovrboard-wholesale_20260830T151235Z.html
+Requested URL    : https://apps.shopify.com/ovrboard-wholesale
+Final URL        : https://apps.shopify.com/ovrboard-wholesale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,436 bytes / 156,343 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ovrboard Wholesale - Optional connection to the external Ovrboard Wholesale app. | Shopify App Store
+meta description : This app is an optional connection to our external Ovrboard Wholesale product sourcing platform for direct product supply.  This app will allow for...
+canonical URL    : https://apps.shopify.com/ovrboard-wholesale
+<h1> tags ( 1)  : 'Ovrboard Wholesale'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

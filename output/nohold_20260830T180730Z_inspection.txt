@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nohold_20260830T180730Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nohold_20260830T180730Z.html
+Requested URL    : https://apps.shopify.com/nohold
+Final URL        : https://apps.shopify.com/nohold
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,899 bytes / 167,780 chars
+Elapsed          : 0.899s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nohold – Brightpearl Splitter - Auto-split mixed pre-order + in-stock carts in Brightpearl | Shopify App Store
+meta description : Nohold auto-splits mixed Shopify orders into two Brightpearl Sales Orders – in-stock items ship immediately, pre-orders ship when ready. 14-day free trial.
+canonical URL    : https://apps.shopify.com/nohold
+<h1> tags ( 1)  : 'Nohold – Brightpearl Splitter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

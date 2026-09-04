@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shop-doctor-dev_20260830T163311Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shop-doctor-dev_20260830T163311Z.html
+Requested URL    : https://apps.shopify.com/shop-doctor-dev
+Final URL        : https://apps.shopify.com/shop-doctor-dev
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,272 bytes / 167,173 chars
+Elapsed          : 0.740s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopDoctor - Spot product issues and keep your catalog clean | Shopify App Store
+meta description : Scan your Shopify catalog for product issues, missing images, weak descriptions, and alt text errors. Improve product quality and optimize your store in seconds
+canonical URL    : https://apps.shopify.com/shop-doctor-dev
+<h1> tags ( 1)  : 'ShopDoctor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

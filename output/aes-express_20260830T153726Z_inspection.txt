@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aes-express_20260830T153726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aes-express_20260830T153726Z.html
+Requested URL    : https://apps.shopify.com/aes-express
+Final URL        : https://apps.shopify.com/aes-express
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,621 bytes / 155,532 chars
+Elapsed          : 0.548s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AES Express - Automate shipping and delivery with real-time tracking for you | Shopify App Store
+meta description : AES Express simplifies the delivery experience for Shopify merchants by providing a seamless, fully integrated courier management solution.
+
+With A...
+canonical URL    : https://apps.shopify.com/aes-express
+<h1> tags ( 1)  : 'AES Express'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

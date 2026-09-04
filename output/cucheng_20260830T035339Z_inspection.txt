@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cucheng_20260830T035339Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cucheng_20260830T035339Z.html
+Requested URL    : https://apps.shopify.com/cucheng
+Final URL        : https://apps.shopify.com/cucheng
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,284 bytes / 236,189 chars
+Elapsed          : 0.624s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CJdropshipping: Much Faster - You Sell - We source and ship for you! | Shopify App Store
+meta description : We are an all-in-one dropshipping solution provider, offering order fulfillment, product sourcing, global warehouses, quality inspection, efficient delivery.
+canonical URL    : https://apps.shopify.com/cucheng
+<h1> tags ( 1)  : 'CJdropshipping: Much Faster'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

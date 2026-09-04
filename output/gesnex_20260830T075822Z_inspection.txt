@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gesnex_20260830T075822Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gesnex_20260830T075822Z.html
+Requested URL    : https://apps.shopify.com/gesnex
+Final URL        : https://apps.shopify.com/gesnex
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,801 bytes / 167,676 chars
+Elapsed          : 0.752s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gesnex Sync - Sincronización online de inventarios y ventas | Shopify App Store
+meta description : Sincroniza con Shopify tus ventas, boletas y facturas electrónicas, stocks de inventarios, clientes de tu negocio y todos tus productos para Gesnex.
+canonical URL    : https://apps.shopify.com/gesnex?locale=es
+<h1> tags ( 1)  : 'Gesnex Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

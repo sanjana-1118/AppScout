@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\depict_20260830T061707Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\depict_20260830T061707Z.html
+Requested URL    : https://apps.shopify.com/depict
+Final URL        : https://apps.shopify.com/depict
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 244,897 bytes / 244,756 chars
+Elapsed          : 0.520s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supergrid Collections ‑ Depict - Merchandise & sort collections with products, images & videos. | Shopify App Store
+meta description : Merchandise custom Shopify collections - mix content & products for visual product discovery. Simple, visual drag & drop app with smart sorting rules - no-code.
+canonical URL    : https://apps.shopify.com/depict
+<h1> tags ( 1)  : 'Supergrid Collections ‑ Depict'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

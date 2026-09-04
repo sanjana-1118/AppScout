@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sonarfulfill_20260831T041545Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sonarfulfill_20260831T041545Z.html
+Requested URL    : https://apps.shopify.com/sonarfulfill
+Final URL        : https://apps.shopify.com/sonarfulfill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,987 bytes / 176,886 chars
+Elapsed          : 0.800s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SonarFulfill Easy Dropshipping - Find winning dropshipping products. Edit & launch in minutes | Shopify App Store
+meta description : Combine competitor intelligence, product recommendations, ad creative analysis, and profit modeling to scale your dropshipping business faster. Tra...
+canonical URL    : https://apps.shopify.com/sonarfulfill
+<h1> tags ( 1)  : 'SonarFulfill Easy Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

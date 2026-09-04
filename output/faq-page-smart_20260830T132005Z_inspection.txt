@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-page-smart_20260830T132005Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-page-smart_20260830T132005Z.html
+Requested URL    : https://apps.shopify.com/faq-page-smart
+Final URL        : https://apps.shopify.com/faq-page-smart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,813 bytes / 210,726 chars
+Elapsed          : 0.902s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : D: AI FAQ Page - Generate an SEO-optimized FAQ page with AI in just 30... | Shopify App Store
+meta description : SEO-Friendly FAQ page, product FAQ, FAQ Accordions, 12+ templates
+canonical URL    : https://apps.shopify.com/faq-page-smart
+<h1> tags ( 1)  : 'D: AI FAQ Page'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsprint-ai_20260830T063212Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsprint-ai_20260830T063212Z.html
+Requested URL    : https://apps.shopify.com/shopsprint-ai
+Final URL        : https://apps.shopify.com/shopsprint-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,619 bytes / 167,530 chars
+Elapsed          : 0.923s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopSprint AI Search - AI search that matches products to shopper style instantly | Shopify App Store
+meta description : Boost conversions with Shop Sprint AI. Replace your basic search with an AI personal shopper that understands natural language and matches customer styles
+canonical URL    : https://apps.shopify.com/shopsprint-ai
+<h1> tags ( 1)  : 'ShopSprint AI Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

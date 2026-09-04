@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-shipping-cost_20260830T130003Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-shipping-cost_20260830T130003Z.html
+Requested URL    : https://apps.shopify.com/advanced-shipping-cost
+Final URL        : https://apps.shopify.com/advanced-shipping-cost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,455 bytes / 196,361 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Advanced Shipping Cost Plus - Set easily your shipping costs with its powerful rules engine | Shopify App Store
+meta description : With Advanced Shipping Cost Plus, you define your own shipping rules that suits your needs.
+
+Set easily and intuitively how shipping rules will be applied with
+canonical URL    : https://apps.shopify.com/advanced-shipping-cost
+<h1> tags ( 1)  : 'Advanced Shipping Cost Plus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

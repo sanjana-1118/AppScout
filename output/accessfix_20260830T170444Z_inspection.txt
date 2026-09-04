@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\accessfix_20260830T170444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\accessfix_20260830T170444Z.html
+Requested URL    : https://apps.shopify.com/accessfix
+Final URL        : https://apps.shopify.com/accessfix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,841 bytes / 183,752 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AccessFix - Scan for WCAG violations and get theme-specific code fixes | Shopify App Store
+meta description : Scan your store for WCAG 2.2 AA violations and get theme-specific fix instructions with code snippets. Compliance scoring included. No overlay widget.
+canonical URL    : https://apps.shopify.com/accessfix
+<h1> tags ( 1)  : 'AccessFix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

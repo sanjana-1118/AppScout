@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\opti-forecast-ai_20260830T072554Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\opti-forecast-ai_20260830T072554Z.html
+Requested URL    : https://apps.shopify.com/opti-forecast-ai
+Final URL        : https://apps.shopify.com/opti-forecast-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,217 bytes / 211,126 chars
+Elapsed          : 0.927s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Opti Forecast AI - AI-powered inventory forecasting & insight to plan and restock | Shopify App Store
+meta description : Forecast sales demand, plan inventory by SKU, and reduce stockouts using AI-powered forecasting based on your historical store data and AI chat insights.
+canonical URL    : https://apps.shopify.com/opti-forecast-ai
+<h1> tags ( 1)  : 'Opti Forecast AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

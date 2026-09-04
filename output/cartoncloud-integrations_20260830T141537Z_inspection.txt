@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartoncloud-integrations_20260830T141537Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartoncloud-integrations_20260830T141537Z.html
+Requested URL    : https://apps.shopify.com/cartoncloud-integrations
+Final URL        : https://apps.shopify.com/cartoncloud-integrations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,685 bytes / 156,596 chars
+Elapsed          : 0.680s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartonCloud - 3PL Transport and Warehouse Management System | Shopify App Store
+meta description : CartonCloud's fully-featured 3PL WMS software and accompanying Android & iOS apps allow you to scan-pick products - ensuring the correct stock leav...
+canonical URL    : https://apps.shopify.com/cartoncloud-integrations
+<h1> tags ( 1)  : 'CartonCloud'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

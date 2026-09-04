@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autoprinter-1_20260829T192132Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autoprinter-1_20260829T192132Z.html
+Requested URL    : https://apps.shopify.com/autoprinter-1
+Final URL        : https://apps.shopify.com/autoprinter-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,689 bytes / 191,574 chars
+Elapsed          : 0.603s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Autoprinter - Customize and auto-print order documents and shipping labels | Shopify App Store
+meta description : Customize and auto-print packing slips, invoices & labels with custom HTML templates. Set print rules based on order details. Free up to 50 orders/month.
+canonical URL    : https://apps.shopify.com/autoprinter-1
+<h1> tags ( 1)  : 'Autoprinter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

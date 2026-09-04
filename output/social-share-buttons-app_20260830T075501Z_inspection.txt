@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-share-buttons-app_20260830T075501Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-share-buttons-app_20260830T075501Z.html
+Requested URL    : https://apps.shopify.com/social-share-buttons-app
+Final URL        : https://apps.shopify.com/social-share-buttons-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,612 bytes / 209,511 chars
+Elapsed          : 0.774s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elfsight Social Share Buttons - Promote content on social media with Social Share Buttons. | Shopify App Store
+meta description : Using Social Share Buttons you attract more visitors to your website via social media, you will increase traffic and enhance your site SEO results....
+canonical URL    : https://apps.shopify.com/social-share-buttons-app
+<h1> tags ( 1)  : 'Elfsight Social Share Buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

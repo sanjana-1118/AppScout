@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/trust-circle-reviews",
+  "fetch_timestamp": "2026-08-29T18:38:46.899023+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trust-circle-reviews_20260829T183846Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trust-circle-reviews_20260829T183846Z.html",
+    "url": "https://apps.shopify.com/trust-circle-reviews",
+    "final_url": "https://apps.shopify.com/trust-circle-reviews",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 200858,
+    "body_text_length": 200765,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.081506,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Trust Circle Reviews - Collect and display product reviews to build customer trust | Shopify App Store",
+    "meta_description": "Collect and display product reviews with photos, Q&A, automated email requests, and a beautiful widget. GDPR compliant. Free plan available.",
+    "canonical_url": "https://apps.shopify.com/trust-circle-reviews",
+    "h1_tags": [
+      "Trust Circle Reviews"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Trust Circle Reviews",
+    "app_slug": "trust-circle-reviews",
+    "app_url": "https://apps.shopify.com/trust-circle-reviews",
+    "developer_name": "Developers Point Pvt Ltd",
+    "description": "Collect and display product reviews with photos, Q&A, automated email requests, and a beautiful widget. GDPR compliant. Free plan available.\n",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Product reviews"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trust-circle-reviews_20260829T183846Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trust-circle-reviews_20260829T183846Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Trust Circle Reviews",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "trust-circle-reviews",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/trust-circle-reviews",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Developers Point Pvt Ltd",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Collect and display product reviews with photos, Q&A, automated email requests, and a beautiful widget. GDPR compliant. Free plan available.\n",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Product reviews",
+        "status": "pass"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

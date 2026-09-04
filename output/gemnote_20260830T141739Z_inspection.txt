@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gemnote_20260830T141739Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gemnote_20260830T141739Z.html
+Requested URL    : https://apps.shopify.com/gemnote
+Final URL        : https://apps.shopify.com/gemnote
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,160 bytes / 151,071 chars
+Elapsed          : 0.491s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gemnote - Warehouse and ship your custom products, swag, and merch | Shopify App Store
+meta description : Use your Shopify store to collect orders and have Gemnote design, warehouse, and ship your custom products, swag, and merch.
+canonical URL    : https://apps.shopify.com/gemnote
+<h1> tags ( 1)  : 'Gemnote'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

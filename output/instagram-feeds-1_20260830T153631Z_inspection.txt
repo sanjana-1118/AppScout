@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-feeds-1_20260830T153631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-feeds-1_20260830T153631Z.html
+Requested URL    : https://apps.shopify.com/instagram-feeds-1
+Final URL        : https://apps.shopify.com/instagram-feeds-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,985 bytes / 174,884 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopziCurious Instagram Feeds - Show your Instagram posts anywhere on your storefront | Shopify App Store
+meta description : Easily display your latest Instagram photos and videos on your Shopify store. Boost engagement, trust, and social proof—no coding needed.
+canonical URL    : https://apps.shopify.com/instagram-feeds-1
+<h1> tags ( 1)  : 'ShopziCurious Instagram Feeds'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

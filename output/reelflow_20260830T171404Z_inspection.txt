@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reelflow_20260830T171404Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reelflow_20260830T171404Z.html
+Requested URL    : https://apps.shopify.com/reelflow
+Final URL        : https://apps.shopify.com/reelflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,108 bytes / 190,001 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReelFlow ‑ Shoppable Videos - The Shoppable Video App | Shopify App Store
+meta description : Stop letting your customers scroll past your products. ReelFlow turns your store into a social-style experience. By bringing the "TikTok feel" dire...
+canonical URL    : https://apps.shopify.com/reelflow
+<h1> tags ( 1)  : 'ReelFlow ‑ Shoppable Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

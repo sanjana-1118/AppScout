@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\urbaner_20260830T153749Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\urbaner_20260830T153749Z.html
+Requested URL    : https://apps.shopify.com/urbaner
+Final URL        : https://apps.shopify.com/urbaner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,110 bytes / 172,988 chars
+Elapsed          : 0.956s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Urbaner - Conectamos a una red logística a demanda para hacer entregas | Shopify App Store
+meta description : Empodera tu negocio con entregas On-demand. Haz tus envíos Express, Sameday y Nextday con nosotros.
+canonical URL    : https://apps.shopify.com/urbaner?locale=es
+<h1> tags ( 1)  : 'Urbaner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

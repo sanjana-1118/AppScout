@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-broken-link_20260830T131650Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-broken-link_20260830T131650Z.html
+Requested URL    : https://apps.shopify.com/magic-broken-link
+Final URL        : https://apps.shopify.com/magic-broken-link
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,449 bytes / 173,360 chars
+Elapsed          : 0.754s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magic 404 -  Fix broken 404 links and automatic 301 redirect | Shopify App Store
+meta description : Magic 404 is an incredibly helpful application that can eliminate any and all pesky 404 links from your store. This easy-to-use tool takes the hass...
+canonical URL    : https://apps.shopify.com/magic-broken-link
+<h1> tags ( 1)  : 'Magic 404'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elbisebul_20260829T183552Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elbisebul_20260829T183552Z.html
+Requested URL    : https://apps.shopify.com/elbisebul
+Final URL        : https://apps.shopify.com/elbisebul
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,626 bytes / 161,340 chars
+Elapsed          : 0.744s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ElbiseBul Pazaryeri - Ürünlerinizin gerçekten göründüğü bir platformda yerinizi alın | Shopify App Store
+meta description : ElbiseBul, kadın giyimi satıcıları için düşük komisyonlar, adil rekabet ve yüksek görünürlük sunan yeni nesil pazaryeri. Hemen katılın, avantajları keşfedin!
+canonical URL    : https://apps.shopify.com/elbisebul?locale=tr
+<h1> tags ( 1)  : 'ElbiseBul Pazaryeri'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

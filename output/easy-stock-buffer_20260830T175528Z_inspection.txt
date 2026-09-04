@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-stock-buffer_20260830T175528Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-stock-buffer_20260830T175528Z.html
+Requested URL    : https://apps.shopify.com/easy-stock-buffer
+Final URL        : https://apps.shopify.com/easy-stock-buffer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,136 bytes / 207,047 chars
+Elapsed          : 0.700s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Stock Buffer - Set minimum stock per variant, block checkout, and get alerts. | Shopify App Store
+meta description : Set a minimum stock level on every Shopify product. Stop overselling and reserve stock for in-store, wholesale, or B2B with automatic email alerts.
+canonical URL    : https://apps.shopify.com/easy-stock-buffer
+<h1> tags ( 1)  : 'Easy Stock Buffer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tag-metafield-manager_20260830T184126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tag-metafield-manager_20260830T184126Z.html
+Requested URL    : https://apps.shopify.com/tag-metafield-manager
+Final URL        : https://apps.shopify.com/tag-metafield-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,030 bytes / 183,941 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MetaForge Manager - Bulk manage tags and metafields with CSV uploads and undo. | Shopify App Store
+meta description : Manage tags and metafields in bulk using CSV files. Export data, track operations, download reports, and undo changes within 48 hours.
+canonical URL    : https://apps.shopify.com/tag-metafield-manager
+<h1> tags ( 1)  : 'MetaForge Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

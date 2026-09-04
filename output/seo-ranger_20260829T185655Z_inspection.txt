@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-ranger_20260829T185655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-ranger_20260829T185655Z.html
+Requested URL    : https://apps.shopify.com/seo-ranger
+Final URL        : https://apps.shopify.com/seo-ranger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,565 bytes / 218,472 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SEO Ranger - Fix Your SEO, Boost Rankings and Get More Traffic | Shopify App Store
+meta description : SEO Ranger makes SEO easy. 
+Scan your entire store for on-page SEO issues in one click and get clear, step-by-step advice on how to fix them - fast...
+canonical URL    : https://apps.shopify.com/seo-ranger
+<h1> tags ( 1)  : 'SEO Ranger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargematic_20260830T132226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargematic_20260830T132226Z.html
+Requested URL    : https://apps.shopify.com/chargematic
+Final URL        : https://apps.shopify.com/chargematic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,457 bytes / 200,360 chars
+Elapsed          : 0.827s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pasilobus Subscriptions - Subscriptions, build-a-box & automatic billing for your store | Shopify App Store
+meta description : Manage recurring orders with no percentage fees. Save, Prepaid, and Pre-order types. Self-service customer portal, analytics, and marketing built in.
+canonical URL    : https://apps.shopify.com/chargematic
+<h1> tags ( 1)  : 'Pasilobus Subscriptions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

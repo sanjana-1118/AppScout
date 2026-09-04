@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\socialflux_20260830T163503Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\socialflux_20260830T163503Z.html
+Requested URL    : https://apps.shopify.com/socialflux
+Final URL        : https://apps.shopify.com/socialflux
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,626 bytes / 161,539 chars
+Elapsed          : 0.768s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SocialFlux - Sync Instagram posts to Admin and tag products in one... | Shopify App Store
+meta description : Your Instagram posts, now in Shopify.
+SocialFlux syncs your Instagram business content to your store admin in real-time. 
+Tag products on any post ...
+canonical URL    : https://apps.shopify.com/socialflux
+<h1> tags ( 1)  : 'SocialFlux'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

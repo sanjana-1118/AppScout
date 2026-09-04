@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meatboxapp_20260831T035134Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meatboxapp_20260831T035134Z.html
+Requested URL    : https://apps.shopify.com/meatboxapp
+Final URL        : https://apps.shopify.com/meatboxapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,152 bytes / 156,019 chars
+Elapsed          : 0.635s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MetaBox integráció - MetaBox fulfillment | Shopify App Store
+meta description : It helps the communication between our partners, and us. Also helps to automate several tasks what we should do manually now. We only want this app...
+canonical URL    : https://apps.shopify.com/meatboxapp
+<h1> tags ( 1)  : 'MetaBox integráció'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

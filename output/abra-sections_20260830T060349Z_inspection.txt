@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\abra-sections_20260830T060349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\abra-sections_20260830T060349Z.html
+Requested URL    : https://apps.shopify.com/abra-sections
+Final URL        : https://apps.shopify.com/abra-sections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,857 bytes / 229,754 chars
+Elapsed          : 0.946s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Premium Theme Sections by Abra - 100+ Super-Customizable Sections to upgrade your theme design | Shopify App Store
+meta description : Customize your store's page layout with premium pre-built Shopify sections and content blocks. Easy to install and packed with features.
+canonical URL    : https://apps.shopify.com/abra-sections
+<h1> tags ( 1)  : 'Premium Theme Sections by Abra'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

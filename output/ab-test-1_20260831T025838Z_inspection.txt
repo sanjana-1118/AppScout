@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ab-test-1_20260831T025838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ab-test-1_20260831T025838Z.html
+Requested URL    : https://apps.shopify.com/ab-test-1
+Final URL        : https://apps.shopify.com/ab-test-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,309 bytes / 186,182 chars
+Elapsed          : 0.903s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sofcy ‑ A/B Test & CRO - A/B test pages, templates, themes, and code — no flicker. | Shopify App Store
+meta description : Split-test Shopify pages, templates, themes, and code. Bayesian results, revenue attribution through Shop Pay, and no flicker. 15-day trial.
+canonical URL    : https://apps.shopify.com/ab-test-1
+<h1> tags ( 1)  : 'Sofcy ‑ A/B Test & CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redchat_20260830T155759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redchat_20260830T155759Z.html
+Requested URL    : https://apps.shopify.com/redchat
+Final URL        : https://apps.shopify.com/redchat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,471 bytes / 180,352 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : redchat - AI agent for Customer Service | Shopify App Store
+meta description : AI agent that answers your customers on WhatsApp, Instagram and email using real Shopify order data. Scale support without hiring.
+canonical URL    : https://apps.shopify.com/redchat?locale=es
+<h1> tags ( 1)  : 'redchat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

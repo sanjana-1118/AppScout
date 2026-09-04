@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k1-pre-order-manager_20260831T034950Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k1-pre-order-manager_20260831T034950Z.html
+Requested URL    : https://apps.shopify.com/k1-pre-order-manager
+Final URL        : https://apps.shopify.com/k1-pre-order-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 258,589 bytes / 258,484 chars
+Elapsed          : 0.672s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K1 PreOrder Now & Deposit - Manage pre order now with partial payment or split payment | Shopify App Store
+meta description : K1 PreOrder Now app enables pre-orders for out-of-stock, sold out & coming soon products with deposits, partial payments, or split payment options.
+canonical URL    : https://apps.shopify.com/k1-pre-order-manager
+<h1> tags ( 1)  : 'K1 PreOrder Now & Deposit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-button-chat_20260830T130323Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-button-chat_20260830T130323Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-button-chat
+Final URL        : https://apps.shopify.com/whatsapp-button-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 251,218 bytes / 251,109 chars
+Elapsed          : 0.764s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zoko: WhatsApp for D2C Brands - Power marketing, support, and cart recovery on WhatsApp | Shopify App Store
+meta description : WhatsApp marketing, automation & cart recovery for Shopify. Broadcast campaigns, recover abandoned carts, AI bots, shared inbox, catalog checkout.
+canonical URL    : https://apps.shopify.com/whatsapp-button-chat
+<h1> tags ( 1)  : 'Zoko: WhatsApp for D2C Brands'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

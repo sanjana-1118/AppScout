@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\one_20260830T075625Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\one_20260830T075625Z.html
+Requested URL    : https://apps.shopify.com/one
+Final URL        : https://apps.shopify.com/one
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 258,539 bytes / 258,422 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ONE: AI, Pop Up, SMS Marketing - Grow sales with AI email marketing, SMS, spin wheel and... | Shopify App Store
+meta description : Super App - Ditch dozens of apps because we offer one-click checkout upsell, pop ups, email and sms marketing, social proof, unique discounts & much more.
+canonical URL    : https://apps.shopify.com/one
+<h1> tags ( 1)  : 'ONE: AI, Pop Up, SMS Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

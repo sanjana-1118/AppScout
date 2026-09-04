@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\super-pinch-zoom_20260830T134124Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\super-pinch-zoom_20260830T134124Z.html
+Requested URL    : https://apps.shopify.com/super-pinch-zoom
+Final URL        : https://apps.shopify.com/super-pinch-zoom
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,677 bytes / 219,561 chars
+Elapsed          : 0.823s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Super Pinch and Zoom - Effortlessly zoom and pinch to view product images  any device | Shopify App Store
+meta description : Super Pinch and Zoom enable smooth image zoom and pinch on desktop and mobile, providing clear, detailed product views for an enhanced shopping experience.
+canonical URL    : https://apps.shopify.com/super-pinch-zoom
+<h1> tags ( 1)  : 'Super Pinch and Zoom'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

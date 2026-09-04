@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\esby-gst-invoicer-india_20260831T030626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\esby-gst-invoicer-india_20260831T030626Z.html
+Requested URL    : https://apps.shopify.com/esby-gst-invoicer-india
+Final URL        : https://apps.shopify.com/esby-gst-invoicer-india
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,316 bytes / 184,227 chars
+Elapsed          : 0.697s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Esby: GST Invoicer India - Every order gets a GST invoice, emailed to your buyer. | Shopify App Store
+meta description : Esby creates a GST-compliant tax invoice for every paid order and emails it to your buyer. CGST/SGST or IGST applied automatically. Export GSTR-1 or Tally XML.
+canonical URL    : https://apps.shopify.com/esby-gst-invoicer-india
+<h1> tags ( 1)  : 'Esby: GST Invoicer India'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

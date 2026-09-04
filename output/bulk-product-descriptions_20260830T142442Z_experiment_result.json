@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/bulk-product-descriptions",
+  "fetch_timestamp": "2026-08-30T14:24:42.872698+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-product-descriptions_20260830T142442Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-product-descriptions_20260830T142442Z.html",
+    "url": "https://apps.shopify.com/bulk-product-descriptions",
+    "final_url": "https://apps.shopify.com/bulk-product-descriptions",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 169961,
+    "body_text_length": 169872,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.941772,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "BSF Bulk Product Descriptions - Easily add descriptions in bulk to your existing products | Shopify App Store",
+    "meta_description": "Shopify App that makes it easy to create and manage bulk product descriptions that are added to a selected group of products",
+    "canonical_url": "https://apps.shopify.com/bulk-product-descriptions",
+    "h1_tags": [
+      "BSF Bulk Product Descriptions"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "BSF Bulk Product Descriptions",
+    "app_slug": "bulk-product-descriptions",
+    "app_url": "https://apps.shopify.com/bulk-product-descriptions",
+    "developer_name": "Big Splash Factory",
+    "description": "Shopify App that makes it easy to create and manage bulk product descriptions that are added to a selected group of products",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Bulk editor"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-product-descriptions_20260830T142442Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-product-descriptions_20260830T142442Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "BSF Bulk Product Descriptions",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "bulk-product-descriptions",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/bulk-product-descriptions",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Big Splash Factory",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Shopify App that makes it easy to create and manage bulk product descriptions that are added to a selected group of products",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Bulk editor",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoptimize-pro_20260830T193803Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoptimize-pro_20260830T193803Z.html
+Requested URL    : https://apps.shopify.com/shoptimize-pro
+Final URL        : https://apps.shopify.com/shoptimize-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,973 bytes / 175,884 chars
+Elapsed          : 0.493s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShoptimizePro: CRO Roadmap - Find conversion blockers and what to fix first | Shopify App Store
+meta description : Find conversion blockers with AI-powered CRO audits. Get prioritized Shopify fixes, suggested copy, and developer-ready notes.
+canonical URL    : https://apps.shopify.com/shoptimize-pro
+<h1> tags ( 1)  : 'ShoptimizePro: CRO Roadmap'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

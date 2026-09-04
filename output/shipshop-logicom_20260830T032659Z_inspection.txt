@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipshop-logicom_20260830T032659Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipshop-logicom_20260830T032659Z.html
+Requested URL    : https://apps.shopify.com/shipshop-logicom
+Final URL        : https://apps.shopify.com/shipshop-logicom
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,610 bytes / 153,409 chars
+Elapsed          : 0.910s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SHIPSHOP LOGICOM - Shipshop Courier Aggregator | Shopify App Store
+meta description : Shipshop provides dependable courier services across India. With our consistent efforts, we have built a reputation for reliability and efficiency ...
+canonical URL    : https://apps.shopify.com/shipshop-logicom
+<h1> tags ( 1)  : 'SHIPSHOP LOGICOM'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

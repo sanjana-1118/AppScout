@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-suggest-pro_20260830T143740Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-suggest-pro_20260830T143740Z.html
+Requested URL    : https://apps.shopify.com/smart-suggest-pro
+Final URL        : https://apps.shopify.com/smart-suggest-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,417 bytes / 187,312 chars
+Elapsed          : 0.657s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AddOn Suggest: Product Upsell - AI product recommendations for upsell & cross sell | Shopify App Store
+meta description : Free upsell app for product add-ons, cross-sells & recommendations. Add upsells to product pages and cart, plus checkout upsells for Plus stores. No code. Boost
+canonical URL    : https://apps.shopify.com/smart-suggest-pro
+<h1> tags ( 1)  : 'AddOn Suggest: Product Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

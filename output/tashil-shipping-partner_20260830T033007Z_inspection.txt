@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tashil-shipping-partner_20260830T033007Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tashil-shipping-partner_20260830T033007Z.html
+Requested URL    : https://apps.shopify.com/tashil-shipping-partner
+Final URL        : https://apps.shopify.com/tashil-shipping-partner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,961 bytes / 171,872 chars
+Elapsed          : 0.441s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tahsil Partner - Easily fulfill your orders through Tashil. | Shopify App Store
+meta description : Tashil is an end-to-end fulfillment solution for Shopify merchants. Manage orders, automate shipping workflows, generate carrier-compliant labels a...
+canonical URL    : https://apps.shopify.com/tashil-shipping-partner
+<h1> tags ( 1)  : 'Tahsil Partner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

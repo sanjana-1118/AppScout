@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\honest-a11y_20260830T194249Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\honest-a11y_20260830T194249Z.html
+Requested URL    : https://apps.shopify.com/honest-a11y
+Final URL        : https://apps.shopify.com/honest-a11y
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,435 bytes / 180,304 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Honest A11y — Accessibility - AI alt text + WCAG scans — honest accessibility, no... | Shopify App Store
+meta description : Scan your Shopify store for WCAG/ADA violations and fix missing image alt text with AI. Honest, code-level accessibility — no overlay widgets.
+canonical URL    : https://apps.shopify.com/honest-a11y
+<h1> tags ( 1)  : 'Honest A11y — Accessibility'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

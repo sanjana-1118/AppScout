@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\win-win-badges_20260830T171950Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\win-win-badges_20260830T171950Z.html
+Requested URL    : https://apps.shopify.com/win-win-badges
+Final URL        : https://apps.shopify.com/win-win-badges
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,914 bytes / 172,807 chars
+Elapsed          : 0.877s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Product Badges by Win‑Win Apps - Add SALE, NEW & custom product badges. No code. Any... | Shopify App Store
+meta description : Add eye-catching product badges to your Shopify store. Show sale, new arrival, and custom labels on any product. No code needed. Works with any theme.
+canonical URL    : https://apps.shopify.com/win-win-badges
+<h1> tags ( 1)  : 'Product Badges by Win‑Win Apps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

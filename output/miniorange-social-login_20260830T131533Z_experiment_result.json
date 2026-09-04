@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/miniorange-social-login",
+  "fetch_timestamp": "2026-08-30T13:15:33.084354+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\miniorange-social-login_20260830T131533Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\miniorange-social-login_20260830T131533Z.html",
+    "url": "https://apps.shopify.com/miniorange-social-login",
+    "final_url": "https://apps.shopify.com/miniorange-social-login",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 208068,
+    "body_text_length": 207947,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.901801,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "miniOrange Social Login - 1-Click Login/Register using 20+ Social Login Providers | Shopify App Store",
+    "meta_description": "Social Login for Shopify lets users sign in using platforms like Discord, Facebook, Google, LinkedIn, Twitter, and more—no need to remember passwor...",
+    "canonical_url": "https://apps.shopify.com/miniorange-social-login",
+    "h1_tags": [
+      "miniOrange Social Login"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "miniOrange Social Login",
+    "app_slug": "miniorange-social-login",
+    "app_url": "https://apps.shopify.com/miniorange-social-login",
+    "developer_name": "miniOrange",
+    "description": "Social Login for Shopify lets users sign in using platforms like Discord, Facebook, Google, LinkedIn, Twitter, and more—no need to remember passwor...",
+    "average_rating": 4.3,
+    "review_count": 8,
+    "category": "Accounts and login"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\miniorange-social-login_20260830T131533Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\miniorange-social-login_20260830T131533Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "miniOrange Social Login",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "miniorange-social-login",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/miniorange-social-login",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "miniOrange",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Social Login for Shopify lets users sign in using platforms like Discord, Facebook, Google, LinkedIn, Twitter, and more—no need to remember passwor...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.3,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 8,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Accounts and login",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

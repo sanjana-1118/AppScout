@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlebuilder_20260830T075058Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlebuilder_20260830T075058Z.html
+Requested URL    : https://apps.shopify.com/bundlebuilder
+Final URL        : https://apps.shopify.com/bundlebuilder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 261,215 bytes / 261,100 chars
+Elapsed          : 0.649s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kitenzo ‑ Bundle Builder - Let customers mix, match and build their perfect bundle! | Shopify App Store
+meta description : Create product bundles easily with Kitenzo. Add discounts, set rules and conditions, customize the designs or create your own template. Plus robust analytics.
+canonical URL    : https://apps.shopify.com/bundlebuilder
+<h1> tags ( 1)  : 'Kitenzo ‑ Bundle Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

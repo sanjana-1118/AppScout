@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prova-3_20260829T184331Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prova-3_20260829T184331Z.html
+Requested URL    : https://apps.shopify.com/prova-3
+Final URL        : https://apps.shopify.com/prova-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,861 bytes / 184,750 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Prova ‑ Photo Reviews & AI - Photo & video reviews, with a weekly AI brief | Shopify App Store
+meta description : Prova doesn't just collect reviews. It tells you what they mean. Every Monday you get an AI brief of what customers said this week: real actions, l...
+canonical URL    : https://apps.shopify.com/prova-3
+<h1> tags ( 1)  : 'Prova ‑ Photo Reviews & AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,38 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-304_20260830T063042Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-304_20260830T063042Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-304
+Final URL        : https://apps.shopify.com/shopify-application-304
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,504 bytes / 159,627 chars
+Elapsed          : 0.716s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : クイックタグ検索 - 日本製タグ検索アプリ！トレンドの簡単タグ検索ができるツールバーをお客様に提供できます！Online Store 2.0専用 | Shopify App Store
+meta description : かんたんインストールで滞在率・回遊率を大幅アップ！
+
+アプリをインストールしたらすぐに使えるクイック仕様！まずは一度インストール！
+
+こんなお悩みはありませんか？
+
+■ 商品には自信があるのに購入に繋がらない
+■ お客様が商品を探しづらい気がする
+■ お客様の直帰率が高い
+■ おすすめの商品を...
+canonical URL    : https://apps.shopify.com/shopify-application-304?locale=ja
+<h1> tags ( 1)  : 'クイックタグ検索'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

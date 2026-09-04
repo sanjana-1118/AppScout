@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\super-tags-auto-tagging_20260831T024103Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\super-tags-auto-tagging_20260831T024103Z.html
+Requested URL    : https://apps.shopify.com/super-tags-auto-tagging
+Final URL        : https://apps.shopify.com/super-tags-auto-tagging
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,358 bytes / 193,269 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Super Tags: Auto Tagging - Auto-tag products, orders & customers with rules | Shopify App Store
+meta description : Automatically tag products, orders, and customers with rules you set. Keep your store organized, track every change, and safely undo tags anytime.
+canonical URL    : https://apps.shopify.com/super-tags-auto-tagging
+<h1> tags ( 1)  : 'Super Tags: Auto Tagging'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

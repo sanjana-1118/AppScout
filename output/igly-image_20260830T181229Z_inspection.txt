@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\igly-image_20260830T181229Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\igly-image_20260830T181229Z.html
+Requested URL    : https://apps.shopify.com/igly-image
+Final URL        : https://apps.shopify.com/igly-image
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,817 bytes / 197,718 chars
+Elapsed          : 0.972s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Igly AI #1 SEO Product Image - Auto-create SEO-ready product photos with AI | Shopify App Store
+meta description : Edit Shopify product photos faster with Igly. Import images, clean up backgrounds and watermarks, then publish polished visuals back to your products.
+canonical URL    : https://apps.shopify.com/igly-image
+<h1> tags ( 1)  : 'Igly AI #1 SEO Product Image'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

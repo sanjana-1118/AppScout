@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnit_20260830T054745Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnit_20260830T054745Z.html
+Requested URL    : https://apps.shopify.com/returnit
+Final URL        : https://apps.shopify.com/returnit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,216 bytes / 196,105 chars
+Elapsed          : 0.655s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Returnit - Returnit helps stores recover more value from returns | Shopify App Store
+meta description : Automate returns. Recover more value.
+
+Returnit helps Shopify merchants streamline returns, exchanges and refund workflows through WhatsApp-based a...
+canonical URL    : https://apps.shopify.com/returnit
+<h1> tags ( 1)  : 'Returnit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

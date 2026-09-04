@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cashback-loyalty-cashmagic_20260831T025009Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cashback-loyalty-cashmagic_20260831T025009Z.html
+Requested URL    : https://apps.shopify.com/cashback-loyalty-cashmagic
+Final URL        : https://apps.shopify.com/cashback-loyalty-cashmagic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,509 bytes / 180,416 chars
+Elapsed          : 0.981s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cashback Loyalty: CashMagic - Reward customers with store credit cashback on every order | Shopify App Store
+meta description : CashMagic gives shoppers cashback on their orders as store credit, so the reward brings them back to spend it.
+canonical URL    : https://apps.shopify.com/cashback-loyalty-cashmagic
+<h1> tags ( 1)  : 'Cashback Loyalty: CashMagic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

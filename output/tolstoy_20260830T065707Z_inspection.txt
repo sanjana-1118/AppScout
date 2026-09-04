@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tolstoy_20260830T065707Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tolstoy_20260830T065707Z.html
+Requested URL    : https://apps.shopify.com/tolstoy
+Final URL        : https://apps.shopify.com/tolstoy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 261,859 bytes / 261,770 chars
+Elapsed          : 0.688s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tolstoy: Shoppable Video & UGC - Create on-brand AI content and UGC from your product catalog. | Shopify App Store
+meta description : Create shoppable videos, AI UGC, product ads, virtual try-on, and AI product images for PDPs, storefronts, email, organic social, and paid social.
+canonical URL    : https://apps.shopify.com/tolstoy
+<h1> tags ( 1)  : 'Tolstoy: Shoppable Video & UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

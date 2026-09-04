@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\srashta-currency-switcher_20260830T033549Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\srashta-currency-switcher_20260830T033549Z.html
+Requested URL    : https://apps.shopify.com/srashta-currency-switcher
+Final URL        : https://apps.shopify.com/srashta-currency-switcher
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,076 bytes / 172,983 chars
+Elapsed          : 0.848s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Srashta Currency Switcher - Easy & Quick Currency Switcher With 170+ Currencies | Shopify App Store
+meta description : If your business is spread across multiple countries, you would always want the visitor to be able to see the displayed price in their home currenc...
+canonical URL    : https://apps.shopify.com/srashta-currency-switcher
+<h1> tags ( 1)  : 'Srashta Currency Switcher'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

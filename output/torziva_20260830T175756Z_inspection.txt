@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\torziva_20260830T175756Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\torziva_20260830T175756Z.html
+Requested URL    : https://apps.shopify.com/torziva
+Final URL        : https://apps.shopify.com/torziva
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,882 bytes / 184,735 chars
+Elapsed          : 0.630s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Torziva ‑ AI Virtual Try‑On - Let shoppers see outfits on their own photo before buying | Shopify App Store
+meta description : Add AI virtual try-on to your Shopify fashion store. Customers upload a photo to preview outfits before buying. Setup takes minutes, no coding required.
+canonical URL    : https://apps.shopify.com/torziva
+<h1> tags ( 1)  : 'Torziva ‑ AI Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

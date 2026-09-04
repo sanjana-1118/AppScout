@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geo-shipping-bar_20260830T061303Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geo-shipping-bar_20260830T061303Z.html
+Requested URL    : https://apps.shopify.com/geo-shipping-bar
+Final URL        : https://apps.shopify.com/geo-shipping-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,075 bytes / 200,986 chars
+Elapsed          : 0.506s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MLV Geo Shipping Bar - Drive Sales with Location-Based Shipping Alerts | Shopify App Store
+meta description : Geo Shipping Bar adds a free shipping bar to your website. You can set country or continent specific messages to target international customers. Yo...
+canonical URL    : https://apps.shopify.com/geo-shipping-bar
+<h1> tags ( 1)  : 'MLV Geo Shipping Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

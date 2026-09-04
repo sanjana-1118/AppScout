@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gleura-chat-support_20260830T163035Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gleura-chat-support_20260830T163035Z.html
+Requested URL    : https://apps.shopify.com/gleura-chat-support
+Final URL        : https://apps.shopify.com/gleura-chat-support
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,606 bytes / 175,510 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gleura Order Tracking - Let customers track order with mobile number. | Shopify App Store
+meta description : Instant order tracking with just Phone Number & Order ID. No login needed. Automate support for returns & shipping 24/7 to save time.
+canonical URL    : https://apps.shopify.com/gleura-chat-support
+<h1> tags ( 1)  : 'Gleura Order Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

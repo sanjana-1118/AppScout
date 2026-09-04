@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\assistly-ai-chat_20260830T151520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\assistly-ai-chat_20260830T151520Z.html
+Requested URL    : https://apps.shopify.com/assistly-ai-chat
+Final URL        : https://apps.shopify.com/assistly-ai-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,429 bytes / 177,303 chars
+Elapsed          : 0.926s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Assistly: AI Chat - Elevate customer service with Assistly: AI chat for growth. | Shopify App Store
+meta description : Assistly—the intelligent AI chat solution designed for business owners who want to provide exceptional customer support. With Assistly, your custom...
+canonical URL    : https://apps.shopify.com/assistly-ai-chat
+<h1> tags ( 1)  : 'Assistly: AI Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

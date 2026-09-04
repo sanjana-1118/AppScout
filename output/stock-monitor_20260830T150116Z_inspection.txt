@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-monitor_20260830T150116Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-monitor_20260830T150116Z.html
+Requested URL    : https://apps.shopify.com/stock-monitor
+Final URL        : https://apps.shopify.com/stock-monitor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,262 bytes / 209,173 chars
+Elapsed          : 0.555s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Monitor Apps: Stock Monitor - Track & Plan Inventory with Real-Time Alerts & Analytics | Shopify App Store
+meta description : Keep your store stocked and sales-ready with Stock Monitor. Get instant alerts for low and out-of-stock products, track inventory trends, and avoid missed sales
+canonical URL    : https://apps.shopify.com/stock-monitor
+<h1> tags ( 1)  : 'Monitor Apps: Stock Monitor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

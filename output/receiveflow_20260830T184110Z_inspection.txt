@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\receiveflow_20260830T184110Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\receiveflow_20260830T184110Z.html
+Requested URL    : https://apps.shopify.com/receiveflow
+Final URL        : https://apps.shopify.com/receiveflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,675 bytes / 177,570 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReceiveFlow - Receive stock on mobile with barcode scan and print labels | Shopify App Store
+meta description : Receive purchase orders on any phone or tablet with barcode scanning, print product and price labels, and sync received stock to Shopify inventory.
+canonical URL    : https://apps.shopify.com/receiveflow
+<h1> tags ( 1)  : 'ReceiveFlow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

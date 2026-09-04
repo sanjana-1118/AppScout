@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-translation_20260830T033351Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-translation_20260830T033351Z.html
+Requested URL    : https://apps.shopify.com/advanced-translation
+Final URL        : https://apps.shopify.com/advanced-translation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,101 bytes / 233,004 chars
+Elapsed          : 0.603s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Advanced Translations - Auto-translate your entire store, apps & images with AI | Shopify App Store
+meta description : Use our app to translate your store into multiple languages using AI. Choose from different LLM Models, translate app widgets and image with text translations.
+canonical URL    : https://apps.shopify.com/advanced-translation
+<h1> tags ( 1)  : 'Easy Advanced Translations'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

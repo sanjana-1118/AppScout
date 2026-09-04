@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-syncify_20260830T050844Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-syncify_20260830T050844Z.html
+Requested URL    : https://apps.shopify.com/inventory-syncify
+Final URL        : https://apps.shopify.com/inventory-syncify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,313 bytes / 188,216 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inventory Syncify - Seamlessly Sync Inventory Across Multiple Stores in Real Time | Shopify App Store
+meta description : Effortlessly manage and sync inventory across multiple stores in real-time. Ensure accurate stock levels and eliminate mismatches with Inventory Syncify.
+canonical URL    : https://apps.shopify.com/inventory-syncify
+<h1> tags ( 1)  : 'Inventory Syncify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

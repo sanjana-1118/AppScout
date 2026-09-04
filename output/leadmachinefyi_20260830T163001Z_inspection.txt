@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leadmachinefyi_20260830T163001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leadmachinefyi_20260830T163001Z.html
+Requested URL    : https://apps.shopify.com/leadmachinefyi
+Final URL        : https://apps.shopify.com/leadmachinefyi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,345 bytes / 164,250 chars
+Elapsed          : 1.138s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LeadMachineFYI - Your AI-Smart, Social, Shopping CRM | Shopify App Store
+meta description : LeadMachine automatically converts Shopify customers to CRM leads with AI enrichment. Track sales pipelines, automate follow-ups, sync MailChimp. Try for free.
+canonical URL    : https://apps.shopify.com/leadmachinefyi
+<h1> tags ( 1)  : 'LeadMachineFYI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

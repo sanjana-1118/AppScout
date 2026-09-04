@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-automation-platform_20260830T164339Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-automation-platform_20260830T164339Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-automation-platform
+Final URL        : https://apps.shopify.com/whatsapp-automation-platform
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,990 bytes / 162,897 chars
+Elapsed          : 0.595s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tittu Message Automation - Automated WhatsApp notifications using WAPAPP APIs | Shopify App Store
+meta description : Automate WhatsApp notifications using WAPAPP APIs based on store events.
+canonical URL    : https://apps.shopify.com/whatsapp-automation-platform
+<h1> tags ( 1)  : 'Tittu Message Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

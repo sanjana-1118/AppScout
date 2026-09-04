@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boosteam_20260830T071735Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boosteam_20260830T071735Z.html
+Requested URL    : https://apps.shopify.com/boosteam
+Final URL        : https://apps.shopify.com/boosteam
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,345 bytes / 181,256 chars
+Elapsed          : 0.488s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boosteam - AI-powered insights and analytics for your entire store, 24/7 | Shopify App Store
+meta description : Connect your store data and get AI-powered analytics across ads, marketing, inventory, and sales. Clear insights and recommendations to improve your store.
+canonical URL    : https://apps.shopify.com/boosteam
+<h1> tags ( 1)  : 'Boosteam'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

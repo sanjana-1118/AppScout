@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ca-chat-order-button-widget_20260830T154324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ca-chat-order-button-widget_20260830T154324Z.html
+Requested URL    : https://apps.shopify.com/ca-chat-order-button-widget
+Final URL        : https://apps.shopify.com/ca-chat-order-button-widget
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 254,066 bytes / 253,936 chars
+Elapsed          : 0.920s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CA: WhatsApp Chat Order Button - WhatsApp order button, Auto confirmations & Recover checkout | Shopify App Store
+meta description : Add a customizable WhatsApp order button to your store. Enable customers to place orders via WhatsApp with real-time click tracking and Meta Pixel integration
+canonical URL    : https://apps.shopify.com/ca-chat-order-button-widget
+<h1> tags ( 1)  : 'CA: WhatsApp Chat Order Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

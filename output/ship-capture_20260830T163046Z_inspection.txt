@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ship-capture_20260830T163046Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ship-capture_20260830T163046Z.html
+Requested URL    : https://apps.shopify.com/ship-capture
+Final URL        : https://apps.shopify.com/ship-capture
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,027 bytes / 168,934 chars
+Elapsed          : 1.038s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TermCap: Payment Terms Capture - Avoid missing payments, and only charge for what you ship | Shopify App Store
+meta description : Inverge Payment Terms Capture tool automatically charges stored customer cards when Shopify orders are fulfilled. Built for B2B and wholesale workf...
+canonical URL    : https://apps.shopify.com/ship-capture
+<h1> tags ( 1)  : 'TermCap: Payment Terms Capture'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autods_20260830T125158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autods_20260830T125158Z.html
+Requested URL    : https://apps.shopify.com/autods
+Final URL        : https://apps.shopify.com/autods
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 269,998 bytes / 269,889 chars
+Elapsed          : 0.959s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Auto DS: AI Dropshipping & POD - Find dropshipping products from the best global drop suppliers | Shopify App Store
+meta description : AutoDS is an advanced all-in-one dropshipping app that helps to find products, automatically import products and dropship from top global dropshipping suppliers
+canonical URL    : https://apps.shopify.com/autods
+<h1> tags ( 1)  : 'Auto DS: AI Dropshipping & POD'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

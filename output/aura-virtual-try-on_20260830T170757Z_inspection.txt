@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aura-virtual-try-on_20260830T170757Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aura-virtual-try-on_20260830T170757Z.html
+Requested URL    : https://apps.shopify.com/aura-virtual-try-on
+Final URL        : https://apps.shopify.com/aura-virtual-try-on
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,629 bytes / 178,464 chars
+Elapsed          : 0.895s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AURA ‑ Essayage Virtuel IA -  L'essayage virtuel s'intègre en un clic  | Shopify App Store
+meta description : Un client qui essaie est un client qui achète !
+Faites décoller vos ventes en levant le frein de l'essayage. Avec AURA, les clients voient le vêtem...
+canonical URL    : https://apps.shopify.com/aura-virtual-try-on?locale=fr
+<h1> tags ( 1)  : 'AURA ‑ Essayage Virtuel IA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

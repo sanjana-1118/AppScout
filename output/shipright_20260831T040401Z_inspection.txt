@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipright_20260831T040401Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipright_20260831T040401Z.html
+Requested URL    : https://apps.shopify.com/shipright
+Final URL        : https://apps.shopify.com/shipright
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,439 bytes / 156,350 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipRight - ShipRight verifies address at checkout and alerts customers | Shopify App Store
+meta description : ShipRight helps merchants manage multi-market stores by validating shipping addresses directly at checkout. It prevents customers from entering an ...
+canonical URL    : https://apps.shopify.com/shipright
+<h1> tags ( 1)  : 'ShipRight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

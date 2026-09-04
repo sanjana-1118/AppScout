@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatchat-v22_20260830T163108Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatchat-v22_20260830T163108Z.html
+Requested URL    : https://apps.shopify.com/whatchat-v22
+Final URL        : https://apps.shopify.com/whatchat-v22
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,524 bytes / 178,430 chars
+Elapsed          : 0.938s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whatchat Button chat Whatsapp - Custom WhatsApp button with team support and working hours | Shopify App Store
+meta description : Whatchat adds a customizable WhatsApp button with team support, working hours, and active agent display to improve customer experience
+canonical URL    : https://apps.shopify.com/whatchat-v22
+<h1> tags ( 1)  : 'Whatchat Button chat Whatsapp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

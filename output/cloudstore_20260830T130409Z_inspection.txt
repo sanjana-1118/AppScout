@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cloudstore_20260830T130409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cloudstore_20260830T130409Z.html
+Requested URL    : https://apps.shopify.com/cloudstore
+Final URL        : https://apps.shopify.com/cloudstore
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,864 bytes / 159,739 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cloudstore art‑on‑demand - Connect your store to on-demand art production and fulfilment. | Shopify App Store
+meta description : Cloudstore Art-on-Demand connects your Shopify store to an on-demand production and fulfilment service for art and image-based products. When a cus...
+canonical URL    : https://apps.shopify.com/cloudstore
+<h1> tags ( 1)  : 'Cloudstore art‑on‑demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

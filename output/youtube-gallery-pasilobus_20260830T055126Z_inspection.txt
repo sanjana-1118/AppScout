@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\youtube-gallery-pasilobus_20260830T055126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\youtube-gallery-pasilobus_20260830T055126Z.html
+Requested URL    : https://apps.shopify.com/youtube-gallery-pasilobus
+Final URL        : https://apps.shopify.com/youtube-gallery-pasilobus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,502 bytes / 234,372 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pasilobus YouTube Gallery - Auto-syncing YouTube video galleries — grid or carousel | Shopify App Store
+meta description : Display YouTube videos on your Shopify store. Auto-sync channels and playlists into grid or carousel galleries with full color customization.
+canonical URL    : https://apps.shopify.com/youtube-gallery-pasilobus
+<h1> tags ( 1)  : 'Pasilobus YouTube Gallery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\level_20260830T130312Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\level_20260830T130312Z.html
+Requested URL    : https://apps.shopify.com/level
+Final URL        : https://apps.shopify.com/level
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,714 bytes / 188,605 chars
+Elapsed          : 1.045s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Level‑ Verify COD & reduce RTO - Reduce RTO and failed COD orders with WhatsApp verification. | Shopify App Store
+meta description : Reduce RTO and failed COD orders with automated WhatsApp verification. Confirm orders before shipping to cut logistics costs and improve delivery rates.
+canonical URL    : https://apps.shopify.com/level
+<h1> tags ( 1)  : 'Level‑ Verify COD & reduce RTO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

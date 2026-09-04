@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crowdfunding-manager_20260830T075002Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crowdfunding-manager_20260830T075002Z.html
+Requested URL    : https://apps.shopify.com/crowdfunding-manager
+Final URL        : https://apps.shopify.com/crowdfunding-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,230 bytes / 216,133 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Crowdfunding Manager by SpurIT - Add crowdfunding features into your store | Shopify App Store
+meta description : Launch a crowdfunding campaign in your store!
+
+Select products for the campaign, each displaying a "Fund it now" button (customizable), with donati...
+canonical URL    : https://apps.shopify.com/crowdfunding-manager
+<h1> tags ( 1)  : 'Crowdfunding Manager by SpurIT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

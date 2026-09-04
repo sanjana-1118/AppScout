@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bestseller-product-tag-manager_20260830T060201Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bestseller-product-tag-manager_20260830T060201Z.html
+Requested URL    : https://apps.shopify.com/bestseller-product-tag-manager
+Final URL        : https://apps.shopify.com/bestseller-product-tag-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,299 bytes / 175,185 chars
+Elapsed          : 0.481s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BestSeller‑Product Tag Manager - Add image badges to collection/products without any hassle. | Shopify App Store
+meta description : Product tag manager helps stores to create tags for best-selling, limited edition products & adds badges to those product to help customer find right products.
+canonical URL    : https://apps.shopify.com/bestseller-product-tag-manager
+<h1> tags ( 1)  : 'BestSeller‑Product Tag Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

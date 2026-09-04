@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\atlas-pickup-points_20260830T054935Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\atlas-pickup-points_20260830T054935Z.html
+Requested URL    : https://apps.shopify.com/atlas-pickup-points
+Final URL        : https://apps.shopify.com/atlas-pickup-points
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 259,073 bytes / 258,946 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Atlas Pickup Points - Build Award Winner • Checkout pickup points map, 60+ carriers | Shopify App Store
+meta description : Atlas Pickup Points simplifies delivery to parcel lockers (APMs), PUDOs, and Point Relais across the globe. Buyers select pick up points via a map ...
+canonical URL    : https://apps.shopify.com/atlas-pickup-points
+<h1> tags ( 1)  : 'Atlas Pickup Points'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

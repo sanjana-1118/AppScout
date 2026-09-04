@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tailored-industry-on-demand_20260830T125950Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tailored-industry-on-demand_20260830T125950Z.html
+Requested URL    : https://apps.shopify.com/tailored-industry-on-demand
+Final URL        : https://apps.shopify.com/tailored-industry-on-demand
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,241 bytes / 191,134 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 3D Knitting On‑Demand - On-Demand 3D Knitting Platform  | Shopify App Store
+meta description : Tailored Industry On-Demand allows you to offer high quality knitwear with no inventory or holding costs! Choose the styles you want, list them on ...
+canonical URL    : https://apps.shopify.com/tailored-industry-on-demand
+<h1> tags ( 1)  : '3D Knitting On‑Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

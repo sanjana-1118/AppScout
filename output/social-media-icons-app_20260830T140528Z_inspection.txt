@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-media-icons-app_20260830T140528Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-media-icons-app_20260830T140528Z.html
+Requested URL    : https://apps.shopify.com/social-media-icons-app
+Final URL        : https://apps.shopify.com/social-media-icons-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,520 bytes / 207,423 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Social Media Icons by Elfsight - Simplify Social Media Sharing with Customizable Icons. | Shopify App Store
+meta description : Via Social Media Icons you will be able to have a stronger brand in social media with a wider reach and higher popularity of your accounts on the w...
+canonical URL    : https://apps.shopify.com/social-media-icons-app
+<h1> tags ( 1)  : 'Social Media Icons by Elfsight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

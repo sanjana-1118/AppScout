@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gifted_20260830T133853Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gifted_20260830T133853Z.html
+Requested URL    : https://apps.shopify.com/gifted
+Final URL        : https://apps.shopify.com/gifted
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,566 bytes / 197,471 chars
+Elapsed          : 0.753s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : #gifted - Create unique photos, videos, reviews & testimonials | Shopify App Store
+meta description : #gifted helps ecommerce brands connect with creators who genuinely want to work with them.
+
+Launch creator gifting campaigns, discover new creators...
+canonical URL    : https://apps.shopify.com/gifted
+<h1> tags ( 1)  : '#gifted'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sea-accessibility-ada-wcag_20260830T063343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sea-accessibility-ada-wcag_20260830T063343Z.html
+Requested URL    : https://apps.shopify.com/sea-accessibility-ada-wcag
+Final URL        : https://apps.shopify.com/sea-accessibility-ada-wcag
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 258,039 bytes / 257,946 chars
+Elapsed          : 0.703s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avada Accessibility ADA EAA - Website Accessibility with WCAG, EAA, BFSG, ADA compliance | Shopify App Store
+meta description : Ensure ADA, AODA, WCAG 2.2 AA, EAA, BFSG compliance for Shopify stores. 25+ accessibility tools, automated audit and update statement. Easy setup, 24/7 support
+canonical URL    : https://apps.shopify.com/sea-accessibility-ada-wcag
+<h1> tags ( 1)  : 'Avada Accessibility ADA EAA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

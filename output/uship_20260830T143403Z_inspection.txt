@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uship_20260830T143403Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uship_20260830T143403Z.html
+Requested URL    : https://apps.shopify.com/uship
+Final URL        : https://apps.shopify.com/uship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,147 bytes / 191,042 chars
+Elapsed          : 0.877s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : uShip - White-glove delivery for furniture and household goods sellers | Shopify App Store
+meta description : Connects your store to uShip’s shipping platform and carrier network, making it easy to offer delivery for oversized household items that don’t ship parcel.
+canonical URL    : https://apps.shopify.com/uship
+<h1> tags ( 1)  : 'uShip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

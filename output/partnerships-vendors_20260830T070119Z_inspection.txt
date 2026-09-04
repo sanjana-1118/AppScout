@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\partnerships-vendors_20260830T070119Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\partnerships-vendors_20260830T070119Z.html
+Requested URL    : https://apps.shopify.com/partnerships-vendors
+Final URL        : https://apps.shopify.com/partnerships-vendors
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,092 bytes / 187,003 chars
+Elapsed          : 1.085s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vendors, Revenue & Commissions - Split your sales. Divide revenue with multi-vendors & partners | Shopify App Store
+meta description : The app manages your vendors & partners, calculate their share of revenue/profit and which you can payouts to them. The app is also useful for calc...
+canonical URL    : https://apps.shopify.com/partnerships-vendors
+<h1> tags ( 1)  : 'Vendors, Revenue & Commissions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

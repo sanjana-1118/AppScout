@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\its-layered-community-app_20260830T065017Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\its-layered-community-app_20260830T065017Z.html
+Requested URL    : https://apps.shopify.com/its-layered-community-app
+Final URL        : https://apps.shopify.com/its-layered-community-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,160 bytes / 190,039 chars
+Elapsed          : 0.958s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ItsLayered‑EngageYourCommunity - Turn customers into creators with real UGC, reviews, & rewards | Shopify App Store
+meta description : Turn customers into creators with challenges, reviews, and rewards. Capture first-party data, boost loyalty, and grow your Shopify store with It’s Layered.
+canonical URL    : https://apps.shopify.com/its-layered-community-app
+<h1> tags ( 1)  : 'ItsLayered‑EngageYourCommunity'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

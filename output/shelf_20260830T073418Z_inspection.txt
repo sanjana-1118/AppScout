@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelf_20260830T073418Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelf_20260830T073418Z.html
+Requested URL    : https://apps.shopify.com/shelf
+Final URL        : https://apps.shopify.com/shelf
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,612 bytes / 172,477 chars
+Elapsed          : 1.009s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shelf Ai  - AI-powered competitive intelligence for your peer set. | Shopify App Store
+meta description : Shelf monitors your competitor peer set — pricing moves, promotions, and marketing activity — and surfaces AI observations inside your Shopify admin.
+canonical URL    : https://apps.shopify.com/shelf
+<h1> tags ( 1)  : 'Shelf Ai'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

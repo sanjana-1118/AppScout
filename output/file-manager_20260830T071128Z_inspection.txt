@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\file-manager_20260830T071128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\file-manager_20260830T071128Z.html
+Requested URL    : https://apps.shopify.com/file-manager
+Final URL        : https://apps.shopify.com/file-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,774 bytes / 202,423 chars
+Elapsed          : 0.618s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : File Manager ‑ Custom Folders - Organize files in custom folders and find everything faster | Shopify App Store
+meta description : Organize your store's digital assets with custom folders, powerful search, and bulk operations. Save time managing files with our easy-to-use file manager.
+canonical URL    : https://apps.shopify.com/file-manager
+<h1> tags ( 1)  : 'File Manager ‑ Custom Folders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

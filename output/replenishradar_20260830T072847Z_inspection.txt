@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replenishradar_20260830T072847Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replenishradar_20260830T072847Z.html
+Requested URL    : https://apps.shopify.com/replenishradar
+Final URL        : https://apps.shopify.com/replenishradar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,082 bytes / 212,993 chars
+Elapsed          : 0.898s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReplenishRadar Stock Planner - Demand forecasting and automated reorder recommendations. | Shopify App Store
+meta description : Forecast demand, prevent stockouts, and automate purchase orders across all your sales channels. Syncs inventory in real time. Free 14-day trial from $99/mo.
+canonical URL    : https://apps.shopify.com/replenishradar
+<h1> tags ( 1)  : 'ReplenishRadar Stock Planner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

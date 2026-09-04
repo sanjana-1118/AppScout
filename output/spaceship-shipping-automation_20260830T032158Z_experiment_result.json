@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/spaceship-shipping-automation",
+  "fetch_timestamp": "2026-08-30T03:21:58.599451+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\spaceship-shipping-automation_20260830T032158Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\spaceship-shipping-automation_20260830T032158Z.html",
+    "url": "https://apps.shopify.com/spaceship-shipping-automation",
+    "final_url": "https://apps.shopify.com/spaceship-shipping-automation",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 187498,
+    "body_text_length": 187061,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.553686,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Spaceship: Shipping Automation - Automate shipping and fulfillment, global carriers support. | Shopify App Store",
+    "meta_description": "Spaceship Pro網店物流軟件，提供各大物流公司即時報價，包括DHL、UPS、Aramex、順豐速運、FedEx、Spaceship Air及香港郵政，連接網店同步建立運單，一站出貨本地海外。",
+    "canonical_url": "https://apps.shopify.com/spaceship-shipping-automation",
+    "h1_tags": [
+      "Spaceship: Shipping Automation"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Spaceship: Shipping Automation",
+    "app_slug": "spaceship-shipping-automation",
+    "app_url": "https://apps.shopify.com/spaceship-shipping-automation",
+    "developer_name": "Spaceship",
+    "description": "Spaceship Pro網店物流軟件，提供各大物流公司即時報價，包括DHL、UPS、Aramex、順豐速運、FedEx、Spaceship Air及香港郵政，連接網店同步建立運單，一站出貨本地海外。",
+    "average_rating": 5.0,
+    "review_count": 5,
+    "category": "Inventory sync"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\spaceship-shipping-automation_20260830T032158Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\spaceship-shipping-automation_20260830T032158Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Spaceship: Shipping Automation",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "spaceship-shipping-automation",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/spaceship-shipping-automation",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Spaceship",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Spaceship Pro網店物流軟件，提供各大物流公司即時報價，包括DHL、UPS、Aramex、順豐速運、FedEx、Spaceship Air及香港郵政，連接網店同步建立運單，一站出貨本地海外。",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 5,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Inventory sync",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

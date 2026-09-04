@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-data-upload_20260830T153246Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-data-upload_20260830T153246Z.html
+Requested URL    : https://apps.shopify.com/bulk-data-upload
+Final URL        : https://apps.shopify.com/bulk-data-upload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,656 bytes / 185,567 chars
+Elapsed          : 0.440s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sbit: Bulk Data Upload - Multi-platform product importer with automated validation | Shopify App Store
+meta description : Streamline your product import process with Bulk Data Upload. Import products from multiple platforms with automated data conversion and smart field mapping.
+canonical URL    : https://apps.shopify.com/bulk-data-upload
+<h1> tags ( 1)  : 'Sbit: Bulk Data Upload'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

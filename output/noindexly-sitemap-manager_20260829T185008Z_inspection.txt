@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\noindexly-sitemap-manager_20260829T185008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\noindexly-sitemap-manager_20260829T185008Z.html
+Requested URL    : https://apps.shopify.com/noindexly-sitemap-manager
+Final URL        : https://apps.shopify.com/noindexly-sitemap-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,063 bytes / 206,948 chars
+Elapsed          : 0.693s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NoIndexly ‑ Sitemap Manager - Easily control NoFollow & NoIndex Meta Tags of your store | Shopify App Store
+meta description : In case you have more than one version of a page within your store, it's likely you'll face some content replication issues. That's why you need to...
+canonical URL    : https://apps.shopify.com/noindexly-sitemap-manager
+<h1> tags ( 1)  : 'NoIndexly ‑ Sitemap Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

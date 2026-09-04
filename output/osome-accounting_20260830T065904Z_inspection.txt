@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\osome-accounting_20260830T065904Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\osome-accounting_20260830T065904Z.html
+Requested URL    : https://apps.shopify.com/osome-accounting
+Final URL        : https://apps.shopify.com/osome-accounting
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,454 bytes / 177,353 chars
+Elapsed          : 0.941s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Osome Accounting - We prepare your accounts so you don’t have to | Shopify App Store
+meta description : Connect your Shopify account to Osome in just one click, and leave the rest to us. We automatically upload and organise all your documents and crea...
+canonical URL    : https://apps.shopify.com/osome-accounting
+<h1> tags ( 1)  : 'Osome Accounting'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

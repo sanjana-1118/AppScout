@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pdf-catalogs-flipbook_20260830T060201Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pdf-catalogs-flipbook_20260830T060201Z.html
+Requested URL    : https://apps.shopify.com/pdf-catalogs-flipbook
+Final URL        : https://apps.shopify.com/pdf-catalogs-flipbook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,169 bytes / 207,066 chars
+Elapsed          : 0.824s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GA: PDF Catalog + PDF FlipBook - Flip book catalog maker with PDF viewer. | Shopify App Store
+meta description : Convert static PDFs into stunning, mobile-friendly flipbook PDF experiences in just a few clicks — no coding required. Create an interactive flipbo...
+canonical URL    : https://apps.shopify.com/pdf-catalogs-flipbook
+<h1> tags ( 1)  : 'GA: PDF Catalog + PDF FlipBook'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

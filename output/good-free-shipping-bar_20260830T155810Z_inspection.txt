@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\good-free-shipping-bar_20260830T155810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\good-free-shipping-bar_20260830T155810Z.html
+Requested URL    : https://apps.shopify.com/good-free-shipping-bar
+Final URL        : https://apps.shopify.com/good-free-shipping-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,758 bytes / 170,669 chars
+Elapsed          : 0.973s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Good Free Shipping Bar - Shows progressive messages to unlock free shipping | Shopify App Store
+meta description : Good Free Shipping Bar shows progressive messages as shoppers add items to their carts, clearly displaying how much more they need to spend to unlo...
+canonical URL    : https://apps.shopify.com/good-free-shipping-bar
+<h1> tags ( 1)  : 'Good Free Shipping Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

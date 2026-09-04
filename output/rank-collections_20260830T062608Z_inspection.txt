@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rank-collections_20260830T062608Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rank-collections_20260830T062608Z.html
+Requested URL    : https://apps.shopify.com/rank-collections
+Final URL        : https://apps.shopify.com/rank-collections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,437 bytes / 186,344 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RankCollections: Sort & Stock - Auto-sort collections and hide sold-out products every day | Shopify App Store
+meta description : Create collection that auto-removes out-of-stock products, tracks competitors, and scores your AI Shopping Readiness for ChatGPT & Google, no ad spend needed.
+canonical URL    : https://apps.shopify.com/rank-collections
+<h1> tags ( 1)  : 'RankCollections: Sort & Stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

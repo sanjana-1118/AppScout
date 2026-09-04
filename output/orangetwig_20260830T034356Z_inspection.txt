@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orangetwig_20260830T034356Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orangetwig_20260830T034356Z.html
+Requested URL    : https://apps.shopify.com/orangetwig
+Final URL        : https://apps.shopify.com/orangetwig
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,950 bytes / 216,861 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Socioh: DPAs that Convert - Boost ROAS of catalog ads with customized product feed images | Shopify App Store
+meta description : Get unrivaled control over your DPA/DABA ads with Socioh - the #1-rated app for dynamic product ads & product feed image optimization.
+canonical URL    : https://apps.shopify.com/orangetwig
+<h1> tags ( 1)  : 'Socioh: DPAs that Convert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

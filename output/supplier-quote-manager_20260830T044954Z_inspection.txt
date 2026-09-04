@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supplier-quote-manager_20260830T044954Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supplier-quote-manager_20260830T044954Z.html
+Requested URL    : https://apps.shopify.com/supplier-quote-manager
+Final URL        : https://apps.shopify.com/supplier-quote-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,770 bytes / 169,585 chars
+Elapsed          : 0.863s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supplier Quote Manager - Collect supplier quotes and manage RFQs | Shopify App Store
+meta description : Create RFQs from Shopify products, collect supplier quotes, and manage sourcing workflows in one place.
+canonical URL    : https://apps.shopify.com/supplier-quote-manager
+<h1> tags ( 1)  : 'Supplier Quote Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

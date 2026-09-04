@@ -1,0 +1,70 @@
+{
+  "collection_timestamp": "2026-08-29T18:56:44.033133+00:00",
+  "apps_processed": 10,
+  "reviews_collected_in_run": 200,
+  "review_pages_traversed": 20,
+  "total_reviews_in_postgresql": 300,
+  "average_rating": 4.13,
+  "app_results": [
+    {
+      "app_slug": "judgeme",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "tiktok",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "flow",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "loox",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "shop",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "pop-convert",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "ecomsend",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "dsers",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "facebook",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "booster-apps-seo-optimizer",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    }
+  ]
+}

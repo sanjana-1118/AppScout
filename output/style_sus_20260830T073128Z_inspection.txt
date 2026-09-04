@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\style_sus_20260830T073128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\style_sus_20260830T073128Z.html
+Requested URL    : https://apps.shopify.com/style_sus
+Final URL        : https://apps.shopify.com/style_sus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,459 bytes / 151,370 chars
+Elapsed          : 0.575s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sustalytics Survey Platform -  Find out if your product concept will sell. | Shopify App Store
+meta description : Shopify App Store: customize your online store and grow your business with Shopify-approved apps for marketing, store design, fulfillment, and more.
+canonical URL    : https://apps.shopify.com/style_sus
+<h1> tags ( 1)  : 'Sustalytics Survey Platform'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

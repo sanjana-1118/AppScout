@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropgo_20260830T153648Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropgo_20260830T153648Z.html
+Requested URL    : https://apps.shopify.com/dropgo
+Final URL        : https://apps.shopify.com/dropgo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,491 bytes / 163,379 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DropGo - Calcula envíos en tiempo real y sincroniza pedidos al instante | Shopify App Store
+meta description : Sincroniza pagos y cancelaciones con webhooks, muestra tarifas de envío en tiempo real y reduce errores con autocompletado de direcciones en checkout.
+canonical URL    : https://apps.shopify.com/dropgo?locale=es
+<h1> tags ( 1)  : 'DropGo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

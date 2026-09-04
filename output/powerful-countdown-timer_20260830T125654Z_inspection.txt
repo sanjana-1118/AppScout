@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\powerful-countdown-timer_20260830T125654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\powerful-countdown-timer_20260830T125654Z.html
+Requested URL    : https://apps.shopify.com/powerful-countdown-timer
+Final URL        : https://apps.shopify.com/powerful-countdown-timer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,810 bytes / 217,721 chars
+Elapsed          : 0.808s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pushdaddy Countdown Timer - Capture the attention of buyers in a unique way with... | Shopify App Store
+meta description : Pushdaddy Countdown Timer is easy to install and setup:
+one click installation!
+No developers needed!
+Setting up countdown timer bar takes less tha...
+canonical URL    : https://apps.shopify.com/powerful-countdown-timer
+<h1> tags ( 1)  : 'Pushdaddy Countdown Timer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

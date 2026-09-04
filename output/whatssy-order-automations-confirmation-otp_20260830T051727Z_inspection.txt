@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatssy-order-automations-confirmation-otp_20260830T051727Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatssy-order-automations-confirmation-otp_20260830T051727Z.html
+Requested URL    : https://apps.shopify.com/whatssy-order-automations-confirmation-otp
+Final URL        : https://apps.shopify.com/whatssy-order-automations-confirmation-otp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,095 bytes / 206,010 chars
+Elapsed          : 0.984s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whatssy WhatsApp Automation - Official Meta API, OTP for COD, Abandoned Cart & Tracking | Shopify App Store
+meta description : Automate WhatsApp notifications with OTP for COD, order updates, and tracking. Reduce fake orders and boost customer trust with Whatssy
+canonical URL    : https://apps.shopify.com/whatssy-order-automations-confirmation-otp
+<h1> tags ( 1)  : 'Whatssy WhatsApp Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

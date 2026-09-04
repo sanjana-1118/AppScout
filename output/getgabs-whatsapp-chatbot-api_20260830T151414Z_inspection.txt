@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getgabs-whatsapp-chatbot-api_20260830T151414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\getgabs-whatsapp-chatbot-api_20260830T151414Z.html
+Requested URL    : https://apps.shopify.com/getgabs-whatsapp-chatbot-api
+Final URL        : https://apps.shopify.com/getgabs-whatsapp-chatbot-api
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,309 bytes / 236,219 chars
+Elapsed          : 0.688s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WhatsApp Chat + Abandoned Cart - Automate WhatsApp support, abandoned carts & order updates | Shopify App Store
+meta description : Automate WhatsApp support, abandoned cart recovery, order updates and customer replies for brand stores. Respond faster and boost conversions.
+canonical URL    : https://apps.shopify.com/getgabs-whatsapp-chatbot-api
+<h1> tags ( 1)  : 'WhatsApp Chat + Abandoned Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

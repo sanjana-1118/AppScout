@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\memory-pulse_20260830T074529Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\memory-pulse_20260830T074529Z.html
+Requested URL    : https://apps.shopify.com/memory-pulse
+Final URL        : https://apps.shopify.com/memory-pulse
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,539 bytes / 193,436 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Memory Pulse - AI-powered customer memory and store optimization | Shopify App Store
+meta description : Month 1, Memory Pulse learns your store. Month 2, 
+it knows your customers better than you do. Month 3, 
+it's running like a machine — recovering r...
+canonical URL    : https://apps.shopify.com/memory-pulse
+<h1> tags ( 1)  : 'Memory Pulse'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

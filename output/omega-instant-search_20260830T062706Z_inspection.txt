@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omega-instant-search_20260830T062706Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omega-instant-search_20260830T062706Z.html
+Requested URL    : https://apps.shopify.com/omega-instant-search
+Final URL        : https://apps.shopify.com/omega-instant-search
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,038 bytes / 210,949 chars
+Elapsed          : 0.637s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Omega Instant Search - Improve store searching and boost your sales | Shopify App Store
+meta description : The Omega Instant Search app guides your potential clients to exactly what they are searching for and delivers accurate product search results in a...
+canonical URL    : https://apps.shopify.com/omega-instant-search
+<h1> tags ( 1)  : 'Omega Instant Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

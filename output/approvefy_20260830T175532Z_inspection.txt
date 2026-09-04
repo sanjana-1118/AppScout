@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\approvefy_20260830T175532Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\approvefy_20260830T175532Z.html
+Requested URL    : https://apps.shopify.com/approvefy
+Final URL        : https://apps.shopify.com/approvefy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,892 bytes / 209,803 chars
+Elapsed          : 0.866s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Approvefy: B2B Register Form - B2B Registration : Manual Approval & Legacy Customer Accounts | Shopify App Store
+meta description : Create custom B2B registration forms, approve customers manually or automatically, manage company accounts, and support legacy customer accounts.
+canonical URL    : https://apps.shopify.com/approvefy
+<h1> tags ( 1)  : 'Approvefy: B2B Register Form'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

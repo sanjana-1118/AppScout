@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-field-app_20260830T131929Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-field-app_20260830T131929Z.html
+Requested URL    : https://apps.shopify.com/custom-field-app
+Final URL        : https://apps.shopify.com/custom-field-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 238,027 bytes / 230,644 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 配送＆注文サポーター‑ネットイヤーグループ株式会社 - 大手物流会社に対応したCSV出力。カート画面に配送日時追加！追跡番号の一括アップロードも可能！ピッキングリストで効率化Up！ | Shopify App Store
+meta description : アプリをインストールするだけでカート画面にヤマト運輸、佐川急便、日本郵便などに対応した配送希望日と配送希望時間帯が選択できるようになります。
+ 出荷業務のスケジュールにあわせて最短での配送希望日の設定が可能です。
+配送業者の送り状フォーマットに合わせた形でCSVファイルのダウンロードおよび追跡番号のアップロードが可能。
+canonical URL    : https://apps.shopify.com/custom-field-app?locale=ja
+<h1> tags ( 1)  : '配送＆注文サポーター‑ネットイヤーグループ株式会社'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

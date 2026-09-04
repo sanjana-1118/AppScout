@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lensia-ai-models-and-product-photos_20260830T155624Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lensia-ai-models-and-product-photos_20260830T155624Z.html
+Requested URL    : https://apps.shopify.com/lensia-ai-models-and-product-photos
+Final URL        : https://apps.shopify.com/lensia-ai-models-and-product-photos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,700 bytes / 221,607 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lensia AI Ads Create and UGC - High-Converting AI Ad Creatives and UGC for Meta / Tiktok | Shopify App Store
+meta description : Create professional, high-converting product photos with AI - directly inside Shopify. Generate on-model, lifestyle, and item-only images in minutes and launch
+canonical URL    : https://apps.shopify.com/lensia-ai-models-and-product-photos
+<h1> tags ( 1)  : 'Lensia AI Ads Create and UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

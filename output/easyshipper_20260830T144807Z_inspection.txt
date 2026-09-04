@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyshipper_20260830T144807Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyshipper_20260830T144807Z.html
+Requested URL    : https://apps.shopify.com/easyshipper
+Final URL        : https://apps.shopify.com/easyshipper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,365 bytes / 171,276 chars
+Elapsed          : 1.159s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasyShipper - Create shipment for your orders automatically  | Shopify App Store
+meta description : Our shipping integration app seamlessly connects your Shopify store with our shipping service. Once an order is created in the Shopify admin, it is...
+canonical URL    : https://apps.shopify.com/easyshipper
+<h1> tags ( 1)  : 'EasyShipper'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

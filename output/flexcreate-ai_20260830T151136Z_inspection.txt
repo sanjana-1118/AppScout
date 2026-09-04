@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flexcreate-ai_20260830T151136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flexcreate-ai_20260830T151136Z.html
+Requested URL    : https://apps.shopify.com/flexcreate-ai
+Final URL        : https://apps.shopify.com/flexcreate-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,028 bytes / 159,913 chars
+Elapsed          : 0.690s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FlexCreate ‑ Print on Demand - Create and sell print-on-demand products globally | Shopify App Store
+meta description : Turn creativity into sales in 3 minutes with FlexCreate’s custom printing, embroidery, and engraving. Our intuitive tools and seamless shipping sim...
+canonical URL    : https://apps.shopify.com/flexcreate-ai
+<h1> tags ( 1)  : 'FlexCreate ‑ Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

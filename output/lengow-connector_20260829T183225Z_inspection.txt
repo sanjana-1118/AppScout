@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lengow-connector_20260829T183225Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lengow-connector_20260829T183225Z.html
+Requested URL    : https://apps.shopify.com/lengow-connector
+Final URL        : https://apps.shopify.com/lengow-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,548 bytes / 220,443 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lengow: Feed Management - Boost sales reach via easy marketplace & ad channel connection | Shopify App Store
+meta description : Lengow enables you to easily export your catalogues from Shopify to generate product feeds adapted for various marketplaces and advertising channel...
+canonical URL    : https://apps.shopify.com/lengow-connector
+<h1> tags ( 1)  : 'Lengow: Feed Management'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

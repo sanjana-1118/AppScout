@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellingpilot_20260830T033157Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellingpilot_20260830T033157Z.html
+Requested URL    : https://apps.shopify.com/sellingpilot
+Final URL        : https://apps.shopify.com/sellingpilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,988 bytes / 190,685 chars
+Elapsed          : 0.548s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SellingPilot AI Multi‑Channel - Manage listings, inventory, and orders across marketplaces. | Shopify App Store
+meta description : SellingPilot streamlines multi-platform e-commerce, enabling product listing and migration on Shopify, Newegg, Amazon, Walmart, TikTok, and Ebay. e...
+canonical URL    : https://apps.shopify.com/sellingpilot
+<h1> tags ( 1)  : 'SellingPilot AI Multi‑Channel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

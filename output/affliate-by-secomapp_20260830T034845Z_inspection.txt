@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\affliate-by-secomapp_20260830T034845Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\affliate-by-secomapp_20260830T034845Z.html
+Requested URL    : https://apps.shopify.com/affliate-by-secomapp
+Final URL        : https://apps.shopify.com/affliate-by-secomapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 297,004 bytes / 296,907 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UpPromote Affiliate Marketing - Drive referral sales loops with influencer & affiliate program | Shopify App Store
+meta description : Build. Manage. Succeed with Affiliate Marketing - Referral Programs
+canonical URL    : https://apps.shopify.com/affliate-by-secomapp
+<h1> tags ( 1)  : 'UpPromote Affiliate Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

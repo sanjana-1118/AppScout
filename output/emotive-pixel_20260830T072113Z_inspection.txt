@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emotive-pixel_20260830T072113Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\emotive-pixel_20260830T072113Z.html
+Requested URL    : https://apps.shopify.com/emotive-pixel
+Final URL        : https://apps.shopify.com/emotive-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,635 bytes / 171,530 chars
+Elapsed          : 0.745s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Emotive CartAI - Compliant 1st Party Pixel | Turn Anonymous Users into Revenue | Shopify App Store
+meta description : Emotive CartAI™ immediately generates more ROAS for your brand.
+Generate bigger remarketing audiences. Scale your ROAS. 
+
+You’ll send significantly...
+canonical URL    : https://apps.shopify.com/emotive-pixel
+<h1> tags ( 1)  : 'Emotive CartAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

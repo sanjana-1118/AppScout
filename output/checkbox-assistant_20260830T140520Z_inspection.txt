@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkbox-assistant_20260830T140520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkbox-assistant_20260830T140520Z.html
+Requested URL    : https://apps.shopify.com/checkbox-assistant
+Final URL        : https://apps.shopify.com/checkbox-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,003 bytes / 231,908 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Checkbox Assistant: Terms Box -  Require a terms and conditions checkbox to prevent chargeback | Shopify App Store
+meta description : Add a terms and conditions checkbox to Shopify cart, product, and checkout pages. Timestamped consent prevents disputes and chargebacks. Free plan, no coding.
+canonical URL    : https://apps.shopify.com/checkbox-assistant
+<h1> tags ( 1)  : 'Checkbox Assistant: Terms Box'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

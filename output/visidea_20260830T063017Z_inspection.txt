@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\visidea_20260830T063017Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\visidea_20260830T063017Z.html
+Requested URL    : https://apps.shopify.com/visidea
+Final URL        : https://apps.shopify.com/visidea
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,202 bytes / 217,097 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Visidea AI Search & Discovery - Visual Search, AI Search Bar and Product Recommendations | Shopify App Store
+meta description : With our Visual Search, AI Search and Product Recommendations plugin, you can show more customized results in user searches and increase your conversion rate.​
+canonical URL    : https://apps.shopify.com/visidea
+<h1> tags ( 1)  : 'Visidea AI Search & Discovery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

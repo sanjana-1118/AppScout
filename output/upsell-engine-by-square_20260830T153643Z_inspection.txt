@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsell-engine-by-square_20260830T153643Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsell-engine-by-square_20260830T153643Z.html
+Requested URL    : https://apps.shopify.com/upsell-engine-by-square
+Final URL        : https://apps.shopify.com/upsell-engine-by-square
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,577 bytes / 231,449 chars
+Elapsed          : 1.021s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upsell Engine by Square - Setup bundles, volume discounts & BOGO deals to increase AOV. | Shopify App Store
+meta description : Boost AOV with smart upsell offers: product bundles, volume discounts, BOGO deals, post-purchase upsells, and free gifts — all easy to launch.
+canonical URL    : https://apps.shopify.com/upsell-engine-by-square
+<h1> tags ( 1)  : 'Upsell Engine by Square'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sheets-feed_20260830T153519Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sheets-feed_20260830T153519Z.html
+Requested URL    : https://apps.shopify.com/sheets-feed
+Final URL        : https://apps.shopify.com/sheets-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,192 bytes / 191,077 chars
+Elapsed          : 0.702s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sheets Feed ‑ Ultimate - The smarter way to send shop's order data to Google... | Shopify App Store
+meta description : Seamlessly sync Shopify orders to Google Sheets. Automate exports, track sales, and simplify reporting with real-time updates. No coding required.
+canonical URL    : https://apps.shopify.com/sheets-feed
+<h1> tags ( 1)  : 'Sheets Feed ‑ Ultimate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

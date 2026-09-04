@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bluestone-pim-connect_20260830T171700Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bluestone-pim-connect_20260830T171700Z.html
+Requested URL    : https://apps.shopify.com/bluestone-pim-connect
+Final URL        : https://apps.shopify.com/bluestone-pim-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,667 bytes / 176,577 chars
+Elapsed          : 0.519s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bluestone PIM Connect - Sync products, variants, and translations from Bluestone PIM | Shopify App Store
+meta description : Bluestone PIM Connect synchronizes product data from your Bluestone PIM account to your Shopify store. Product information including titles, descri...
+canonical URL    : https://apps.shopify.com/bluestone-pim-connect
+<h1> tags ( 1)  : 'Bluestone PIM Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

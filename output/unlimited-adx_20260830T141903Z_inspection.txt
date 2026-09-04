@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unlimited-adx_20260830T141903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unlimited-adx_20260830T141903Z.html
+Requested URL    : https://apps.shopify.com/unlimited-adx
+Final URL        : https://apps.shopify.com/unlimited-adx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,395 bytes / 161,306 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Unlimited Adx - Automatically distribute products to ad networks | Shopify App Store
+meta description : Unlimited Adx offers automated Retargeting and Affiliate advertising services to merchants, with a cost-per-sale (CPS) billing.
+canonical URL    : https://apps.shopify.com/unlimited-adx
+<h1> tags ( 1)  : 'Unlimited Adx'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

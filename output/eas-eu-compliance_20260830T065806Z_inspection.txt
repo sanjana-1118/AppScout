@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eas-eu-compliance_20260830T065806Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eas-eu-compliance_20260830T065806Z.html
+Requested URL    : https://apps.shopify.com/eas-eu-compliance
+Final URL        : https://apps.shopify.com/eas-eu-compliance
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,598 bytes / 207,506 chars
+Elapsed          : 0.656s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EAS EU & UK Compliance - Automate your EU & UK Compliance (IOSS, GPSR, OSS and... | Shopify App Store
+meta description : With EAS, you can start selling to EU & UK in hours. No registration fees or minimum volumes. Automation from registration to filing and much more!
+canonical URL    : https://apps.shopify.com/eas-eu-compliance
+<h1> tags ( 1)  : 'EAS EU & UK Compliance'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

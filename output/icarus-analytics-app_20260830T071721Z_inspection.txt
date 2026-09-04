@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\icarus-analytics-app_20260830T071721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\icarus-analytics-app_20260830T071721Z.html
+Requested URL    : https://apps.shopify.com/icarus-analytics-app
+Final URL        : https://apps.shopify.com/icarus-analytics-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,214 bytes / 159,125 chars
+Elapsed          : 0.527s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Icarus Analytics - Get actionable insights from order data with real-time updates | Shopify App Store
+meta description : Business Impact of Order Analytics
+Order Analytics transforms raw order data into actionable insights for Shopify merchants. It simplifies data ana...
+canonical URL    : https://apps.shopify.com/icarus-analytics-app
+<h1> tags ( 1)  : 'Icarus Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

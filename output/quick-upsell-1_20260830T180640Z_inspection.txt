@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quick-upsell-1_20260830T180640Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quick-upsell-1_20260830T180640Z.html
+Requested URL    : https://apps.shopify.com/quick-upsell-1
+Final URL        : https://apps.shopify.com/quick-upsell-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,553 bytes / 198,456 chars
+Elapsed          : 0.620s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Topcode | Upsell & Cross sell - Increase sales with relevant offers | Shopify App Store
+meta description : Boost AOV with targeted upsell and cross-sell offers in cart, at checkout, and on the thank-you page. One-click setup, no code required.
+canonical URL    : https://apps.shopify.com/quick-upsell-1
+<h1> tags ( 1)  : 'Topcode | Upsell & Cross sell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

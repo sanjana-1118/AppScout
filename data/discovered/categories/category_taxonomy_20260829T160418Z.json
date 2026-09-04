@@ -1,0 +1,426 @@
+{
+  "source_url": "https://apps.shopify.com",
+  "discovered_at": "2026-08-29T16:04:18.046681+00:00",
+  "total_categories": 52,
+  "root_count": 7,
+  "leaf_count": 45,
+  "crawlable_count": 45,
+  "categories": [
+    {
+      "url": "https://apps.shopify.com/categories/sales-channels",
+      "slug": "sales-channels",
+      "label": "Sales channelsSync products with marketplaces, product feeds, data backup, point of sale, retail",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/finding-products",
+      "slug": "finding-products",
+      "label": "Finding productsSource products with dropshipping, print on demand, wholesale, suppliers",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products",
+      "slug": "selling-products",
+      "label": "Selling productsSell more with subscriptions, digital downloads, payments, COD, product options",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/orders-and-shipping",
+      "slug": "orders-and-shipping",
+      "label": "Orders and shippingHandle fulfillment with order tracking, invoices, order printers, shipping labels",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design",
+      "slug": "store-design",
+      "label": "Store designCustomize storefronts with SEO, translation, currency converters, trust badges",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion",
+      "slug": "marketing-and-conversion",
+      "label": "Marketing and conversionGet customers with reviews, bundles, upsells, checkout, email marketing",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-management",
+      "slug": "store-management",
+      "label": "Store managementScale up with support, chat, FAQs, analytics, workflow automation",
+      "type": "root",
+      "crawlable": false,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping",
+      "slug": "finding-products-sourcing-options-dropshipping",
+      "label": "Dropshipping",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces",
+      "slug": "sales-channels-selling-online-marketplaces",
+      "label": "Marketplaces",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews",
+      "slug": "marketing-and-conversion-social-trust-product-reviews",
+      "label": "Product reviews",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-upsell-and-bundles",
+      "slug": "marketing-and-conversion-upsell-and-bundles",
+      "label": "Upsell and bundles",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-marketing-email-marketing",
+      "slug": "marketing-and-conversion-marketing-email-marketing",
+      "label": "Email marketing",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-site-optimization-seo",
+      "slug": "store-design-site-optimization-seo",
+      "label": "SEO",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions-shipping",
+      "slug": "orders-and-shipping-shipping-solutions-shipping",
+      "label": "Shipping",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-internationalization-currency-and-translation",
+      "slug": "store-design-internationalization-currency-and-translation",
+      "label": "Currency and translation",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/sales-channels-selling-in-person",
+      "slug": "sales-channels-selling-in-person",
+      "label": "Selling in person",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/sales-channels"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/sales-channels-selling-online",
+      "slug": "sales-channels-selling-online",
+      "label": "Selling online",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/sales-channels"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-storefronts",
+      "slug": "store-design-storefronts",
+      "label": "Customize things",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/sales-channels"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/sales-channels-selling-in-person-retai",
+      "slug": "sales-channels-selling-in-person-retai",
+      "label": "Sell face to face",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/sales-channels"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-advertising-affiliate-programs",
+      "slug": "marketing-and-conversion-advertising-affiliate-programs",
+      "label": "Marketing and conversion advertising affiliate programs",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/sales-channels"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod",
+      "slug": "finding-products-sourcing-options-print-on-demand-pod",
+      "label": "Print on demand (POD)",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/finding-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/finding-products-sourcing-options-wholesale",
+      "slug": "finding-products-sourcing-options-wholesale",
+      "label": "Wholesale",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/finding-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products-custom-products",
+      "slug": "selling-products-custom-products",
+      "label": "Custom products",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/selling-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products-digital-goods-and-services",
+      "slug": "selling-products-digital-goods-and-services",
+      "label": "Digital goods and services",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/selling-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products-payments",
+      "slug": "selling-products-payments",
+      "label": "Payments",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/selling-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products-pricing",
+      "slug": "selling-products-pricing",
+      "label": "Pricing",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/selling-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products-payments-subscriptions",
+      "slug": "selling-products-payments-subscriptions",
+      "label": "Keep them coming back",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/selling-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/selling-products-custom-products-product-variants",
+      "slug": "selling-products-custom-products-product-variants",
+      "label": "Make good choices",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/selling-products"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/orders-and-shipping-inventory",
+      "slug": "orders-and-shipping-inventory",
+      "label": "Inventory",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/orders-and-shipping"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/orders-and-shipping-orders",
+      "slug": "orders-and-shipping-orders",
+      "label": "Orders",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/orders-and-shipping"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/orders-and-shipping-returns-and-warranty",
+      "slug": "orders-and-shipping-returns-and-warranty",
+      "label": "Returns and warranty",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/orders-and-shipping"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/orders-and-shipping-shipping-solutions",
+      "slug": "orders-and-shipping-shipping-solutions",
+      "label": "Shipping solutions",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/orders-and-shipping"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-content",
+      "slug": "store-design-content",
+      "label": "Content",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-design-elements",
+      "slug": "store-design-design-elements",
+      "label": "Design elements",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-images-and-medi",
+      "slug": "store-design-images-and-medi",
+      "label": "Images and media",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-internationalization",
+      "slug": "store-design-internationalization",
+      "label": "Internationalization",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-notifications",
+      "slug": "store-design-notifications",
+      "label": "Notifications",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-product-display",
+      "slug": "store-design-product-display",
+      "label": "Product display",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-search-and-navigation",
+      "slug": "store-design-search-and-navigation",
+      "label": "Search and navigation",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-design-site-optimization",
+      "slug": "store-design-site-optimization",
+      "label": "Site optimization",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-design"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-advertising",
+      "slug": "marketing-and-conversion-advertising",
+      "label": "Advertising",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-checkout",
+      "slug": "marketing-and-conversion-checkout",
+      "label": "Checkout",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-customer-loyalty",
+      "slug": "marketing-and-conversion-customer-loyalty",
+      "label": "Customer loyalty",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-gifts",
+      "slug": "marketing-and-conversion-gifts",
+      "label": "Gifts",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-marketing",
+      "slug": "marketing-and-conversion-marketing",
+      "label": "Marketing",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-promotions",
+      "slug": "marketing-and-conversion-promotions",
+      "label": "Promotions",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/marketing-and-conversion-social-trust",
+      "slug": "marketing-and-conversion-social-trust",
+      "label": "Social trust",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-management-support",
+      "slug": "store-management-support",
+      "label": "Store management support",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/marketing-and-conversion"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-management-finances",
+      "slug": "store-management-finances",
+      "label": "Finances",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-management"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-management-operations",
+      "slug": "store-management-operations",
+      "label": "Operations",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-management"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-management-security",
+      "slug": "store-management-security",
+      "label": "Security",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-management"
+    },
+    {
+      "url": "https://apps.shopify.com/categories/store-management-operations-analytics",
+      "slug": "store-management-operations-analytics",
+      "label": "Dive into the details",
+      "type": "leaf",
+      "crawlable": true,
+      "discovered_from": "https://apps.shopify.com/categories/store-management"
+    }
+  ]
+}

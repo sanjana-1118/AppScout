@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-floating-button-1_20260830T181227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-floating-button-1_20260830T181227Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-floating-button-1
+Final URL        : https://apps.shopify.com/whatsapp-floating-button-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,006 bytes / 166,880 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WA Float ‒ WhatsApp Chat Butto - Let customers reach you on WhatsApp — one tap, instant... | Shopify App Store
+meta description : Add a floating WhatsApp chat button to your store. Customers reach you in one tap. Easy setup, no coding required. Custom color and position available.
+canonical URL    : https://apps.shopify.com/whatsapp-floating-button-1
+<h1> tags ( 1)  : 'WA Float ‒ WhatsApp Chat Butto'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

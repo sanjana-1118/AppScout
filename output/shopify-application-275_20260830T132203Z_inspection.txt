@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-275_20260830T132203Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-275_20260830T132203Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-275
+Final URL        : https://apps.shopify.com/shopify-application-275
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,649 bytes / 194,396 chars
+Elapsed          : 0.975s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rental GO - Start rentals with Rental GO. Run daily operations easily. | Shopify App Store
+meta description : レンタルGOは、Shopifyでレンタル予約受付、在庫管理、レンタルカレンダー表示、延滞アラート、運用カレンダーを使ってレンタル事業を始められるアプリです。
+canonical URL    : https://apps.shopify.com/shopify-application-275
+<h1> tags ( 1)  : 'Rental GO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printcraft-designer_20260830T180732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printcraft-designer_20260830T180732Z.html
+Requested URL    : https://apps.shopify.com/printcraft-designer
+Final URL        : https://apps.shopify.com/printcraft-designer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,408 bytes / 177,309 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PrintCraft Designer - Custom Product Designer for Print-on-Demand Stores | Shopify App Store
+meta description : Let customers design T-shirts, mugs, phone cases & more with a live preview. Easy Shopify setup. Boost sales with personalized products.
+canonical URL    : https://apps.shopify.com/printcraft-designer
+<h1> tags ( 1)  : 'PrintCraft Designer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

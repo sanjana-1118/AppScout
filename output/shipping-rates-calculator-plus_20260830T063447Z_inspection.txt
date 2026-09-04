@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-rates-calculator-plus_20260830T063447Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-rates-calculator-plus_20260830T063447Z.html
+Requested URL    : https://apps.shopify.com/shipping-rates-calculator-plus
+Final URL        : https://apps.shopify.com/shipping-rates-calculator-plus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,201 bytes / 229,114 chars
+Elapsed          : 0.534s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CBB Shipping Rates Calculator - Show shipping rates before checkout to reduce cart abandonment | Shopify App Store
+meta description : Optimize your store's checkout with real-time shipping rates. Free shipping bar, reduce abandonment, and ensure transparent rate calculations.
+canonical URL    : https://apps.shopify.com/shipping-rates-calculator-plus
+<h1> tags ( 1)  : 'CBB Shipping Rates Calculator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

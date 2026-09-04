@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\progress-bar-deals-motivator_20260830T150210Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\progress-bar-deals-motivator_20260830T150210Z.html
+Requested URL    : https://apps.shopify.com/progress-bar-deals-motivator
+Final URL        : https://apps.shopify.com/progress-bar-deals-motivator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,531 bytes / 229,432 chars
+Elapsed          : 0.769s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Progress Bar & Deals Motivator - Motivate clients with progress bars and offers to up sales. | Shopify App Store
+meta description : Engage clients with progress bars and exclusive offers. Drive sales, increase AOV, and reduce cart abandonment with customizable rewards and real-time updates.
+canonical URL    : https://apps.shopify.com/progress-bar-deals-motivator
+<h1> tags ( 1)  : 'Progress Bar & Deals Motivator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

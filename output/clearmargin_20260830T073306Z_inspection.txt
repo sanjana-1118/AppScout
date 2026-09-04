@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearmargin_20260830T073306Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearmargin_20260830T073306Z.html
+Requested URL    : https://apps.shopify.com/clearmargin
+Final URL        : https://apps.shopify.com/clearmargin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,882 bytes / 161,793 chars
+Elapsed          : 1.007s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ClearMargin - True net profit analytics - not just revenue. | Shopify App Store
+meta description : Calculate true net profit per order. Deduct COGS, shipping, fees, and refunds to see what you actually keep from every Shopify sale.
+canonical URL    : https://apps.shopify.com/clearmargin
+<h1> tags ( 1)  : 'ClearMargin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

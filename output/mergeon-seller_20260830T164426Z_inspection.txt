@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mergeon-seller_20260830T164426Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mergeon-seller_20260830T164426Z.html
+Requested URL    : https://apps.shopify.com/mergeon-seller
+Final URL        : https://apps.shopify.com/mergeon-seller
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,741 bytes / 166,618 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MergeOn Seller - No estás comprando una automatización por whatspp, sino tiempo | Shopify App Store
+meta description : Tus chats no deberían quitarte tiempo, deberían vender. Replicamos tu forma de vender en un sistema automático que atiende y cierra pedidos 24/7 en...
+canonical URL    : https://apps.shopify.com/mergeon-seller?locale=es
+<h1> tags ( 1)  : 'MergeOn Seller'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

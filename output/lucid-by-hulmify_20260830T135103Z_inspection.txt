@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lucid-by-hulmify_20260830T135103Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lucid-by-hulmify_20260830T135103Z.html
+Requested URL    : https://apps.shopify.com/lucid-by-hulmify
+Final URL        : https://apps.shopify.com/lucid-by-hulmify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,222 bytes / 219,103 chars
+Elapsed          : 0.983s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Upsell & Cross‑Sell - Boost Sales w/ Smart Recommendations, Bundles, and Promotions | Shopify App Store
+meta description : Enhance Your Customer Experience and Build Loyalty with Personalized Product Recommendations and Bundles | Promotions | Flash Sales | Boost Store Sales and AOV
+canonical URL    : https://apps.shopify.com/lucid-by-hulmify
+<h1> tags ( 1)  : 'Smart Upsell & Cross‑Sell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

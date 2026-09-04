@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lool_20260830T042703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lool_20260830T042703Z.html
+Requested URL    : https://apps.shopify.com/lool
+Final URL        : https://apps.shopify.com/lool
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,279 bytes / 235,176 chars
+Elapsed          : 0.477s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LooL: Prescription Lens - An easy way for your customers to add prescription lenses | Shopify App Store
+meta description : LooL provides an easy way for your customers to add prescription lenses to eyewear product (contact lens support). We provide 5 prescription types,...
+canonical URL    : https://apps.shopify.com/lool
+<h1> tags ( 1)  : 'LooL: Prescription Lens'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profit-guard-3_20260830T070519Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profit-guard-3_20260830T070519Z.html
+Requested URL    : https://apps.shopify.com/profit-guard-3
+Final URL        : https://apps.shopify.com/profit-guard-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,923 bytes / 158,834 chars
+Elapsed          : 1.021s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Profit Guard - Know your true profit margin on every order, automatically. | Shopify App Store
+meta description : Calculate real net profit on every Shopify order automatically. Know your true margins after COGS, payment fees, discounts, and shipping.
+canonical URL    : https://apps.shopify.com/profit-guard-3
+<h1> tags ( 1)  : 'Profit Guard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\raffle-315_20260830T042802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\raffle-315_20260830T042802Z.html
+Requested URL    : https://apps.shopify.com/raffle-315
+Final URL        : https://apps.shopify.com/raffle-315
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,303 bytes / 171,252 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fair Product Drops - Raffle high-demand drops: customers enter, only winners pay. | Shopify App Store
+meta description : Raffle 315はShopifyでの抽選販売を自動化し、限定商品等の販売を円滑にします。無制限の応募受付、ランダム・手動の柔軟な当選選定、一括落選処理に対応。当選者には購入用メールを自動送信し、ストアの決済方法で安全に購入頂けます。当落に応じた顧客タグ付与により、次回のメルマガ等のマーケティング活用も簡単です。
+canonical URL    : https://apps.shopify.com/raffle-315
+<h1> tags ( 1)  : 'Fair Product Drops'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

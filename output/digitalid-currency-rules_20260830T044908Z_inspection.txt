@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digitalid-currency-rules_20260830T044908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digitalid-currency-rules_20260830T044908Z.html
+Requested URL    : https://apps.shopify.com/digitalid-currency-rules
+Final URL        : https://apps.shopify.com/digitalid-currency-rules
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,012 bytes / 167,919 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DigitalID Currency rules - Convert currency, round, and lock prices in every market | Shopify App Store
+meta description : Convert, round, and lock prices in every Shopify market. Uses Shopify's own FX rate, stacked rounding rules, per-variant locks. 30-day free trial.
+canonical URL    : https://apps.shopify.com/digitalid-currency-rules
+<h1> tags ( 1)  : 'DigitalID Currency rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

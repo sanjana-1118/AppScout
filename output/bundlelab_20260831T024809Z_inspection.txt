@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlelab_20260831T024809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlelab_20260831T024809Z.html
+Requested URL    : https://apps.shopify.com/bundlelab
+Final URL        : https://apps.shopify.com/bundlelab
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,887 bytes / 200,780 chars
+Elapsed          : 0.608s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BundleLab - Product bundles & quantity discounts, built for your margin | Shopify App Store
+meta description : Créez des bundles, remises par quantité et cadeaux personnalisés. Testez vos offres et suivez leur conversion et leur rentabilité.
+canonical URL    : https://apps.shopify.com/bundlelab
+<h1> tags ( 1)  : 'BundleLab'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

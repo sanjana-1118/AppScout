@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ifirma-by-netkodo_20260830T161445Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ifirma-by-netkodo_20260830T161445Z.html
+Requested URL    : https://apps.shopify.com/ifirma-by-netkodo
+Final URL        : https://apps.shopify.com/ifirma-by-netkodo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,969 bytes / 174,863 chars
+Elapsed          : 0.943s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : iFirma Integration - Automatic integration of invoices and orders with iFirma. | Shopify App Store
+meta description : Automatyzuj fakturowanie w swoim sklepie dzięki integracji z iFirmą. Generowanie faktur, synchronizacja statusu płatności.
+canonical URL    : https://apps.shopify.com/ifirma-by-netkodo
+<h1> tags ( 1)  : 'iFirma Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optaeo_20260829T190840Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optaeo_20260829T190840Z.html
+Requested URL    : https://apps.shopify.com/optaeo
+Final URL        : https://apps.shopify.com/optaeo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,417 bytes / 194,316 chars
+Elapsed          : 0.751s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OptAEO - Fix your product catalog so AI shopping agents recommend you. | Shopify App Store
+meta description : AI shopping agents are the new search engine. ChatGPT, Perplexity, Claude, and Gemini already recommend products to your customers — but only when ...
+canonical URL    : https://apps.shopify.com/optaeo
+<h1> tags ( 1)  : 'OptAEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

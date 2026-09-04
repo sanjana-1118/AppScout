@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/all-in-one-volume-discounts",
+  "fetch_timestamp": "2026-08-30T04:40:37.738938+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\all-in-one-volume-discounts_20260830T044037Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\all-in-one-volume-discounts_20260830T044037Z.html",
+    "url": "https://apps.shopify.com/all-in-one-volume-discounts",
+    "final_url": "https://apps.shopify.com/all-in-one-volume-discounts",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 210724,
+    "body_text_length": 210617,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.61099,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Dr Volume & Bulk Discount - Offer automatic volume discounts by quantity or cart subtotal. | Shopify App Store",
+    "meta_description": "Easily setup and apply volume discounts and tiered discounts / bulk prices based on quantity breaks!",
+    "canonical_url": "https://apps.shopify.com/all-in-one-volume-discounts",
+    "h1_tags": [
+      "Dr Volume & Bulk Discount"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Dr Volume & Bulk Discount",
+    "app_slug": "all-in-one-volume-discounts",
+    "app_url": "https://apps.shopify.com/all-in-one-volume-discounts",
+    "developer_name": "Shop Doctors 🏆",
+    "description": "Easily setup and apply volume discounts and tiered discounts / bulk prices based on quantity breaks!",
+    "average_rating": 4.7,
+    "review_count": 24,
+    "category": "Discounts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\all-in-one-volume-discounts_20260830T044037Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\all-in-one-volume-discounts_20260830T044037Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Dr Volume & Bulk Discount",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "all-in-one-volume-discounts",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/all-in-one-volume-discounts",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Shop Doctors 🏆",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Easily setup and apply volume discounts and tiered discounts / bulk prices based on quantity breaks!",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.7,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 24,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Discounts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

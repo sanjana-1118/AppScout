@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appjetty-delivery-date-manager_20260829T191608Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appjetty-delivery-date-manager_20260829T191608Z.html
+Requested URL    : https://apps.shopify.com/appjetty-delivery-date-manager
+Final URL        : https://apps.shopify.com/appjetty-delivery-date-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,814 bytes / 229,703 chars
+Elapsed          : 0.490s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AJ Delivery Date & Shipping - Delivery date picker: shipping, store pickup & local delivery. | Shopify App Store
+meta description : Let customers schedule their delivery with preferred dates and times. Manage dynamic shipping options, local delivery, and store pickup for seamless experience.
+canonical URL    : https://apps.shopify.com/appjetty-delivery-date-manager
+<h1> tags ( 1)  : 'AJ Delivery Date & Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

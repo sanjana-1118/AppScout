@@ -1,0 +1,37 @@
+{
+  "category_url": "https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod",
+  "category_slug": "finding-products-sourcing-options-print-on-demand-pod",
+  "traversal_timestamp": "2026-08-29T16:10:07.539842+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/finding-products-sourcing-options-print-on-demand-pod"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/ninja-pod",
+    "https://apps.shopify.com/customix-product-personalizer",
+    "https://apps.shopify.com/printful",
+    "https://apps.shopify.com/product-options-personalizer",
+    "https://apps.shopify.com/apliiq",
+    "https://apps.shopify.com/germandrop",
+    "https://apps.shopify.com/product-designer-setubridge",
+    "https://apps.shopify.com/printify",
+    "https://apps.shopify.com/cucheng",
+    "https://apps.shopify.com/buckydrop",
+    "https://apps.shopify.com/hypersku",
+    "https://apps.shopify.com/zendrop",
+    "https://apps.shopify.com/eprolo",
+    "https://apps.shopify.com/aliexpress-dropshipping-master",
+    "https://apps.shopify.com/product-upload",
+    "https://apps.shopify.com/reputon-amazon-affiliate",
+    "https://apps.shopify.com/cloneify-copy-products",
+    "https://apps.shopify.com/odmpod-dropshipping",
+    "https://apps.shopify.com/fforder-dropshipping"
+  ],
+  "total_urls_encountered": 21,
+  "unique_app_urls": 19,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/social-page-product-share-bar",
+  "fetch_timestamp": "2026-08-30T06:01:40.677909+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\social-page-product-share-bar_20260830T060140Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\social-page-product-share-bar_20260830T060140Z.html",
+    "url": "https://apps.shopify.com/social-page-product-share-bar",
+    "final_url": "https://apps.shopify.com/social-page-product-share-bar",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 198184,
+    "body_text_length": 198079,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.514807,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "TRANH ‑ Social Media Share bar - Add sharing buttons to any page, product,.. from 30+ platforms | Shopify App Store",
+    "meta_description": "This app helps you to add a social sharing bar to your store with over 30 options to choose from: Email, SMS, Facebook, Twitter, WhatsApp, LinkedIn...",
+    "canonical_url": "https://apps.shopify.com/social-page-product-share-bar",
+    "h1_tags": [
+      "TRANH ‑ Social Media Share bar"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "TRANH ‑ Social Media Share bar",
+    "app_slug": "social-page-product-share-bar",
+    "app_url": "https://apps.shopify.com/social-page-product-share-bar",
+    "developer_name": "TRANH",
+    "description": "This app helps you to add a social sharing bar to your store with over 30 options to choose from: Email, SMS, Facebook, Twitter, WhatsApp, LinkedIn...",
+    "average_rating": 4.8,
+    "review_count": 6,
+    "category": "Badges and icons"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\social-page-product-share-bar_20260830T060140Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\social-page-product-share-bar_20260830T060140Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "TRANH ‑ Social Media Share bar",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "social-page-product-share-bar",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/social-page-product-share-bar",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "TRANH",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "This app helps you to add a social sharing bar to your store with over 30 options to choose from: Email, SMS, Facebook, Twitter, WhatsApp, LinkedIn...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.8,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 6,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Badges and icons",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

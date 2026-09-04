@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundles-inventory_20260830T051033Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundles-inventory_20260830T051033Z.html
+Requested URL    : https://apps.shopify.com/bundles-inventory
+Final URL        : https://apps.shopify.com/bundles-inventory
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,253 bytes / 217,146 chars
+Elapsed          : 0.757s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bundles Inventory: Sets & Kits - Sell bundles as separate products with realtime inventory sync | Shopify App Store
+meta description : Sell bundle products like "Starter Kit", "Gift Set", "3-pack" or "Mystery box" while automatically deducting component inventory when sold.
+canonical URL    : https://apps.shopify.com/bundles-inventory
+<h1> tags ( 1)  : 'Bundles Inventory: Sets & Kits'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

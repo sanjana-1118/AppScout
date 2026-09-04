@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ravenpulse-ai-upsell-engine_20260830T171321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ravenpulse-ai-upsell-engine_20260830T171321Z.html
+Requested URL    : https://apps.shopify.com/ravenpulse-ai-upsell-engine
+Final URL        : https://apps.shopify.com/ravenpulse-ai-upsell-engine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,315 bytes / 186,222 chars
+Elapsed          : 0.870s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RavenPulse AI Upsell Engine - The AI engine that works while you focus on your... | Shopify App Store
+meta description : AI-powered upsell engine for your e-commerce store. Recommends the right product at the right moment. Boost average order value with smart recommendations.
+canonical URL    : https://apps.shopify.com/ravenpulse-ai-upsell-engine
+<h1> tags ( 1)  : 'RavenPulse AI Upsell Engine'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

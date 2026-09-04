@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\abby-2_20260830T051922Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\abby-2_20260830T051922Z.html
+Requested URL    : https://apps.shopify.com/abby-2
+Final URL        : https://apps.shopify.com/abby-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,828 bytes / 190,672 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Connecteur Abby - Connecter Abby pour générer des factures électroniques | Shopify App Store
+meta description : Connecteur Abby avec Shopify pour automatiser la création de facture, devis, paiements et cliente, et être conforme à la facturation électronique en France.
+canonical URL    : https://apps.shopify.com/abby-2?locale=fr
+<h1> tags ( 1)  : 'Connecteur Abby'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\all-in-one-metafields_20260830T055219Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\all-in-one-metafields_20260830T055219Z.html
+Requested URL    : https://apps.shopify.com/all-in-one-metafields
+Final URL        : https://apps.shopify.com/all-in-one-metafields
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,030 bytes / 192,927 chars
+Elapsed          : 0.579s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flexi ‑ Metafield Custom Field - Create custom metafields for blogs, products, pages & more | Shopify App Store
+meta description : Advanced metafields manager for Shopify that helps to create custom metafields for blogs, products, articles, orders, collections or customers
+canonical URL    : https://apps.shopify.com/all-in-one-metafields
+<h1> tags ( 1)  : 'Flexi ‑ Metafield Custom Field'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

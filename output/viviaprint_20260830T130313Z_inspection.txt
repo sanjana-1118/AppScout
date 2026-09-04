@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\viviaprint_20260830T130313Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\viviaprint_20260830T130313Z.html
+Requested URL    : https://apps.shopify.com/viviaprint
+Final URL        : https://apps.shopify.com/viviaprint
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,225 bytes / 169,136 chars
+Elapsed          : 0.996s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vivia Print: Print on Demand - Fine Art Printing & Framing on Demand | Shopify App Store
+meta description : If you are an artist or you have a business that sells high-quality prints of artworks and photographs, we are here to help you fulfill your orders...
+canonical URL    : https://apps.shopify.com/viviaprint
+<h1> tags ( 1)  : 'Vivia Print: Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

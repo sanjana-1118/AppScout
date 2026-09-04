@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-subscription-pro_20260830T134037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-subscription-pro_20260830T134037Z.html
+Requested URL    : https://apps.shopify.com/advanced-subscription-pro
+Final URL        : https://apps.shopify.com/advanced-subscription-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,736 bytes / 220,640 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Advanced Subscriptions App - Offers seamless experience for recurring payments and Orders | Shopify App Store
+meta description : We provide a streamlined subscriptions creation process. No hard coding is necessary. The flexibility offered is simple to use and manage. Simple a...
+canonical URL    : https://apps.shopify.com/advanced-subscription-pro
+<h1> tags ( 1)  : 'Advanced Subscriptions App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

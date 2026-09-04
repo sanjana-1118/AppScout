@@ -1,0 +1,34 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\itflex-shipping_20260830T033207Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\itflex-shipping_20260830T033207Z.html
+Requested URL    : https://apps.shopify.com/itflex-shipping
+Final URL        : https://apps.shopify.com/itflex-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,444 bytes / 166,353 chars
+Elapsed          : 1.008s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ITFLEX SHIPPING - Let B2B customers use their shipper account | Shopify App Store
+meta description : Who Can Use the App:
+B2B distributors & eCommerce websites.
+
+Why Use It:
+Many B2B customers prefer using their shipper account for shipping costs.
+...
+canonical URL    : https://apps.shopify.com/itflex-shipping
+<h1> tags ( 1)  : 'ITFLEX SHIPPING'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

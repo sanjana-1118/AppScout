@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-related-blog-posts_20260830T055551Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-related-blog-posts_20260830T055551Z.html
+Requested URL    : https://apps.shopify.com/better-related-blog-posts
+Final URL        : https://apps.shopify.com/better-related-blog-posts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,757 bytes / 180,660 chars
+Elapsed          : 0.553s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Better Related Blog Posts - Show related blog posts after every article, automatically | Shopify App Store
+meta description : Automatically show related blog posts after every article. Increase time on site with a native OS 2.0 widget. No coding required. Free trial.
+canonical URL    : https://apps.shopify.com/better-related-blog-posts
+<h1> tags ( 1)  : 'Better Related Blog Posts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

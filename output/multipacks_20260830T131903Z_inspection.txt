@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multipacks_20260830T131903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multipacks_20260830T131903Z.html
+Requested URL    : https://apps.shopify.com/multipacks
+Final URL        : https://apps.shopify.com/multipacks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,486 bytes / 202,371 chars
+Elapsed          : 0.934s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hyve ‑ Multipacks - Live inventory syncing for multipacks, bundles and kits | Shopify App Store
+meta description : If you're selling multipacks of the same SKU or bundles / kits made up of various SKUs (products or variants), this is the app for you. 
+
+The app l...
+canonical URL    : https://apps.shopify.com/multipacks
+<h1> tags ( 1)  : 'Hyve ‑ Multipacks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

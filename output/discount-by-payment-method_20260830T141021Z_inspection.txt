@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-by-payment-method_20260830T141021Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-by-payment-method_20260830T141021Z.html
+Requested URL    : https://apps.shopify.com/discount-by-payment-method
+Final URL        : https://apps.shopify.com/discount-by-payment-method
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,439 bytes / 200,258 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SavePay Pix com desconto - Converta mais com descontos automáticos por forma de pagamento | Shopify App Store
+meta description : Converta mais com descontos automáticos por forma de pagamento
+canonical URL    : https://apps.shopify.com/discount-by-payment-method?locale=pt-BR
+<h1> tags ( 1)  : 'SavePay Pix com desconto'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

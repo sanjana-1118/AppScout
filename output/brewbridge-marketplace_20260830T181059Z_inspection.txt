@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brewbridge-marketplace_20260830T181059Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brewbridge-marketplace_20260830T181059Z.html
+Requested URL    : https://apps.shopify.com/brewbridge-marketplace
+Final URL        : https://apps.shopify.com/brewbridge-marketplace
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,514 bytes / 178,424 chars
+Elapsed          : 1.156s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BrewBridge Marketplace - BrewBridge syncs stock availability & facilitates dropshipping | Shopify App Store
+meta description : BrewBridge is a coffee equipment fulfilment service built to support scaling businesses in accessing premium prosumer products from trusted global ...
+canonical URL    : https://apps.shopify.com/brewbridge-marketplace
+<h1> tags ( 1)  : 'BrewBridge Marketplace'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

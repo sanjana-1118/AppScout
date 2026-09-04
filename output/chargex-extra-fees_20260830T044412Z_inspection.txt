@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargex-extra-fees_20260830T044412Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargex-extra-fees_20260830T044412Z.html
+Requested URL    : https://apps.shopify.com/chargex-extra-fees
+Final URL        : https://apps.shopify.com/chargex-extra-fees
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,243 bytes / 188,142 chars
+Elapsed          : 0.695s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChargeX Extra Fees Surcharges - Boost revenue with custom fees and surcharges. No code. | Shopify App Store
+meta description : Add custom fees, surcharges & conditional charges to your Shopify cart, checkout, and storefront. Track fee revenue with built-in analytics. No code required.
+canonical URL    : https://apps.shopify.com/chargex-extra-fees
+<h1> tags ( 1)  : 'ChargeX Extra Fees Surcharges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

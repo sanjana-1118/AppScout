@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\droppable_20260830T065201Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\droppable_20260830T065201Z.html
+Requested URL    : https://apps.shopify.com/droppable
+Final URL        : https://apps.shopify.com/droppable
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,905 bytes / 207,790 chars
+Elapsed          : 0.938s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Droppable | Queue and Releases - Provide customers a fair chance at your products | Shopify App Store
+meta description : Droppable helps you manage exclusive product drops with custom pricing, access control, and queueing. Protect against bots and control access with ...
+canonical URL    : https://apps.shopify.com/droppable
+<h1> tags ( 1)  : 'Droppable | Queue and Releases'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

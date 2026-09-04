@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\echo-variant-images-swatch_20260830T043716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\echo-variant-images-swatch_20260830T043716Z.html
+Requested URL    : https://apps.shopify.com/echo-variant-images-swatch
+Final URL        : https://apps.shopify.com/echo-variant-images-swatch
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,814 bytes / 192,720 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Echo Swatch & Variant Image - AI Auto Assign Variant Images, Color Swatch & Product Options | Shopify App Store
+meta description : Boost Sales by Improving Shopping Experience by Implementing Variant Swatch Options like Image Variants or Color Swatch in Your Product Pages.
+canonical URL    : https://apps.shopify.com/echo-variant-images-swatch
+<h1> tags ( 1)  : 'Echo Swatch & Variant Image'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

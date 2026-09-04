@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendlane-app_20260830T131701Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendlane-app_20260830T131701Z.html
+Requested URL    : https://apps.shopify.com/sendlane-app
+Final URL        : https://apps.shopify.com/sendlane-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,332 bytes / 248,235 chars
+Elapsed          : 0.845s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sendlane: Unified Email & SMS - Drive more revenue through email & SMS with Sendlane. | Shopify App Store
+meta description : Unite your email, SMS, and reviews under one platform to consolidate your tech stack and drive meaningful customer experiences.
+canonical URL    : https://apps.shopify.com/sendlane-app
+<h1> tags ( 1)  : 'Sendlane: Unified Email & SMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

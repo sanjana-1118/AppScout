@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reputesales-boost-traffic_20260829T190205Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reputesales-boost-traffic_20260829T190205Z.html
+Requested URL    : https://apps.shopify.com/reputesales-boost-traffic
+Final URL        : https://apps.shopify.com/reputesales-boost-traffic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,641 bytes / 197,544 chars
+Elapsed          : 0.429s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReputeSales: Boost Traffic - Get better search rankings & boost traffic | Shopify App Store
+meta description : AI-powered Local SEO software to grow your business. Manage listings, citations, reviews & rankings—all in one platform. Drive local revenue today.
+canonical URL    : https://apps.shopify.com/reputesales-boost-traffic
+<h1> tags ( 1)  : 'ReputeSales: Boost Traffic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

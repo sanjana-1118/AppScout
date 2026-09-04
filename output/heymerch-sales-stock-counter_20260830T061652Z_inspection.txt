@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\heymerch-sales-stock-counter_20260830T061652Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\heymerch-sales-stock-counter_20260830T061652Z.html
+Requested URL    : https://apps.shopify.com/heymerch-sales-stock-counter
+Final URL        : https://apps.shopify.com/heymerch-sales-stock-counter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,786 bytes / 219,650 chars
+Elapsed          : 0.804s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hey!Scarcity Low Stock Counter - Create urgency with low stock countdown and scarcity alerts | Shopify App Store
+meta description : Display the remaining inventory/ stock level quantity on product pages to create a sense of urgency and scarcity. Left in stock | low in stock | stock level
+canonical URL    : https://apps.shopify.com/heymerch-sales-stock-counter
+<h1> tags ( 1)  : 'Hey!Scarcity Low Stock Counter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

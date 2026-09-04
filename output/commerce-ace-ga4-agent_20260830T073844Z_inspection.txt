@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commerce-ace-ga4-agent_20260830T073844Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commerce-ace-ga4-agent_20260830T073844Z.html
+Requested URL    : https://apps.shopify.com/commerce-ace-ga4-agent
+Final URL        : https://apps.shopify.com/commerce-ace-ga4-agent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,468 bytes / 189,367 chars
+Elapsed          : 0.799s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Commerce Ace GA4 Agent - GA4 tracking and AI-powered analytics for storefronts. | Shopify App Store
+meta description : Connect your Shopify store to GA4, track ecommerce events automatically, and ask your analytics questions in plain English — powered by Claude AI.
+canonical URL    : https://apps.shopify.com/commerce-ace-ga4-agent
+<h1> tags ( 1)  : 'Commerce Ace GA4 Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

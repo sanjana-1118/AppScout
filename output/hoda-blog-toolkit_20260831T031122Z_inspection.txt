@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hoda-blog-toolkit_20260831T031122Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hoda-blog-toolkit_20260831T031122Z.html
+Requested URL    : https://apps.shopify.com/hoda-blog-toolkit
+Final URL        : https://apps.shopify.com/hoda-blog-toolkit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,801 bytes / 170,262 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hoda Blog Toolkit - ブログ一覧も記事ページも、目次・読了時間・パンくずまでまとめて見やすくできます。 | Shopify App Store
+meta description : Hoda Blog Toolkit は、Shopify のブログ一覧と記事ページをテーマアプリブロックで拡張するアプリです。テーマ標準のブログ表示ではデザインや構成の自由度が限られることが多く、コードや外部ツールなしで見た目を整えたいマーチャント向けです。
+
+一覧ではお知らせ向けリスト、カード...
+canonical URL    : https://apps.shopify.com/hoda-blog-toolkit?locale=ja
+<h1> tags ( 1)  : 'Hoda Blog Toolkit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

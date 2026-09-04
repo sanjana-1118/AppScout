@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\design-your-hat_20260830T045615Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\design-your-hat_20260830T045615Z.html
+Requested URL    : https://apps.shopify.com/design-your-hat
+Final URL        : https://apps.shopify.com/design-your-hat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,074 bytes / 175,985 chars
+Elapsed          : 0.549s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Design Your Hat - 3D hat configurator built into your product pages. | Shopify App Store
+meta description : Let shoppers pick colors for each hat part, see a live 3D preview, and add to cart. Every order automatically generates a full spec sheet PDF for production.
+canonical URL    : https://apps.shopify.com/design-your-hat
+<h1> tags ( 1)  : 'Design Your Hat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

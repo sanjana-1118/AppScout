@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/forestock-inventory-forecast",
+  "fetch_timestamp": "2026-08-30T17:23:57.189051+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\forestock-inventory-forecast_20260830T172357Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\forestock-inventory-forecast_20260830T172357Z.html",
+    "url": "https://apps.shopify.com/forestock-inventory-forecast",
+    "final_url": "https://apps.shopify.com/forestock-inventory-forecast",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 170523,
+    "body_text_length": 170415,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.80787,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Forestock ‑ Inventory Forecast - Forecast demand and review product reorder quantities | Shopify App Store",
+    "meta_description": "Forestock helps merchants adjust inventory with demand forecasts and product-level reorder suggestions. It connects Shopify product, inventory, and...",
+    "canonical_url": "https://apps.shopify.com/forestock-inventory-forecast",
+    "h1_tags": [
+      "Forestock ‑ Inventory Forecast"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Forestock ‑ Inventory Forecast",
+    "app_slug": "forestock-inventory-forecast",
+    "app_url": "https://apps.shopify.com/forestock-inventory-forecast",
+    "developer_name": "Forestock",
+    "description": "Forestock helps merchants adjust inventory with demand forecasts and product-level reorder suggestions. It connects Shopify product, inventory, and...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Inventory optimization"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\forestock-inventory-forecast_20260830T172357Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\forestock-inventory-forecast_20260830T172357Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Forestock ‑ Inventory Forecast",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "forestock-inventory-forecast",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/forestock-inventory-forecast",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Forestock",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Forestock helps merchants adjust inventory with demand forecasts and product-level reorder suggestions. It connects Shopify product, inventory, and...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Inventory optimization",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/bubl-cx",
+  "fetch_timestamp": "2026-08-30T16:38:21.696734+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bubl-cx_20260830T163821Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bubl-cx_20260830T163821Z.html",
+    "url": "https://apps.shopify.com/bubl-cx",
+    "final_url": "https://apps.shopify.com/bubl-cx",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 232035,
+    "body_text_length": 231924,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.61411,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Bubl CX - Your AI assistant that converts visitors into buyers | Shopify App Store",
+    "meta_description": "AI-powered sales assistant that personalizes every interaction. Engage visitors with smart chat, reduce cart abandonment, and boost conversions automatically.",
+    "canonical_url": "https://apps.shopify.com/bubl-cx",
+    "h1_tags": [
+      "Bubl CX"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Bubl CX",
+    "app_slug": "bubl-cx",
+    "app_url": "https://apps.shopify.com/bubl-cx",
+    "developer_name": "Bubl CX",
+    "description": "AI-powered sales assistant that personalizes every interaction. Engage visitors with smart chat, reduce cart abandonment, and boost conversions automatically.",
+    "average_rating": 3.9,
+    "review_count": 3,
+    "category": "Upsell and cross-sell"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bubl-cx_20260830T163821Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bubl-cx_20260830T163821Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Bubl CX",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "bubl-cx",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/bubl-cx",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Bubl CX",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "AI-powered sales assistant that personalizes every interaction. Engage visitors with smart chat, reduce cart abandonment, and boost conversions automatically.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 3.9,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 3,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Upsell and cross-sell",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

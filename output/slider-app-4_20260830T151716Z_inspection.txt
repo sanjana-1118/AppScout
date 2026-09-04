@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\slider-app-4_20260830T151716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\slider-app-4_20260830T151716Z.html
+Requested URL    : https://apps.shopify.com/slider-app-4
+Final URL        : https://apps.shopify.com/slider-app-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,228 bytes / 193,133 chars
+Elapsed          : 1.063s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Slidr | Logo & Text Marquee - Create eye-catching sliders to showcase partners and features. | Shopify App Store
+meta description : Create customizable text and logo sliders for your store. Showcase announcements, features, partners and more to engage visitors.
+canonical URL    : https://apps.shopify.com/slider-app-4
+<h1> tags ( 1)  : 'Slidr | Logo & Text Marquee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

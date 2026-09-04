@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mnp-courier-pakistan_20260830T132131Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mnp-courier-pakistan_20260830T132131Z.html
+Requested URL    : https://apps.shopify.com/mnp-courier-pakistan
+Final URL        : https://apps.shopify.com/mnp-courier-pakistan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,522 bytes / 165,433 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : M&P Courier Pakistan - Bulk shipments booking, fulfillments and live courier tracking | Shopify App Store
+meta description : M&P Courier is a courier company in Pakistan. Connect your Shopify store with M&P Courier Shopify App to create shipment bookings and fulfillment.
+canonical URL    : https://apps.shopify.com/mnp-courier-pakistan
+<h1> tags ( 1)  : 'M&P Courier Pakistan'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

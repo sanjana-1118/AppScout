@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\descripio_20260829T185533Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\descripio_20260829T185533Z.html
+Requested URL    : https://apps.shopify.com/descripio
+Final URL        : https://apps.shopify.com/descripio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,584 bytes / 213,492 chars
+Elapsed          : 0.630s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Descripio: CRO Review Analysis - Turn Judge.me, Amazon reviews into better product descriptions | Shopify App Store
+meta description : Descripio analyzes reviews- yours, a competitor's on Amazon or from Shopping Agents, to uncover the exact language and themes driving conversions. ...
+canonical URL    : https://apps.shopify.com/descripio
+<h1> tags ( 1)  : 'Descripio: CRO Review Analysis'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

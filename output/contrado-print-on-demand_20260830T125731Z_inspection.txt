@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contrado-print-on-demand_20260830T125731Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\contrado-print-on-demand_20260830T125731Z.html
+Requested URL    : https://apps.shopify.com/contrado-print-on-demand
+Final URL        : https://apps.shopify.com/contrado-print-on-demand
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,921 bytes / 223,822 chars
+Elapsed          : 1.086s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Contrado: Print on Demand - All-over printing with exceptional quality and speedy delivery | Shopify App Store
+meta description : Print on demand high-end products. Handmade. Ethical. Sustainable materials. Slow fashion. Fast production. Unrivalled craftsmanship. Dropship with Contrado.
+canonical URL    : https://apps.shopify.com/contrado-print-on-demand
+<h1> tags ( 1)  : 'Contrado: Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

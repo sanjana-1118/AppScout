@@ -1,0 +1,17 @@
+{
+  "category_url": "https://apps.shopify.com/categories/sales-channels-selling-in-person-retai",
+  "category_slug": "sales-channels-selling-in-person-retai",
+  "traversal_timestamp": "2026-08-29T16:09:43.944112+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/sales-channels-selling-in-person-retai"
+  ],
+  "app_urls": [],
+  "total_urls_encountered": 0,
+  "unique_app_urls": 0,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

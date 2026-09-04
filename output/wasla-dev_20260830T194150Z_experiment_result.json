@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/wasla-dev",
+  "fetch_timestamp": "2026-08-30T19:41:50.813862+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wasla-dev_20260830T194150Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wasla-dev_20260830T194150Z.html",
+    "url": "https://apps.shopify.com/wasla-dev",
+    "final_url": "https://apps.shopify.com/wasla-dev",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 173485,
+    "body_text_length": 173384,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.030415,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Wasla COD Form & Upsells - Build a branded COD checkout on product pages with upsells | Shopify App Store",
+    "meta_description": "With **Wasla**, customers can place Cash on Delivery orders using a customizable 1-Click COD order form—without the standard Shopify checkout. Crea...",
+    "canonical_url": "https://apps.shopify.com/wasla-dev",
+    "h1_tags": [
+      "Wasla COD Form & Upsells"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Wasla COD Form & Upsells",
+    "app_slug": "wasla-dev",
+    "app_url": "https://apps.shopify.com/wasla-dev",
+    "developer_name": "Perspective Tech",
+    "description": "With **Wasla**, customers can place Cash on Delivery orders using a customizable 1-Click COD order form—without the standard Shopify checkout. Crea...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Pay later"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wasla-dev_20260830T194150Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\wasla-dev_20260830T194150Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Wasla COD Form & Upsells",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "wasla-dev",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/wasla-dev",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Perspective Tech",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "With **Wasla**, customers can place Cash on Delivery orders using a customizable 1-Click COD order form—without the standard Shopify checkout. Crea...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Pay later",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

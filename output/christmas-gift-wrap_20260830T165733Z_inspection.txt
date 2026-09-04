@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\christmas-gift-wrap_20260830T165733Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\christmas-gift-wrap_20260830T165733Z.html
+Requested URL    : https://apps.shopify.com/christmas-gift-wrap
+Final URL        : https://apps.shopify.com/christmas-gift-wrap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,834 bytes / 172,739 chars
+Elapsed          : 1.206s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FestiveBox Christmas Gift Wrap - Gift wrap upsell with premium designs and message cards | Shopify App Store
+meta description : Turn every order into a gift-giving opportunity. Christmas Gift Wrap adds a professional gift wrapping option directly on your product pages.
+
+A sl...
+canonical URL    : https://apps.shopify.com/christmas-gift-wrap
+<h1> tags ( 1)  : 'FestiveBox Christmas Gift Wrap'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

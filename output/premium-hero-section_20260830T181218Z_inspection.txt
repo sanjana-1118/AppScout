@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\premium-hero-section_20260830T181218Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\premium-hero-section_20260830T181218Z.html
+Requested URL    : https://apps.shopify.com/premium-hero-section
+Final URL        : https://apps.shopify.com/premium-hero-section
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,808 bytes / 163,715 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Premium Hero Section - Create customizable hero sections and capture customer leads | Shopify App Store
+meta description : Premium Hero Section helps merchants enhance their storefront with professionally designed hero section templates. Merchants can preview templates,...
+canonical URL    : https://apps.shopify.com/premium-hero-section
+<h1> tags ( 1)  : 'Premium Hero Section'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

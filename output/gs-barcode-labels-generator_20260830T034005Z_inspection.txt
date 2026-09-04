@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gs-barcode-labels-generator_20260830T034005Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gs-barcode-labels-generator_20260830T034005Z.html
+Requested URL    : https://apps.shopify.com/gs-barcode-labels-generator
+Final URL        : https://apps.shopify.com/gs-barcode-labels-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,535 bytes / 175,446 chars
+Elapsed          : 0.487s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GS: Barcode Labels & Generator - Professional barcode labels & SKU management for products | Shopify App Store
+meta description : Generate CODE128 barcodes, manage SKUs, print thermal labels. 5 templates, bulk generation, live preview. Free Shopify barcode app.
+canonical URL    : https://apps.shopify.com/gs-barcode-labels-generator
+<h1> tags ( 1)  : 'GS: Barcode Labels & Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

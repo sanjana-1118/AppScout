@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-082-ur-youtube-app_20260830T151211Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-082-ur-youtube-app_20260830T151211Z.html
+Requested URL    : https://apps.shopify.com/sa-082-ur-youtube-app
+Final URL        : https://apps.shopify.com/sa-082-ur-youtube-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,711 bytes / 172,602 chars
+Elapsed          : 0.496s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Smart YouTube Embed - Embed YouTube videos on your store to enhance engagement. | Shopify App Store
+meta description : Embed YouTube videos in your Shopify store. Customize layouts for product demos or tutorials and boost engagement.
+canonical URL    : https://apps.shopify.com/sa-082-ur-youtube-app
+<h1> tags ( 1)  : 'UR: Smart YouTube Embed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\announcement_20260830T161835Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\announcement_20260830T161835Z.html
+Requested URL    : https://apps.shopify.com/announcement
+Final URL        : https://apps.shopify.com/announcement
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,898 bytes / 181,773 chars
+Elapsed          : 0.908s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dixxi: Announcement Bar - Highlight offers and updates with a customizable announcement  | Shopify App Store
+meta description : Add customizable announcement bars, rotating news tickers, and clean logo strips to your Shopify store using a safe Theme App Embed with live preview.
+canonical URL    : https://apps.shopify.com/announcement
+<h1> tags ( 1)  : 'Dixxi: Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

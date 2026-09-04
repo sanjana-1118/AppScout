@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smso-sms-gateway_20260830T052158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smso-sms-gateway_20260830T052158Z.html
+Requested URL    : https://apps.shopify.com/smso-sms-gateway
+Final URL        : https://apps.shopify.com/smso-sms-gateway
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,670 bytes / 161,563 chars
+Elapsed          : 1.212s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SMSO ‑ Romanian SMS Gateway - Connect your store with Romania's SMS gateway SMSO. | Shopify App Store
+meta description : Connect with your customers on their preferred channel.
+With significant open rates, SMS succeeds where other marketing channels fail. There are ma...
+canonical URL    : https://apps.shopify.com/smso-sms-gateway
+<h1> tags ( 1)  : 'SMSO ‑ Romanian SMS Gateway'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

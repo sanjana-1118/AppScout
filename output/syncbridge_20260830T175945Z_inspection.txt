@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncbridge_20260830T175945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncbridge_20260830T175945Z.html
+Requested URL    : https://apps.shopify.com/syncbridge
+Final URL        : https://apps.shopify.com/syncbridge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,474 bytes / 179,385 chars
+Elapsed          : 0.719s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Multi Sync - Connect multiple stores and automate catalog and order sync. | Shopify App Store
+meta description : Stores working with multiple store often manage product catalogs and order routing through spreadsheets, emails, and manual edits, which leads to m...
+canonical URL    : https://apps.shopify.com/syncbridge
+<h1> tags ( 1)  : 'Multi Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

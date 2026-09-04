@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-pricing-membership-manager_20260830T041011Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-pricing-membership-manager_20260830T041011Z.html
+Requested URL    : https://apps.shopify.com/wholesale-pricing-membership-manager
+Final URL        : https://apps.shopify.com/wholesale-pricing-membership-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,975 bytes / 217,880 chars
+Elapsed          : 1.053s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SpurIT Wholesale Pricing - Transform your retail store into a wholesale store easily | Shopify App Store
+meta description : Manage your wholesale store and memberships with ease using this all-in-one wholesale app!
+
+Set up membership groups with automatic tagging, email ...
+canonical URL    : https://apps.shopify.com/wholesale-pricing-membership-manager
+<h1> tags ( 1)  : 'SpurIT Wholesale Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

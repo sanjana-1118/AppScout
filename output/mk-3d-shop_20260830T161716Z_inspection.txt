@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mk-3d-shop_20260830T161716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mk-3d-shop_20260830T161716Z.html
+Requested URL    : https://apps.shopify.com/mk-3d-shop
+Final URL        : https://apps.shopify.com/mk-3d-shop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,420 bytes / 175,245 chars
+Elapsed          : 0.943s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : mK 3D Shop - Provador Virtual 3D com AR para Aumentar Conversões e NPS | Shopify App Store
+meta description : Visualizador 3D com Realidade Aumentada #1 no Brasil presente em mais de 100 líderes marcas como Osklen, Fuel, GM, Flexform e Redley. Configuração em 15min.
+canonical URL    : https://apps.shopify.com/mk-3d-shop?locale=pt-BR
+<h1> tags ( 1)  : 'mK 3D Shop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

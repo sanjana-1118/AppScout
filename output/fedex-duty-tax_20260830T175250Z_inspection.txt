@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fedex-duty-tax_20260830T175250Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fedex-duty-tax_20260830T175250Z.html
+Requested URL    : https://apps.shopify.com/fedex-duty-tax
+Final URL        : https://apps.shopify.com/fedex-duty-tax
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,241 bytes / 165,148 chars
+Elapsed          : 0.893s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FedEx Duty & Tax - Provide your customers duty & tax guarantee in the checkout | Shopify App Store
+meta description : FedEx Duty and Tax app for Shopify - the app for merchants shipping international
+canonical URL    : https://apps.shopify.com/fedex-duty-tax
+<h1> tags ( 1)  : 'FedEx Duty & Tax'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

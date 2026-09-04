@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/gls-nl",
+  "fetch_timestamp": "2026-08-29T19:24:11.100103+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gls-nl_20260829T192410Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gls-nl_20260829T192410Z.html",
+    "url": "https://apps.shopify.com/gls-nl",
+    "final_url": "https://apps.shopify.com/gls-nl",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 183654,
+    "body_text_length": 183563,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.224312,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "GLS Shipping (Netherlands) - Maak eenvoudig GLS Netherlands verzendlabels!  | Shopify App Store",
+    "meta_description": "Verbind Shopify eenvoudig met GLS Netherlands dankzij GLS Shipping Portal. Bespaar tijd en kosten!",
+    "canonical_url": "https://apps.shopify.com/gls-nl?locale=nl",
+    "h1_tags": [
+      "GLS Shipping (Netherlands)"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "GLS Shipping (Netherlands)",
+    "app_slug": "gls-nl",
+    "app_url": "https://apps.shopify.com/gls-nl?locale=nl",
+    "developer_name": "General Logistics Systems Netherlands b.v.",
+    "description": "Verbind Shopify eenvoudig met GLS Netherlands dankzij GLS Shipping Portal. Bespaar tijd en kosten!",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Shipping"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gls-nl_20260829T192410Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\gls-nl_20260829T192410Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "GLS Shipping (Netherlands)",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "gls-nl",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/gls-nl?locale=nl",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "General Logistics Systems Netherlands b.v.",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Verbind Shopify eenvoudig met GLS Netherlands dankzij GLS Shipping Portal. Bespaar tijd en kosten!",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Shipping",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

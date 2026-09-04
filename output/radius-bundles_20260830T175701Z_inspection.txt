@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\radius-bundles_20260830T175701Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\radius-bundles_20260830T175701Z.html
+Requested URL    : https://apps.shopify.com/radius-bundles
+Final URL        : https://apps.shopify.com/radius-bundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,507 bytes / 203,408 chars
+Elapsed          : 1.004s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Radius Bundles Quantity Breaks - Volume discounts, free gifts, Buy X Get Y & quantity... | Shopify App Store
+meta description : Grow average order value (AOV) on Shopify with product bundles, BOGO, Buy X Get Y, and volume discounts. No code, no theme edits — set up offers in minutes.
+canonical URL    : https://apps.shopify.com/radius-bundles
+<h1> tags ( 1)  : 'Radius Bundles Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

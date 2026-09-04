@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replenish_20260830T171421Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replenish_20260830T171421Z.html
+Requested URL    : https://apps.shopify.com/replenish
+Final URL        : https://apps.shopify.com/replenish
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,128 bytes / 195,025 chars
+Elapsed          : 0.461s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Replenish: Inventory Forecast - For growing stores | Shopify App Store
+meta description : Replenish forecasts, stockouts, and explain every reorder — what to order, how much, and why. The explainable Stocky alternative for Shopify, from $10/mo.
+canonical URL    : https://apps.shopify.com/replenish
+<h1> tags ( 1)  : 'Replenish: Inventory Forecast'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/speedscope",
+  "fetch_timestamp": "2026-08-30T16:48:42.192734+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\speedscope_20260830T164842Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\speedscope_20260830T164842Z.html",
+    "url": "https://apps.shopify.com/speedscope",
+    "final_url": "https://apps.shopify.com/speedscope",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 177122,
+    "body_text_length": 177015,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.518153,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Speedscope ‑ Speed Optimizer - SpeedScope monitors your store's speed, detects slow apps! | Shopify App Store",
+    "meta_description": "Monitor your store's Core Web Vitals, detect ghost scripts from uninstalled apps, grade app performance impact, and get actionable speed recommendations.",
+    "canonical_url": "https://apps.shopify.com/speedscope",
+    "h1_tags": [
+      "Speedscope ‑ Speed Optimizer"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Speedscope ‑ Speed Optimizer",
+    "app_slug": "speedscope",
+    "app_url": "https://apps.shopify.com/speedscope",
+    "developer_name": "Be Digital",
+    "description": "Monitor your store's Core Web Vitals, detect ghost scripts from uninstalled apps, grade app performance impact, and get actionable speed recommendations.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Site optimization - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\speedscope_20260830T164842Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\speedscope_20260830T164842Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Speedscope ‑ Speed Optimizer",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "speedscope",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/speedscope",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Be Digital",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Monitor your store's Core Web Vitals, detect ghost scripts from uninstalled apps, grade app performance impact, and get actionable speed recommendations.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Site optimization - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

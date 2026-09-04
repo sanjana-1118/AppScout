@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gaze-upsell-cross-sell-boost_20260830T073015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gaze-upsell-cross-sell-boost_20260830T073015Z.html
+Requested URL    : https://apps.shopify.com/gaze-upsell-cross-sell-boost
+Final URL        : https://apps.shopify.com/gaze-upsell-cross-sell-boost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,907 bytes / 153,798 chars
+Elapsed          : 1.297s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gaze ‑ Order Analytics - Upsell Recommendations After Order. Data Analytics for Upsell | Shopify App Store
+meta description : The app keeps track of unordered products. After ordering, you can offer your customers a discount on products they viewed but didn't order. This i...
+canonical URL    : https://apps.shopify.com/gaze-upsell-cross-sell-boost
+<h1> tags ( 1)  : 'Gaze ‑ Order Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

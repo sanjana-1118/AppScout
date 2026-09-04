@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\presskitbuilder_20260830T135510Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\presskitbuilder_20260830T135510Z.html
+Requested URL    : https://apps.shopify.com/presskitbuilder
+Final URL        : https://apps.shopify.com/presskitbuilder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,956 bytes / 199,867 chars
+Elapsed          : 0.474s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pressify: Press Kit Builder - Create a professional press kit for your business | Shopify App Store
+meta description : One way to get more customers and growing your online store is getting your business or product featured in a major publication or website.
+
+A prof...
+canonical URL    : https://apps.shopify.com/presskitbuilder
+<h1> tags ( 1)  : 'Pressify: Press Kit Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

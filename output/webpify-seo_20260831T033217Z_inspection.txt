@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webpify-seo_20260831T033217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webpify-seo_20260831T033217Z.html
+Requested URL    : https://apps.shopify.com/webpify-seo
+Final URL        : https://apps.shopify.com/webpify-seo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,846 bytes / 168,757 chars
+Elapsed          : 1.047s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WebPify SEO - Auto-optimize images to WebP/AVIF and improve Core Web Vitals. | Shopify App Store
+meta description : Optimize Shopify product and file images to WebP/AVIF, boost Core Web Vitals, reduce bandwidth, and generate AI alt text with one-click or bulk actions.
+canonical URL    : https://apps.shopify.com/webpify-seo
+<h1> tags ( 1)  : 'WebPify SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/w3_app",
+  "fetch_timestamp": "2026-08-30T05:11:49.725565+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\w3_app_20260830T051149Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\w3_app_20260830T051149Z.html",
+    "url": "https://apps.shopify.com/w3_app",
+    "final_url": "https://apps.shopify.com/w3_app",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 160466,
+    "body_text_length": 157103,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.591757,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "W3 mimosa 連携アプリ - 注文情報・在庫情報を連携し配送を行うことができます | Shopify App Store",
+    "meta_description": "* W3 mimosa は『経営者が選ぶ倉庫管理システム』として、全国各地で稼働中です。現在お使いのスマートフォンでも検品作業、在庫の管理が可能です。アパレル・EC・生活雑貨、卸売など toC/toB 向けに業界別テンプレート、システム連携も充実しているので最適、最短で在庫管理ができます。\n\n...",
+    "canonical_url": "https://apps.shopify.com/w3_app?locale=ja",
+    "h1_tags": [
+      "W3 mimosa 連携アプリ"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "W3 mimosa 連携アプリ",
+    "app_slug": "w3_app",
+    "app_url": "https://apps.shopify.com/w3_app?locale=ja",
+    "developer_name": "株式会社ダイアログ",
+    "description": "* W3 mimosa は『経営者が選ぶ倉庫管理システム』として、全国各地で稼働中です。現在お使いのスマートフォンでも検品作業、在庫の管理が可能です。アパレル・EC・生活雑貨、卸売など toC/toB 向けに業界別テンプレート、システム連携も充実しているので最適、最短で在庫管理ができます。\n\n...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Inventory sync"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\w3_app_20260830T051149Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\w3_app_20260830T051149Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "W3 mimosa 連携アプリ",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "w3_app",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/w3_app?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "株式会社ダイアログ",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "* W3 mimosa は『経営者が選ぶ倉庫管理システム』として、全国各地で稼働中です。現在お使いのスマートフォンでも検品作業、在庫の管理が可能です。アパレル・EC・生活雑貨、卸売など toC/toB 向けに業界別テンプレート、システム連携も充実しているので最適、最短で在庫管理ができます。\n\n...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Inventory sync",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jewlrway_20260830T134530Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jewlrway_20260830T134530Z.html
+Requested URL    : https://apps.shopify.com/jewlrway
+Final URL        : https://apps.shopify.com/jewlrway
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,366 bytes / 163,273 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JewlrWay: Print On Demand - Fulfillment For Customized Jewelry Product, POD & Dropshipping | Shopify App Store
+meta description : JewlrWay is the Customized Jewelry Product, Print on Demand & Dropshipping  
+ application.
+You can find famous unique Print on Demand Jewelry produ...
+canonical URL    : https://apps.shopify.com/jewlrway
+<h1> tags ( 1)  : 'JewlrWay: Print On Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

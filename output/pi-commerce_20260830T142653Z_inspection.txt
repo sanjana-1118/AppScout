@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pi-commerce_20260830T142653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pi-commerce_20260830T142653Z.html
+Requested URL    : https://apps.shopify.com/pi-commerce
+Final URL        : https://apps.shopify.com/pi-commerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,083 bytes / 163,992 chars
+Elapsed          : 1.113s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PI Product Manager - Effortlessly import and organize product data from Excel sheet | Shopify App Store
+meta description : Automate product page creation using spreadsheet inputs without code or advanced technical skills. Generate product titles, details, product featur...
+canonical URL    : https://apps.shopify.com/pi-commerce
+<h1> tags ( 1)  : 'PI Product Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/ship-zone",
+  "fetch_timestamp": "2026-08-30T14:26:43.667015+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ship-zone_20260830T142643Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ship-zone_20260830T142643Z.html",
+    "url": "https://apps.shopify.com/ship-zone",
+    "final_url": "https://apps.shopify.com/ship-zone",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 169107,
+    "body_text_length": 169015,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.090169,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "SZ Connect Logistics Pro - Get competitive quotes, exclusive rates, and live tracking. | Shopify App Store",
+    "meta_description": "Ship Zone makes shipping and logistics hassle-free for Shopify store owners. Compare rates, book shipments, and track orders seamlessly with our app.",
+    "canonical_url": "https://apps.shopify.com/ship-zone",
+    "h1_tags": [
+      "SZ Connect Logistics Pro"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "SZ Connect Logistics Pro",
+    "app_slug": "ship-zone",
+    "app_url": "https://apps.shopify.com/ship-zone",
+    "developer_name": "MCW Digital",
+    "description": "Ship Zone makes shipping and logistics hassle-free for Shopify store owners. Compare rates, book shipments, and track orders seamlessly with our app.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Delivery and pickup"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ship-zone_20260830T142643Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ship-zone_20260830T142643Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "SZ Connect Logistics Pro",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "ship-zone",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/ship-zone",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "MCW Digital",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Ship Zone makes shipping and logistics hassle-free for Shopify store owners. Compare rates, book shipments, and track orders seamlessly with our app.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Delivery and pickup",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\receipt-app-v3_20260830T070409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\receipt-app-v3_20260830T070409Z.html
+Requested URL    : https://apps.shopify.com/receipt-app-v3
+Final URL        : https://apps.shopify.com/receipt-app-v3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,062 bytes / 171,287 chars
+Elapsed          : 0.628s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : かんたん領収書PDF自動発行 - 注文から領収書PDFをワンクリック発行。インボイス制度対応の日本語領収書アプリ。 | Shopify App Store
+meta description : 注文データから領収書PDFをワンクリックで自動発行。インボイス制度（適格請求書）対応。宛名・但し書き編集、発行履歴管理も完備。無料プランあり。
+canonical URL    : https://apps.shopify.com/receipt-app-v3?locale=ja
+<h1> tags ( 1)  : 'かんたん領収書PDF自動発行'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

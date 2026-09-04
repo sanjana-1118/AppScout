@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotelix-rfq_20260830T181649Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotelix-rfq_20260830T181649Z.html
+Requested URL    : https://apps.shopify.com/quotelix-rfq
+Final URL        : https://apps.shopify.com/quotelix-rfq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,347 bytes / 179,258 chars
+Elapsed          : 1.073s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Quotelix: B2B Quotes & RFQ - Theme-safe RFQs, branded PDFs, and Draft Orders | Shopify App Store
+meta description : Hide prices, collect B2B quote requests, send branded PDF quotes, manage pricing, and convert approved quotes into Shopify Draft Orders.
+canonical URL    : https://apps.shopify.com/quotelix-rfq
+<h1> tags ( 1)  : 'Quotelix: B2B Quotes & RFQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

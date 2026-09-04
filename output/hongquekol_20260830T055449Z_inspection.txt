@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hongquekol_20260830T055449Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hongquekol_20260830T055449Z.html
+Requested URL    : https://apps.shopify.com/hongquekol
+Final URL        : https://apps.shopify.com/hongquekol
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,326 bytes / 161,233 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WinInfluencer: Find Influencer - An AI-driven tool that can automatically contact influencers | Shopify App Store
+meta description : We have the industry's "AI Influencer Search" feature, where you simply submit your influencer requirements and wait for suitable influencers to respond.
+canonical URL    : https://apps.shopify.com/hongquekol
+<h1> tags ( 1)  : 'WinInfluencer: Find Influencer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

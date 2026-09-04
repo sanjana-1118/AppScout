@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-code-checker_20260831T033044Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-code-checker_20260831T033044Z.html
+Requested URL    : https://apps.shopify.com/product-code-checker
+Final URL        : https://apps.shopify.com/product-code-checker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,343 bytes / 169,254 chars
+Elapsed          : 0.639s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VeriTag: Authenticity Lookup - Let customers verify product authenticity online | Shopify App Store
+meta description : Let customers verify product authenticity by QR code, serial number, or code. Manage verification codes and track repeated or suspicious checks.
+canonical URL    : https://apps.shopify.com/product-code-checker
+<h1> tags ( 1)  : 'VeriTag: Authenticity Lookup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

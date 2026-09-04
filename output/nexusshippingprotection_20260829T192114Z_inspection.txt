@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nexusshippingprotection_20260829T192114Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nexusshippingprotection_20260829T192114Z.html
+Requested URL    : https://apps.shopify.com/nexusshippingprotection
+Final URL        : https://apps.shopify.com/nexusshippingprotection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,553 bytes / 206,432 chars
+Elapsed          : 0.748s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipping Protection ‑Insurance - Boost your revenue with shipping protection & Insurance  | Shopify App Store
+meta description : Protect Your Orders Build Customer Trust
+canonical URL    : https://apps.shopify.com/nexusshippingprotection
+<h1> tags ( 1)  : 'Shipping Protection ‑Insurance'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

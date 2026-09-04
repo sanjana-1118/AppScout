@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luro_20260831T034017Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luro_20260831T034017Z.html
+Requested URL    : https://apps.shopify.com/luro
+Final URL        : https://apps.shopify.com/luro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,264 bytes / 169,153 chars
+Elapsed          : 0.751s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Luro: AI Virtual Try‑On - AI virtual try-on widget for fashion product pages | Shopify App Store
+meta description : Add an AI virtual try-on widget to your Shopify product pages. Shoppers upload a photo and see how fashion items look on them before they buy.
+canonical URL    : https://apps.shopify.com/luro
+<h1> tags ( 1)  : 'Luro: AI Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

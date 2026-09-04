@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelfops_20260831T024349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelfops_20260831T024349Z.html
+Requested URL    : https://apps.shopify.com/shelfops
+Final URL        : https://apps.shopify.com/shelfops
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,991 bytes / 174,902 chars
+Elapsed          : 0.496s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Planivaro - Inventory planning and controlled buying in one workspace | Shopify App Store
+meta description : Plan inventory purchases, receive stock, track supplier bills, run counts, and control inventory updates from one Shopify workspace
+canonical URL    : https://apps.shopify.com/shelfops
+<h1> tags ( 1)  : 'Planivaro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

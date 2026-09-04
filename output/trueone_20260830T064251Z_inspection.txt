@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trueone_20260830T064251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trueone_20260830T064251Z.html
+Requested URL    : https://apps.shopify.com/trueone
+Final URL        : https://apps.shopify.com/trueone
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,197 bytes / 170,098 chars
+Elapsed          : 0.603s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrueOne - Set minimum orders, block low-value purchases | Shopify App Store
+meta description : Control low-value orders with TrueOne. Set minimum order limits, improve checkout efficiency, and boost your store’s profitability.
+canonical URL    : https://apps.shopify.com/trueone
+<h1> tags ( 1)  : 'TrueOne'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

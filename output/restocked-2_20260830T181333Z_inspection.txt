@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restocked-2_20260830T181333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restocked-2_20260830T181333Z.html
+Requested URL    : https://apps.shopify.com/restocked-2
+Final URL        : https://apps.shopify.com/restocked-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,729 bytes / 175,640 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Restocked: Reorder Alerts - Reorder alerts and one-click purchase orders by supplier | Shopify App Store
+meta description : Stocky is shutting down Aug 31, 2026. Restocked replaces its reorder workflow: low stock alerts from sales velocity and purchase orders by supplier. Free trial.
+canonical URL    : https://apps.shopify.com/restocked-2
+<h1> tags ( 1)  : 'Restocked: Reorder Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

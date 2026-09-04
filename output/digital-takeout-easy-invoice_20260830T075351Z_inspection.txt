@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digital-takeout-easy-invoice_20260830T075351Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\digital-takeout-easy-invoice_20260830T075351Z.html
+Requested URL    : https://apps.shopify.com/digital-takeout-easy-invoice
+Final URL        : https://apps.shopify.com/digital-takeout-easy-invoice
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,769 bytes / 191,671 chars
+Elapsed          : 0.462s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Digital Takeout: Easy Invoice - Professional invoices for your store. | Shopify App Store
+meta description : Generate and send Invoices to your customers with your VAT number displayed. Easy Invoice also allows you generate invoices from your orders automa...
+canonical URL    : https://apps.shopify.com/digital-takeout-easy-invoice
+<h1> tags ( 1)  : 'Digital Takeout: Easy Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

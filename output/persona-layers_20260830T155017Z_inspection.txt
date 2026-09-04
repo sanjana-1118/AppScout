@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\persona-layers_20260830T155017Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\persona-layers_20260830T155017Z.html
+Requested URL    : https://apps.shopify.com/persona-layers
+Final URL        : https://apps.shopify.com/persona-layers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,711 bytes / 185,592 chars
+Elapsed          : 0.896s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Persona Layers ‑ AI Upsell - Smart Recommendation Widgets with Cart & Thank You upsells  | Shopify App Store
+meta description : Boost AOV with AI-powered upsell widgets. Cart, thank-you page offers, and simple analytics. Easy install, no code, free under 50 orders.
+canonical URL    : https://apps.shopify.com/persona-layers
+<h1> tags ( 1)  : 'Persona Layers ‑ AI Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

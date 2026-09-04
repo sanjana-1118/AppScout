@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replidesk_20260830T150935Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\replidesk_20260830T150935Z.html
+Requested URL    : https://apps.shopify.com/replidesk
+Final URL        : https://apps.shopify.com/replidesk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,386 bytes / 200,296 chars
+Elapsed          : 1.059s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Repli Desk - Customer support to help efficiency and empathy | Shopify App Store
+meta description : Repli Desk is your advanced helpdesk solution, designed to streamline customer support.
+
+Manage email, Facebook, Instagram messages (including comm...
+canonical URL    : https://apps.shopify.com/replidesk
+<h1> tags ( 1)  : 'Repli Desk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webkul-live-commerce_20260830T152221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webkul-live-commerce_20260830T152221Z.html
+Requested URL    : https://apps.shopify.com/webkul-live-commerce
+Final URL        : https://apps.shopify.com/webkul-live-commerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,994 bytes / 216,905 chars
+Elapsed          : 0.708s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Shoppable & Live Videos - Engage shoppers with live streams & shoppable videos features | Shopify App Store
+meta description : Webkul Live Commerce is a powerful video commerce platform to get more sales with shoppable videos and live shopping and much more!
+canonical URL    : https://apps.shopify.com/webkul-live-commerce
+<h1> tags ( 1)  : 'Webkul Shoppable & Live Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

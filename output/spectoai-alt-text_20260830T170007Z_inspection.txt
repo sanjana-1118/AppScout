@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spectoai-alt-text_20260830T170007Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spectoai-alt-text_20260830T170007Z.html
+Requested URL    : https://apps.shopify.com/spectoai-alt-text
+Final URL        : https://apps.shopify.com/spectoai-alt-text
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,402 bytes / 196,312 chars
+Elapsed          : 111.225s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SpectoAI Alt Text SEO - Automatic product image alt text for SEO and accessibility | Shopify App Store
+meta description : Generate and publish alt text for Shopify product images in bulk. Improve accessibility and image SEO with fast AI suggestions and one-click updates
+canonical URL    : https://apps.shopify.com/spectoai-alt-text
+<h1> tags ( 1)  : 'SpectoAI Alt Text SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rewards-1_20260831T040602Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rewards-1_20260831T040602Z.html
+Requested URL    : https://apps.shopify.com/rewards-1
+Final URL        : https://apps.shopify.com/rewards-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,009 bytes / 182,916 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NASP Rewards - Build customer loyalty with points and store credit | Shopify App Store
+meta description : Reward purchases, birthdays, email subscriptions and visits with points. Set
+flexible expiry and let customers redeem store credit online or in Shopify POS.
+canonical URL    : https://apps.shopify.com/rewards-1
+<h1> tags ( 1)  : 'NASP Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

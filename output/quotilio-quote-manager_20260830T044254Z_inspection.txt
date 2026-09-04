@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotilio-quote-manager_20260830T044254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotilio-quote-manager_20260830T044254Z.html
+Requested URL    : https://apps.shopify.com/quotilio-quote-manager
+Final URL        : https://apps.shopify.com/quotilio-quote-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,156 bytes / 225,047 chars
+Elapsed          : 0.945s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Quotilio ‑ Quote Manager - Request Quote button, Add to Quote, Customizable Quote Form | Shopify App Store
+meta description : Easily give an option to quote in your store for your customer and give discount, or add tax, shipping, etc to the requested quote.
+canonical URL    : https://apps.shopify.com/quotilio-quote-manager
+<h1> tags ( 1)  : 'Quotilio ‑ Quote Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

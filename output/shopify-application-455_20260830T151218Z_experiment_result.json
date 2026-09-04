@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopify-application-455",
+  "fetch_timestamp": "2026-08-30T15:12:18.132208+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-455_20260830T151218Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-455_20260830T151218Z.html",
+    "url": "https://apps.shopify.com/shopify-application-455",
+    "final_url": "https://apps.shopify.com/shopify-application-455",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 186015,
+    "body_text_length": 181460,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.933886,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "配送日時指定くん | 配送日時指定 | 商品別で配送便の指定 - 配送日指定、時間指定を可能にする配送日指定アプリ。カスタム配送先、カスタム配送時間、商品別配送会社指定が可能です | Shopify App Store",
+    "meta_description": "このアプリは、商品購入時に必要な配送日設定を柔軟にカスタマイズできる機能を提供します。主な機能として、配送日や配送時間の設定が可能です。\n\n最短および最長の配送希望日を自由に設定でき、購入者が適切な配送日を選択できるように調整できます。また、店舗の休業日を事前に登録することで、出荷や配送が行え...",
+    "canonical_url": "https://apps.shopify.com/shopify-application-455?locale=ja",
+    "h1_tags": [
+      "配送日時指定くん | 配送日時指定 | 商品別で配送便の指定"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "配送日時指定くん | 配送日時指定 | 商品別で配送便の指定",
+    "app_slug": "shopify-application-455",
+    "app_url": "https://apps.shopify.com/shopify-application-455?locale=ja",
+    "developer_name": "もると株式会社",
+    "description": "このアプリは、商品購入時に必要な配送日設定を柔軟にカスタマイズできる機能を提供します。主な機能として、配送日や配送時間の設定が可能です。\n\n最短および最長の配送希望日を自由に設定でき、購入者が適切な配送日を選択できるように調整できます。また、店舗の休業日を事前に登録することで、出荷や配送が行え...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Delivery and pickup"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-455_20260830T151218Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-455_20260830T151218Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "配送日時指定くん | 配送日時指定 | 商品別で配送便の指定",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopify-application-455",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopify-application-455?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "もると株式会社",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "このアプリは、商品購入時に必要な配送日設定を柔軟にカスタマイズできる機能を提供します。主な機能として、配送日や配送時間の設定が可能です。\n\n最短および最長の配送希望日を自由に設定でき、購入者が適切な配送日を選択できるように調整できます。また、店舗の休業日を事前に登録することで、出荷や配送が行え...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Delivery and pickup",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

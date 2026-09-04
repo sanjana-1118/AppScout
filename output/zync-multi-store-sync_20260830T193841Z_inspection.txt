@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zync-multi-store-sync_20260830T193841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zync-multi-store-sync_20260830T193841Z.html
+Requested URL    : https://apps.shopify.com/zync-multi-store-sync
+Final URL        : https://apps.shopify.com/zync-multi-store-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,536 bytes / 173,417 chars
+Elapsed          : 0.517s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zync ‑ Multi Store Sync - Sell more with more products and more stores. Zero busywork. | Shopify App Store
+meta description : Zync connects Shopify stores and keeps them aligned — whether you run
+multiple stores yourself, supply a reseller, or sell a partner's catalog. You...
+canonical URL    : https://apps.shopify.com/zync-multi-store-sync
+<h1> tags ( 1)  : 'Zync ‑ Multi Store Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

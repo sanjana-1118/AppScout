@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\request-quote-w3_20260830T044052Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\request-quote-w3_20260830T044052Z.html
+Requested URL    : https://apps.shopify.com/request-quote-w3
+Final URL        : https://apps.shopify.com/request-quote-w3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,966 bytes / 217,845 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Quick Quote ‑ Request a Quote - Let wholesale & trade buyers request quotes from the cart. | Shopify App Store
+meta description : Add a Request a Quote button to your Shopify cart. Let wholesale and trade customers request custom pricing, then accept your proposal and check out instantly.
+canonical URL    : https://apps.shopify.com/request-quote-w3
+<h1> tags ( 1)  : 'Quick Quote ‑ Request a Quote'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tecmyer-inventory-helper_20260830T170146Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tecmyer-inventory-helper_20260830T170146Z.html
+Requested URL    : https://apps.shopify.com/tecmyer-inventory-helper
+Final URL        : https://apps.shopify.com/tecmyer-inventory-helper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,258 bytes / 169,163 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tecmyer Inventory Helper - Share and sync B2B inventory automatically via CSV. | Shopify App Store
+meta description : Share live inventory with wholesale and B2B partners via automated CSV emails. Sync received stock directly into your Shopify store by SKU match. No manual work
+canonical URL    : https://apps.shopify.com/tecmyer-inventory-helper
+<h1> tags ( 1)  : 'Tecmyer Inventory Helper'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autollm_20260829T185718Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autollm_20260829T185718Z.html
+Requested URL    : https://apps.shopify.com/autollm
+Final URL        : https://apps.shopify.com/autollm
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,342 bytes / 211,244 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : autoLLMs | LLM SEO & LLMs.txt - Add LLMs.txt to help AI and LLMs understand your store. | Shopify App Store
+meta description : Automatically generate and update your store’s LLMs.txt file daily. Improve AI indexing, visibility, and traffic with zero effort.
+canonical URL    : https://apps.shopify.com/autollm
+<h1> tags ( 1)  : 'autoLLMs | LLM SEO & LLMs.txt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

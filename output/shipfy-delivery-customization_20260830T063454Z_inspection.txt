@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipfy-delivery-customization_20260830T063454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipfy-delivery-customization_20260830T063454Z.html
+Requested URL    : https://apps.shopify.com/shipfy-delivery-customization
+Final URL        : https://apps.shopify.com/shipfy-delivery-customization
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,757 bytes / 230,640 chars
+Elapsed          : 0.753s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipy ‑ Hide Shipping Rules - Control your shipping rates by multiple conditions at checkout | Shopify App Store
+meta description : Hide/Rename the delivery options on checkout using various conditions like Cart total, Zip code, Customer tag, Products. And Sort/Reorder Shipping rates
+canonical URL    : https://apps.shopify.com/shipfy-delivery-customization
+<h1> tags ( 1)  : 'Shipy ‑ Hide Shipping Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

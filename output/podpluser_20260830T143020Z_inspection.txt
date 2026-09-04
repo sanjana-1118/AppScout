@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\podpluser_20260830T143020Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\podpluser_20260830T143020Z.html
+Requested URL    : https://apps.shopify.com/podpluser
+Final URL        : https://apps.shopify.com/podpluser
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,405 bytes / 182,316 chars
+Elapsed          : 0.998s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PODpluser:Print on Demand - Quality clothing online customization & global dropshipping | Shopify App Store
+meta description : PODpluser is a custom clothing manufacturer and print-on-demand dropshipper aiming to help you start a competitive and profitable clothing line
+canonical URL    : https://apps.shopify.com/podpluser
+<h1> tags ( 1)  : 'PODpluser:Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

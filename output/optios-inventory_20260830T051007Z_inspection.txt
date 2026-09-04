@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optios-inventory_20260830T051007Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optios-inventory_20260830T051007Z.html
+Requested URL    : https://apps.shopify.com/optios-inventory
+Final URL        : https://apps.shopify.com/optios-inventory
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,884 bytes / 162,793 chars
+Elapsed          : 0.593s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Optios Inventory - Synchronize your products to your Optios inventory | Shopify App Store
+meta description : The Optios Inventory module streamlines salon inventory with automated stock updates, order management and online store integration. It supports au...
+canonical URL    : https://apps.shopify.com/optios-inventory
+<h1> tags ( 1)  : 'Optios Inventory'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

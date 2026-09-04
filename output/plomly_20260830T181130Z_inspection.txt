@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plomly_20260830T181130Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plomly_20260830T181130Z.html
+Requested URL    : https://apps.shopify.com/plomly
+Final URL        : https://apps.shopify.com/plomly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,622 bytes / 182,510 chars
+Elapsed          : 0.516s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Plomly - Tile, paint & flooring calculator + AI shopping assistant | Shopify App Store
+meta description : Tile, paint, flooring & wallpaper calculator + AI shopping assistant for Shopify. Shoppers describe their project, AI builds the cart. Real free tier.
+canonical URL    : https://apps.shopify.com/plomly
+<h1> tags ( 1)  : 'Plomly'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

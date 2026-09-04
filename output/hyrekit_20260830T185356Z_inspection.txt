@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hyrekit_20260830T185356Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hyrekit_20260830T185356Z.html
+Requested URL    : https://apps.shopify.com/hyrekit
+Final URL        : https://apps.shopify.com/hyrekit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,118 bytes / 200,001 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HyreKit ‑ Rental Bookings - Rental bookings that never double-book, with deposits built in | Shopify App Store
+meta description : Rent or book products by the date range. HyreKit reserves the whole window so items never double-book, with multi-unit availability, deposits and a calendar.
+canonical URL    : https://apps.shopify.com/hyrekit
+<h1> tags ( 1)  : 'HyreKit ‑ Rental Bookings'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

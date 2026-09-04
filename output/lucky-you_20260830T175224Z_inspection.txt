@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lucky-you_20260830T175224Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lucky-you_20260830T175224Z.html
+Requested URL    : https://apps.shopify.com/lucky-you
+Final URL        : https://apps.shopify.com/lucky-you
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,161 bytes / 215,062 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lucky You: Email & Spin Wheel - Game popups capture verified emails & turn visitors into buyer | Shopify App Store
+meta description : Turn Shopify visitors into verified email leads with spin wheel, Plinko & slide popups. Run targeted campaigns, A/B test the game, sync to Klaviyo. Free plan.
+canonical URL    : https://apps.shopify.com/lucky-you
+<h1> tags ( 1)  : 'Lucky You: Email & Spin Wheel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

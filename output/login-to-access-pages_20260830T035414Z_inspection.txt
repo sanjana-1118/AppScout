@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\login-to-access-pages_20260830T035414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\login-to-access-pages_20260830T035414Z.html
+Requested URL    : https://apps.shopify.com/login-to-access-pages
+Final URL        : https://apps.shopify.com/login-to-access-pages
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,028 bytes / 247,897 chars
+Elapsed          : 0.657s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BSS B2B Lock, Login & Password - Hide price, B2B wholesale login, lock page by password protect | Shopify App Store
+meta description : Shopify BSS B2B Lock Password: Enhance your B2B experience with secure login, lock features, hide prices and products, and control access with passwords.
+canonical URL    : https://apps.shopify.com/login-to-access-pages
+<h1> tags ( 1)  : 'BSS B2B Lock, Login & Password'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

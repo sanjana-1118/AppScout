@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sterk-find_20260830T063315Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sterk-find_20260830T063315Z.html
+Requested URL    : https://apps.shopify.com/sterk-find
+Final URL        : https://apps.shopify.com/sterk-find
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,332 bytes / 180,227 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sterk Find - Turn search into a conversation with an AI co-shopper | Shopify App Store
+meta description : An AI co-shopper for your store. Sterk Find asks a few smart questions and narrows your catalog to the products that actually fit each shopper.
+canonical URL    : https://apps.shopify.com/sterk-find
+<h1> tags ( 1)  : 'Sterk Find'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

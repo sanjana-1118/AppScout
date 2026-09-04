@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockyphi_20260830T125552Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockyphi_20260830T125552Z.html
+Requested URL    : https://apps.shopify.com/stockyphi
+Final URL        : https://apps.shopify.com/stockyphi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,578 bytes / 220,475 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hide Sold Out by Stockyphi - Hide & Redirect Sold Out Products for a Seamless Experience. | Shopify App Store
+meta description : Managing out of stock products shouldn't be a hassle. With Stockyphi, hide out of stock (or sold out) products in real time and publish them back w...
+canonical URL    : https://apps.shopify.com/stockyphi
+<h1> tags ( 1)  : 'Hide Sold Out by Stockyphi'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

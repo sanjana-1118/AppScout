@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\openclaw-commerce_20260830T170048Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\openclaw-commerce_20260830T170048Z.html
+Requested URL    : https://apps.shopify.com/openclaw-commerce
+Final URL        : https://apps.shopify.com/openclaw-commerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,818 bytes / 174,729 chars
+Elapsed          : 0.453s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OpenClaw Commerce - Automate your Store operations via chat apps through OpenClaw | Shopify App Store
+meta description : Connect your Openclaw in a minute with your Shopify store. Shopify Automation is now one text away. Quick 2-step setup with secure permissions.
+canonical URL    : https://apps.shopify.com/openclaw-commerce
+<h1> tags ( 1)  : 'OpenClaw Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

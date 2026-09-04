@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flagship-for-shopify_20260829T192329Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flagship-for-shopify_20260829T192329Z.html
+Requested URL    : https://apps.shopify.com/flagship-for-shopify
+Final URL        : https://apps.shopify.com/flagship-for-shopify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,517 bytes / 199,420 chars
+Elapsed          : 0.797s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FlagShip - Quote and ship with discounted rates from brand name couriers | Shopify App Store
+meta description : Take the hassle out of your eCommerce shipping! Discounted shipping rates from Purolator, UPS, FedEx, DHL, Canpar and GLS, for your Shopify store.
+canonical URL    : https://apps.shopify.com/flagship-for-shopify
+<h1> tags ( 1)  : 'FlagShip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

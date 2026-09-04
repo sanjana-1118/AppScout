@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amplisio-profit-upsell_20260830T164030Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amplisio-profit-upsell_20260830T164030Z.html
+Requested URL    : https://apps.shopify.com/amplisio-profit-upsell
+Final URL        : https://apps.shopify.com/amplisio-profit-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,860 bytes / 162,767 chars
+Elapsed          : 0.474s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amplisio Profit Upsell - Profit-first product-page upsells | Shopify App Store
+meta description : Show relevant add-ons on product pages, let shoppers accept in one click, and track views plus verified add-to-cart accepts.
+canonical URL    : https://apps.shopify.com/amplisio-profit-upsell
+<h1> tags ( 1)  : 'Amplisio Profit Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

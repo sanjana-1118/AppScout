@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-blocker_20260830T150420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-blocker_20260830T150420Z.html
+Requested URL    : https://apps.shopify.com/discount-blocker
+Final URL        : https://apps.shopify.com/discount-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,231 bytes / 217,122 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DCB ‑ Discount Code Blocker - Block discounts for sale items or all products | Shopify App Store
+meta description : Block discount codes and remove discount input for sale products with compare-at price or all products in the store.
+canonical URL    : https://apps.shopify.com/discount-blocker
+<h1> tags ( 1)  : 'DCB ‑ Discount Code Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

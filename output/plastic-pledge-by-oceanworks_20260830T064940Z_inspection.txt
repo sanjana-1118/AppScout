@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plastic-pledge-by-oceanworks_20260830T064940Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plastic-pledge-by-oceanworks_20260830T064940Z.html
+Requested URL    : https://apps.shopify.com/plastic-pledge-by-oceanworks
+Final URL        : https://apps.shopify.com/plastic-pledge-by-oceanworks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,403 bytes / 191,314 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PlasticPledge by Oceanworks - NEW: Remove plastic pollution with every sale! | Shopify App Store
+meta description : Seamlessly integrate sustainability into your Shopify storefront, engage your customers, and tie their purchases directly to plastic pollution collection.
+canonical URL    : https://apps.shopify.com/plastic-pledge-by-oceanworks
+<h1> tags ( 1)  : 'PlasticPledge by Oceanworks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

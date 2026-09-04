@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\happify-pending-order_20260830T141156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\happify-pending-order_20260830T141156Z.html
+Requested URL    : https://apps.shopify.com/happify-pending-order
+Final URL        : https://apps.shopify.com/happify-pending-order
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,851 bytes / 163,760 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Happify Pending Order - Track pending orders get low stock alerts and manage inventory | Shopify App Store
+meta description : The app shows all the unfulfilled orders on the home page along with the quantity of all of the variants of the same product. The app shows total n...
+canonical URL    : https://apps.shopify.com/happify-pending-order
+<h1> tags ( 1)  : 'Happify Pending Order'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

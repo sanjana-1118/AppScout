@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yooo-ai-try-on-discover_20260831T030640Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yooo-ai-try-on-discover_20260831T030640Z.html
+Requested URL    : https://apps.shopify.com/yooo-ai-try-on-discover
+Final URL        : https://apps.shopify.com/yooo-ai-try-on-discover
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,472 bytes / 216,321 chars
+Elapsed          : 0.985s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yooo ‑ AI Try‑On & Discover - AI virtual try-on and outfit styling for your product catalog. | Shopify App Store
+meta description : Let customers try on your products with AI, get size recommendations, outfit suggestions, and buy with confidence. Syncs your Shopify catalog in one click.
+canonical URL    : https://apps.shopify.com/yooo-ai-try-on-discover
+<h1> tags ( 1)  : 'Yooo ‑ AI Try‑On & Discover'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

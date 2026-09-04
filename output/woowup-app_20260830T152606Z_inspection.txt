@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woowup-app_20260830T152606Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woowup-app_20260830T152606Z.html
+Requested URL    : https://apps.shopify.com/woowup-app
+Final URL        : https://apps.shopify.com/woowup-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 154,477 bytes / 154,362 chars
+Elapsed          : 0.641s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WoowUp - Impulsa tus ventas con marketing personalizado. | Shopify App Store
+meta description : Segmenta clientes, automatiza campañas y aumenta ventas con una plataforma de CRM omnicanal pensada para ecommerce y retail.
+canonical URL    : https://apps.shopify.com/woowup-app?locale=es
+<h1> tags ( 1)  : 'WoowUp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

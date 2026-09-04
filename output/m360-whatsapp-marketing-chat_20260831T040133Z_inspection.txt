@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\m360-whatsapp-marketing-chat_20260831T040133Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\m360-whatsapp-marketing-chat_20260831T040133Z.html
+Requested URL    : https://apps.shopify.com/m360-whatsapp-marketing-chat
+Final URL        : https://apps.shopify.com/m360-whatsapp-marketing-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,330 bytes / 229,224 chars
+Elapsed          : 0.840s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : M360 Whatsapp Automation+Chat - Drive repeat sales and recover lost revenue on WhatsApp | Shopify App Store
+meta description : upsales & multi agent support on Shopify with Mark360’s AI-powered WhatsApp automation by broadcasts, abandoned  cart recovery , order tracking ,
+canonical URL    : https://apps.shopify.com/m360-whatsapp-marketing-chat
+<h1> tags ( 1)  : 'M360 Whatsapp Automation+Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

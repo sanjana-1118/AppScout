@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cookie-consent-9_20260831T030316Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cookie-consent-9_20260831T030316Z.html
+Requested URL    : https://apps.shopify.com/cookie-consent-9
+Final URL        : https://apps.shopify.com/cookie-consent-9
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,644 bytes / 188,529 chars
+Elapsed          : 0.979s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Novece ‑ GDPR Cookie Consent - Free cookie banner with real script blocking. Built for GDPR | Shopify App Store
+meta description : Novece Cookie Consent is built for GDPR, UK GDPR, ePrivacy and Turkish KVKK. Free gives you the banner, real script blocking for GA4, Meta, TikTok,...
+canonical URL    : https://apps.shopify.com/cookie-consent-9
+<h1> tags ( 1)  : 'Novece ‑ GDPR Cookie Consent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

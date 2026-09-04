@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\send-sms-notifications_20260830T125728Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\send-sms-notifications_20260830T125728Z.html
+Requested URL    : https://apps.shopify.com/send-sms-notifications
+Final URL        : https://apps.shopify.com/send-sms-notifications
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,452 bytes / 189,360 chars
+Elapsed          : 0.467s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProTexting SMS Notifications - Send text message alerts for order status and abandoned cart... | Shopify App Store
+meta description : Click here to install best text message app for Shopify SMS Notifications - orders and reminder for abandoned carts.
+canonical URL    : https://apps.shopify.com/send-sms-notifications
+<h1> tags ( 1)  : 'ProTexting SMS Notifications'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

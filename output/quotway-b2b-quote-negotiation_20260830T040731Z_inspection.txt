@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotway-b2b-quote-negotiation_20260830T040731Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotway-b2b-quote-negotiation_20260830T040731Z.html
+Requested URL    : https://apps.shopify.com/quotway-b2b-quote-negotiation
+Final URL        : https://apps.shopify.com/quotway-b2b-quote-negotiation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 241,325 bytes / 241,215 chars
+Elapsed          : 0.644s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuotWay: B2B Quote‑Negotiation - Request a quote, hide price & negotiate B2B wholesale deals | Shopify App Store
+meta description : QuotWay adds a request-a-quote button, hides prices for wholesale buyers, and turns B2B negotiations into native draft orders.
+canonical URL    : https://apps.shopify.com/quotway-b2b-quote-negotiation
+<h1> tags ( 1)  : 'QuotWay: B2B Quote‑Negotiation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

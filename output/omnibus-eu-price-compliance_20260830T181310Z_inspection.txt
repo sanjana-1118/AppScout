@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omnibus-eu-price-compliance_20260830T181310Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\omnibus-eu-price-compliance_20260830T181310Z.html
+Requested URL    : https://apps.shopify.com/omnibus-eu-price-compliance
+Final URL        : https://apps.shopify.com/omnibus-eu-price-compliance
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,471 bytes / 187,342 chars
+Elapsed          : 0.840s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Omnibus EU Compliance - Automatic EU Omnibus compliance on every discount you run | Shopify App Store
+meta description : Display the EU-required 30-day low next to every discount on your Shopify store. Compliance dashboard, PDF audit and proactive email alerts.
+canonical URL    : https://apps.shopify.com/omnibus-eu-price-compliance
+<h1> tags ( 1)  : 'Omnibus EU Compliance'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

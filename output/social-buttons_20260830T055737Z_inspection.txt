@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-buttons_20260830T055737Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-buttons_20260830T055737Z.html
+Requested URL    : https://apps.shopify.com/social-buttons
+Final URL        : https://apps.shopify.com/social-buttons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,130 bytes / 224,025 chars
+Elapsed          : 0.566s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zotabox Social Sharing Buttons - Social Media Icons - Boost Your Store Social Proof &... | Shopify App Store
+meta description : Many merchants struggle to turn social media into real traffic and sales. Zotabox helps unlock the full potential of your store’s social presence w...
+canonical URL    : https://apps.shopify.com/social-buttons
+<h1> tags ( 1)  : 'Zotabox Social Sharing Buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\my-tabs-by-sdi_20260830T061811Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\my-tabs-by-sdi_20260830T061811Z.html
+Requested URL    : https://apps.shopify.com/my-tabs-by-sdi
+Final URL        : https://apps.shopify.com/my-tabs-by-sdi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,648 bytes / 166,559 chars
+Elapsed          : 0.462s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : My Tabs 2.0 - Custom tabs for clear product info and smoother shopping. | Shopify App Store
+meta description : My Tab extension is designed to help enhance your store's sales by adding both informational and descriptive tabs to your product pages. You can cr...
+canonical URL    : https://apps.shopify.com/my-tabs-by-sdi
+<h1> tags ( 1)  : 'My Tabs 2.0'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

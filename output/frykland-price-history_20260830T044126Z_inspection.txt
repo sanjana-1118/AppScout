@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frykland-price-history_20260830T044126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frykland-price-history_20260830T044126Z.html
+Requested URL    : https://apps.shopify.com/frykland-price-history
+Final URL        : https://apps.shopify.com/frykland-price-history
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,332 bytes / 196,216 chars
+Elapsed          : 0.732s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Frykland ‑ Price History - Saves price changes and calculates prior sale price | Shopify App Store
+meta description : Track prices on your Shopify products, ensure EU compliance with displaying lowest price last 30 days prior to sale.
+canonical URL    : https://apps.shopify.com/frykland-price-history
+<h1> tags ( 1)  : 'Frykland ‑ Price History'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

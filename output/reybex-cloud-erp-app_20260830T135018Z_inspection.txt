@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reybex-cloud-erp-app_20260830T135018Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reybex-cloud-erp-app_20260830T135018Z.html
+Requested URL    : https://apps.shopify.com/reybex-cloud-erp-app
+Final URL        : https://apps.shopify.com/reybex-cloud-erp-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,083 bytes / 158,900 chars
+Elapsed          : 0.920s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : reybex‑cloud‑erp‑app - Connect your store to Reybex ERP for efficient management. | Shopify App Store
+meta description : reybex has been an ERP specialist since 2014. reybex is a complete ERP Cloud solution for retail, eCommerce and production. Central ERP functions s...
+canonical URL    : https://apps.shopify.com/reybex-cloud-erp-app
+<h1> tags ( 1)  : 'reybex‑cloud‑erp‑app'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tc-eu-withdrawal-button_20260830T054620Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tc-eu-withdrawal-button_20260830T054620Z.html
+Requested URL    : https://apps.shopify.com/tc-eu-withdrawal-button
+Final URL        : https://apps.shopify.com/tc-eu-withdrawal-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,256 bytes / 186,161 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MIDA EU Withdrawal Button  - EU Directive 2023/2673: Compliant EU withdrawal button & form | Shopify App Store
+meta description : Add an EU withdrawal button & form to your Shopify store in minutes. No code, no customer login, shown only to EU shoppers. Stay compliant, stress-free.
+canonical URL    : https://apps.shopify.com/tc-eu-withdrawal-button
+<h1> tags ( 1)  : 'MIDA EU Withdrawal Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

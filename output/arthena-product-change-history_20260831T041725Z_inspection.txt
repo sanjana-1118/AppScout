@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arthena-product-change-history_20260831T041725Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arthena-product-change-history_20260831T041725Z.html
+Requested URL    : https://apps.shopify.com/arthena-product-change-history
+Final URL        : https://apps.shopify.com/arthena-product-change-history
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,691 bytes / 161,602 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Arthena Product Change History - Track product and inventory changes with a clear audit trail | Shopify App Store
+meta description : Track product, pricing, variant and inventory changes automatically. Search, filter and export a clear change history for your store.
+canonical URL    : https://apps.shopify.com/arthena-product-change-history
+<h1> tags ( 1)  : 'Arthena Product Change History'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

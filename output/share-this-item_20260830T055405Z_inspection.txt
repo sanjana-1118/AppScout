@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\share-this-item_20260830T055405Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\share-this-item_20260830T055405Z.html
+Requested URL    : https://apps.shopify.com/share-this-item
+Final URL        : https://apps.shopify.com/share-this-item
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,782 bytes / 179,689 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Share This Item by ittle.co - Create Bitly-like links for every product, share with everyone | Shopify App Store
+meta description : Create Bitly-style short links for your Shopify products. Let customers share them across social media with rich previews that boost visibility and sales.
+canonical URL    : https://apps.shopify.com/share-this-item
+<h1> tags ( 1)  : 'Share This Item by ittle.co'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

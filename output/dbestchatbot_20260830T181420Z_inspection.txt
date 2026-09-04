@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dbestchatbot_20260830T181420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dbestchatbot_20260830T181420Z.html
+Requested URL    : https://apps.shopify.com/dbestchatbot
+Final URL        : https://apps.shopify.com/dbestchatbot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,418 bytes / 191,318 chars
+Elapsed          : 0.674s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DBestChatBot - AI sales chatbot that knows your full product catalog | Shopify App Store
+meta description : AI chatbot that knows your full product catalog and recommends real products with clickable cards. Free plan, no credit card. Installs in 60 seconds.
+canonical URL    : https://apps.shopify.com/dbestchatbot
+<h1> tags ( 1)  : 'DBestChatBot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

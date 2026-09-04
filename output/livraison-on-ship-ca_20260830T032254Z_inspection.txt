@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\livraison-on-ship-ca_20260830T032254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\livraison-on-ship-ca_20260830T032254Z.html
+Requested URL    : https://apps.shopify.com/livraison-on-ship-ca
+Final URL        : https://apps.shopify.com/livraison-on-ship-ca
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,459 bytes / 182,365 chars
+Elapsed          : 0.547s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnShip delivery services - Deliver Faster. Sell More. | Shopify App Store
+meta description : OnShip.ca turns delivery into a powerful growth driver for your Shopify store.
+
+Offer SAME-DAY shipping within hours at the lowest price.
+Ship fast...
+canonical URL    : https://apps.shopify.com/livraison-on-ship-ca
+<h1> tags ( 1)  : 'OnShip delivery services'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

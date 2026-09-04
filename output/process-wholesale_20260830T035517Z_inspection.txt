@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\process-wholesale_20260830T035517Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\process-wholesale_20260830T035517Z.html
+Requested URL    : https://apps.shopify.com/process-wholesale
+Final URL        : https://apps.shopify.com/process-wholesale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 243,129 bytes / 243,040 chars
+Elapsed          : 0.686s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Process Wholesale: B2B Pricing - Offer B2B wholesale pricing in your existing store in minutes | Shopify App Store
+meta description : Manage Wholesale Pricing on Shopify without having to duplicate inventory. Show different prices to your Wholesale Clients vs Your Retail clients.
+canonical URL    : https://apps.shopify.com/process-wholesale
+<h1> tags ( 1)  : 'Process Wholesale: B2B Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

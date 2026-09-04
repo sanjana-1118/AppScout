@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frozen-cash_20260831T024615Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frozen-cash_20260831T024615Z.html
+Requested URL    : https://apps.shopify.com/frozen-cash
+Final URL        : https://apps.shopify.com/frozen-cash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,351 bytes / 186,258 chars
+Elapsed          : 0.620s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FrozenCash: Dead Stock ROI - Find slow-moving stock and see where cash is tied up. | Shopify App Store
+meta description : Identify slow-moving inventory, estimate frozen cash, compare scans, and export detailed variant-level reports.
+canonical URL    : https://apps.shopify.com/frozen-cash
+<h1> tags ( 1)  : 'FrozenCash: Dead Stock ROI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

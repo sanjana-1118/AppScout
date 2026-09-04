@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-wholesale-b2b_20260830T045045Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-wholesale-b2b_20260830T045045Z.html
+Requested URL    : https://apps.shopify.com/easy-wholesale-b2b
+Final URL        : https://apps.shopify.com/easy-wholesale-b2b
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,180 bytes / 183,064 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Toptan ‑ Wholesale and B2B - Set wholesale prices per variant and apply them at checkout | Shopify App Store
+meta description : Toptan groups your B2B buyers by a Shopify customer tag, then keeps a price list for each group with a wholesale price on every product variant. A ...
+canonical URL    : https://apps.shopify.com/easy-wholesale-b2b
+<h1> tags ( 1)  : 'Toptan ‑ Wholesale and B2B'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

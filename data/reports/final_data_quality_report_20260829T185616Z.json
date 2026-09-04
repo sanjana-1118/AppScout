@@ -1,0 +1,25 @@
+{
+  "audit_timestamp": "2026-08-29T18:56:16.666883+00:00",
+  "total_canonical_apps": 831,
+  "total_categories": 91,
+  "total_app_category_mappings": 2020,
+  "integrity_checks": {
+    "duplicate_app_slugs": 0,
+    "duplicate_app_urls": 0,
+    "null_app_names": 0,
+    "null_app_urls": 0,
+    "invalid_ratings_out_of_range": 0,
+    "negative_review_counts": 0,
+    "orphan_category_mappings": 0,
+    "all_integrity_passed": true
+  },
+  "field_fill_rates": {
+    "app_name": "831/831 (100.0%)",
+    "app_slug": "831/831 (100.0%)",
+    "app_url": "831/831 (100.0%)",
+    "developer_name": "831/831 (100.0%)",
+    "description": "802/831 (96.5%)",
+    "average_rating": "539/831 (64.9%)",
+    "review_count": "539/831 (64.9%)"
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipbycap_20260830T193808Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipbycap_20260830T193808Z.html
+Requested URL    : https://apps.shopify.com/shipbycap
+Final URL        : https://apps.shopify.com/shipbycap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,722 bytes / 200,604 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipByCap ‑ Tariffe per CAP - Il costo di spedizione giusto per ogni CAP, già al... | Shopify App Store
+meta description : Calcola le spese di spedizione in base al CAP di consegna: crei zone, tariffe personalizzate e spedizione gratuita oltre soglia, in automatico al checkout.
+canonical URL    : https://apps.shopify.com/shipbycap?locale=it
+<h1> tags ( 1)  : 'ShipByCap ‑ Tariffe per CAP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

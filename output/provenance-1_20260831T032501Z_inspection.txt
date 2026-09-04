@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\provenance-1_20260831T032501Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\provenance-1_20260831T032501Z.html
+Requested URL    : https://apps.shopify.com/provenance-1
+Final URL        : https://apps.shopify.com/provenance-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,546 bytes / 185,431 chars
+Elapsed          : 0.444s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Provenance ‑ Mint, Print, Scan - Every item gets a scannable record, kept in your own... | Shopify App Store
+meta description : Give every item you make a unique code customers can scan to see your own record of it: what it is, when it was made, and its edition number.
+canonical URL    : https://apps.shopify.com/provenance-1
+<h1> tags ( 1)  : 'Provenance ‑ Mint, Print, Scan'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

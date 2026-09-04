@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\karla-1_20260830T051746Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\karla-1_20260830T051746Z.html
+Requested URL    : https://apps.shopify.com/karla-1
+Final URL        : https://apps.shopify.com/karla-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,899 bytes / 193,808 chars
+Elapsed          : 0.854s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Karla - Order tracking and issue reporting with Flow automation | Shopify App Store
+meta description : Track orders with branded pages. Automate delivery events with Flow triggers for failed deliveries, delays, returns, and more. Issue reporting included
+canonical URL    : https://apps.shopify.com/karla-1
+<h1> tags ( 1)  : 'Karla'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

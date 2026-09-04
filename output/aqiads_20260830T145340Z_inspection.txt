@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aqiads_20260830T145340Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aqiads_20260830T145340Z.html
+Requested URL    : https://apps.shopify.com/aqiads
+Final URL        : https://apps.shopify.com/aqiads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,345 bytes / 170,842 chars
+Elapsed          : 0.974s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AqiAds - Help merchants select products and enhance market competitiven | Shopify App Store
+meta description : AqiAds simplifies product management for individual sellers and small teams. Merchants can quickly discover trending products, and we provide detai...
+canonical URL    : https://apps.shopify.com/aqiads
+<h1> tags ( 1)  : 'AqiAds'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

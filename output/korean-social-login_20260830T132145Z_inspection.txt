@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\korean-social-login_20260830T132145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\korean-social-login_20260830T132145Z.html
+Requested URL    : https://apps.shopify.com/korean-social-login
+Final URL        : https://apps.shopify.com/korean-social-login
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,319 bytes / 183,512 chars
+Elapsed          : 0.471s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dream Social Login - Korean Social Login, Naver, Kakao And More. | Shopify App Store
+meta description : Enable fast, secure customer login with Naver, Kakao, Apple, LINE, Google, and Facebook. Customize UI, support multiple languages, and simplify store login.
+canonical URL    : https://apps.shopify.com/korean-social-login
+<h1> tags ( 1)  : 'Dream Social Login'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

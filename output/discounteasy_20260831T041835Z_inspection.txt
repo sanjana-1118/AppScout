@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discounteasy_20260831T041835Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discounteasy_20260831T041835Z.html
+Requested URL    : https://apps.shopify.com/discounteasy
+Final URL        : https://apps.shopify.com/discounteasy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,583 bytes / 226,483 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount Easy: Badge & Timer - Set up your sales & promotions fast and easy: badge... | Shopify App Store
+meta description : Create custom discounts, product badges, and shipping offers for your Shopify store. Highlight promotions, countdowns, and special deals easily.
+canonical URL    : https://apps.shopify.com/discounteasy
+<h1> tags ( 1)  : 'Discount Easy: Badge & Timer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

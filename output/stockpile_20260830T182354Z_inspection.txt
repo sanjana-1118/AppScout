@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockpile_20260830T182354Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockpile_20260830T182354Z.html
+Requested URL    : https://apps.shopify.com/stockpile
+Final URL        : https://apps.shopify.com/stockpile
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,110 bytes / 238,994 chars
+Elapsed          : 0.957s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Plenisher Inventory Management - Move off Stocky: Purchase Orders and inventory in one place | Shopify App Store
+meta description : Track stock across locations, manage suppliers and purchase orders, and migrate from Stocky in a day.
+canonical URL    : https://apps.shopify.com/stockpile
+<h1> tags ( 1)  : 'Plenisher Inventory Management'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

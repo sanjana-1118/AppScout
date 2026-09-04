@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\automatic-bundle-pricing_20260830T044402Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\automatic-bundle-pricing_20260830T044402Z.html
+Requested URL    : https://apps.shopify.com/automatic-bundle-pricing
+Final URL        : https://apps.shopify.com/automatic-bundle-pricing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,808 bytes / 192,713 chars
+Elapsed          : 0.754s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MODS Automatic Bundle Pricing - Sync bundle prices automatically when component prices change. | Shopify App Store
+meta description : Keep bundle product prices updated automatically when component prices change. Set optional fixed or % discounts per bundle and avoid manual repricing.
+canonical URL    : https://apps.shopify.com/automatic-bundle-pricing
+<h1> tags ( 1)  : 'MODS Automatic Bundle Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

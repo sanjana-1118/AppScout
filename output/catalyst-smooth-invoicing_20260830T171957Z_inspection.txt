@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalyst-smooth-invoicing_20260830T171957Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalyst-smooth-invoicing_20260830T171957Z.html
+Requested URL    : https://apps.shopify.com/catalyst-smooth-invoicing
+Final URL        : https://apps.shopify.com/catalyst-smooth-invoicing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,443 bytes / 193,346 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Catalyst GST Invoice & Report - Automatic GST reports, tax invoices & credit notes | Shopify App Store
+meta description : Generate GSTR-1 and GSTR-3B reports straight from your Shopify orders and send GST-compliant tax invoices automatically. Built for Indian sellers. Free plan.
+canonical URL    : https://apps.shopify.com/catalyst-smooth-invoicing
+<h1> tags ( 1)  : 'Catalyst GST Invoice & Report'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

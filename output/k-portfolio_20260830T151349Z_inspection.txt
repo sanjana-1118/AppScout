@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-portfolio_20260830T151349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-portfolio_20260830T151349Z.html
+Requested URL    : https://apps.shopify.com/k-portfolio
+Final URL        : https://apps.shopify.com/k-portfolio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,793 bytes / 217,696 chars
+Elapsed          : 0.923s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Portfolio & Photo Gallery  - Portfolio builder with clean, modern image gallery layouts. | Shopify App Store
+meta description : Create your perfect portfolio with our easy-to-use photo gallery app. Whether you're building an illustrator portfolio, showcasing a project portfo...
+canonical URL    : https://apps.shopify.com/k-portfolio
+<h1> tags ( 1)  : 'K: Portfolio & Photo Gallery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

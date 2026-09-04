@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\age-verifier-2_20260830T140957Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\age-verifier-2_20260830T140957Z.html
+Requested URL    : https://apps.shopify.com/age-verifier-2
+Final URL        : https://apps.shopify.com/age-verifier-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,376 bytes / 213,281 chars
+Elapsed          : 0.893s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ET Age Verification Popup 18+ - Age verification popup to restrict underage store access | Shopify App Store
+meta description : This app restricts underage visitors entering your Shopify website or specific pages with a date of birth (DOB) verification with a minimum age of 18+ or 21+.
+canonical URL    : https://apps.shopify.com/age-verifier-2
+<h1> tags ( 1)  : 'ET Age Verification Popup 18+'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

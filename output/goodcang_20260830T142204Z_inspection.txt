@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goodcang_20260830T142204Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goodcang_20260830T142204Z.html
+Requested URL    : https://apps.shopify.com/goodcang
+Final URL        : https://apps.shopify.com/goodcang
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,291 bytes / 164,452 chars
+Elapsed          : 0.901s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GoodCang - 在北美和欧洲多个地点为 DTC 和 B2B 商户提供货物存储、分拣、包装和配送服务。 | Shopify App Store
+meta description : 谷仓海外仓专注于各种产品类别的全渠道履行服务：时尚、家具、电子产品等。 我们的全球配送中心遍布北美及欧洲多个国家，其中包括位于英国和美国的两个使用 AMR（自主移动机器人）的智能配送中心。本应用支持Shopify商家，将其店铺授权后，谷仓通过自动获取订单、自动发货并回传物流追踪信息，完成其订单...
+canonical URL    : https://apps.shopify.com/goodcang?locale=zh-CN
+<h1> tags ( 1)  : 'GoodCang'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

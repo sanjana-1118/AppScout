@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goalbar-1_20260830T171951Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goalbar-1_20260830T171951Z.html
+Requested URL    : https://apps.shopify.com/goalbar-1
+Final URL        : https://apps.shopify.com/goalbar-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,654 bytes / 184,565 chars
+Elapsed          : 0.738s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GoalBar - Live bar shows cart progress toward the goal you set... | Shopify App Store
+meta description : GoalBar helps merchants who set a minimum spend or shipping threshold show shoppers how close they are to qualifying. Set amounts and messages in t...
+canonical URL    : https://apps.shopify.com/goalbar-1
+<h1> tags ( 1)  : 'GoalBar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

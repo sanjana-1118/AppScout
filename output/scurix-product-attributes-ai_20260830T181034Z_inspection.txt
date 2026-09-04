@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-product-attributes-ai_20260830T181034Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-product-attributes-ai_20260830T181034Z.html
+Requested URL    : https://apps.shopify.com/scurix-product-attributes-ai
+Final URL        : https://apps.shopify.com/scurix-product-attributes-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,644 bytes / 186,552 chars
+Elapsed          : 0.960s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scurix Product Enrichment AI - Enrich product catalogs with AI-generated attributes | Shopify App Store
+meta description : Scurix Product Enrichment AI analyzes your product catalog and generates structured product attributes automatically. The app creates Shopify metaf...
+canonical URL    : https://apps.shopify.com/scurix-product-attributes-ai
+<h1> tags ( 1)  : 'Scurix Product Enrichment AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adready-store-audit_20260830T072511Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adready-store-audit_20260830T072511Z.html
+Requested URL    : https://apps.shopify.com/adready-store-audit
+Final URL        : https://apps.shopify.com/adready-store-audit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,741 bytes / 166,652 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AD Ready Store Auditor - Find and fix store-readiness gaps before running paid ads. | Shopify App Store
+meta description : Audit product quality, policies, business identity, shipping, and storefront trust before paid ads or Google Merchant Center misrepresentation reviews.
+canonical URL    : https://apps.shopify.com/adready-store-audit
+<h1> tags ( 1)  : 'AD Ready Store Auditor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

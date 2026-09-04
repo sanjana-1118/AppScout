@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\data-feed-creator_20260830T184126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\data-feed-creator_20260830T184126Z.html
+Requested URL    : https://apps.shopify.com/data-feed-creator
+Final URL        : https://apps.shopify.com/data-feed-creator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,409 bytes / 196,306 chars
+Elapsed          : 0.792s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Data Feed Experts Feed Creator - Quickly & Easily Generate a Master Data Feed | Shopify App Store
+meta description : Create High-Performing Product Feeds in Minutes
+
+Optimised product feeds help increase visibility and drive sales. Easily improve incomplete or err...
+canonical URL    : https://apps.shopify.com/data-feed-creator
+<h1> tags ( 1)  : 'Data Feed Experts Feed Creator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

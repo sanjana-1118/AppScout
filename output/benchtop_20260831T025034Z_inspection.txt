@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\benchtop_20260831T025034Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\benchtop_20260831T025034Z.html
+Requested URL    : https://apps.shopify.com/benchtop
+Final URL        : https://apps.shopify.com/benchtop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,152 bytes / 182,063 chars
+Elapsed          : 0.593s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Benchtop Inventory & Materials - Never run out of materials, and know what you can... | Shopify App Store
+meta description : Benchtop is inventory built for Shopify makers. Track your raw materials, get low-stock alerts, see what you can make, and sync your stock automatically.
+canonical URL    : https://apps.shopify.com/benchtop
+<h1> tags ( 1)  : 'Benchtop Inventory & Materials'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

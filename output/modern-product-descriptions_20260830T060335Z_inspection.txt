@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modern-product-descriptions_20260830T060335Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modern-product-descriptions_20260830T060335Z.html
+Requested URL    : https://apps.shopify.com/modern-product-descriptions
+Final URL        : https://apps.shopify.com/modern-product-descriptions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,982 bytes / 211,885 chars
+Elapsed          : 0.801s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CB: Smart Product Descriptions - Display key features of your products, build trust & sell... | Shopify App Store
+meta description : The app enables you to boldly and effectively showcase the key features and benefits of your products to your customers in a visually appealing man...
+canonical URL    : https://apps.shopify.com/modern-product-descriptions
+<h1> tags ( 1)  : 'CB: Smart Product Descriptions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

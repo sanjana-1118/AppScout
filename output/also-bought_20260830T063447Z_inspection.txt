@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\also-bought_20260830T063447Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\also-bought_20260830T063447Z.html
+Requested URL    : https://apps.shopify.com/also-bought
+Final URL        : https://apps.shopify.com/also-bought
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,408 bytes / 213,317 chars
+Elapsed          : 0.553s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Also Bought CBB - Premium cross-sell related product recommendations | Shopify App Store
+meta description : Proven Amazon 'Customers Who Bought This Item Also Bought' recommended products widget for Shopify stores with an unmatched AI, trained and polished for years
+canonical URL    : https://apps.shopify.com/also-bought
+<h1> tags ( 1)  : 'Also Bought CBB'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

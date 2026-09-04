@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kori-tcg-manager_20260830T033947Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kori-tcg-manager_20260830T033947Z.html
+Requested URL    : https://apps.shopify.com/kori-tcg-manager
+Final URL        : https://apps.shopify.com/kori-tcg-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,905 bytes / 172,816 chars
+Elapsed          : 0.833s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kori TCG Manager - TCG listings with market prices, stock labels, and more | Shopify App Store
+meta description : Kori TCG Manager helps trading card shops list and manage inventory on Shopify. Search a card catalog to add singles and sealed products for Pokemo...
+canonical URL    : https://apps.shopify.com/kori-tcg-manager
+<h1> tags ( 1)  : 'Kori TCG Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

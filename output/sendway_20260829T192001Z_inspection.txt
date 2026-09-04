@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendway_20260829T192001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendway_20260829T192001Z.html
+Requested URL    : https://apps.shopify.com/sendway
+Final URL        : https://apps.shopify.com/sendway
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,239 bytes / 232,797 chars
+Elapsed          : 0.703s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sendway - Ship with Econt, Speedy & more - Labels, Tracking, Documents | Shopify App Store
+meta description : Pre-checkout popup for courier offices, lockers and addresses. One-click courier sending, label printing & automatic status sync.
+canonical URL    : https://apps.shopify.com/sendway
+<h1> tags ( 1)  : 'Sendway'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\algoshop-countdown-timer_20260829T184657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\algoshop-countdown-timer_20260829T184657Z.html
+Requested URL    : https://apps.shopify.com/algoshop-countdown-timer
+Final URL        : https://apps.shopify.com/algoshop-countdown-timer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 271,151 bytes / 271,030 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Algoshop Promo Countdown Timer - Smart Countdown Timer create urgency and boost sales | Shopify App Store
+meta description : Add smart, customizable countdowns to product, cart and checkout pages. Drive urgency, track real-time data & optimize conversions for flash sales
+canonical URL    : https://apps.shopify.com/algoshop-countdown-timer
+<h1> tags ( 1)  : 'Algoshop Promo Countdown Timer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

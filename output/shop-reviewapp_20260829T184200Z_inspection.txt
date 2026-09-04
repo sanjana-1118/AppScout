@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shop-reviewapp_20260829T184200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shop-reviewapp_20260829T184200Z.html
+Requested URL    : https://apps.shopify.com/shop-reviewapp
+Final URL        : https://apps.shopify.com/shop-reviewapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,868 bytes / 185,817 chars
+Elapsed          : 1.092s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Feedback｜レビューアプリ - レビュー収集からサイト表示まで一括管理、売上アップをサポート | Shopify App Store
+meta description : ストア運営において、顧客レビューは購入を後押しする重要な要素ですが、収集や整理に時間がかかり、十分に活用できないケースも少なくありません。Feedbackは、レビューを効率的に集め、管理しやすい形で表示することで、運営の手間を大幅に軽減します。
+
+テキストだけでなく、顧客が画像を添えてレビュー...
+canonical URL    : https://apps.shopify.com/shop-reviewapp?locale=ja
+<h1> tags ( 1)  : 'Feedback｜レビューアプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

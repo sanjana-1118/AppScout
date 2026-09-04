@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taocarts_20260829T183442Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taocarts_20260829T183442Z.html
+Requested URL    : https://apps.shopify.com/taocarts
+Final URL        : https://apps.shopify.com/taocarts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,751 bytes / 163,517 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taocarts - Import products from Taobao and Tmall with one click | Shopify App Store
+meta description : Taocarts for Shopify: Bridges Taobao/1688, automates tedious tasks (no manual work/order stress).
+
+Core: 1-click product/order sync, auto purchase/...
+canonical URL    : https://apps.shopify.com/taocarts
+<h1> tags ( 1)  : 'Taocarts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

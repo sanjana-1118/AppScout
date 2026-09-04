@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\beseam-sizing_20260830T045529Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\beseam-sizing_20260830T045529Z.html
+Requested URL    : https://apps.shopify.com/beseam-sizing
+Final URL        : https://apps.shopify.com/beseam-sizing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,270 bytes / 192,159 chars
+Elapsed          : 0.982s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Beseam Fit - Find the correct shoe size with cross-brand fit guidance. | Shopify App Store
+meta description : Help shoppers find the ✔ right shoe size with cross-brand fit guidance on Shopify product pages. ✔ Improve size confidence and ✔ reduce size-related returns.
+canonical URL    : https://apps.shopify.com/beseam-sizing
+<h1> tags ( 1)  : 'Beseam Fit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

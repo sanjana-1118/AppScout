@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\terms-and-conditions-checker_20260830T130056Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\terms-and-conditions-checker_20260830T130056Z.html
+Requested URL    : https://apps.shopify.com/terms-and-conditions-checker
+Final URL        : https://apps.shopify.com/terms-and-conditions-checker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,003 bytes / 173,888 chars
+Elapsed          : 0.854s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Checkify ‑ Terms & Conditions - Easily add a "terms and conditions" checkbox in your cart... | Shopify App Store
+meta description : If you have any policy that your customers need to be aware of before purchasing your products, then Checkify is exactly what you need. Once instal...
+canonical URL    : https://apps.shopify.com/terms-and-conditions-checker
+<h1> tags ( 1)  : 'Checkify ‑ Terms & Conditions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

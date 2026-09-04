@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\homebase-team-management_20260830T134347Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\homebase-team-management_20260830T134347Z.html
+Requested URL    : https://apps.shopify.com/homebase-team-management
+Final URL        : https://apps.shopify.com/homebase-team-management
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,514 bytes / 226,419 chars
+Elapsed          : 1.006s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Homebase Time Clock - Easy time tracking, payroll, scheduling & team management app | Shopify App Store
+meta description : Homebase is the everything app for hourly teams, with employee scheduling, time clocks, messaging, payroll, HR, and more. Unstoppable teams start h...
+canonical URL    : https://apps.shopify.com/homebase-team-management
+<h1> tags ( 1)  : 'Homebase Time Clock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-sms-notifications_20260830T052004Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-sms-notifications_20260830T052004Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-sms-notifications
+Final URL        : https://apps.shopify.com/whatsapp-sms-notifications
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,036 bytes / 224,888 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Alintro WA SMS Notifications - Send order updates on WhatsApp and SMS from your own... | Shopify App Store
+meta description : Send WhatsApp and SMS order notifications for every Shopify order — shipping updates, delivery alerts, COD confirmations. 30+ gateways. Free plan.
+canonical URL    : https://apps.shopify.com/whatsapp-sms-notifications
+<h1> tags ( 1)  : 'Alintro WA SMS Notifications'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

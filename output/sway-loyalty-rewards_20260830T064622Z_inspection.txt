@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sway-loyalty-rewards_20260830T064622Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sway-loyalty-rewards_20260830T064622Z.html
+Requested URL    : https://apps.shopify.com/sway-loyalty-rewards
+Final URL        : https://apps.shopify.com/sway-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,389 bytes / 222,292 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sway Loyalty, Rewards & Points - Loyalty program to reward points with VIP tiers, Referral, POS | Shopify App Store
+meta description : Boost repeat sales with a custom loyalty program: points, rewards, VIP, gift cards & referrals. Earn points for signups, purchases, social sharing, & birthdays.
+canonical URL    : https://apps.shopify.com/sway-loyalty-rewards
+<h1> tags ( 1)  : 'Sway Loyalty, Rewards & Points'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

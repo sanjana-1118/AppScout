@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearship_20260830T181435Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clearship_20260830T181435Z.html
+Requested URL    : https://apps.shopify.com/clearship
+Final URL        : https://apps.shopify.com/clearship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,216 bytes / 169,687 chars
+Elapsed          : 0.549s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ClearShip - 跨境商品编码与关税风险检查 | Shopify App Store
+meta description : ClearShip 帮助跨境商家批量检查 HS/HTS/CN 编码、原产国和关税风险，生成候选编码、证据链和可写回的关务数据。
+canonical URL    : https://apps.shopify.com/clearship?locale=zh-CN
+<h1> tags ( 1)  : 'ClearShip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

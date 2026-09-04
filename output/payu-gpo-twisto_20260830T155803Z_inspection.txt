@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payu-gpo-twisto_20260830T155803Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payu-gpo-twisto_20260830T155803Z.html
+Requested URL    : https://apps.shopify.com/payu-gpo-twisto
+Final URL        : https://apps.shopify.com/payu-gpo-twisto
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 154,588 bytes / 154,442 chars
+Elapsed          : 0.939s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PayU GPO — Twisto - Enable PayU Pay Later with Twisto | Shopify App Store
+meta description : PayU to najchętniej wybierany operator płatności online wśród sklepów internetowych w Polsce. Poznaj jedyny system płatności, którego potrzebujesz!
+canonical URL    : https://apps.shopify.com/payu-gpo-twisto
+<h1> tags ( 1)  : 'PayU GPO — Twisto'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

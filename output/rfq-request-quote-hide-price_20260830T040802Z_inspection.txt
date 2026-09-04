@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rfq-request-quote-hide-price_20260830T040802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rfq-request-quote-hide-price_20260830T040802Z.html
+Requested URL    : https://apps.shopify.com/rfq-request-quote-hide-price
+Final URL        : https://apps.shopify.com/rfq-request-quote-hide-price
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 251,310 bytes / 251,209 chars
+Elapsed          : 0.705s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RFQ Request Quote & Hide Price - Add quotation request form, hide price for your B2B store | Shopify App Store
+meta description : Let customers know product prices by enabling them to request a quote by submitting a form or call. Offer them competitive rates to have promised conversion.
+canonical URL    : https://apps.shopify.com/rfq-request-quote-hide-price
+<h1> tags ( 1)  : 'RFQ Request Quote & Hide Price'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

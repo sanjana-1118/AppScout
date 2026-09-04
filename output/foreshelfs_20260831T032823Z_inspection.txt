@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foreshelfs_20260831T032823Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foreshelfs_20260831T032823Z.html
+Requested URL    : https://apps.shopify.com/foreshelfs
+Final URL        : https://apps.shopify.com/foreshelfs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,091 bytes / 184,994 chars
+Elapsed          : 0.527s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Foreshelf - Know what to reorder, what to wait on, and why. | Shopify App Store
+meta description : Forecast stock needs, identify excess inventory and expiring batches, and review suggested purchase orders or markdowns before approving them.
+canonical URL    : https://apps.shopify.com/foreshelfs
+<h1> tags ( 1)  : 'Foreshelf'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

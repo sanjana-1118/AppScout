@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shippingiq",
+  "fetch_timestamp": "2026-08-30T19:43:19.382034+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shippingiq_20260830T194319Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shippingiq_20260830T194319Z.html",
+    "url": "https://apps.shopify.com/shippingiq",
+    "final_url": "https://apps.shopify.com/shippingiq",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 175747,
+    "body_text_length": 175658,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.010667,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "ShippingIQ Freight Calculator - Your negotiated carrier rates at checkout, built for Australia | Shopify App Store",
+    "meta_description": "ShippingIQ lets merchants use their own negotiated carrier rate cards to calculate accurate freight costs at checkout. Upload your carrier rate car...",
+    "canonical_url": "https://apps.shopify.com/shippingiq",
+    "h1_tags": [
+      "ShippingIQ Freight Calculator"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "ShippingIQ Freight Calculator",
+    "app_slug": "shippingiq",
+    "app_url": "https://apps.shopify.com/shippingiq",
+    "developer_name": "ShippingIQ - Freight Calculator",
+    "description": "ShippingIQ lets merchants use their own negotiated carrier rate cards to calculate accurate freight costs at checkout. Upload your carrier rate car...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Shipping rates"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shippingiq_20260830T194319Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shippingiq_20260830T194319Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "ShippingIQ Freight Calculator",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shippingiq",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shippingiq",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "ShippingIQ - Freight Calculator",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "ShippingIQ lets merchants use their own negotiated carrier rate cards to calculate accurate freight costs at checkout. Upload your carrier rate car...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Shipping rates",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

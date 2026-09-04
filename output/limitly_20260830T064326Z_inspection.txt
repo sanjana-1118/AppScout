@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\limitly_20260830T064326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\limitly_20260830T064326Z.html
+Requested URL    : https://apps.shopify.com/limitly
+Final URL        : https://apps.shopify.com/limitly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,027 bytes / 186,932 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Limitly - Control product quantity with min/max order limits | Shopify App Store
+meta description : Limilty is a Shopify app that helps store owners set minimum and maximum purchase limits for products.
+canonical URL    : https://apps.shopify.com/limitly
+<h1> tags ( 1)  : 'Limitly'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

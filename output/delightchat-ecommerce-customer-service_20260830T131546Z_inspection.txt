@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delightchat-ecommerce-customer-service_20260830T131546Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delightchat-ecommerce-customer-service_20260830T131546Z.html
+Requested URL    : https://apps.shopify.com/delightchat-ecommerce-customer-service
+Final URL        : https://apps.shopify.com/delightchat-ecommerce-customer-service
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,107 bytes / 245,998 chars
+Elapsed          : 0.589s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DC: WhatsApp Marketing + API - AI Chatbot for IG/FB/Email, WhatsApp Automation, Cart Recovery | Shopify App Store
+meta description : Manage Customer Service on WhatsApp, Instagram, Facebook, Email, Chat. Send WhatsApp Marketing Broadcasts & increase sales. Official WhatsApp API, Green Tick.
+canonical URL    : https://apps.shopify.com/delightchat-ecommerce-customer-service
+<h1> tags ( 1)  : 'DC: WhatsApp Marketing + API'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

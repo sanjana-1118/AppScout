@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\go-upsell_20260830T184344Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\go-upsell_20260830T184344Z.html
+Requested URL    : https://apps.shopify.com/go-upsell
+Final URL        : https://apps.shopify.com/go-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,343 bytes / 165,242 chars
+Elapsed          : 0.899s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Go Upsell - A simple, lightweight upsell for small & growing stores | Shopify App Store
+meta description : Go Upsell adds a simple upsell to your store. Choose one product from your catalogue, set a percentage discount, and it appears as a clean block on...
+canonical URL    : https://apps.shopify.com/go-upsell
+<h1> tags ( 1)  : 'Go Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

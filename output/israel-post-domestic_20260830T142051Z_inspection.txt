@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\israel-post-domestic_20260830T142051Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\israel-post-domestic_20260830T142051Z.html
+Requested URL    : https://apps.shopify.com/israel-post-domestic
+Final URL        : https://apps.shopify.com/israel-post-domestic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,961 bytes / 165,872 chars
+Elapsed          : 0.510s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Israel Post Domestic - Seamlessly sync orders with Israel Post Domestic. | Shopify App Store
+meta description : Transform Your Shipping Workflow: Our app is a game-changer for e-commerce, particularly high-volume businesses. Automate order processing, minimiz...
+canonical URL    : https://apps.shopify.com/israel-post-domestic
+<h1> tags ( 1)  : 'Israel Post Domestic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rtsflow_20260830T163531Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rtsflow_20260830T163531Z.html
+Requested URL    : https://apps.shopify.com/rtsflow
+Final URL        : https://apps.shopify.com/rtsflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,827 bytes / 182,721 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RtsFlow ‑ Request to Supplier - Stop manual emails. Automate and track supplier requests. | Shopify App Store
+meta description : Automate "Request to Supplier" emails directly from Shopify. Streamline vendor communication, track request volumes, and manage supplier limits in one click.
+canonical URL    : https://apps.shopify.com/rtsflow
+<h1> tags ( 1)  : 'RtsFlow ‑ Request to Supplier'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

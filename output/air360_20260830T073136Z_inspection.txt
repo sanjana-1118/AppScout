@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\air360_20260830T073136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\air360_20260830T073136Z.html
+Requested URL    : https://apps.shopify.com/air360
+Final URL        : https://apps.shopify.com/air360
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,157 bytes / 180,064 chars
+Elapsed          : 0.711s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Air360 | CRO - Understand your users and boost your conversion rate | Shopify App Store
+meta description : With this app, you can collect more key events on pages that Shopify restricts tracking pixel, like the checkout page! Collect insight on these pag...
+canonical URL    : https://apps.shopify.com/air360
+<h1> tags ( 1)  : 'Air360 | CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

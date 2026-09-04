@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mail-scale_20260831T024118Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mail-scale_20260831T024118Z.html
+Requested URL    : https://apps.shopify.com/mail-scale
+Final URL        : https://apps.shopify.com/mail-scale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,962 bytes / 204,871 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MailScale - Email marketing agency in ONE tool  | Shopify App Store
+meta description : You're probably leaving money on the table with lazy email marketing. MailScale fixes that. 
+
+Tell the Mail Scale what you're promoting and get bac...
+canonical URL    : https://apps.shopify.com/mail-scale
+<h1> tags ( 1)  : 'MailScale'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

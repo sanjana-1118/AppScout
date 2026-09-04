@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartaccounts-sync_20260830T070459Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartaccounts-sync_20260830T070459Z.html
+Requested URL    : https://apps.shopify.com/smartaccounts-sync
+Final URL        : https://apps.shopify.com/smartaccounts-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,370 bytes / 162,258 chars
+Elapsed          : 0.555s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopiliides – SmartAccounts - All-in-one accounting sync for Smartaccounts software.  | Shopify App Store
+meta description : Automatically sync Shopify orders to SmartAccounts as invoices, payments, and credit notes. Built specifically for Estonian merchants. No manual data entry.
+canonical URL    : https://apps.shopify.com/smartaccounts-sync
+<h1> tags ( 1)  : 'Shopiliides – SmartAccounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

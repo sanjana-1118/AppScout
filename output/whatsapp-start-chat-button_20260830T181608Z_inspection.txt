@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-start-chat-button_20260830T181608Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-start-chat-button_20260830T181608Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-start-chat-button
+Final URL        : https://apps.shopify.com/whatsapp-start-chat-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,079 bytes / 164,985 chars
+Elapsed          : 0.913s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WhatsApp Chat Button - Connect shoppers to your team on WhatsApp | Shopify App Store
+meta description : Add a customizable WhatsApp chat button to your Shopify store so shoppers can start conversations instantly on mobile or desktop.
+canonical URL    : https://apps.shopify.com/whatsapp-start-chat-button
+<h1> tags ( 1)  : 'WhatsApp Chat Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

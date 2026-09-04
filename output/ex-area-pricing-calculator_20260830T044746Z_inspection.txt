@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ex-area-pricing-calculator_20260830T044746Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ex-area-pricing-calculator_20260830T044746Z.html
+Requested URL    : https://apps.shopify.com/ex-area-pricing-calculator
+Final URL        : https://apps.shopify.com/ex-area-pricing-calculator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,830 bytes / 175,737 chars
+Elapsed          : 1.166s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ex Area Pricing Calculator - Calculate product prices based on area in supported units | Shopify App Store
+meta description : The Area Pricing Calculator lets customers calculate product prices based on area by entering custom measurements in supported units. Perfect for s...
+canonical URL    : https://apps.shopify.com/ex-area-pricing-calculator
+<h1> tags ( 1)  : 'Ex Area Pricing Calculator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

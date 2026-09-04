@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onexfy_20260830T143340Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onexfy_20260830T143340Z.html
+Requested URL    : https://apps.shopify.com/onexfy
+Final URL        : https://apps.shopify.com/onexfy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,629 bytes / 179,496 chars
+Elapsed          : 1.340s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Onexfy - Software administrativo y logístico para manejo de tu negocio | Shopify App Store
+meta description : El plugin te ayuda a darle gestión a tus ventas de la tienda en el sistema para que mantengas organizado tu negocio y conozcas en tiempo real desde...
+canonical URL    : https://apps.shopify.com/onexfy?locale=es
+<h1> tags ( 1)  : 'Onexfy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

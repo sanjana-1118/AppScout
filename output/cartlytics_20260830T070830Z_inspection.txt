@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartlytics_20260830T070830Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartlytics_20260830T070830Z.html
+Requested URL    : https://apps.shopify.com/cartlytics
+Final URL        : https://apps.shopify.com/cartlytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,669 bytes / 231,560 chars
+Elapsed          : 0.793s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cartlytics ‑ Cart Analytics - Live carts in real time: add to cart tracking &... | Shopify App Store
+meta description : Cartlytics shows every cart in your Shopify store in real time: live add to carts, customer journeys, UTM tracking & cart recovery emails. Free to install.
+canonical URL    : https://apps.shopify.com/cartlytics
+<h1> tags ( 1)  : 'Cartlytics ‑ Cart Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taptop-scroll_20260831T030232Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taptop-scroll_20260831T030232Z.html
+Requested URL    : https://apps.shopify.com/taptop-scroll
+Final URL        : https://apps.shopify.com/taptop-scroll
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,903 bytes / 161,796 chars
+Elapsed          : 1.066s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nezify ‑ TapTop Scroll - No-code scroll button and reading progress bar | Shopify App Store
+meta description : Add a no-code scroll-to-top button and reading progress bar to your Shopify storefront. Configure the style, placement, mobile size, and page targeting.
+canonical URL    : https://apps.shopify.com/taptop-scroll
+<h1> tags ( 1)  : 'Nezify ‑ TapTop Scroll'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

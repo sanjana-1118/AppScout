@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datafeedwatch_20260829T175620Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datafeedwatch_20260829T175620Z.html
+Requested URL    : https://apps.shopify.com/datafeedwatch
+Final URL        : https://apps.shopify.com/datafeedwatch
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,934 bytes / 228,837 chars
+Elapsed          : 0.462s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Data Feed Watch Shopping Feeds - Product feeds for Google Shopping, Facebook feed, Bing & more | Shopify App Store
+meta description : DataFeedWatch Shopping Feeds lets you create and optimize your product data feeds across channels, including Google shopping, Instagram, Facebook, and Pinterest
+canonical URL    : https://apps.shopify.com/datafeedwatch
+<h1> tags ( 1)  : 'Data Feed Watch Shopping Feeds'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shipping-csv-exporter",
+  "fetch_timestamp": "2026-08-30T03:22:53.839906+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shipping-csv-exporter_20260830T032253Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shipping-csv-exporter_20260830T032253Z.html",
+    "url": "https://apps.shopify.com/shipping-csv-exporter",
+    "final_url": "https://apps.shopify.com/shipping-csv-exporter",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 186385,
+    "body_text_length": 182578,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.839161,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "ストアシス送り状CSV｜B2クラウド・e飛伝対応 - 日本向け配送CSVをかんたん作成 | Shopify App Store",
+    "meta_description": "Shopify注文からヤマトB2クラウド、佐川e飛伝、日本郵便、クリックポスト、エコ配向けの配送CSVを作成。CP932出力と出力前チェックに対応。",
+    "canonical_url": "https://apps.shopify.com/shipping-csv-exporter?locale=ja",
+    "h1_tags": [
+      "ストアシス送り状CSV｜B2クラウド・e飛伝対応"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "ストアシス送り状CSV｜B2クラウド・e飛伝対応",
+    "app_slug": "shipping-csv-exporter",
+    "app_url": "https://apps.shopify.com/shipping-csv-exporter?locale=ja",
+    "developer_name": "COASTER",
+    "description": "Shopify注文からヤマトB2クラウド、佐川e飛伝、日本郵便、クリックポスト、エコ配向けの配送CSVを作成。CP932出力と出力前チェックに対応。",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Shipping"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shipping-csv-exporter_20260830T032253Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shipping-csv-exporter_20260830T032253Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "ストアシス送り状CSV｜B2クラウド・e飛伝対応",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shipping-csv-exporter",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shipping-csv-exporter?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "COASTER",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Shopify注文からヤマトB2クラウド、佐川e飛伝、日本郵便、クリックポスト、エコ配向けの配送CSVを作成。CP932出力と出力前チェックに対応。",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Shipping",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

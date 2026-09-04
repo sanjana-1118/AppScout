@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ratetell_20260830T163721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ratetell_20260830T163721Z.html
+Requested URL    : https://apps.shopify.com/ratetell
+Final URL        : https://apps.shopify.com/ratetell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,741 bytes / 186,630 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RateTell — DDP & Landed Cost - Live rates with duties, taxes & AI HS code classification. | Shopify App Store
+meta description : Show live carrier rates with duties & taxes included at checkout. AI-powered HS code classification. Smart packing. Zero coding required.
+canonical URL    : https://apps.shopify.com/ratetell
+<h1> tags ( 1)  : 'RateTell — DDP & Landed Cost'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

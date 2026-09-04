@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coderift-add-head-body-code_20260830T060254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coderift-add-head-body-code_20260830T060254Z.html
+Requested URL    : https://apps.shopify.com/coderift-add-head-body-code
+Final URL        : https://apps.shopify.com/coderift-add-head-body-code
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,541 bytes / 174,444 chars
+Elapsed          : 0.463s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CodeRift: Add Head Code - Easily edit and add head code and body code of... | Shopify App Store
+meta description : add custom code that belongs in the HEAD or BODY section of your store without editing your theme.
+canonical URL    : https://apps.shopify.com/coderift-add-head-body-code
+<h1> tags ( 1)  : 'CodeRift: Add Head Code'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

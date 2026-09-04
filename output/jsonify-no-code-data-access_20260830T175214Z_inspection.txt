@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jsonify-no-code-data-access_20260830T175214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jsonify-no-code-data-access_20260830T175214Z.html
+Requested URL    : https://apps.shopify.com/jsonify-no-code-data-access
+Final URL        : https://apps.shopify.com/jsonify-no-code-data-access
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,637 bytes / 164,524 chars
+Elapsed          : 0.875s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JSONify ‑ No Code Data Access - Securely share order and product data as JSON. | Shopify App Store
+meta description : Create a secure JSON endpoint for order and product data without code. Choose fields, control access, and share data with tools and dashboards.
+canonical URL    : https://apps.shopify.com/jsonify-no-code-data-access
+<h1> tags ( 1)  : 'JSONify ‑ No Code Data Access'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

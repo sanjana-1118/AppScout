@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avivi-ai-review-summary_20260829T184307Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avivi-ai-review-summary_20260829T184307Z.html
+Requested URL    : https://apps.shopify.com/avivi-ai-review-summary
+Final URL        : https://apps.shopify.com/avivi-ai-review-summary
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,909 bytes / 170,822 chars
+Elapsed          : 1.255s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avivi AI Review Summary - AI-generated review summaries with key pros and cons lists | Shopify App Store
+meta description : Avivi AI Review Summary helps merchants transform overwhelming customer feedback into clear insights. Instead of reading through hundreds of review...
+canonical URL    : https://apps.shopify.com/avivi-ai-review-summary
+<h1> tags ( 1)  : 'Avivi AI Review Summary'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

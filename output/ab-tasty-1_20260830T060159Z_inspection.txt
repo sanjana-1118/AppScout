@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ab-tasty-1_20260830T060159Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ab-tasty-1_20260830T060159Z.html
+Requested URL    : https://apps.shopify.com/ab-tasty-1
+Final URL        : https://apps.shopify.com/ab-tasty-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,025 bytes / 195,931 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AB Tasty | CRO & A/B Testing - Sync key events to AB Tasty & launch no-code tests... | Shopify App Store
+meta description : AB Tasty helps merchants improve their stores by tracking visitor behaviour and sending data to AB Tasty dashboards. It turns standard Shopify even...
+canonical URL    : https://apps.shopify.com/ab-tasty-1
+<h1> tags ( 1)  : 'AB Tasty | CRO & A/B Testing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

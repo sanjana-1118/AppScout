@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\glasses-virtual-try-on-by-fittingbox_20260830T061754Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\glasses-virtual-try-on-by-fittingbox_20260830T061754Z.html
+Requested URL    : https://apps.shopify.com/glasses-virtual-try-on-by-fittingbox
+Final URL        : https://apps.shopify.com/glasses-virtual-try-on-by-fittingbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,081 bytes / 209,960 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fittingbox Virtual Try‑On - Accurate Glasses Virtual Try-On to boost your online sales | Shopify App Store
+meta description : Enhance your online store with the most realistic Virtual Try-On for eyewear. The try-before-you-buy experience that drives users to buy glasses confidently.
+canonical URL    : https://apps.shopify.com/glasses-virtual-try-on-by-fittingbox
+<h1> tags ( 1)  : 'Fittingbox Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

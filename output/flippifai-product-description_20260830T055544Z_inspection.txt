@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flippifai-product-description_20260830T055544Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flippifai-product-description_20260830T055544Z.html
+Requested URL    : https://apps.shopify.com/flippifai-product-description
+Final URL        : https://apps.shopify.com/flippifai-product-description
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,008 bytes / 182,918 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GPT5: AI Product Description - AI-auto generate titles, descriptions and tags. SEO Booster! | Shopify App Store
+meta description : Transform your Shopify product listings with AI-powered description and title generation that works directly from your product images.
+canonical URL    : https://apps.shopify.com/flippifai-product-description
+<h1> tags ( 1)  : 'GPT5: AI Product Description'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

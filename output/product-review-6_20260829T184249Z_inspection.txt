@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-review-6_20260829T184249Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-review-6_20260829T184249Z.html
+Requested URL    : https://apps.shopify.com/product-review-6
+Final URL        : https://apps.shopify.com/product-review-6
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,453 bytes / 183,354 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Milople Product review - Drive sales with custom reviews and automated email reminders | Shopify App Store
+meta description : Add star ratings, customizable review layouts, and automated review reminder emails to your store with Milople Review – no code needed.
+canonical URL    : https://apps.shopify.com/product-review-6
+<h1> tags ( 1)  : 'Milople Product review'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

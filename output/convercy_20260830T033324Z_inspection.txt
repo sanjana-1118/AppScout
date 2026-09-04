@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convercy_20260830T033324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convercy_20260830T033324Z.html
+Requested URL    : https://apps.shopify.com/convercy
+Final URL        : https://apps.shopify.com/convercy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 237,262 bytes / 237,147 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CVC ‑ Multi Currency Converter - Easy global sales with currency switcher & language translate | Shopify App Store
+meta description : Location-based currency conversion + AI language translation in one app to boost international sales. Top-rated localization app on Shopify. Install free now!
+canonical URL    : https://apps.shopify.com/convercy
+<h1> tags ( 1)  : 'CVC ‑ Multi Currency Converter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

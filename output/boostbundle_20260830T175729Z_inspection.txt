@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostbundle_20260830T175729Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostbundle_20260830T175729Z.html
+Requested URL    : https://apps.shopify.com/boostbundle
+Final URL        : https://apps.shopify.com/boostbundle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,601 bytes / 176,441 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BoostBundle ‑ Volume Discount - Add quantity bundle offers to your products and boost your... | Shopify App Store
+meta description : BoostBundle te permite crear ofertas de bundle por cantidad directamente en tus fichas de producto. Define precios personalizados para 1, 2 o más u...
+canonical URL    : https://apps.shopify.com/boostbundle?locale=es
+<h1> tags ( 1)  : 'BoostBundle ‑ Volume Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

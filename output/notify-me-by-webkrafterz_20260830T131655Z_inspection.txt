@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notify-me-by-webkrafterz_20260830T131655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notify-me-by-webkrafterz_20260830T131655Z.html
+Requested URL    : https://apps.shopify.com/notify-me-by-webkrafterz
+Final URL        : https://apps.shopify.com/notify-me-by-webkrafterz
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,662 bytes / 173,573 chars
+Elapsed          : 0.912s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NotifyMe - Store owners, now get text messages for various store events... | Shopify App Store
+meta description : NotifyMe can be very useful when you want to receive the notifications of your orders, customers, shipments, etc. via text messages.
+
+This app can ...
+canonical URL    : https://apps.shopify.com/notify-me-by-webkrafterz
+<h1> tags ( 1)  : 'NotifyMe'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

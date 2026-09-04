@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\klarna_20260830T043831Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\klarna_20260830T043831Z.html
+Requested URL    : https://apps.shopify.com/klarna
+Final URL        : https://apps.shopify.com/klarna
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,862 bytes / 191,749 chars
+Elapsed          : 0.572s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Klarna - Easily integrate flexible payment options for your shoppers. | Shopify App Store
+meta description : Grow your business with Klarna’s flexible payment options—pay in full, pay later or financing. Klarna gives your customers more choice at checkout,...
+canonical URL    : https://apps.shopify.com/klarna
+<h1> tags ( 1)  : 'Klarna'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

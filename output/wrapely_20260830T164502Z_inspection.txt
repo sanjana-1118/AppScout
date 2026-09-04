@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wrapely_20260830T164502Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wrapely_20260830T164502Z.html
+Requested URL    : https://apps.shopify.com/wrapely
+Final URL        : https://apps.shopify.com/wrapely
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,268 bytes / 179,171 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wrapely - Turn your store into a branded iOS and Android app | Shopify App Store
+meta description : Convert your store into a branded iOS and Android app. Generate APK and AAB builds, customize branding, and launch on the App Store and Google Play.
+canonical URL    : https://apps.shopify.com/wrapely
+<h1> tags ( 1)  : 'Wrapely'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

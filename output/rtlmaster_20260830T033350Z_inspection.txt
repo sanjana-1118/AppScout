@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rtlmaster_20260830T033350Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rtlmaster_20260830T033350Z.html
+Requested URL    : https://apps.shopify.com/rtlmaster
+Final URL        : https://apps.shopify.com/rtlmaster
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,262 bytes / 230,945 chars
+Elapsed          : 0.627s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RTL Master: עברית / عربي  - Translate And Transform Your Store To RTL | Shopify App Store
+meta description : RTL Master gives you everything you need for a Shopify store in Hebrew, Arabic, or multiple languages.
+Providing RTL layout for every theme, and en...
+canonical URL    : https://apps.shopify.com/rtlmaster
+<h1> tags ( 1)  : 'RTL Master: עברית / عربي'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

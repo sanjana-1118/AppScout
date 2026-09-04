@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfyld-3pl-fulfillment_20260830T151329Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfyld-3pl-fulfillment_20260830T151329Z.html
+Requested URL    : https://apps.shopify.com/fulfyld-3pl-fulfillment
+Final URL        : https://apps.shopify.com/fulfyld-3pl-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,940 bytes / 166,851 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fulfyld 3PL Fulfillment - Fulfyld provides scalable solutions with exceptional support | Shopify App Store
+meta description : Fulfyld helps your eCommerce brand thrive with tailored fulfillment solutions that ensure accuracy, efficiency, and superior customer experiences.
+canonical URL    : https://apps.shopify.com/fulfyld-3pl-fulfillment
+<h1> tags ( 1)  : 'Fulfyld 3PL Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

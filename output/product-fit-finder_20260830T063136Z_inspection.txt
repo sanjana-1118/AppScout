@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-fit-finder_20260830T063136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-fit-finder_20260830T063136Z.html
+Requested URL    : https://apps.shopify.com/product-fit-finder
+Final URL        : https://apps.shopify.com/product-fit-finder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,106 bytes / 195,985 chars
+Elapsed          : 0.909s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Codizex ‑ Product Fit Finder - Custom compatibility finder for any product type or industry. | Shopify App Store
+meta description : Build a custom compatibility finder for your Shopify store. Customers select their options and instantly find matching products. Free plan available.
+canonical URL    : https://apps.shopify.com/product-fit-finder
+<h1> tags ( 1)  : 'Codizex ‑ Product Fit Finder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

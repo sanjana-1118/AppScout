@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-08-31T05:23:43.720384+00:00",
+  "frontier_file": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\frontier\\reconcile_1_app.json",
+  "total_frontier_apps": 1,
+  "apps_selected_in_batch": 1,
+  "total_accounted_apps": 1,
+  "unaccounted_apps": 0,
+  "metrics": {
+    "apps_succeeded_in_db": 1,
+    "apps_skipped_fresh": 0,
+    "validation_failures": 0,
+    "not_found_or_delisted_404": 0,
+    "rate_limited_429": 0,
+    "network_failures": 0,
+    "other_failures": 0,
+    "snapshots_reused": 1,
+    "new_http_requests": 0,
+    "retries_attempted": 0
+  },
+  "performance": {
+    "workers": 1,
+    "global_delay": 1.0,
+    "total_runtime_seconds": 0.61,
+    "average_throughput_apps_per_min": 97.95
+  }
+}

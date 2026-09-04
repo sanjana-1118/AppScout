@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doddle_20260830T052537Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doddle_20260830T052537Z.html
+Requested URL    : https://apps.shopify.com/doddle
+Final URL        : https://apps.shopify.com/doddle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,280 bytes / 205,185 chars
+Elapsed          : 0.829s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inmar Package Free Returns - Lets customers drop returns at 3k+ places package & label... | Shopify App Store
+meta description : Return ecommerce purchases at more than 3000 US locations to reduce costs, boost shopper loyalty and improve sustainability.
+canonical URL    : https://apps.shopify.com/doddle
+<h1> tags ( 1)  : 'Inmar Package Free Returns'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

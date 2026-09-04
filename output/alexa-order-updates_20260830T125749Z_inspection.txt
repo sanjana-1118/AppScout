@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alexa-order-updates_20260830T125749Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alexa-order-updates_20260830T125749Z.html
+Requested URL    : https://apps.shopify.com/alexa-order-updates
+Final URL        : https://apps.shopify.com/alexa-order-updates
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,755 bytes / 164,658 chars
+Elapsed          : 0.882s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ping: Order Updates with Alexa - Customer order & delivery updates to an Alexa enabled device | Shopify App Store
+meta description : The number of households with an Alexa device is the highest it's ever been.
+
+Give your customers more control with Ping: Order Updates with Alexa....
+canonical URL    : https://apps.shopify.com/alexa-order-updates
+<h1> tags ( 1)  : 'Ping: Order Updates with Alexa'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

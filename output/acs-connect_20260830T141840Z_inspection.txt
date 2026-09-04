@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\acs-connect_20260830T141840Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\acs-connect_20260830T141840Z.html
+Requested URL    : https://apps.shopify.com/acs-connect
+Final URL        : https://apps.shopify.com/acs-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,687 bytes / 157,596 chars
+Elapsed          : 0.935s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ACS Connect - Syncs your orders with personalized Advatix CloudSuite | Shopify App Store
+meta description : This App is for specific merchants who buys Advatix Cloudsuite facilities. Main features for this App are: 
+- Place order on shopify and it will pa...
+canonical URL    : https://apps.shopify.com/acs-connect
+<h1> tags ( 1)  : 'ACS Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

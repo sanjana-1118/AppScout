@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\charla-live-chat_20260830T130413Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\charla-live-chat_20260830T130413Z.html
+Requested URL    : https://apps.shopify.com/charla-live-chat
+Final URL        : https://apps.shopify.com/charla-live-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,107 bytes / 224,993 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Charla Live Chat - Never miss a lead. Deliver the Best Support. | Shopify App Store
+meta description : Charla is your all-in-one AI customer support app for Shopify—bringing live chat, smart AI chatbots, and full omnichannel messaging (WhatsApp, Inst...
+canonical URL    : https://apps.shopify.com/charla-live-chat
+<h1> tags ( 1)  : 'Charla Live Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

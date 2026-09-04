@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blend-store-translation_20260830T033502Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blend-store-translation_20260830T033502Z.html
+Requested URL    : https://apps.shopify.com/blend-store-translation
+Final URL        : https://apps.shopify.com/blend-store-translation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,253 bytes / 185,122 chars
+Elapsed          : 0.527s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BLEND ‑ Store Translation - End-to-End localization platform for global brands | Shopify App Store
+meta description : Expand your business to new markets with completely accurate translations that leverage BOTH AI innovations and professional human translators. BLE...
+canonical URL    : https://apps.shopify.com/blend-store-translation
+<h1> tags ( 1)  : 'BLEND ‑ Store Translation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

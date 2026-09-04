@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\99minds-gift-card-loyalty-referral_20260830T064540Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\99minds-gift-card-loyalty-referral_20260830T064540Z.html
+Requested URL    : https://apps.shopify.com/99minds-gift-card-loyalty-referral
+Final URL        : https://apps.shopify.com/99minds-gift-card-loyalty-referral
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 244,250 bytes / 244,153 chars
+Elapsed          : 1.105s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 99minds Gift Card & Loyalty - Launch a Physical & Digital Gift Card Program | Shopify App Store
+meta description : All-in-one gift card & loyalty, memberships, store credit, referrals and mobile wallet passes. Increase AOV, conversions and customer lifetime value.
+canonical URL    : https://apps.shopify.com/99minds-gift-card-loyalty-referral
+<h1> tags ( 1)  : '99minds Gift Card & Loyalty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mamba_20260830T132349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mamba_20260830T132349Z.html
+Requested URL    : https://apps.shopify.com/mamba
+Final URL        : https://apps.shopify.com/mamba
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,445 bytes / 207,260 chars
+Elapsed          : 0.932s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MambaSMS Email &SMS Marketing - Email/SMS marketing improves conversion rates and increases us | Shopify App Store
+meta description : edm
+canonical URL    : https://apps.shopify.com/mamba?locale=zh-CN
+<h1> tags ( 1)  : 'MambaSMS Email &SMS Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

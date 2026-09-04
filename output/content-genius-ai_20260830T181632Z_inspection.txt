@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\content-genius-ai_20260830T181632Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\content-genius-ai_20260830T181632Z.html
+Requested URL    : https://apps.shopify.com/content-genius-ai
+Final URL        : https://apps.shopify.com/content-genius-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,749 bytes / 178,653 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Content Genius AI - Automate SEO, product descriptions, and viral video scripts. | Shopify App Store
+meta description : Content Genius AI instantly generates SEO titles, meta descriptions, product descriptions, and TikTok/Reels video scripts for your products. AI SEO...
+canonical URL    : https://apps.shopify.com/content-genius-ai
+<h1> tags ( 1)  : 'Content Genius AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

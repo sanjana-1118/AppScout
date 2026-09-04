@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cargoweb_20260830T154222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cargoweb_20260830T154222Z.html
+Requested URL    : https://apps.shopify.com/cargoweb
+Final URL        : https://apps.shopify.com/cargoweb
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,525 bytes / 151,399 chars
+Elapsed          : 0.653s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cargoweb - Sincroniza pedidos y gestiona envíos desde un solo panel | Shopify App Store
+meta description : Conecta tu tienda con CargoMart y automatiza la generación de guías de envío. Cada vez que recibas un pedido, podrás crear la guía correspondiente ...
+canonical URL    : https://apps.shopify.com/cargoweb?locale=es
+<h1> tags ( 1)  : 'Cargoweb'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

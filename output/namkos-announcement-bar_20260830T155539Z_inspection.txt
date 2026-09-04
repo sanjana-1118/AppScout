@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\namkos-announcement-bar_20260830T155539Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\namkos-announcement-bar_20260830T155539Z.html
+Requested URL    : https://apps.shopify.com/namkos-announcement-bar
+Final URL        : https://apps.shopify.com/namkos-announcement-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,868 bytes / 180,779 chars
+Elapsed          : 0.561s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Namkos Announcement Bar - Show promotions clearly with customisable announcement bars | Shopify App Store
+meta description : Show promotions with announcement bars. Target specific pages, add a CTA or coupon, and track views in the app. No code required.
+canonical URL    : https://apps.shopify.com/namkos-announcement-bar
+<h1> tags ( 1)  : 'Namkos Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

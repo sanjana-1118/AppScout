@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\squiz_20260830T071533Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\squiz_20260830T071533Z.html
+Requested URL    : https://apps.shopify.com/squiz
+Final URL        : https://apps.shopify.com/squiz
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,196 bytes / 204,107 chars
+Elapsed          : 0.625s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Squiz Post Purchase Survey - Post-purchase surveys that reveal why customers buy | Shopify App Store
+meta description : Post-purchase surveys for Shopify stores. Discover which channels, campaigns, and products drive sales and see exactly why customers buy.
+canonical URL    : https://apps.shopify.com/squiz
+<h1> tags ( 1)  : 'Squiz Post Purchase Survey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

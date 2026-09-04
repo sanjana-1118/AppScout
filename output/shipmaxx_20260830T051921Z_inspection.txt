@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipmaxx_20260830T051921Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipmaxx_20260830T051921Z.html
+Requested URL    : https://apps.shopify.com/shipmaxx
+Final URL        : https://apps.shopify.com/shipmaxx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,581 bytes / 173,492 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipMaxx: Simplified Shipping  - Streamline Online Orders & Last-Mile Shipping for E-Commerce | Shopify App Store
+meta description : Order management software with streamlined shipping for growing e-commerce businesses. It integrates seamlessly with multiple marketplaces.
+canonical URL    : https://apps.shopify.com/shipmaxx
+<h1> tags ( 1)  : 'ShipMaxx: Simplified Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

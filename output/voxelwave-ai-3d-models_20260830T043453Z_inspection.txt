@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voxelwave-ai-3d-models_20260830T043453Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voxelwave-ai-3d-models_20260830T043453Z.html
+Requested URL    : https://apps.shopify.com/voxelwave-ai-3d-models
+Final URL        : https://apps.shopify.com/voxelwave-ai-3d-models
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,299 bytes / 192,195 chars
+Elapsed          : 0.957s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Voxelwave AI: 3D models & AR - Boost sales with 3D models and AR | Shopify App Store
+meta description : Upgrade your product visuals with an intuitive, all-in-one platform for 3D and augmented reality. Whether you're just starting with flat images or ...
+canonical URL    : https://apps.shopify.com/voxelwave-ai-3d-models
+<h1> tags ( 1)  : 'Voxelwave AI: 3D models & AR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

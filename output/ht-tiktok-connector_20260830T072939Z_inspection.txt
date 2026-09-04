@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ht-tiktok-connector_20260830T072939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ht-tiktok-connector_20260830T072939Z.html
+Requested URL    : https://apps.shopify.com/ht-tiktok-connector
+Final URL        : https://apps.shopify.com/ht-tiktok-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,908 bytes / 202,818 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HT Multi Store Connector - Sync marketplace products, orders, and analytics in one hub. | Shopify App Store
+meta description : Connect Temu, TikTok Shop, and Wix to sync products, import orders, and track channel analytics from one workspace
+canonical URL    : https://apps.shopify.com/ht-tiktok-connector
+<h1> tags ( 1)  : 'HT Multi Store Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

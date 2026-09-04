@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commercive-full_20260830T051054Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\commercive-full_20260830T051054Z.html
+Requested URL    : https://apps.shopify.com/commercive-full
+Final URL        : https://apps.shopify.com/commercive-full
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,382 bytes / 180,291 chars
+Elapsed          : 0.689s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Commercive Fulfillment - Automatic order, inventory, and tracking sync for your 3PL. | Shopify App Store
+meta description : Commercive connects your Shopify store to your Commercive third party logistics account, so you do not have to manage fulfillment by hand. Orders f...
+canonical URL    : https://apps.shopify.com/commercive-full
+<h1> tags ( 1)  : 'Commercive Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

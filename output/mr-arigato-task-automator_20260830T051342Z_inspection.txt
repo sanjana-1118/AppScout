@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mr-arigato-task-automator_20260830T051342Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mr-arigato-task-automator_20260830T051342Z.html
+Requested URL    : https://apps.shopify.com/mr-arigato-task-automator
+Final URL        : https://apps.shopify.com/mr-arigato-task-automator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 245,363 bytes / 245,274 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Arigato Automation - Custom workflows & pre-built flow library for easy automation | Shopify App Store
+meta description : Automate your store & backend operations with the no-code or DIY flows and workflows your store really needs. Get started fast and integrate with top apps & AI
+canonical URL    : https://apps.shopify.com/mr-arigato-task-automator
+<h1> tags ( 1)  : 'Arigato Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

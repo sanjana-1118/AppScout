@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stocksentry-1_20260830T185454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stocksentry-1_20260830T185454Z.html
+Requested URL    : https://apps.shopify.com/stocksentry-1
+Final URL        : https://apps.shopify.com/stocksentry-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,756 bytes / 191,571 chars
+Elapsed          : 1.092s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockSentry ‑ Back in Stock - Theme-safe back-in-stock alerts & pre-orders, no overselling | Shopify App Store
+meta description : Every sold‑out product is a missed sale. StockSentry brings shoppers back automatically and keeps you selling while you restock.
+
+Shoppers click “N...
+canonical URL    : https://apps.shopify.com/stocksentry-1
+<h1> tags ( 1)  : 'StockSentry ‑ Back in Stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

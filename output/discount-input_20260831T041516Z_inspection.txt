@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-input_20260831T041516Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-input_20260831T041516Z.html
+Requested URL    : https://apps.shopify.com/discount-input
+Final URL        : https://apps.shopify.com/discount-input
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,123 bytes / 211,034 chars
+Elapsed          : 1.020s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DF: Discount on Cart Input - Boost conversions w/ discount on cart drawer & cart page | Shopify App Store
+meta description : Add a discount code field to cart drawer and anywhere else to improve conversion and user experience!
+canonical URL    : https://apps.shopify.com/discount-input
+<h1> tags ( 1)  : 'DF: Discount on Cart Input'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

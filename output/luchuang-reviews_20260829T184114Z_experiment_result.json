@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/luchuang-reviews",
+  "fetch_timestamp": "2026-08-29T18:41:14.925508+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luchuang-reviews_20260829T184114Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luchuang-reviews_20260829T184114Z.html",
+    "url": "https://apps.shopify.com/luchuang-reviews",
+    "final_url": "https://apps.shopify.com/luchuang-reviews",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 170124,
+    "body_text_length": 167819,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.678215,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "LuChuang Reviews - 做中国人自己的 应用，长期免费提供核心功能 | Shopify App Store",
+    "meta_description": "LuChuang Reviews 是一款面向中国卖家的免费 Shopify 评论应用，帮助商家快速搭建“评价采集 + 审核 + 展示”闭环。\n应用支持商品评论、星级评分、图片/视频上传，并提供清晰的评论管理后台，商家可进行审核、发布与状态管理。\n前台可通过评论组件展示真实用户反馈，增强社交信任...",
+    "canonical_url": "https://apps.shopify.com/luchuang-reviews?locale=zh-CN",
+    "h1_tags": [
+      "LuChuang Reviews"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "LuChuang Reviews",
+    "app_slug": "luchuang-reviews",
+    "app_url": "https://apps.shopify.com/luchuang-reviews?locale=zh-CN",
+    "developer_name": "深圳市璐创科技有限公司",
+    "description": "LuChuang Reviews 是一款面向中国卖家的免费 Shopify 评论应用，帮助商家快速搭建“评价采集 + 审核 + 展示”闭环。\n应用支持商品评论、星级评分、图片/视频上传，并提供清晰的评论管理后台，商家可进行审核、发布与状态管理。\n前台可通过评论组件展示真实用户反馈，增强社交信任...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Product reviews"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luchuang-reviews_20260829T184114Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\luchuang-reviews_20260829T184114Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "LuChuang Reviews",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "luchuang-reviews",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/luchuang-reviews?locale=zh-CN",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "深圳市璐创科技有限公司",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "LuChuang Reviews 是一款面向中国卖家的免费 Shopify 评论应用，帮助商家快速搭建“评价采集 + 审核 + 展示”闭环。\n应用支持商品评论、星级评分、图片/视频上传，并提供清晰的评论管理后台，商家可进行审核、发布与状态管理。\n前台可通过评论组件展示真实用户反馈，增强社交信任...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Product reviews",
+        "status": "pass"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

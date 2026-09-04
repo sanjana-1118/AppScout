@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\extend-b2b-quotes-1_20260830T041136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\extend-b2b-quotes-1_20260830T041136Z.html
+Requested URL    : https://apps.shopify.com/extend-b2b-quotes-1
+Final URL        : https://apps.shopify.com/extend-b2b-quotes-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,149 bytes / 185,058 chars
+Elapsed          : 0.706s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Extend B2B Quotes - Create, negotiate, approve, and convert quotes to live orders | Shopify App Store
+meta description : Custom pricing and bulk deals shouldn't mean spreadsheets and email chains. With this app, your customers can request a quote, negotiate pricing, a...
+canonical URL    : https://apps.shopify.com/extend-b2b-quotes-1
+<h1> tags ( 1)  : 'Extend B2B Quotes'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

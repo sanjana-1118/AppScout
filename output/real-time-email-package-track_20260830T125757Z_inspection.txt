@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\real-time-email-package-track_20260830T125757Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\real-time-email-package-track_20260830T125757Z.html
+Requested URL    : https://apps.shopify.com/real-time-email-package-track
+Final URL        : https://apps.shopify.com/real-time-email-package-track
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,409 bytes / 176,316 chars
+Elapsed          : 1.033s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Live Shipment Track For Email - Live package tracking that updates with every email open | Shopify App Store
+meta description : Email updates for shipment tracking are the most common way customers check on shipping. With our shipment tracking app you can easily drop an imag...
+canonical URL    : https://apps.shopify.com/real-time-email-package-track
+<h1> tags ( 1)  : 'Live Shipment Track For Email'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\post-purchase-app_20260830T184404Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\post-purchase-app_20260830T184404Z.html
+Requested URL    : https://apps.shopify.com/post-purchase-app
+Final URL        : https://apps.shopify.com/post-purchase-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,408 bytes / 183,293 chars
+Elapsed          : 0.621s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Post Purchase ‑ Appify - Upsell after checkout with offers, quizzes, and split tests. | Shopify App Store
+meta description : Increase order value with post-purchase upsells, quizzes, surveys, and split tests on Shopify's checkout page. Easy setup and funnel analytics.
+canonical URL    : https://apps.shopify.com/post-purchase-app
+<h1> tags ( 1)  : 'Post Purchase ‑ Appify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

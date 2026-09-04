@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loyalify-app_20260830T183947Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loyalify-app_20260830T183947Z.html
+Requested URL    : https://apps.shopify.com/loyalify-app
+Final URL        : https://apps.shopify.com/loyalify-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,709 bytes / 172,598 chars
+Elapsed          : 0.868s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loyalify ‑ Loyalty Rewards - Turn one-time buyers into lifelong customers. | Shopify App Store
+meta description : Keep customers coming back with a fully branded loyalty program. Loyalify lets you launch a complete loyalty rewards program  directly in your Shopify store.
+canonical URL    : https://apps.shopify.com/loyalify-app
+<h1> tags ( 1)  : 'Loyalify ‑ Loyalty Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eurofattura-it_20260830T151230Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eurofattura-it_20260830T151230Z.html
+Requested URL    : https://apps.shopify.com/eurofattura-it
+Final URL        : https://apps.shopify.com/eurofattura-it
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,659 bytes / 210,537 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Eurofattura ERP Italy - Ensure accurate and compliant invoicing for Italian stores | Shopify App Store
+meta description : The application allows you to communicate with the Shopify e-commerce by integrating perfectly. You can manage orders, warehouse stock, active sale...
+canonical URL    : https://apps.shopify.com/eurofattura-it
+<h1> tags ( 1)  : 'Eurofattura ERP Italy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

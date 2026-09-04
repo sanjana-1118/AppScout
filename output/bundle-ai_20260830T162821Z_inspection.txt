@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-ai_20260830T162821Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-ai_20260830T162821Z.html
+Requested URL    : https://apps.shopify.com/bundle-ai
+Final URL        : https://apps.shopify.com/bundle-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,340 bytes / 169,229 chars
+Elapsed          : 0.751s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Create Bundles – AIBundle - Creates product bundles and shows relevant upsell suggestions. | Shopify App Store
+meta description : This app lets merchants create custom product bundles, set bundle discounts, and show relevant upsell offers on product and cart pages. It uses AI ...
+canonical URL    : https://apps.shopify.com/bundle-ai
+<h1> tags ( 1)  : 'Create Bundles – AIBundle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

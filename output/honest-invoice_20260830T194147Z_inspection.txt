@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\honest-invoice_20260830T194147Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\honest-invoice_20260830T194147Z.html
+Requested URL    : https://apps.shopify.com/honest-invoice
+Final URL        : https://apps.shopify.com/honest-invoice
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,742 bytes / 176,649 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Honest Invoice & Packing Slip - Accurate invoices & packing slips in your customer's language | Shopify App Store
+meta description : Honest Invoice creates print-ready invoices, packing slips and refund receipts from your orders.
+
+Every document is locked to the order's original ...
+canonical URL    : https://apps.shopify.com/honest-invoice
+<h1> tags ( 1)  : 'Honest Invoice & Packing Slip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\juvant-loyalty-rewards_20260831T025532Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\juvant-loyalty-rewards_20260831T025532Z.html
+Requested URL    : https://apps.shopify.com/juvant-loyalty-rewards
+Final URL        : https://apps.shopify.com/juvant-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,126 bytes / 201,033 chars
+Elapsed          : 0.486s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Juvant Loyalty & Rewards  - Points, referrals & VIP tiers that turn buyers into regulars | Shopify App Store
+meta description : Reward customers with points, referrals, and VIP tiers. Launch a branded loyalty program with on-site widgets and checkout extensions, no code required.
+canonical URL    : https://apps.shopify.com/juvant-loyalty-rewards
+<h1> tags ( 1)  : 'Juvant Loyalty & Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

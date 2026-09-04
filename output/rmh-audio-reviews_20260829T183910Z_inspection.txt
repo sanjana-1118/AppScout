@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rmh-audio-reviews_20260829T183910Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rmh-audio-reviews_20260829T183910Z.html
+Requested URL    : https://apps.shopify.com/rmh-audio-reviews
+Final URL        : https://apps.shopify.com/rmh-audio-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,692 bytes / 176,599 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RMH Audio Reviews - Real voice testimonials for enhanced customer trust | Shopify App Store
+meta description : Add real audio reviews to your Shopify store. Easy dashboard for managing voice testimonials with drag-and-drop integration.
+canonical URL    : https://apps.shopify.com/rmh-audio-reviews
+<h1> tags ( 1)  : 'RMH Audio Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

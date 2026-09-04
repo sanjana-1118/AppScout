@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/insta-cod",
+  "fetch_timestamp": "2026-08-30T14:51:43.826970+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insta-cod_20260830T145143Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insta-cod_20260830T145143Z.html",
+    "url": "https://apps.shopify.com/insta-cod",
+    "final_url": "https://apps.shopify.com/insta-cod",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 188707,
+    "body_text_length": 188602,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.935994,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Insta COD & Partial Payment - Control COD: customise fees, set rules, block risky customers. | Shopify App Store",
+    "meta_description": "With InstaCOD, you have complete control over the Cash on Delivery payment option in your store. You can easily add a custom fee—whether a fixed am...",
+    "canonical_url": "https://apps.shopify.com/insta-cod",
+    "h1_tags": [
+      "Insta COD & Partial Payment"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Insta COD & Partial Payment",
+    "app_slug": "insta-cod",
+    "app_url": "https://apps.shopify.com/insta-cod",
+    "developer_name": "Shine Dezign Infonet",
+    "description": "With InstaCOD, you have complete control over the Cash on Delivery payment option in your store. You can easily add a custom fee—whether a fixed am...",
+    "average_rating": 5.0,
+    "review_count": 2,
+    "category": "Pay later"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insta-cod_20260830T145143Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insta-cod_20260830T145143Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Insta COD & Partial Payment",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "insta-cod",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/insta-cod",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Shine Dezign Infonet",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "With InstaCOD, you have complete control over the Cash on Delivery payment option in your store. You can easily add a custom fee—whether a fixed am...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 2,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Pay later",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

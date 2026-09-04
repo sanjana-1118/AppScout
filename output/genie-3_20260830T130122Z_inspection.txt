@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\genie-3_20260830T130122Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\genie-3_20260830T130122Z.html
+Requested URL    : https://apps.shopify.com/genie-3
+Final URL        : https://apps.shopify.com/genie-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,317 bytes / 173,220 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ginee - An OMS to help SEA merchants manage Omnichannel transactions | Shopify App Store
+meta description : Multi-Store omnichannel solution in one dashboard, increase your business efficiency with Ginee, and focus increase sales without hazzle.
+
+We provi...
+canonical URL    : https://apps.shopify.com/genie-3
+<h1> tags ( 1)  : 'Ginee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

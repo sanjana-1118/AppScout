@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-gift-card-cash-out_20260831T041823Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-gift-card-cash-out_20260831T041823Z.html
+Requested URL    : https://apps.shopify.com/scurix-gift-card-cash-out
+Final URL        : https://apps.shopify.com/scurix-gift-card-cash-out
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,291 bytes / 170,184 chars
+Elapsed          : 0.442s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scurix ‑ Gift Card Cash Out - Cash out gift card balances at POS, logged and controlled. | Shopify App Store
+meta description : Customers often ask to redeem small gift card balances for cash, but tracking those payouts is hard. Scurix adds a Gift Card Cash Out tile to Shopi...
+canonical URL    : https://apps.shopify.com/scurix-gift-card-cash-out
+<h1> tags ( 1)  : 'Scurix ‑ Gift Card Cash Out'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

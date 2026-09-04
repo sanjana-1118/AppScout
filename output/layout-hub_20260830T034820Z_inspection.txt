@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\layout-hub_20260830T034820Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\layout-hub_20260830T034820Z.html
+Requested URL    : https://apps.shopify.com/layout-hub
+Final URL        : https://apps.shopify.com/layout-hub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 260,632 bytes / 260,505 chars
+Elapsed          : 0.720s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LayoutHub ‑ Easy Page Builder - Build high-converting landing page easily & quickly | Shopify App Store
+meta description : With LayoutHub you can create a landing page, home page, product page, sales page, collection page, about-us page, contact-us page, blog list page, blog detail.
+canonical URL    : https://apps.shopify.com/layout-hub
+<h1> tags ( 1)  : 'LayoutHub ‑ Easy Page Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

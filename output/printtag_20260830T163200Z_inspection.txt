@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printtag_20260830T163200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\printtag_20260830T163200Z.html
+Requested URL    : https://apps.shopify.com/printtag
+Final URL        : https://apps.shopify.com/printtag
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,312 bytes / 179,219 chars
+Elapsed          : 1.037s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PrintTag - Print orders in bulk with custom templates and auto-tagging. | Shopify App Store
+meta description : Create custom packing slips and invoices with HTML templates. Print multiple orders at once and auto tag them as printed. 7-day free trial, then $10/month.
+canonical URL    : https://apps.shopify.com/printtag
+<h1> tags ( 1)  : 'PrintTag'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

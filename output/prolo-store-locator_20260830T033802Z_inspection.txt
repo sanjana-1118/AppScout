@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prolo-store-locator_20260830T033802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prolo-store-locator_20260830T033802Z.html
+Requested URL    : https://apps.shopify.com/prolo-store-locator
+Final URL        : https://apps.shopify.com/prolo-store-locator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,457 bytes / 209,354 chars
+Elapsed          : 0.656s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Prolo: Dealer & Store Locator - Build a store locator in minutes without API keys or... | Shopify App Store
+meta description : Add a clean, searchable store locator to your site with Prolo. No API keys or coding skills required—help customers find your products in minutes.
+canonical URL    : https://apps.shopify.com/prolo-store-locator
+<h1> tags ( 1)  : 'Prolo: Dealer & Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

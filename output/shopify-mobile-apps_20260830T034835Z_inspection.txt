@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-mobile-apps_20260830T034835Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-mobile-apps_20260830T034835Z.html
+Requested URL    : https://apps.shopify.com/shopify-mobile-apps
+Final URL        : https://apps.shopify.com/shopify-mobile-apps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,197 bytes / 246,038 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tapcart ‑ Mobile App Builder - Turn your store into an AI-powered app that retains customers. | Shopify App Store
+meta description : Tapcart is the top mobile commerce platform that helps brands on Shopify grow, engage customers, and drive revenue
+canonical URL    : https://apps.shopify.com/shopify-mobile-apps
+<h1> tags ( 1)  : 'Tapcart ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

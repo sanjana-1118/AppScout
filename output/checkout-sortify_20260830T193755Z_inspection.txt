@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-sortify_20260830T193755Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-sortify_20260830T193755Z.html
+Requested URL    : https://apps.shopify.com/checkout-sortify
+Final URL        : https://apps.shopify.com/checkout-sortify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,526 bytes / 207,433 chars
+Elapsed          : 0.587s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Checkout Sortify - Hide, sort & rename payment methods at checkout | Shopify App Store
+meta description : Hide, sort & rename payment and shipping methods at checkout using 45+ conditions. Built on Shopify Functions for fast, reliable checkout customization.
+canonical URL    : https://apps.shopify.com/checkout-sortify
+<h1> tags ( 1)  : 'Checkout Sortify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

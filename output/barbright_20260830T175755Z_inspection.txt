@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\barbright_20260830T175755Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\barbright_20260830T175755Z.html
+Requested URL    : https://apps.shopify.com/barbright
+Final URL        : https://apps.shopify.com/barbright
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,257 bytes / 164,150 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BuyBright - BarBright is theme app extension only easy to use, no... | Shopify App Store
+meta description : BarBright adds animated, customizable promotional bars to a Shopify storefront, configured directly in the theme editor without modifying theme fil...
+canonical URL    : https://apps.shopify.com/barbright
+<h1> tags ( 1)  : 'BuyBright'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

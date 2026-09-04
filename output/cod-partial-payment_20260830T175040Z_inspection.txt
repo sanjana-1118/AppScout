@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-partial-payment_20260830T175040Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-partial-payment_20260830T175040Z.html
+Requested URL    : https://apps.shopify.com/cod-partial-payment
+Final URL        : https://apps.shopify.com/cod-partial-payment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,143 bytes / 196,050 chars
+Elapsed          : 0.954s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EX COD Partial Pay OTP Verify - Set COD fees Collect partial Payment, split & deposit payment | Shopify App Store
+meta description : Ex COD Fee & Partial Pay offers flexible rules to add COD fees or discounts by location, collection, or customer group. Stop fake orders and reduce...
+canonical URL    : https://apps.shopify.com/cod-partial-payment
+<h1> tags ( 1)  : 'EX COD Partial Pay OTP Verify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

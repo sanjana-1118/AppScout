@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoe-size-recommender_20260830T062323Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoe-size-recommender_20260830T062323Z.html
+Requested URL    : https://apps.shopify.com/shoe-size-recommender
+Final URL        : https://apps.shopify.com/shoe-size-recommender
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,088 bytes / 168,999 chars
+Elapsed          : 0.430s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GNT Shoe Size Recommender - Recommend shoe size based on customers' input | Shopify App Store
+meta description : Transform your customers' sizing experience, boost sales, and minimize returns with our interactive shoe size recommender.
+canonical URL    : https://apps.shopify.com/shoe-size-recommender
+<h1> tags ( 1)  : 'GNT Shoe Size Recommender'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

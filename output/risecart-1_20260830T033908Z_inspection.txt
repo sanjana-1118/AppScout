@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\risecart-1_20260830T033908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\risecart-1_20260830T033908Z.html
+Requested URL    : https://apps.shopify.com/risecart-1
+Final URL        : https://apps.shopify.com/risecart-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,401 bytes / 164,312 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RiseCart - Sync, view, and manage your products and orders  | Shopify App Store
+meta description : As your business scales, keeping track of every product and order becomes increasingly complex. It can be difficult to get a clear, level picture o...
+canonical URL    : https://apps.shopify.com/risecart-1
+<h1> tags ( 1)  : 'RiseCart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

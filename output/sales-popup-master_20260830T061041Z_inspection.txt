@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sales-popup-master_20260830T061041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sales-popup-master_20260830T061041Z.html
+Requested URL    : https://apps.shopify.com/sales-popup-master
+Final URL        : https://apps.shopify.com/sales-popup-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,973 bytes / 235,863 chars
+Elapsed          : 0.474s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sales Popup Autoketing ‑ POP - Show social proof, sales popup, sales pop & sales notification | Shopify App Store
+meta description : Our app aims to solve low conversion rates by increasing social proofs like showing recent orders or products added to cart to new customers. 
+
+Con...
+canonical URL    : https://apps.shopify.com/sales-popup-master
+<h1> tags ( 1)  : 'Sales Popup Autoketing ‑ POP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quivers-orders-connect_20260830T162130Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quivers-orders-connect_20260830T162130Z.html
+Requested URL    : https://apps.shopify.com/quivers-orders-connect
+Final URL        : https://apps.shopify.com/quivers-orders-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,362 bytes / 166,271 chars
+Elapsed          : 0.906s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Quivers Inventory Connect - Sync your inventory with Quivers to maximize your sell-through | Shopify App Store
+meta description : Quivers bridges the gap between the brands you carry and your physical shelves. By syncing your real-time Shopify inventory with Quivers, you show ...
+canonical URL    : https://apps.shopify.com/quivers-orders-connect
+<h1> tags ( 1)  : 'Quivers Inventory Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\toconline-invoices_20260830T051903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\toconline-invoices_20260830T051903Z.html
+Requested URL    : https://apps.shopify.com/toconline-invoices
+Final URL        : https://apps.shopify.com/toconline-invoices
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,118 bytes / 193,993 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TOConline Invoices - Seamless TOConline Integration for your Store | Shopify App Store
+meta description : Automatically syncs your Shopify orders, invoices, products, and taxes with TOConline, reducing manual work and ensuring compliance with tax regulations.
+canonical URL    : https://apps.shopify.com/toconline-invoices?locale=pt-PT
+<h1> tags ( 1)  : 'TOConline Invoices'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

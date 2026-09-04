@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saytu_20260831T030655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saytu_20260831T030655Z.html
+Requested URL    : https://apps.shopify.com/saytu
+Final URL        : https://apps.shopify.com/saytu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,475 bytes / 204,377 chars
+Elapsed          : 0.495s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Saytu - Live2D anime AI character for product pages answers  | Shopify App Store
+meta description : Add a Live2D anime AI character to your Shopify product pages. Answer preorder, sizing & authenticity questions in any language, recover carts.
+canonical URL    : https://apps.shopify.com/saytu
+<h1> tags ( 1)  : 'Saytu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

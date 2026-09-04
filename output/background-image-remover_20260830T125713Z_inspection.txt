@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\background-image-remover_20260830T125713Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\background-image-remover_20260830T125713Z.html
+Requested URL    : https://apps.shopify.com/background-image-remover
+Final URL        : https://apps.shopify.com/background-image-remover
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,482 bytes / 208,358 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pxl ‑ Photo Background Remover - Remove background & create stunning product photos in a click! | Shopify App Store
+meta description : Creating professional product photos can be challenging, time-consuming, and expensive. Our app helps your products stand out with clean, crystal-c...
+canonical URL    : https://apps.shopify.com/background-image-remover
+<h1> tags ( 1)  : 'Pxl ‑ Photo Background Remover'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

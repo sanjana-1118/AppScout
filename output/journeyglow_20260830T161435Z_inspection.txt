@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\journeyglow_20260830T161435Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\journeyglow_20260830T161435Z.html
+Requested URL    : https://apps.shopify.com/journeyglow
+Final URL        : https://apps.shopify.com/journeyglow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,201 bytes / 176,104 chars
+Elapsed          : 0.771s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : JourneyGlow: EU DPP & ESPR - EU ESPR Digital Product Passports + visual product journeys | Shopify App Store
+meta description : EU ESPR-aligned Digital Product Passports with printable QR hangtags, plus a visual journey map on every product. Built for transparency-led Shopify brands.
+canonical URL    : https://apps.shopify.com/journeyglow
+<h1> tags ( 1)  : 'JourneyGlow: EU DPP & ESPR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

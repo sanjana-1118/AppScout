@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nextel-sell-on-whatsapp_20260830T034707Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nextel-sell-on-whatsapp_20260830T034707Z.html
+Requested URL    : https://apps.shopify.com/nextel-sell-on-whatsapp
+Final URL        : https://apps.shopify.com/nextel-sell-on-whatsapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,092 bytes / 166,003 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WhatsApp Automation + Commerce - Automate abandon cart, order updates, catalog ordering & more  | Shopify App Store
+meta description : Automate abandoned cart recovery notifications, order updates, reorder, catlog ordering, promotional marketing, collaborative inbox for support on WhatsApp
+canonical URL    : https://apps.shopify.com/nextel-sell-on-whatsapp
+<h1> tags ( 1)  : 'WhatsApp Automation + Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

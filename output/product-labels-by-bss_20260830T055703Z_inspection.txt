@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-labels-by-bss_20260830T055703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-labels-by-bss_20260830T055703Z.html
+Requested URL    : https://apps.shopify.com/product-labels-by-bss
+Final URL        : https://apps.shopify.com/product-labels-by-bss
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 264,669 bytes / 264,556 chars
+Elapsed          : 0.489s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TA AI Product Labels & Badges - Boost sales by AI Product Labels, Product Badges, Icon | Shopify App Store
+meta description : Boost Conversion Rate by product labels/badges/banners/stickers that elevate online store design to attract customers' attention and boost sales.
+canonical URL    : https://apps.shopify.com/product-labels-by-bss
+<h1> tags ( 1)  : 'TA AI Product Labels & Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

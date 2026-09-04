@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\collection-feature-box_20260830T060828Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\collection-feature-box_20260830T060828Z.html
+Requested URL    : https://apps.shopify.com/collection-feature-box
+Final URL        : https://apps.shopify.com/collection-feature-box
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,801 bytes / 172,708 chars
+Elapsed          : 1.005s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : View6 Collection Feature Box - Merchandise collection pages with promo blocks | Shopify App Store
+meta description : Turn collection pages into powerful merchandising tools. Add promotional content blocks directly into Shopify collection grids to highlight seasona...
+canonical URL    : https://apps.shopify.com/collection-feature-box
+<h1> tags ( 1)  : 'View6 Collection Feature Box'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

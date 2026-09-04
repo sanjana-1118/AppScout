@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unilevel-mlm-app_20260830T035126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\unilevel-mlm-app_20260830T035126Z.html
+Requested URL    : https://apps.shopify.com/unilevel-mlm-app
+Final URL        : https://apps.shopify.com/unilevel-mlm-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,043 bytes / 176,954 chars
+Elapsed          : 0.912s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Unilevel MLM Pro  - Boost sales with a custom unilevel MLM affiliate network. | Shopify App Store
+meta description : Boost your Shopify store with Unilevel MLM Pro. Manage affiliates, commissions, referrals, and network marketing with a powerful automation system.
+canonical URL    : https://apps.shopify.com/unilevel-mlm-app
+<h1> tags ( 1)  : 'Unilevel MLM Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

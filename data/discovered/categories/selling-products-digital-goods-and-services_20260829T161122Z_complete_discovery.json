@@ -1,0 +1,42 @@
+{
+  "category_url": "https://apps.shopify.com/categories/selling-products-digital-goods-and-services",
+  "category_slug": "selling-products-digital-goods-and-services",
+  "traversal_timestamp": "2026-08-29T16:11:22.933191+00:00",
+  "pages_processed": 1,
+  "page_urls": [
+    "https://apps.shopify.com/categories/selling-products-digital-goods-and-services"
+  ],
+  "app_urls": [
+    "https://apps.shopify.com/pendora-digital-download",
+    "https://apps.shopify.com/cowlendar",
+    "https://apps.shopify.com/courses-app",
+    "https://apps.shopify.com/appointly",
+    "https://apps.shopify.com/appointments-and-bookings",
+    "https://apps.shopify.com/digital-downloads",
+    "https://apps.shopify.com/digital-assets",
+    "https://apps.shopify.com/suppr-appointment-booking",
+    "https://apps.shopify.com/delivery-date-omega",
+    "https://apps.shopify.com/order-delivery-date-time",
+    "https://apps.shopify.com/appointment-booking-bookeasy",
+    "https://apps.shopify.com/digital-download-products",
+    "https://apps.shopify.com/appointo-appointments-and-bookings",
+    "https://apps.shopify.com/rental-booking-izyrent",
+    "https://apps.shopify.com/meety-appointment-booking",
+    "https://apps.shopify.com/verisart",
+    "https://apps.shopify.com/manifold-token-gate",
+    "https://apps.shopify.com/minty",
+    "https://apps.shopify.com/nft-gate",
+    "https://apps.shopify.com/fan-pass",
+    "https://apps.shopify.com/niftybridge",
+    "https://apps.shopify.com/branding-nft",
+    "https://apps.shopify.com/alphasprouts-nft-promos",
+    "https://apps.shopify.com/certhis-nft-app"
+  ],
+  "total_urls_encountered": 40,
+  "unique_app_urls": 24,
+  "duplicates_removed": 0,
+  "snapshots_reused": 0,
+  "new_http_requests": 1,
+  "delay_seconds": 1.5,
+  "stopped_reason": "no_next_page"
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pennywise_20260830T140536Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pennywise_20260830T140536Z.html
+Requested URL    : https://apps.shopify.com/pennywise
+Final URL        : https://apps.shopify.com/pennywise
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,849 bytes / 224,742 chars
+Elapsed          : 0.628s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pennywise ‑ Bundles & Bogo - Create bundles, volume discounts and quantity breaks | Shopify App Store
+meta description : Create bundles, volume discounts, quantity breaks and mix and match to boost your revenue. User-friendly with a customizable look.
+canonical URL    : https://apps.shopify.com/pennywise
+<h1> tags ( 1)  : 'Pennywise ‑ Bundles & Bogo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

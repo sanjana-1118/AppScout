@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tildei_20260830T143704Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tildei_20260830T143704Z.html
+Requested URL    : https://apps.shopify.com/tildei
+Final URL        : https://apps.shopify.com/tildei
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,680 bytes / 157,591 chars
+Elapsed          : 0.634s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tildei - Engage & convert your social followers. | Shopify App Store
+meta description : Engage & convert your Instagram followers. Bring scalable conversations to life with our AI agents.
+canonical URL    : https://apps.shopify.com/tildei
+<h1> tags ( 1)  : 'Tildei'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

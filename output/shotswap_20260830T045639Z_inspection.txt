@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shotswap_20260830T045639Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shotswap_20260830T045639Z.html
+Requested URL    : https://apps.shopify.com/shotswap
+Final URL        : https://apps.shopify.com/shotswap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,629 bytes / 174,496 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShotSwap ‑ Variant Images - Variant images and swatches — each color shows its own... | Shopify App Store
+meta description : Assign multiple images to each variant. The storefront gallery shows only the selected color's photos. Auto-assign, color and image swatches.
+canonical URL    : https://apps.shopify.com/shotswap
+<h1> tags ( 1)  : 'ShotSwap ‑ Variant Images'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-sticky-add-to-cart-1_20260830T151641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-sticky-add-to-cart-1_20260830T151641Z.html
+Requested URL    : https://apps.shopify.com/easy-sticky-add-to-cart-1
+Final URL        : https://apps.shopify.com/easy-sticky-add-to-cart-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,900 bytes / 169,801 chars
+Elapsed          : 1.097s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy: Sticky Add To Cart - Stylish designs that you can easily customize.  | Shopify App Store
+meta description : Customers often scroll past the add-to-cart button, making it harder to complete purchases. Enable shoppers to buy quicker by keeping it visible at all times.
+canonical URL    : https://apps.shopify.com/easy-sticky-add-to-cart-1
+<h1> tags ( 1)  : 'Easy: Sticky Add To Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipilot_20260830T032903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipilot_20260830T032903Z.html
+Requested URL    : https://apps.shopify.com/shipilot
+Final URL        : https://apps.shopify.com/shipilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,284 bytes / 190,197 chars
+Elapsed          : 0.522s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipilot - Sync orders and ship with discounted rates in a simple... | Shopify App Store
+meta description : Integrates with Shopify to streamline warehouse operations. Sync orders in real-time, purchase discounted shipping labels in bulk, automatically update tracking
+canonical URL    : https://apps.shopify.com/shipilot
+<h1> tags ( 1)  : 'Shipilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

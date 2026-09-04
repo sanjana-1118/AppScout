@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fastreal-public_20260831T024713Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fastreal-public_20260831T024713Z.html
+Requested URL    : https://apps.shopify.com/fastreal-public
+Final URL        : https://apps.shopify.com/fastreal-public
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,769 bytes / 168,542 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fastreal - Preview connected products and open theme embeds in Admin | Shopify App Store
+meta description : Fastreal opens inside Admin after install. Merchants can confirm the shop is connected, preview catalog products, and open theme app embeds to writ...
+canonical URL    : https://apps.shopify.com/fastreal-public
+<h1> tags ( 1)  : 'Fastreal'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

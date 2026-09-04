@@ -1,0 +1,34 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appme-mobile-app-builder_20260830T142352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\appme-mobile-app-builder_20260830T142352Z.html
+Requested URL    : https://apps.shopify.com/appme-mobile-app-builder
+Final URL        : https://apps.shopify.com/appme-mobile-app-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,534 bytes / 239,417 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AppMe ‑ Mobile App Builder - Create a custom mobile app to boost sales and customer... | Shopify App Store
+meta description : Turn your store into Mobile app
+Boost your brand awareness
+Increase customers loyalty
+Enhance user experience
+No-Code Editor
+Ready solution for DTC brands
+canonical URL    : https://apps.shopify.com/appme-mobile-app-builder
+<h1> tags ( 1)  : 'AppMe ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

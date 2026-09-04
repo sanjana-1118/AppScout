@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\llm-socket_20260829T190409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\llm-socket_20260829T190409Z.html
+Requested URL    : https://apps.shopify.com/llm-socket
+Final URL        : https://apps.shopify.com/llm-socket
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,673 bytes / 181,578 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LLM Socket - Schema markup that helps AI assistants recommend your products | Shopify App Store
+meta description : 90% of stores are invisible to AI search. LLM Socket adds optimized schema markup so ChatGPT, Perplexity & Gemini can recommend your products. Free trial.
+canonical URL    : https://apps.shopify.com/llm-socket
+<h1> tags ( 1)  : 'LLM Socket'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

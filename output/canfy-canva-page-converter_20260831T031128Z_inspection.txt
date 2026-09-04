@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\canfy-canva-page-converter_20260831T031128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\canfy-canva-page-converter_20260831T031128Z.html
+Requested URL    : https://apps.shopify.com/canfy-canva-page-converter
+Final URL        : https://apps.shopify.com/canfy-canva-page-converter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,631 bytes / 187,538 chars
+Elapsed          : 0.768s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Canfy: Canva Website Converter - Design landing page in Canva, Convert them to your store... | Shopify App Store
+meta description : Convert Canva websites into pixel-perfect Shopify landing pages with Canfy. Keep your design, stay responsive, and update your page with one click.
+canonical URL    : https://apps.shopify.com/canfy-canva-page-converter
+<h1> tags ( 1)  : 'Canfy: Canva Website Converter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

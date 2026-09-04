@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pa-product-collection-sort_20260830T062322Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pa-product-collection-sort_20260830T062322Z.html
+Requested URL    : https://apps.shopify.com/pa-product-collection-sort
+Final URL        : https://apps.shopify.com/pa-product-collection-sort
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,657 bytes / 215,556 chars
+Elapsed          : 0.749s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PA: Product & Collection sort - AI-driven merchandising and product sorting for higher sales | Shopify App Store
+meta description : Leverage AI-driven sorting to rank products and collections by performance and inventory. Automate merchandising to boost sales and simplify management.
+canonical URL    : https://apps.shopify.com/pa-product-collection-sort
+<h1> tags ( 1)  : 'PA: Product & Collection\xa0sort'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

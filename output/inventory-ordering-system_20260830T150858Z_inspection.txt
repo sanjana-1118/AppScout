@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-ordering-system_20260830T150858Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-ordering-system_20260830T150858Z.html
+Requested URL    : https://apps.shopify.com/inventory-ordering-system
+Final URL        : https://apps.shopify.com/inventory-ordering-system
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,075 bytes / 230,970 chars
+Elapsed          : 0.755s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SP | AI Inventory Management - Avoid Stockouts. Order Inventory using our AI Forecasting | Shopify App Store
+meta description : AI-powered inventory management for Shopify. Forecast demand, automate reorders, and track margins. Prevent stockouts & optimize profits. Try free for 14 days!
+canonical URL    : https://apps.shopify.com/inventory-ordering-system
+<h1> tags ( 1)  : 'SP | AI Inventory Management'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

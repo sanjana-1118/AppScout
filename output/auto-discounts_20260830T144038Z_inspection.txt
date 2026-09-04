@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-discounts_20260830T144038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-discounts_20260830T144038Z.html
+Requested URL    : https://apps.shopify.com/auto-discounts
+Final URL        : https://apps.shopify.com/auto-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 241,149 bytes / 240,998 chars
+Elapsed          : 0.547s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FAD: Upsell & Volume Discounts - Boost sales with volume discounts, BOGO, free gifts, & bundles | Shopify App Store
+meta description : Create automatic discounts on Shopify using the FAD Shopify discount app. Set up BOGO, bundles, auto free gift, Wholesale B2B discount & custom order discounts.
+canonical URL    : https://apps.shopify.com/auto-discounts
+<h1> tags ( 1)  : 'FAD: Upsell & Volume Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

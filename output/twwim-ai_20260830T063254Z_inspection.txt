@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twwim-ai_20260830T063254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\twwim-ai_20260830T063254Z.html
+Requested URL    : https://apps.shopify.com/twwim-ai
+Final URL        : https://apps.shopify.com/twwim-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,330 bytes / 186,223 chars
+Elapsed          : 0.592s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TWWIM AI Shopping Assistant - Agentic Ecommerce AI with sales and demand insights built in | Shopify App Store
+meta description : Let customers navigate your store by voice and text. TWWIM performs real actions like clicking buttons, filling forms, and finding products. Free tier available
+canonical URL    : https://apps.shopify.com/twwim-ai
+<h1> tags ( 1)  : 'TWWIM AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

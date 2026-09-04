@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\producteasy-io_20260830T163357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\producteasy-io_20260830T163357Z.html
+Requested URL    : https://apps.shopify.com/producteasy-io
+Final URL        : https://apps.shopify.com/producteasy-io
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,917 bytes / 188,828 chars
+Elapsed          : 0.478s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : producteasy.io - AI product descriptions & images from real product research | Shopify App Store
+meta description : Generate accurate product descriptions and highlight images with AI. Built on real product research, not fabricated content. Bulk generate with templates.
+canonical URL    : https://apps.shopify.com/producteasy-io
+<h1> tags ( 1)  : 'producteasy.io'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

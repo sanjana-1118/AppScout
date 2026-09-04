@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logistified_20260830T050709Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logistified_20260830T050709Z.html
+Requested URL    : https://apps.shopify.com/logistified
+Final URL        : https://apps.shopify.com/logistified
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 241,456 bytes / 241,361 chars
+Elapsed          : 0.598s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Logistified Inventory Planning - Stay in stock with predictive, AI-driven inventory planning | Shopify App Store
+meta description : Predict stockouts, plan reorders and create POs with MOQ/pack-size checks. Barcode scanning, label printing, saved views and daily reports for Shopify.
+canonical URL    : https://apps.shopify.com/logistified
+<h1> tags ( 1)  : 'Logistified Inventory Planning'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

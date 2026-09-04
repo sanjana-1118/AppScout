@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-blacklist_20260830T133407Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-blacklist_20260830T133407Z.html
+Requested URL    : https://apps.shopify.com/customer-blacklist
+Final URL        : https://apps.shopify.com/customer-blacklist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,696 bytes / 232,607 chars
+Elapsed          : 0.891s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EB Country Blocker Bot Blocker - Protect your store against fraud and unwanted bots | Shopify App Store
+meta description : Easyban is an all-in-one app designed to help online store owners enhance their site's security and performance. With Easyban, merchants can block ...
+canonical URL    : https://apps.shopify.com/customer-blacklist
+<h1> tags ( 1)  : 'EB Country Blocker Bot Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

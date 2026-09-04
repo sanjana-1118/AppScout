@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bcb-shop-agentic_20260830T185347Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bcb-shop-agentic_20260830T185347Z.html
+Requested URL    : https://apps.shopify.com/bcb-shop-agentic
+Final URL        : https://apps.shopify.com/bcb-shop-agentic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,112 bytes / 187,018 chars
+Elapsed          : 1.043s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bestchatbot AI Assistant - AI chat that answers product, order, and account questions. | Shopify App Store
+meta description : AI chat assistant for your Shopify store. It answers customer questions about products, orders, and account details, and hands off to your team when needed.
+canonical URL    : https://apps.shopify.com/bcb-shop-agentic
+<h1> tags ( 1)  : 'Bestchatbot AI Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

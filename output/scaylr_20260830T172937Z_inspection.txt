@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scaylr_20260830T172937Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scaylr_20260830T172937Z.html
+Requested URL    : https://apps.shopify.com/scaylr
+Final URL        : https://apps.shopify.com/scaylr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,048 bytes / 184,945 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scaylr ‑ POD Listing Generator - Turn designs into published products in one click | Shopify App Store
+meta description : Add your design, choose a mockup template, and publish a complete product to your Shopify store in one click. Bulk generation and AI listings included.
+canonical URL    : https://apps.shopify.com/scaylr
+<h1> tags ( 1)  : 'Scaylr ‑ POD Listing Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

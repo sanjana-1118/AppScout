@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dhlify_20260830T154224Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dhlify_20260830T154224Z.html
+Requested URL    : https://apps.shopify.com/dhlify
+Final URL        : https://apps.shopify.com/dhlify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,735 bytes / 177,620 chars
+Elapsed          : 1.041s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DHL eCommerce Ibérica - Send cargo,pickup package,cancel label, invoice pdf | Shopify App Store
+meta description : Send your automatic shipments online.
+Create, download, and print your DHL labels directly from your Shopify store.
+canonical URL    : https://apps.shopify.com/dhlify
+<h1> tags ( 1)  : 'DHL eCommerce Ibérica'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amoni-reviews_20260829T183924Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amoni-reviews_20260829T183924Z.html
+Requested URL    : https://apps.shopify.com/amoni-reviews
+Final URL        : https://apps.shopify.com/amoni-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,299 bytes / 211,178 chars
+Elapsed          : 0.687s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amoni Reviews & Star Ratings - Build trust with photo reviews, email requests, and coupons. | Shopify App Store
+meta description : Boost sales with photo & video reviews, automated review request emails, coupon rewards, and star ratings widgets. Free 7-day trial on paid plans.
+canonical URL    : https://apps.shopify.com/amoni-reviews
+<h1> tags ( 1)  : 'Amoni Reviews & Star Ratings'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

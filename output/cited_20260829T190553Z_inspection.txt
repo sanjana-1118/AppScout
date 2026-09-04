@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cited_20260829T190553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cited_20260829T190553Z.html
+Requested URL    : https://apps.shopify.com/cited
+Final URL        : https://apps.shopify.com/cited
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,359 bytes / 184,254 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cited: AI Search Visibility - See if AI recommends your store — fix it in... | Shopify App Store
+meta description : See whether ChatGPT, Gemini, and Perplexity recommend your store — then publish the fixes (FAQs + FAQPage schema) to your storefront in one click to get cited.
+canonical URL    : https://apps.shopify.com/cited
+<h1> tags ( 1)  : 'Cited: AI Search Visibility'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

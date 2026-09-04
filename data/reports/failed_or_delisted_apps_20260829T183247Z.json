@@ -1,0 +1,72 @@
+[
+  {
+    "index": 137,
+    "slug": "tuecus-ebay-order-sync",
+    "url": "https://apps.shopify.com/tuecus-ebay-order-sync",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 140,
+    "slug": "wishlist-marketplace",
+    "url": "https://apps.shopify.com/wishlist-marketplace",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 141,
+    "slug": "magefan-google-shopping-feeds",
+    "url": "https://apps.shopify.com/magefan-google-shopping-feeds",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 143,
+    "slug": "localapp-2",
+    "url": "https://apps.shopify.com/localapp-2",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 144,
+    "slug": "cymbio-marketplace",
+    "url": "https://apps.shopify.com/cymbio-marketplace",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 146,
+    "slug": "upurr-store",
+    "url": "https://apps.shopify.com/upurr-store",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 147,
+    "slug": "taocarts",
+    "url": "https://apps.shopify.com/taocarts",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 148,
+    "slug": "sellencer",
+    "url": "https://apps.shopify.com/sellencer",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 149,
+    "slug": "ecart-1",
+    "url": "https://apps.shopify.com/ecart-1",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  },
+  {
+    "index": 150,
+    "slug": "shop-the-best-boutiques",
+    "url": "https://apps.shopify.com/shop-the-best-boutiques",
+    "status": "unexpected_error",
+    "error": "cannot access local variable 'app_slug' where it is not associated with a value"
+  }
+]

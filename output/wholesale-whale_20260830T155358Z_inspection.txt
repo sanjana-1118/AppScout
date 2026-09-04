@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-whale_20260830T155358Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-whale_20260830T155358Z.html
+Requested URL    : https://apps.shopify.com/wholesale-whale
+Final URL        : https://apps.shopify.com/wholesale-whale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,231 bytes / 203,142 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wholesale Whale: B2B Suite - Manage wholesale discounts, quick orders, B2B signup and more | Shopify App Store
+meta description : Wholesale pricing app using customer tags for B2B discounts at checkout. Includes quick order forms, B2B signup, auto-tagging, and storefront discount badges
+canonical URL    : https://apps.shopify.com/wholesale-whale
+<h1> tags ( 1)  : 'Wholesale Whale: B2B Suite'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

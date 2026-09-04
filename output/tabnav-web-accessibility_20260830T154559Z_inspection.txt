@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tabnav-web-accessibility_20260830T154559Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tabnav-web-accessibility_20260830T154559Z.html
+Requested URL    : https://apps.shopify.com/tabnav-web-accessibility
+Final URL        : https://apps.shopify.com/tabnav-web-accessibility
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,652 bytes / 185,563 chars
+Elapsed          : 0.746s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tabnav Accessibility Widget - Add accessibility features to make your store inclusive | Shopify App Store
+meta description : This app adds an accessibility widget to your store that helps customers with disabilities navigate and shop. It provides screen reader support for...
+canonical URL    : https://apps.shopify.com/tabnav-web-accessibility
+<h1> tags ( 1)  : 'Tabnav Accessibility Widget'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

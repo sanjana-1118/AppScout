@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\berify-rewards_20260830T064900Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\berify-rewards_20260830T064900Z.html
+Requested URL    : https://apps.shopify.com/berify-rewards
+Final URL        : https://apps.shopify.com/berify-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,703 bytes / 163,610 chars
+Elapsed          : 0.587s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Berify Rewards - Streamline the rewards workflow for Berify customers. | Shopify App Store
+meta description : Introducing the Berify Rewards app that allows you to connect your Shopify account to the Berify dashboard. Easily generate referral links to impor...
+canonical URL    : https://apps.shopify.com/berify-rewards
+<h1> tags ( 1)  : 'Berify Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

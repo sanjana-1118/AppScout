@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-desk_20260830T045738Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-desk_20260830T045738Z.html
+Requested URL    : https://apps.shopify.com/order-desk
+Final URL        : https://apps.shopify.com/order-desk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,446 bytes / 204,350 chars
+Elapsed          : 0.887s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Desk - Automate your fulfillment and integrate with over 300 services | Shopify App Store
+meta description : Order Desk is an order management app that lets merchants, artists, and suppliers automate their order fulfillment workflow using our Rule Builder ...
+canonical URL    : https://apps.shopify.com/order-desk
+<h1> tags ( 1)  : 'Order Desk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-decode-live-app_20260830T175747Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-decode-live-app_20260830T175747Z.html
+Requested URL    : https://apps.shopify.com/store-decode-live-app
+Final URL        : https://apps.shopify.com/store-decode-live-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,477 bytes / 158,388 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Store Decode: AI Store Audit - AI audit of your store. With ranked findings | Shopify App Store
+meta description : AI audit of your store. See your site the way customers see it and get a clear, ranked list of things to look at and improve.
+canonical URL    : https://apps.shopify.com/store-decode-live-app
+<h1> tags ( 1)  : 'Store Decode: AI Store Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

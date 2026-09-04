@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\menufields_20260830T063228Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\menufields_20260830T063228Z.html
+Requested URL    : https://apps.shopify.com/menufields
+Final URL        : https://apps.shopify.com/menufields
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,253 bytes / 177,160 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MenuFields - Add badges, icons and custom fields to navigation menus | Shopify App Store
+meta description : Add badges, icons, colours and structured custom fields to navigation menus. Preview changes and publish menu data for use in Liquid.
+canonical URL    : https://apps.shopify.com/menufields
+<h1> tags ( 1)  : 'MenuFields'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

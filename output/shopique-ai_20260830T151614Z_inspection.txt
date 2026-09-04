@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopique-ai_20260830T151614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopique-ai_20260830T151614Z.html
+Requested URL    : https://apps.shopify.com/shopique-ai
+Final URL        : https://apps.shopify.com/shopique-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,252 bytes / 184,140 chars
+Elapsed          : 0.987s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopique AI Chatbot - AI-Powered Chatbot for Smart Shopping | Shopify App Store
+meta description : Traditional keyword search often frustrates shoppers when queries are vague or misspelled, leading to lost sales. Our AI-powered chatbot uses seman...
+canonical URL    : https://apps.shopify.com/shopique-ai
+<h1> tags ( 1)  : 'Shopique AI Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropease_20260830T055635Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropease_20260830T055635Z.html
+Requested URL    : https://apps.shopify.com/dropease
+Final URL        : https://apps.shopify.com/dropease
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,926 bytes / 174,824 chars
+Elapsed          : 0.508s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dropease - Creates product content and visuals shaped by buyer insights | Shopify App Store
+meta description : Dropease analyzes products to surface buyer insights and generate optimized descriptions, titles, visuals, and ALT text for Shopify merchants.
+canonical URL    : https://apps.shopify.com/dropease
+<h1> tags ( 1)  : 'Dropease'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-gifts_20260830T145630Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-gifts_20260830T145630Z.html
+Requested URL    : https://apps.shopify.com/advanced-gifts
+Final URL        : https://apps.shopify.com/advanced-gifts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,836 bytes / 169,747 chars
+Elapsed          : 0.979s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gift Plus - Gift with purchase promotions using customized discount codes | Shopify App Store
+meta description : Discover the best Shopify discount app to offer free gifts with purchases on the checkout page to increase AOV and upsell.
+canonical URL    : https://apps.shopify.com/advanced-gifts
+<h1> tags ( 1)  : 'Gift Plus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

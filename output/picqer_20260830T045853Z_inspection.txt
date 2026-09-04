@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\picqer_20260830T045853Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\picqer_20260830T045853Z.html
+Requested URL    : https://apps.shopify.com/picqer
+Final URL        : https://apps.shopify.com/picqer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,134 bytes / 232,041 chars
+Elapsed          : 0.896s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Picqer | Pick & ship faster - Warehouse software for eCommerce. Professional. Simple.  | Shopify App Store
+meta description : Picqer helps you make the processes in your warehouse smarter and more efficient. With Picqer you work more calmly, walk less, eliminate unnecessar...
+canonical URL    : https://apps.shopify.com/picqer
+<h1> tags ( 1)  : 'Picqer | Pick & ship faster'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

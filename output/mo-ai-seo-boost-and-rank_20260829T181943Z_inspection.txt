@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mo-ai-seo-boost-and-rank_20260829T181943Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mo-ai-seo-boost-and-rank_20260829T181943Z.html
+Requested URL    : https://apps.shopify.com/mo-ai-seo-boost-and-rank
+Final URL        : https://apps.shopify.com/mo-ai-seo-boost-and-rank
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,658 bytes / 208,545 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : mO AI SEO ‑ Speed Optimization - Raise SEO rankings & page speed for better conversions. | Shopify App Store
+meta description : Accelerate website performance & enhance search engine rankings with mO AI SEO. Achieve faster results and higher visibility with smart optimization.
+canonical URL    : https://apps.shopify.com/mo-ai-seo-boost-and-rank
+<h1> tags ( 1)  : 'mO AI SEO ‑ Speed Optimization'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

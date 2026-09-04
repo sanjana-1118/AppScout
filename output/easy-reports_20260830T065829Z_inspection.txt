@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-reports_20260830T065829Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-reports_20260830T065829Z.html
+Requested URL    : https://apps.shopify.com/easy-reports
+Final URL        : https://apps.shopify.com/easy-reports
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,078 bytes / 245,984 chars
+Elapsed          : 0.965s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Reports & Data Export - Build any report and automate exports with full control | Shopify App Store
+meta description : Build custom reports with full data control. Automate exports to Sheets, Slack, Teams,  Zapier, Make, emails, or SFTP and generate reports with AI.
+canonical URL    : https://apps.shopify.com/easy-reports
+<h1> tags ( 1)  : 'Easy Reports & Data Export'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

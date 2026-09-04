@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hypapixel_20260830T073424Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hypapixel_20260830T073424Z.html
+Requested URL    : https://apps.shopify.com/hypapixel
+Final URL        : https://apps.shopify.com/hypapixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,426 bytes / 176,337 chars
+Elapsed          : 0.489s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hypapixel(FB): AI Pixel & CAPI - Server-side Meta CAPI with AI-optimized conversion tracking | Shopify App Store
+meta description : Server-side Meta Conversion API with AI-optimized tracking. Multi-pixel setup, intelligent signal filtering, and goal-based training for better Facebook ad ROAS
+canonical URL    : https://apps.shopify.com/hypapixel
+<h1> tags ( 1)  : 'Hypapixel(FB): AI Pixel & CAPI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

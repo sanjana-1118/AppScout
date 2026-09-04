@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-slide_20260830T090303Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-slide_20260830T090303Z.html
+Requested URL    : https://apps.shopify.com/cart-slide
+Final URL        : https://apps.shopify.com/cart-slide
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,500 bytes / 176,407 chars
+Elapsed          : 0.488s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ThanhBT: Cart Drawer - Lets you cart slide from the right! | Shopify App Store
+meta description : Include Free shipping notification, discount code input, cart notes input....
+canonical URL    : https://apps.shopify.com/cart-slide
+<h1> tags ( 1)  : 'ThanhBT: Cart Drawer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

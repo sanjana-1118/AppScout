@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-pulse_20260830T171103Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-pulse_20260830T171103Z.html
+Requested URL    : https://apps.shopify.com/order-pulse
+Final URL        : https://apps.shopify.com/order-pulse
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,161 bytes / 184,072 chars
+Elapsed          : 0.579s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Pulse - Manage COD orders, track couriers, and monitor RTO analytics. | Shopify App Store
+meta description : OrderPulse helps COD merchants manage orders, couriers, and delivery analytics from one dashboard. Sync Shopify orders, assign couriers, and monito...
+canonical URL    : https://apps.shopify.com/order-pulse
+<h1> tags ( 1)  : 'Order Pulse'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

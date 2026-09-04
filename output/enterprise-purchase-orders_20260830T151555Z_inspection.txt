@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enterprise-purchase-orders_20260830T151555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enterprise-purchase-orders_20260830T151555Z.html
+Requested URL    : https://apps.shopify.com/enterprise-purchase-orders
+Final URL        : https://apps.shopify.com/enterprise-purchase-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,485 bytes / 166,392 chars
+Elapsed          : 0.579s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hyperspace Purchase Orders - Advanced PO capabilities for enterprise-level retailers | Shopify App Store
+meta description : Simplify Purchase Orders operations with our powerful Enterprise PO App for Shopify. Automate approvals, track POs, and improve your purchasing workflow.
+canonical URL    : https://apps.shopify.com/enterprise-purchase-orders
+<h1> tags ( 1)  : 'Hyperspace Purchase Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

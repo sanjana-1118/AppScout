@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datajar_20260830T072117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datajar_20260830T072117Z.html
+Requested URL    : https://apps.shopify.com/datajar
+Final URL        : https://apps.shopify.com/datajar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,507 bytes / 183,392 chars
+Elapsed          : 0.472s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Datajar - Track competitors, manage ads & pricing — AI agent that... | Shopify App Store
+meta description : Track competitor prices, cut wasted ad spend, and fix what hurts profit. Datajar is the AI agent for Shopify stores — ask in plain language, approve the action.
+canonical URL    : https://apps.shopify.com/datajar
+<h1> tags ( 1)  : 'Datajar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

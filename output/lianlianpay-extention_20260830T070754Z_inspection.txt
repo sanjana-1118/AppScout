@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lianlianpay-extention_20260830T070754Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lianlianpay-extention_20260830T070754Z.html
+Requested URL    : https://apps.shopify.com/lianlianpay-extention
+Final URL        : https://apps.shopify.com/lianlianpay-extention
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,031 bytes / 163,826 chars
+Elapsed          : 0.519s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LianLian Extention - Saving time with automation | Shopify App Store
+meta description : No need to upload information manually in Dashboard again. Automation comes first...
+canonical URL    : https://apps.shopify.com/lianlianpay-extention
+<h1> tags ( 1)  : 'LianLian Extention'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vibe-vat-relief_20260830T070519Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vibe-vat-relief_20260830T070519Z.html
+Requested URL    : https://apps.shopify.com/vibe-vat-relief
+Final URL        : https://apps.shopify.com/vibe-vat-relief
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,123 bytes / 177,034 chars
+Elapsed          : 0.754s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vibe VAT Relief - Selective UK disability VAT relief for eligible customers | Shopify App Store
+meta description : Selective zero-rate VAT for chronically sick and disabled UK customers. HMRC-compliant declarations, branded emails, accounting export, 7-day free trial.
+canonical URL    : https://apps.shopify.com/vibe-vat-relief
+<h1> tags ( 1)  : 'Vibe VAT Relief'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopnotes-1_20260831T040425Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopnotes-1_20260831T040425Z.html
+Requested URL    : https://apps.shopify.com/shopnotes-1
+Final URL        : https://apps.shopify.com/shopnotes-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,331 bytes / 169,222 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopNotes - Sticky notes for your admin — text, checklists, images &... | Shopify App Store
+meta description : ShopNotes lets you create sticky notes directly in your Shopify admin — no need to leave the dashboard.
+
+4 note types: Text for free-form memos, Ch...
+canonical URL    : https://apps.shopify.com/shopnotes-1
+<h1> tags ( 1)  : 'ShopNotes'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

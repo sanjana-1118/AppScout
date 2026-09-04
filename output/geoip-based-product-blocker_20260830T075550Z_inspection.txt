@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geoip-based-product-blocker_20260830T075550Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geoip-based-product-blocker_20260830T075550Z.html
+Requested URL    : https://apps.shopify.com/geoip-based-product-blocker
+Final URL        : https://apps.shopify.com/geoip-based-product-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,300 bytes / 214,211 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AGeo: Product Blocker - Control which countries can access the products in your store | Shopify App Store
+meta description : Block products, collections, pages, and store sections by country or state. Manage geo restrictions easily from Shopify Admin.
+canonical URL    : https://apps.shopify.com/geoip-based-product-blocker
+<h1> tags ( 1)  : 'AGeo: Product Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

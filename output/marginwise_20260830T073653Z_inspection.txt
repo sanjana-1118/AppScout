@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marginwise_20260830T073653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\marginwise_20260830T073653Z.html
+Requested URL    : https://apps.shopify.com/marginwise
+Final URL        : https://apps.shopify.com/marginwise
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,149 bytes / 166,060 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MarginWise -  Simple Profit Analytics | Shopify App Store
+meta description : See exactly which products actually make money, and how your margins trend over time by product, category, and more. MarginWise saves you time by a...
+canonical URL    : https://apps.shopify.com/marginwise
+<h1> tags ( 1)  : 'MarginWise'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

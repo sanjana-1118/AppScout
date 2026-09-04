@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vify-order-printer_20260830T051241Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vify-order-printer_20260830T051241Z.html
+Requested URL    : https://apps.shopify.com/vify-order-printer
+Final URL        : https://apps.shopify.com/vify-order-printer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 255,259 bytes / 255,170 chars
+Elapsed          : 0.901s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vify Order Printer PDF Invoice - An invoice generator to easily custom and print order document | Shopify App Store
+meta description : Vify Order Printer is an invoice generator app that lets you generate and customize PDF invoices, automate invoices easily, and print packing slips and refunds.
+canonical URL    : https://apps.shopify.com/vify-order-printer
+<h1> tags ( 1)  : 'Vify Order Printer PDF Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

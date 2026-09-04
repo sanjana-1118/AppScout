@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simple-shop-automation_20260830T071006Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simple-shop-automation_20260830T071006Z.html
+Requested URL    : https://apps.shopify.com/simple-shop-automation
+Final URL        : https://apps.shopify.com/simple-shop-automation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,897 bytes / 219,804 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hextom: Workflow Automation - Your virtual assistant, automate your daily workflow | Shopify App Store
+meta description : Shop Workflow Automation is an e-commerce automation solution that takes daily operations off your shoulders, so you can concentrate on growing you...
+canonical URL    : https://apps.shopify.com/simple-shop-automation
+<h1> tags ( 1)  : 'Hextom: Workflow Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

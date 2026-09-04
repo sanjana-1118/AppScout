@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\add-to-cart-animator-shaker_20260830T064112Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\add-to-cart-animator-shaker_20260830T064112Z.html
+Requested URL    : https://apps.shopify.com/add-to-cart-animator-shaker
+Final URL        : https://apps.shopify.com/add-to-cart-animator-shaker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,146 bytes / 183,053 chars
+Elapsed          : 0.572s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pushdaddy Add to Cart Animator - Animate your Add to Cart and convert visitor into customer | Shopify App Store
+meta description : App lets you customize the Add to Cart button to make it much catchier. The app is optimized for mobile and works with all free Shopify themes.
+...
+canonical URL    : https://apps.shopify.com/add-to-cart-animator-shaker
+<h1> tags ( 1)  : 'Pushdaddy Add to Cart Animator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

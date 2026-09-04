@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blaze-cart_20260830T173223Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blaze-cart_20260830T173223Z.html
+Requested URL    : https://apps.shopify.com/blaze-cart
+Final URL        : https://apps.shopify.com/blaze-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,312 bytes / 174,215 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blaze Cart - Customizable slide cart to improve UX and conversions | Shopify App Store
+meta description : Blaze Slider Cart adds a modern slide-out cart that upgrades your store experience instantly. Show the cart when customers add products or click th...
+canonical URL    : https://apps.shopify.com/blaze-cart
+<h1> tags ( 1)  : 'Blaze Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

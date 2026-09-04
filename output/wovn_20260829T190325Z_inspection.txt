@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wovn_20260829T190325Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wovn_20260829T190325Z.html
+Requested URL    : https://apps.shopify.com/wovn
+Final URL        : https://apps.shopify.com/wovn
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,535 bytes / 160,976 chars
+Elapsed          : 0.560s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WOVN.io 連携（ショップの多言語化から翻訳運用管理） - 国内外18,000サイト以上が利用。翻訳管理にかかる不要なコストとリソースを削減し、快適で、効率よく、ストアの国際化を実現。 | Shopify App Store
+meta description : 多言語化を通じて、ストアの海外戦略を支援するソリューション連携
+WOVN.io は、ストアを様々な言語に多言語化できるソリューションです。
+canonical URL    : https://apps.shopify.com/wovn?locale=ja
+<h1> tags ( 1)  : 'WOVN.io 連携（ショップの多言語化から翻訳運用管理）'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

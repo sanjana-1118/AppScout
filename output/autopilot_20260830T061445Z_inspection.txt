@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autopilot_20260830T061445Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autopilot_20260830T061445Z.html
+Requested URL    : https://apps.shopify.com/autopilot
+Final URL        : https://apps.shopify.com/autopilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 285,872 bytes / 285,771 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ortto - Marketing Journey Automation, CDP, Personalization, Analytics | Shopify App Store
+meta description : Connect Shopify to Ortto to consolidate your data and get a single view of the customer journey, and use your data to build personalized marketing campaigns.
+canonical URL    : https://apps.shopify.com/autopilot
+<h1> tags ( 1)  : 'Ortto'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

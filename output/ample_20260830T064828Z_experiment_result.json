@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/ample",
+  "fetch_timestamp": "2026-08-30T06:48:28.919828+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ample_20260830T064828Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ample_20260830T064828Z.html",
+    "url": "https://apps.shopify.com/ample",
+    "final_url": "https://apps.shopify.com/ample",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 179271,
+    "body_text_length": 179160,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.940726,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Ample ‑ Sustainable Impact - Create positive eco-impact with every sale!  | Shopify App Store",
+    "meta_description": "Say goodbye to traditional methods of giving back and embrace a more impactful way to engage customers and increase online conversions. Our easy-to...",
+    "canonical_url": "https://apps.shopify.com/ample",
+    "h1_tags": [
+      "Ample ‑ Sustainable Impact"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Ample ‑ Sustainable Impact",
+    "app_slug": "ample",
+    "app_url": "https://apps.shopify.com/ample",
+    "developer_name": "Proton Partners Ltd",
+    "description": "Say goodbye to traditional methods of giving back and embrace a more impactful way to engage customers and increase online conversions. Our easy-to...",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Donations"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ample_20260830T064828Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\ample_20260830T064828Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Ample ‑ Sustainable Impact",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "ample",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/ample",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Proton Partners Ltd",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Say goodbye to traditional methods of giving back and embrace a more impactful way to engage customers and increase online conversions. Our easy-to...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Donations",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

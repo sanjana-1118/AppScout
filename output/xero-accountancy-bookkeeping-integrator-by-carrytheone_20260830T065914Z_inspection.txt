@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xero-accountancy-bookkeeping-integrator-by-carrytheone_20260830T065914Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xero-accountancy-bookkeeping-integrator-by-carrytheone_20260830T065914Z.html
+Requested URL    : https://apps.shopify.com/xero-accountancy-bookkeeping-integrator-by-carrytheone
+Final URL        : https://apps.shopify.com/xero-accountancy-bookkeeping-integrator-by-carrytheone
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,882 bytes / 218,775 chars
+Elapsed          : 0.535s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Xero Connector by CarryTheOne - Save time by automating your accounting | Shopify App Store
+meta description : Seamlessly import your Shopify orders, POS, refunds, customers, payment fees and products into Xero. Full tax support with the longest running, time-tested app.
+canonical URL    : https://apps.shopify.com/xero-accountancy-bookkeeping-integrator-by-carrytheone
+<h1> tags ( 1)  : 'Xero Connector by CarryTheOne'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

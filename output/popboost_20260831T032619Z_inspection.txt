@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popboost_20260831T032619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popboost_20260831T032619Z.html
+Requested URL    : https://apps.shopify.com/popboost
+Final URL        : https://apps.shopify.com/popboost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,731 bytes / 200,598 chars
+Elapsed          : 0.741s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PopBoost ‑ Social Proof Popup - Social proof popups, countdown timers & announcement bars in 1 | Shopify App Store
+meta description : Replace 5 conversion apps with one. Social proof popups, countdown timers, product badges, stock alerts & exit-intent popups. $19/month, 14-day free trial.
+canonical URL    : https://apps.shopify.com/popboost
+<h1> tags ( 1)  : 'PopBoost ‑ Social Proof Popup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

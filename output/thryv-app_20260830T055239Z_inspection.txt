@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thryv-app_20260830T055239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thryv-app_20260830T055239Z.html
+Requested URL    : https://apps.shopify.com/thryv-app
+Final URL        : https://apps.shopify.com/thryv-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,631 bytes / 156,538 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Thryv - Manage your Clients and your business in the palm of... | Shopify App Store
+meta description : By choosing to integrate Shopify with Thryv you'll be able to sync contacts and payments seamlessly.  In the palm of your hand you can stay on top ...
+canonical URL    : https://apps.shopify.com/thryv-app
+<h1> tags ( 1)  : 'Thryv'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

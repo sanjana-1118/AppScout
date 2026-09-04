@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deliverflow-pickup-delivery_20260830T171656Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deliverflow-pickup-delivery_20260830T171656Z.html
+Requested URL    : https://apps.shopify.com/deliverflow-pickup-delivery
+Final URL        : https://apps.shopify.com/deliverflow-pickup-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,630 bytes / 210,529 chars
+Elapsed          : 0.790s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DeliverFlow Pickup & Delivery - Smart scheduling for local delivery, pickup & driver routing. | Shopify App Store
+meta description : Schedule local delivery and store pickup with time slots, delivery zones, route optimization, and live order tracking — all from your Shopify store.
+canonical URL    : https://apps.shopify.com/deliverflow-pickup-delivery
+<h1> tags ( 1)  : 'DeliverFlow Pickup & Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

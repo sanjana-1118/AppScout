@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codbot-cod-sms-verification_20260830T131809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\codbot-cod-sms-verification_20260830T131809Z.html
+Requested URL    : https://apps.shopify.com/codbot-cod-sms-verification
+Final URL        : https://apps.shopify.com/codbot-cod-sms-verification
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,814 bytes / 228,725 chars
+Elapsed          : 0.604s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : COD: Advanced Cash on Delivery - Charge a fee for COD orders along with OTP verification | Shopify App Store
+meta description : Verify Cash on Delivery orders for Shopify for India and other countries through SMS and WhatsApp.
+canonical URL    : https://apps.shopify.com/codbot-cod-sms-verification
+<h1> tags ( 1)  : 'COD: Advanced Cash on Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

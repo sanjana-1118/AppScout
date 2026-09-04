@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flatlay-social-commerce_20260829T183504Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flatlay-social-commerce_20260829T183504Z.html
+Requested URL    : https://apps.shopify.com/flatlay-social-commerce
+Final URL        : https://apps.shopify.com/flatlay-social-commerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,742 bytes / 185,653 chars
+Elapsed          : 0.740s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FLATLAY Social Commerce  - Activate a content marketing community of creators & customers | Shopify App Store
+meta description : A passionate community of creatives across Instagram, TikTok, YouTube, Snapchat, Twitch, Twitter, Facebook and Pinterest excited to partner with your company.
+canonical URL    : https://apps.shopify.com/flatlay-social-commerce
+<h1> tags ( 1)  : 'FLATLAY Social Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

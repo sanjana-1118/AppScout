@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reportme_20260830T072809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reportme_20260830T072809Z.html
+Requested URL    : https://apps.shopify.com/reportme
+Final URL        : https://apps.shopify.com/reportme
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,559 bytes / 175,470 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReportMe - Automated daily reports with key metrics sent to your inbox | Shopify App Store
+meta description : Automated daily reports for Shopify stores delivered by email. Monitor revenue, orders, conversion rate, and top products. Keep your team informed easily.
+canonical URL    : https://apps.shopify.com/reportme
+<h1> tags ( 1)  : 'ReportMe'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\t-c-ca-tax-payments_20260830T070500Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\t-c-ca-tax-payments_20260830T070500Z.html
+Requested URL    : https://apps.shopify.com/t-c-ca-tax-payments
+Final URL        : https://apps.shopify.com/t-c-ca-tax-payments
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,372 bytes / 167,283 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : T&C Ca tax payments - there is nothing unique here just this car subtitle | Shopify App Store
+meta description : Review California sales tax from Shopify orders, estimate tax due, reconcile collected tax, and export CDTFA Schedule A workbooks.
+canonical URL    : https://apps.shopify.com/t-c-ca-tax-payments
+<h1> tags ( 1)  : 'T&C Ca tax payments'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

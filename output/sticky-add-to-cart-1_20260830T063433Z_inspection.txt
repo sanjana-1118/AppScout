@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-add-to-cart-1_20260830T063433Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-add-to-cart-1_20260830T063433Z.html
+Requested URL    : https://apps.shopify.com/sticky-add-to-cart-1
+Final URL        : https://apps.shopify.com/sticky-add-to-cart-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,603 bytes / 217,501 chars
+Elapsed          : 1.057s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Square: Sticky Add to Cart Bar - Keep the Sticky Add to Cart Bar visible on scroll... | Shopify App Store
+meta description : Increase sales with the Square Sticky Add to Cart Bar. Customize designs for any device, keep the button visible while scrolling, and track performance easily.
+canonical URL    : https://apps.shopify.com/sticky-add-to-cart-1
+<h1> tags ( 1)  : 'Square: Sticky Add to Cart Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

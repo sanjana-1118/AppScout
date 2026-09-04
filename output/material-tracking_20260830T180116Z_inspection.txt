@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\material-tracking_20260830T180116Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\material-tracking_20260830T180116Z.html
+Requested URL    : https://apps.shopify.com/material-tracking
+Final URL        : https://apps.shopify.com/material-tracking
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,196 bytes / 172,105 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Material Tracking - Inventory management for the materials behind your products | Shopify App Store
+meta description : Inventory management for the materials behind your products. Add stock, record production, automate order deductions, and track every movement.
+canonical URL    : https://apps.shopify.com/material-tracking
+<h1> tags ( 1)  : 'Material Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

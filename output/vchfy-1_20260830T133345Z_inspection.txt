@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vchfy-1_20260830T133345Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vchfy-1_20260830T133345Z.html
+Requested URL    : https://apps.shopify.com/vchfy-1
+Final URL        : https://apps.shopify.com/vchfy-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,884 bytes / 167,787 chars
+Elapsed          : 0.859s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : vchfy - Higher conversion rate with own coupon page | Shopify App Store
+meta description : With vchfy you achieve a better ranking on Google for search queries like "coupon your online store" and as an online store owner you get back cont...
+canonical URL    : https://apps.shopify.com/vchfy-1
+<h1> tags ( 1)  : 'vchfy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

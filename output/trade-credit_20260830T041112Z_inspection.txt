@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trade-credit_20260830T041112Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trade-credit_20260830T041112Z.html
+Requested URL    : https://apps.shopify.com/trade-credit
+Final URL        : https://apps.shopify.com/trade-credit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,660 bytes / 183,573 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trade Credit: B2B Credit Limit - Set B2B credit limits & auto-block over-limit checkouts. | Shopify App Store
+meta description : Protect your Shopify wholesale business. Set B2B credit limits, track outstanding net terms debt, and automatically block checkouts before they exceed the limit
+canonical URL    : https://apps.shopify.com/trade-credit
+<h1> tags ( 1)  : 'Trade Credit: B2B Credit Limit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

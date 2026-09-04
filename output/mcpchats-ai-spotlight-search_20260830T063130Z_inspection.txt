@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mcpchats-ai-spotlight-search_20260830T063130Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mcpchats-ai-spotlight-search_20260830T063130Z.html
+Requested URL    : https://apps.shopify.com/mcpchats-ai-spotlight-search
+Final URL        : https://apps.shopify.com/mcpchats-ai-spotlight-search
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,491 bytes / 186,368 chars
+Elapsed          : 0.468s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MCPChats ‑ AI Spotlight Search - Spotlight search that understands what your customers mean | Shopify App Store
+meta description : Add a Spotlight-style search overlay to your Shopify store. Customers find products using natural language with zero indexing or setup. Works instantly
+canonical URL    : https://apps.shopify.com/mcpchats-ai-spotlight-search
+<h1> tags ( 1)  : 'MCPChats ‑ AI Spotlight Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

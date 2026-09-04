@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recurring-memberships_20260830T064503Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recurring-memberships_20260830T064503Z.html
+Requested URL    : https://apps.shopify.com/recurring-memberships
+Final URL        : https://apps.shopify.com/recurring-memberships
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,504 bytes / 226,407 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bold Memberships & Loyalty - Sell Memberships, Member Perks & Custom Membership Access. | Shopify App Store
+meta description : Offer recurring memberships, loyalty rewards or a membership program on your Shopify store! Member access to products, prices, members only shopping and more!
+canonical URL    : https://apps.shopify.com/recurring-memberships
+<h1> tags ( 1)  : 'Bold Memberships & Loyalty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

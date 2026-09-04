@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tactical_20260830T073710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tactical_20260830T073710Z.html
+Requested URL    : https://apps.shopify.com/tactical
+Final URL        : https://apps.shopify.com/tactical
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,783 bytes / 176,690 chars
+Elapsed          : 0.608s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tactical - AI agent traffic intelligence for your store | Shopify App Store
+meta description : Detect AI agents visiting your Shopify store. Classify intent, track product interest, see competitive exposure. Free plan available. Privacy-first analytics.
+canonical URL    : https://apps.shopify.com/tactical
+<h1> tags ( 1)  : 'Tactical'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

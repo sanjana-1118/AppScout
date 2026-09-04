@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\courier-label_20260830T032750Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\courier-label_20260830T032750Z.html
+Requested URL    : https://apps.shopify.com/courier-label
+Final URL        : https://apps.shopify.com/courier-label
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,519 bytes / 171,412 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Courier Label ‑ One Click Ship - All-in-One Ecommerce Shipping Solution. | Shopify App Store
+meta description : Manage Orders from Multiple Stores Effortlessly under one roof. 
+1. Provide Canadian sellers an option to compare shipping rates between carrier pr...
+canonical URL    : https://apps.shopify.com/courier-label
+<h1> tags ( 1)  : 'Courier Label ‑ One Click Ship'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

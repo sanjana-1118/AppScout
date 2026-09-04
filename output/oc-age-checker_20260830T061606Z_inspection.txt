@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oc-age-checker_20260830T061606Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oc-age-checker_20260830T061606Z.html
+Requested URL    : https://apps.shopify.com/oc-age-checker
+Final URL        : https://apps.shopify.com/oc-age-checker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,346 bytes / 175,249 chars
+Elapsed          : 0.467s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OC Age Checker - Customizable age verification for restricted products | Shopify App Store
+meta description : Selling alcohol, tobacco, vape, CBD, or adult products? OC Age Checker keeps your store legally compliant with a professional age verification pop-...
+canonical URL    : https://apps.shopify.com/oc-age-checker
+<h1> tags ( 1)  : 'OC Age Checker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

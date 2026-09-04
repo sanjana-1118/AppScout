@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cui-validator_20260830T162421Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cui-validator_20260830T162421Z.html
+Requested URL    : https://apps.shopify.com/cui-validator
+Final URL        : https://apps.shopify.com/cui-validator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,691 bytes / 159,584 chars
+Elapsed          : 0.786s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CUIC ‑ CUI CHECKER - CUI validator | Shopify App Store
+meta description : The Romanian CUI Validator for Shopify is a robust tool designed to ensure that customer-entered Company Unique Identification Numbers (CUI) are va...
+canonical URL    : https://apps.shopify.com/cui-validator
+<h1> tags ( 1)  : 'CUIC ‑ CUI CHECKER'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

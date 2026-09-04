@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invoice-kudasai-sf_20260830T154534Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invoice-kudasai-sf_20260830T154534Z.html
+Requested URL    : https://apps.shopify.com/invoice-kudasai-sf
+Final URL        : https://apps.shopify.com/invoice-kudasai-sf
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,083 bytes / 171,818 chars
+Elapsed          : 1.468s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : インボイスくだサイSF - 手間０！領収書やインボイスをセルフ発行＆保存管理。インボイス制度、電子帳簿保存法対応。 | Shopify App Store
+meta description : ネットショップの証憑は「インボイスくだサイ」にまるっとお任せ下さい。 領収書（インボイス制度対応）、請求書、納品書、見積書を購入者様のセルフ発行＆電子帳簿保存法に基づく管理保存できます。
+canonical URL    : https://apps.shopify.com/invoice-kudasai-sf?locale=ja
+<h1> tags ( 1)  : 'インボイスくだサイSF'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

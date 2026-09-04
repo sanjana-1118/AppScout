@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\call-fast_20260831T024616Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\call-fast_20260831T024616Z.html
+Requested URL    : https://apps.shopify.com/call-fast
+Final URL        : https://apps.shopify.com/call-fast
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,812 bytes / 179,725 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Call.fast - AI phone agent that answers every call with order tracking | Shopify App Store
+meta description : Call.fast answers your store's phone 24/7 with an AI agent. Callers get live order status, tracking, and policy answers on every call. From $49.99/month.
+canonical URL    : https://apps.shopify.com/call-fast
+<h1> tags ( 1)  : 'Call.fast'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

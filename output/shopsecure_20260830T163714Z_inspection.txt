@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsecure_20260830T163714Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsecure_20260830T163714Z.html
+Requested URL    : https://apps.shopify.com/shopsecure
+Final URL        : https://apps.shopify.com/shopsecure
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,739 bytes / 175,646 chars
+Elapsed          : 0.874s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shop Secure - Control store access by country, IP, page, and product. | Shopify App Store
+meta description : ShopSecure lets Shopify merchants block or allow store access by country, IP address, page, or product. Set up in minutes, no coding required.
+canonical URL    : https://apps.shopify.com/shopsecure
+<h1> tags ( 1)  : 'Shop Secure'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

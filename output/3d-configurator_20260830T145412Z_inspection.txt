@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\3d-configurator_20260830T145412Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\3d-configurator_20260830T145412Z.html
+Requested URL    : https://apps.shopify.com/3d-configurator
+Final URL        : https://apps.shopify.com/3d-configurator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,044 bytes / 186,933 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mirrorsize‑3D Configurator - Real-time garment customization for an immersive experience | Shopify App Store
+meta description : Transform your Shopify store with a 3D Garment Configurator. Offer real-time 3D customization for apparel, letting customers design fabrics, colors, patterns.
+canonical URL    : https://apps.shopify.com/3d-configurator
+<h1> tags ( 1)  : 'Mirrorsize‑3D Configurator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

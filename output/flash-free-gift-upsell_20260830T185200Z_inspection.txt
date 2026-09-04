@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flash-free-gift-upsell_20260830T185200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flash-free-gift-upsell_20260830T185200Z.html
+Requested URL    : https://apps.shopify.com/flash-free-gift-upsell
+Final URL        : https://apps.shopify.com/flash-free-gift-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,313 bytes / 175,220 chars
+Elapsed          : 0.886s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flash Free Gift Upsell - Auto add a free gift with purchase & boost average... | Shopify App Store
+meta description : Automatically add a free gift to the cart when customers hit your spend threshold. Boost average order value with Flash Free Gift Upsell for Shopify.
+canonical URL    : https://apps.shopify.com/flash-free-gift-upsell
+<h1> tags ( 1)  : 'Flash Free Gift Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

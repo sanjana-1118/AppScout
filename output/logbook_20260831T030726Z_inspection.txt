@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logbook_20260831T030726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\logbook_20260831T030726Z.html
+Requested URL    : https://apps.shopify.com/logbook
+Final URL        : https://apps.shopify.com/logbook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,524 bytes / 168,417 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Logbook ‑ Staff Activity Logs - Searchable order change history for every store order | Shopify App Store
+meta description : Track order changes, staff activity and before-and-after values in one searchable, filterable and exportable order audit trail.
+canonical URL    : https://apps.shopify.com/logbook
+<h1> tags ( 1)  : 'Logbook ‑ Staff Activity Logs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

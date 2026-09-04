@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatarmin-whatsapp_20260830T143523Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatarmin-whatsapp_20260830T143523Z.html
+Requested URL    : https://apps.shopify.com/chatarmin-whatsapp
+Final URL        : https://apps.shopify.com/chatarmin-whatsapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,884 bytes / 196,743 chars
+Elapsed          : 0.918s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WhatsApp Marketing ‑ Chatarmin - Drive revenue with WhatsApp marketing & automation | Shopify App Store
+meta description : 85% Öffnungsraten und 15x ROI: Newsletter, Warenkorbabbrüche, Automatisierungen und KI Chatbot
+canonical URL    : https://apps.shopify.com/chatarmin-whatsapp
+<h1> tags ( 1)  : 'WhatsApp Marketing ‑ Chatarmin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

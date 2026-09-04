@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yanet-auto-purchase-orders_20260830T193853Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yanet-auto-purchase-orders_20260830T193853Z.html
+Requested URL    : https://apps.shopify.com/yanet-auto-purchase-orders
+Final URL        : https://apps.shopify.com/yanet-auto-purchase-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,191 bytes / 179,098 chars
+Elapsed          : 0.641s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yanet Auto Purchase Orders - Create, manage & track purchase orders with ease | Shopify App Store
+meta description : Managing purchase orders shouldn't be complicated. Yanet Auto Purchase Orders helps you create, organize, and track POs while keeping supplier and ...
+canonical URL    : https://apps.shopify.com/yanet-auto-purchase-orders
+<h1> tags ( 1)  : 'Yanet Auto Purchase Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

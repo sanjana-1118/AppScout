@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\word-clouds-seo_20260829T190238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\word-clouds-seo_20260829T190238Z.html
+Requested URL    : https://apps.shopify.com/word-clouds-seo
+Final URL        : https://apps.shopify.com/word-clouds-seo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,293 bytes / 163,204 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Word Clouds SEO - Visually analyse the keyword density of your pages for SEO | Shopify App Store
+meta description : Visualise the text content of your pages and easily discover the SEO impact of your content with Word Clouds SEO.
+canonical URL    : https://apps.shopify.com/word-clouds-seo
+<h1> tags ( 1)  : 'Word Clouds SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

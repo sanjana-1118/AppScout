@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\squid-upsells_20260829T184126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\squid-upsells_20260829T184126Z.html
+Requested URL    : https://apps.shopify.com/squid-upsells
+Final URL        : https://apps.shopify.com/squid-upsells
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,410 bytes / 208,307 chars
+Elapsed          : 0.670s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Squid: Reviews, Upsells & 25+ - Get FBT, free gifts, trust badges, and more in one... | Shopify App Store
+meta description : Maximise AOV with upsells & cross-sells. Help customers discover products for upsell. With Squid App, create natural and effective upsell and cross...
+canonical URL    : https://apps.shopify.com/squid-upsells
+<h1> tags ( 1)  : 'Squid: Reviews, Upsells & 25+'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

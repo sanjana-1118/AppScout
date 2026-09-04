@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scayla_20260831T024521Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scayla_20260831T024521Z.html
+Requested URL    : https://apps.shopify.com/scayla
+Final URL        : https://apps.shopify.com/scayla
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,443 bytes / 173,342 chars
+Elapsed          : 0.863s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scayla - AI SEO/ GEO that writes your content and tracks AI... | Shopify App Store
+meta description : Scayla runs your Shopify SEO on autopilot: AI writes your content, fixes issues, and tracks your visibility in ChatGPT & Gemini. See the traffic it earns.
+canonical URL    : https://apps.shopify.com/scayla
+<h1> tags ( 1)  : 'Scayla'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

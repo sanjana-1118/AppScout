@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\utm_health_20260830T074808Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\utm_health_20260830T074808Z.html
+Requested URL    : https://apps.shopify.com/utm_health
+Final URL        : https://apps.shopify.com/utm_health
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,973 bytes / 188,860 chars
+Elapsed          : 1.081s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UTM Health ‑ Consequential  - Audit UTM tracking and find revenue lost to missing data | Shopify App Store
+meta description : Audit Shopify UTM tracking, find missing UTM parameters, unattributed revenue and order attribution gaps. Fix campaign tracking issues with UTM Health.
+canonical URL    : https://apps.shopify.com/utm_health
+<h1> tags ( 1)  : 'UTM Health ‑ Consequential'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

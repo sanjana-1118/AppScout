@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qr-code-generator-label_20260830T034025Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qr-code-generator-label_20260830T034025Z.html
+Requested URL    : https://apps.shopify.com/qr-code-generator-label
+Final URL        : https://apps.shopify.com/qr-code-generator-label
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,006 bytes / 180,917 chars
+Elapsed          : 0.436s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RS: QR Code Label Generator - Connect physical products to digital sales with dynamic QRs. | Shopify App Store
+meta description : Create dynamic, trackable QR codes and print custom product labels. Connect offline customers to digital sales with built-in UTM tracking and POS support.
+canonical URL    : https://apps.shopify.com/qr-code-generator-label
+<h1> tags ( 1)  : 'RS: QR Code Label Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

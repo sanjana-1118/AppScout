@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sv-partnerhub_20260830T072429Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sv-partnerhub_20260830T072429Z.html
+Requested URL    : https://apps.shopify.com/sv-partnerhub
+Final URL        : https://apps.shopify.com/sv-partnerhub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,343 bytes / 166,236 chars
+Elapsed          : 1.285s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SV‑PartnerHub - Visualize sales trends and product performance clearly | Shopify App Store
+meta description : SV-PartnerHub is a lightweight and secure integration tool that connects a Shopify store to an external dashboard to display key business metrics s...
+canonical URL    : https://apps.shopify.com/sv-partnerhub
+<h1> tags ( 1)  : 'SV‑PartnerHub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

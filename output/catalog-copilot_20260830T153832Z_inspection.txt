@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalog-copilot_20260830T153832Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalog-copilot_20260830T153832Z.html
+Requested URL    : https://apps.shopify.com/catalog-copilot
+Final URL        : https://apps.shopify.com/catalog-copilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,851 bytes / 156,756 chars
+Elapsed          : 0.695s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Catalog Copilot - Audit product and collection data, SEO, and discounts. | Shopify App Store
+meta description : Audit your product catalog for missing fields, SEO gaps, and discount insights. Enhance your listings and track issues effortlessly.
+canonical URL    : https://apps.shopify.com/catalog-copilot
+<h1> tags ( 1)  : 'Catalog Copilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

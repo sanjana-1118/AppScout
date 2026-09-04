@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-chart-creator_20260830T043553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-chart-creator_20260830T043553Z.html
+Requested URL    : https://apps.shopify.com/size-chart-creator
+Final URL        : https://apps.shopify.com/size-chart-creator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,173 bytes / 190,084 chars
+Elapsed          : 0.873s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vestofy Size Chart & Fit Guide - Reduce returns & boost sales with smart size charts +... | Shopify App Store
+meta description : Size chart maker & size guide (Recommender) add-on for your online fashion shop.
+Advanced, online size chart with reliable size match for shoppers.
+canonical URL    : https://apps.shopify.com/size-chart-creator
+<h1> tags ( 1)  : 'Vestofy Size Chart & Fit Guide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

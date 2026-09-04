@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-save-sync_20260830T153500Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-save-sync_20260830T153500Z.html
+Requested URL    : https://apps.shopify.com/product-save-sync
+Final URL        : https://apps.shopify.com/product-save-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,067 bytes / 199,960 chars
+Elapsed          : 1.270s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Product Save & Sync - Clone products between your stores - metafields intact | Shopify App Store
+meta description : Clone products between your stores with variants, images, metafields, metaobjects and SEO fields preserved in a single pass. No spreadsheets needed.
+canonical URL    : https://apps.shopify.com/product-save-sync
+<h1> tags ( 1)  : 'Product Save & Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

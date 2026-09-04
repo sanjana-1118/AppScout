@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saleswing_20260830T132321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saleswing_20260830T132321Z.html
+Requested URL    : https://apps.shopify.com/saleswing
+Final URL        : https://apps.shopify.com/saleswing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,660 bytes / 168,519 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SALESWING‑AliExpress Dropship - Low-price products & reliable services from China dropshipping | Shopify App Store
+meta description : Almighty all-in-one Dropshipping assistant that helps you grow your business. Find fast shipping and profitable products from the US, UK, Australia...
+canonical URL    : https://apps.shopify.com/saleswing
+<h1> tags ( 1)  : 'SALESWING‑AliExpress Dropship'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

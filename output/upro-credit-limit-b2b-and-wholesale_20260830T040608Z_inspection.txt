@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upro-credit-limit-b2b-and-wholesale_20260830T040608Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upro-credit-limit-b2b-and-wholesale_20260830T040608Z.html
+Requested URL    : https://apps.shopify.com/upro-credit-limit-b2b-and-wholesale
+Final URL        : https://apps.shopify.com/upro-credit-limit-b2b-and-wholesale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,700 bytes / 231,607 chars
+Elapsed          : 0.625s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upro B2B & Wholesale - Credit limits & B2B bulk order form via file upload/SKU... | Shopify App Store
+meta description : Configure credit limits + financial ledger and allow buyers to download B2B catalog, place orders via SKU entry or Excel file upload using a bulk order form
+canonical URL    : https://apps.shopify.com/upro-credit-limit-b2b-and-wholesale
+<h1> tags ( 1)  : 'Upro B2B & Wholesale'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upright-cleaner_20260830T182827Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upright-cleaner_20260830T182827Z.html
+Requested URL    : https://apps.shopify.com/upright-cleaner
+Final URL        : https://apps.shopify.com/upright-cleaner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,647 bytes / 161,554 chars
+Elapsed          : 1.210s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upright: Theme Code Cleaner - Find dead app code slowing your store speed. Exact file... | Shopify App Store
+meta description : Free scan finds dead code uninstalled apps left in your Shopify theme. Read-only, exact file paths, so you can clean up safely and speed up your page load.
+canonical URL    : https://apps.shopify.com/upright-cleaner
+<h1> tags ( 1)  : 'Upright: Theme Code Cleaner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

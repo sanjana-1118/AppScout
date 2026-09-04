@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\linkcious_20260830T075518Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\linkcious_20260830T075518Z.html
+Requested URL    : https://apps.shopify.com/linkcious
+Final URL        : https://apps.shopify.com/linkcious
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,526 bytes / 211,433 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Linkcious AI Related Products - Increase sales conversions by recommending the correct items | Shopify App Store
+meta description : With Linkcious, we ensure that related products displayed are what your customer wants to see using AI and the results will constantly improve over...
+canonical URL    : https://apps.shopify.com/linkcious
+<h1> tags ( 1)  : 'Linkcious AI Related Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

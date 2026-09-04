@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easybutton_20260830T060855Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easybutton_20260830T060855Z.html
+Requested URL    : https://apps.shopify.com/easybutton
+Final URL        : https://apps.shopify.com/easybutton
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,405 bytes / 179,652 chars
+Elapsed          : 0.497s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Obakec ‑ LINE 友だち追加ボタン簡単設置 - 顧客とのタッチポイントになるボタンを簡単に設置できます。 | Shopify App Store
+meta description : ショップの LINE 公式アカウントへリンクさせるボタンを簡単に設置できます。
+LINE以外にも、Instagram、Tiktok、X、Messenger、Telegram、WhatsApp といったSNSアイコンをプリセットしています。
+好きな画像をアップロードできるので、電話や電子メール、...
+canonical URL    : https://apps.shopify.com/easybutton?locale=ja
+<h1> tags ( 1)  : 'Obakec ‑ LINE 友だち追加ボタン簡単設置'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ratejetv0-8_20260830T032907Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ratejetv0-8_20260830T032907Z.html
+Requested URL    : https://apps.shopify.com/ratejetv0-8
+Final URL        : https://apps.shopify.com/ratejetv0-8
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,783 bytes / 178,694 chars
+Elapsed          : 0.527s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RateJet : Bulk Shipping Rates - Import Excel rate sheets into your shipping zones in minutes. | Shopify App Store
+meta description : Setting up shipping rates zone by zone in the Shopify admin is slow and error-prone, especially when a carrier rate card covers dozens of countries...
+canonical URL    : https://apps.shopify.com/ratejetv0-8
+<h1> tags ( 1)  : 'RateJet : Bulk Shipping Rates'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

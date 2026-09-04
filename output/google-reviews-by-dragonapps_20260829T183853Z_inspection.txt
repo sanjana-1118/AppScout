@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-by-dragonapps_20260829T183853Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-reviews-by-dragonapps_20260829T183853Z.html
+Requested URL    : https://apps.shopify.com/google-reviews-by-dragonapps
+Final URL        : https://apps.shopify.com/google-reviews-by-dragonapps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,007 bytes / 210,895 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Google Reviews by DragonApps - Showcase Google Business Reviews With Customizable Widgets | Shopify App Store
+meta description : Connect Your Google Business Profile and Showcase Reviews in Elegant, No-Code Widgets. Build Trust and Drive Conversions With Real Customer Feedback.
+canonical URL    : https://apps.shopify.com/google-reviews-by-dragonapps
+<h1> tags ( 1)  : 'Google Reviews by DragonApps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

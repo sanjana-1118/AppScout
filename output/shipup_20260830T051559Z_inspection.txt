@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipup_20260830T051559Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipup_20260830T051559Z.html
+Requested URL    : https://apps.shopify.com/shipup
+Final URL        : https://apps.shopify.com/shipup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,732 bytes / 196,637 chars
+Elapsed          : 0.549s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipup - Shipping Notifications and Order Tracking Page | Shopify App Store
+meta description : Shipup helps you improve the post-purchase experience. We enable online retailers to deliver consistent and proactive communication that delights c...
+canonical URL    : https://apps.shopify.com/shipup
+<h1> tags ( 1)  : 'Shipup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

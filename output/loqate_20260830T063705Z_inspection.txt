@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loqate_20260830T063705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loqate_20260830T063705Z.html
+Requested URL    : https://apps.shopify.com/loqate
+Final URL        : https://apps.shopify.com/loqate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,259 bytes / 191,168 chars
+Elapsed          : 0.585s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loqate Address Validation - Improve data quality & delivery rates with address validation | Shopify App Store
+meta description : Address validation and verification for Shopify Plus from Loqate
+canonical URL    : https://apps.shopify.com/loqate
+<h1> tags ( 1)  : 'Loqate Address Validation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

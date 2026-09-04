@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-scout_20260831T024110Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-scout_20260831T024110Z.html
+Requested URL    : https://apps.shopify.com/stock-scout
+Final URL        : https://apps.shopify.com/stock-scout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,040 bytes / 170,951 chars
+Elapsed          : 0.947s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stock Scout: Low Stock Alerts - Zero-setup low stock alerts from your real sales velocity | Shopify App Store
+meta description : Zero-setup low stock alerts. Stock Scout reads your sales velocity and warns you before products sell out. 14-day free trial.
+canonical URL    : https://apps.shopify.com/stock-scout
+<h1> tags ( 1)  : 'Stock Scout: Low Stock Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyfeed-for-google-shopping-feeds_20260829T175654Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyfeed-for-google-shopping-feeds_20260829T175654Z.html
+Requested URL    : https://apps.shopify.com/easyfeed-for-google-shopping-feeds
+Final URL        : https://apps.shopify.com/easyfeed-for-google-shopping-feeds
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 240,176 bytes / 240,075 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wixpa Google Shopping Feed  - Multi Product Feeds For Google Shopping (Google Feed) LLMS.txt | Shopify App Store
+meta description : Create product feeds for Google Shopping, Free local product listings,Local Inventory & Product Feeds.Free and alternative of Simprosys google shopping feed.
+canonical URL    : https://apps.shopify.com/easyfeed-for-google-shopping-feeds
+<h1> tags ( 1)  : 'Wixpa Google Shopping Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

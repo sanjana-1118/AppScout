@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geo-redirect-2_20260830T061230Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geo-redirect-2_20260830T061230Z.html
+Requested URL    : https://apps.shopify.com/geo-redirect-2
+Final URL        : https://apps.shopify.com/geo-redirect-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,604 bytes / 191,519 chars
+Elapsed          : 0.498s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Country Geo Redirects Lite - Redirect visitors to a country-specific version of your store. | Shopify App Store
+meta description : Have multiple Shopify stores for different countries? Ask visitors to go to their regional store by displaying a popup if they are in the incorrect...
+canonical URL    : https://apps.shopify.com/geo-redirect-2
+<h1> tags ( 1)  : 'Country Geo Redirects Lite'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

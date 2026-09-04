@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zipcodefinder_20260830T033141Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zipcodefinder_20260830T033141Z.html
+Requested URL    : https://apps.shopify.com/zipcodefinder
+Final URL        : https://apps.shopify.com/zipcodefinder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,092 bytes / 180,003 chars
+Elapsed          : 0.815s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ondot zip code finder - will find zip code and postal code to EVERY Israeli... | Shopify App Store
+meta description : Many Israeli orders arrive without zip codes, causing delivery delays and manual lookup work. This app solves that problem automatically.
+
+When a n...
+canonical URL    : https://apps.shopify.com/zipcodefinder
+<h1> tags ( 1)  : 'Ondot zip code finder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

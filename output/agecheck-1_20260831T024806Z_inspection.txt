@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agecheck-1_20260831T024806Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agecheck-1_20260831T024806Z.html
+Requested URL    : https://apps.shopify.com/agecheck-1
+Final URL        : https://apps.shopify.com/agecheck-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,470 bytes / 185,119 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 年齢確認ポップアップ・酒類対応 ‑ AgeCheck - 酒類などの販売に必要な年齢確認を、ポップアップとカートのチェックボックスで簡単に導入できます。 | Shopify App Store
+meta description : 酒類など年齢確認が必要な商品を扱うストアに、年齢確認ポップアップとカートのチェックボックスをコード編集なしで追加。対象商品の指定や生年月日での判定にも対応。7日間の無料トライアルで今すぐお試しください。
+canonical URL    : https://apps.shopify.com/agecheck-1?locale=ja
+<h1> tags ( 1)  : '年齢確認ポップアップ・酒類対応 ‑ AgeCheck'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

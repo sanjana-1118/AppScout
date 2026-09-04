@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostra-announcement-bar_20260830T165333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostra-announcement-bar_20260830T165333Z.html
+Requested URL    : https://apps.shopify.com/boostra-announcement-bar
+Final URL        : https://apps.shopify.com/boostra-announcement-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,759 bytes / 179,669 chars
+Elapsed          : 0.768s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boostra Annoucement Bar - Create announcement bars with timers, promo codes and goals. | Shopify App Store
+meta description : Create customizable announcement bars for your store. Display countdown timers, promo codes, free shipping goals with progress bars, and rotate multiple bars.
+canonical URL    : https://apps.shopify.com/boostra-announcement-bar
+<h1> tags ( 1)  : 'Boostra Annoucement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

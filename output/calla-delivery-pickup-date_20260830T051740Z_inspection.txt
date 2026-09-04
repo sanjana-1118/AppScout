@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\calla-delivery-pickup-date_20260830T051740Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\calla-delivery-pickup-date_20260830T051740Z.html
+Requested URL    : https://apps.shopify.com/calla-delivery-pickup-date
+Final URL        : https://apps.shopify.com/calla-delivery-pickup-date
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 237,327 bytes / 237,220 chars
+Elapsed          : 0.590s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Calla ‑ Delivery & Pickup Date - Delivery & pickup dates your store can actually keep. | Shopify App Store
+meta description : Promise a delivery or pickup time and keep it. Calla adds delivery, local delivery, and pickup scheduling to your product page, cart, and checkout ...
+canonical URL    : https://apps.shopify.com/calla-delivery-pickup-date
+<h1> tags ( 1)  : 'Calla ‑ Delivery & Pickup Date'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

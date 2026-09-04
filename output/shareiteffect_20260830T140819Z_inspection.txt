@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shareiteffect_20260830T140819Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shareiteffect_20260830T140819Z.html
+Requested URL    : https://apps.shopify.com/shareiteffect
+Final URL        : https://apps.shopify.com/shareiteffect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,766 bytes / 205,669 chars
+Elapsed          : 0.936s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShareitEffect: More Referrals - Your Products Referred to Hundreds of Future Customers | Shopify App Store
+meta description : Referral Marketing to Help Increase Traffic & Sales When Your Customers Recommend Your Brand to Their Social Media Followers
+canonical URL    : https://apps.shopify.com/shareiteffect
+<h1> tags ( 1)  : 'ShareitEffect: More Referrals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

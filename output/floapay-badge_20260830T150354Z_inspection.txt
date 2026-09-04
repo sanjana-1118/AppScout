@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\floapay-badge_20260830T150354Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\floapay-badge_20260830T150354Z.html
+Requested URL    : https://apps.shopify.com/floapay-badge
+Final URL        : https://apps.shopify.com/floapay-badge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,557 bytes / 163,391 chars
+Elapsed          : 0.821s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Floa ‑ Badge - Offrez le paiement en plusieurs fois avec Floa à vos... | Shopify App Store
+meta description : Notre widget Floa permet à vos clients de visualiser leurs options de paiement en plusieurs fois en 1 clic, à chaque étape de leur parcours d'achat
+canonical URL    : https://apps.shopify.com/floapay-badge?locale=fr
+<h1> tags ( 1)  : 'Floa ‑ Badge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

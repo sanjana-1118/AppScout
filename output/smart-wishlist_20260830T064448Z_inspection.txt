@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-wishlist_20260830T064448Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-wishlist_20260830T064448Z.html
+Requested URL    : https://apps.shopify.com/smart-wishlist
+Final URL        : https://apps.shopify.com/smart-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,866 bytes / 225,777 chars
+Elapsed          : 0.631s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Wishlist - Accelerate user retention, sales with fast & scalable wishlist | Shopify App Store
+meta description : Smart Wishlist is the next generation wishlist for Shopify stores which enables customers to create wishlists in one-click, even without login. It ...
+canonical URL    : https://apps.shopify.com/smart-wishlist
+<h1> tags ( 1)  : 'Smart Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

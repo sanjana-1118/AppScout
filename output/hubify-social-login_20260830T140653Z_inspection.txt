@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hubify-social-login_20260830T140653Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hubify-social-login_20260830T140653Z.html
+Requested URL    : https://apps.shopify.com/hubify-social-login
+Final URL        : https://apps.shopify.com/hubify-social-login
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,038 bytes / 168,927 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hubify ‑ Social Login - Login/Register with different type of social accounts | Shopify App Store
+meta description : Merchants can manage which social media accounts they want to provide on the store.
+Customers can create an account on the store with a single clic...
+canonical URL    : https://apps.shopify.com/hubify-social-login
+<h1> tags ( 1)  : 'Hubify ‑ Social Login'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

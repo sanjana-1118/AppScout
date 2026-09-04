@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\titan_20260830T153547Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\titan_20260830T153547Z.html
+Requested URL    : https://apps.shopify.com/titan
+Final URL        : https://apps.shopify.com/titan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 240,348 bytes / 240,220 chars
+Elapsed          : 0.932s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Titan ‑ AI Store Builder - Instantly build and launch a custom-branded store in minutes | Shopify App Store
+meta description : Titan helps merchants instantly generate and publish custom Shopify themes using AI. Build a fully branded storefront in seconds — no design skills needed.
+canonical URL    : https://apps.shopify.com/titan
+<h1> tags ( 1)  : 'Titan ‑ AI Store Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-pricing-discounts-by-appikon_20260830T044011Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-pricing-discounts-by-appikon_20260830T044011Z.html
+Requested URL    : https://apps.shopify.com/custom-pricing-discounts-by-appikon
+Final URL        : https://apps.shopify.com/custom-pricing-discounts-by-appikon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,274 bytes / 230,149 chars
+Elapsed          : 0.909s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopacado ‑ Volume Discounts - Increase AOV with a variety of proven discounting options | Shopify App Store
+meta description : Unlimited discounts can be applied across multiple products, collections that allow you to configure the simplest or most complex discounts across ...
+canonical URL    : https://apps.shopify.com/custom-pricing-discounts-by-appikon
+<h1> tags ( 1)  : 'Shopacado ‑ Volume Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

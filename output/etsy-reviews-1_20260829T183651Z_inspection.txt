@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\etsy-reviews-1_20260829T183651Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\etsy-reviews-1_20260829T183651Z.html
+Requested URL    : https://apps.shopify.com/etsy-reviews-1
+Final URL        : https://apps.shopify.com/etsy-reviews-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,650 bytes / 209,551 chars
+Elapsed          : 0.557s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GA: Etsy Reviews Importer - Etsy review importer for rating and review testimonials. | Shopify App Store
+meta description : Effortlessly showcase verified Etsy reviews on your store to build trust and boost sales. Import reviews directly from Etsy using a simple link or ...
+canonical URL    : https://apps.shopify.com/etsy-reviews-1
+<h1> tags ( 1)  : 'GA: Etsy Reviews Importer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

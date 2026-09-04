@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kn-shopable-video_20260830T194015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kn-shopable-video_20260830T194015Z.html
+Requested URL    : https://apps.shopify.com/kn-shopable-video
+Final URL        : https://apps.shopify.com/kn-shopable-video
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,610 bytes / 188,521 chars
+Elapsed          : 0.802s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KN Shopable Videos - Convert video views into sales with interactive product feeds | Shopify App Store
+meta description : Increase sales with interactive storefront video feeds. Allow customers to buy directly from video carousels and track revenue with detailed analytics.
+canonical URL    : https://apps.shopify.com/kn-shopable-video
+<h1> tags ( 1)  : 'KN Shopable Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\a2reviews_20260829T183804Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\a2reviews_20260829T183804Z.html
+Requested URL    : https://apps.shopify.com/a2reviews
+Final URL        : https://apps.shopify.com/a2reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,819 bytes / 224,707 chars
+Elapsed          : 0.590s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : A2Reviews ‑ Product Reviews - Intuitive solutions for effortless photo review management | Shopify App Store
+meta description : With A2Reviews you can easily manage reviews on your website. The products that are selling on your store will get an increase in purchase rate and...
+canonical URL    : https://apps.shopify.com/a2reviews
+<h1> tags ( 1)  : 'A2Reviews ‑ Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

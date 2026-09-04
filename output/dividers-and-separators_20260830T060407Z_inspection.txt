@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dividers-and-separators_20260830T060407Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dividers-and-separators_20260830T060407Z.html
+Requested URL    : https://apps.shopify.com/dividers-and-separators
+Final URL        : https://apps.shopify.com/dividers-and-separators
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,317 bytes / 169,224 chars
+Elapsed          : 0.498s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dino: Dividers and Separators - 20+ Section Dividers and Separators - works with all themes | Shopify App Store
+meta description : Add fantastic Dividers and Separators on Shopify store.
+choose from 20+ designs
+canonical URL    : https://apps.shopify.com/dividers-and-separators
+<h1> tags ( 1)  : 'Dino: Dividers and Separators'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

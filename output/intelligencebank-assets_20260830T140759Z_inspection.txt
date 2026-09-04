@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intelligencebank-assets_20260830T140759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intelligencebank-assets_20260830T140759Z.html
+Requested URL    : https://apps.shopify.com/intelligencebank-assets
+Final URL        : https://apps.shopify.com/intelligencebank-assets
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,055 bytes / 163,966 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : IntelligenceBank Assets - Attach approved IntelligenceBank DAM assets to products. | Shopify App Store
+meta description : The IntelligenceBank Assets app enables users to attach approved IntelligenceBank DAM assets to Shopify products & variants directly from within Shopify.
+canonical URL    : https://apps.shopify.com/intelligencebank-assets
+<h1> tags ( 1)  : 'IntelligenceBank Assets'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

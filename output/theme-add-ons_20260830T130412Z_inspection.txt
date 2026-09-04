@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\theme-add-ons_20260830T130412Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\theme-add-ons_20260830T130412Z.html
+Requested URL    : https://apps.shopify.com/theme-add-ons
+Final URL        : https://apps.shopify.com/theme-add-ons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,933 bytes / 173,817 chars
+Elapsed          : 0.645s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tence Add‑Ons - New theme features - Smart Top Bar, Installment and more | Shopify App Store
+meta description : Tence Add-Ons provide new features to your theme through small apps, where you can easily configure and adds features to your store, promoting adva...
+canonical URL    : https://apps.shopify.com/theme-add-ons
+<h1> tags ( 1)  : 'Tence Add‑Ons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

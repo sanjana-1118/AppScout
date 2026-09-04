@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\exact-online-connector-1_20260830T065945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\exact-online-connector-1_20260830T065945Z.html
+Requested URL    : https://apps.shopify.com/exact-online-connector-1
+Final URL        : https://apps.shopify.com/exact-online-connector-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,249 bytes / 180,158 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Exact Online by iWeb - Bespaar tijd: orders en voorraad automatisch in Exact Online | Shopify App Store
+meta description : Stuur je Shopify-orders, klanten en artikelen automatisch naar Exact Online en houd je voorraad synchroon. In 10 minuten actief, maandelijks opzegbaar.
+canonical URL    : https://apps.shopify.com/exact-online-connector-1?locale=nl
+<h1> tags ( 1)  : 'Exact Online by iWeb'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

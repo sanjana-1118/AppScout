@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-customer-address-checker_20260830T151540Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-customer-address-checker_20260830T151540Z.html
+Requested URL    : https://apps.shopify.com/order-customer-address-checker
+Final URL        : https://apps.shopify.com/order-customer-address-checker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,589 bytes / 160,284 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 配送先住所チェッカー | シンプル住所チェック・複数機能付 - 日本国内の郵便番号から配送先住所を自動照合（日本郵便公式データを使用）し、配送ミスを事前に防ぎます | Shopify App Store
+meta description : 「配送先住所チェッカー」は、Shopifyの注文詳細ページにリアルタイムで住所確認機能を追加するアプリです。注文情報に入力された郵便番号をもとに、日本郵便の公式データを用いて住所の正確性を自動チェックします。入力住所に誤りがある可能性がある場合には警告メッセージを表示します。チェック件数に上限はありません。
+canonical URL    : https://apps.shopify.com/order-customer-address-checker?locale=ja
+<h1> tags ( 1)  : '配送先住所チェッカー | シンプル住所チェック・複数機能付'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

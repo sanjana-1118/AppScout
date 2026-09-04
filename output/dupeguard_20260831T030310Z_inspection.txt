@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dupeguard_20260831T030310Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dupeguard_20260831T030310Z.html
+Requested URL    : https://apps.shopify.com/dupeguard
+Final URL        : https://apps.shopify.com/dupeguard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,423 bytes / 185,315 chars
+Elapsed          : 0.712s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DupeGuard - Stop customers reusing one-time discounts under new emails | Shopify App Store
+meta description : Shoppers reuse your first-order discount under a new email or alias. DupeGuard link those accounts, shows the evidence and can stop it.
+canonical URL    : https://apps.shopify.com/dupeguard
+<h1> tags ( 1)  : 'DupeGuard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

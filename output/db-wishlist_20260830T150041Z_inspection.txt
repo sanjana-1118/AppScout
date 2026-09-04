@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\db-wishlist_20260830T150041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\db-wishlist_20260830T150041Z.html
+Requested URL    : https://apps.shopify.com/db-wishlist
+Final URL        : https://apps.shopify.com/db-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,209 bytes / 181,120 chars
+Elapsed          : 1.115s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DB Wishlist - Enhance sales with a wishlist for seamless shopping | Shopify App Store
+meta description : Enable customers to save their favorite products for later purchases with a customizable wishlist. Fully compatible with Hydrogen stores and Shopif...
+canonical URL    : https://apps.shopify.com/db-wishlist
+<h1> tags ( 1)  : 'DB Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\photolock_20260830T140435Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\photolock_20260830T140435Z.html
+Requested URL    : https://apps.shopify.com/photolock
+Final URL        : https://apps.shopify.com/photolock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 240,007 bytes / 239,912 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Photolock - Protect images and content from theft with smart locks | Shopify App Store
+meta description : Protect your Shopify store images and content from theft. Block right-clicks, screenshots, and copying. Invisible watermarks, spy detection, and smart rules.
+canonical URL    : https://apps.shopify.com/photolock
+<h1> tags ( 1)  : 'Photolock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

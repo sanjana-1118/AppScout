@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-448_20260830T150907Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-448_20260830T150907Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-448
+Final URL        : https://apps.shopify.com/shopify-application-448
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,377 bytes / 174,737 chars
+Elapsed          : 0.691s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Register Product Discount - Boost registrations and first purchases with automatic first l | Shopify App Store
+meta description : 「シンプル会員初回商品割引｜お手軽初回ログイン商品セール設定」は、Shopify 向けの会員商品割引アプリです。シンプルな料金体系で、追加課金なし。日本製のため、日本語サポートも完備しています。
+canonical URL    : https://apps.shopify.com/shopify-application-448
+<h1> tags ( 1)  : 'UR: Register Product Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

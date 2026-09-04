@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shiptheory_20260830T133938Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shiptheory_20260830T133938Z.html
+Requested URL    : https://apps.shopify.com/shiptheory
+Final URL        : https://apps.shopify.com/shiptheory
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,142 bytes / 206,053 chars
+Elapsed          : 0.584s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shiptheory - The shipping management platform making shipments seamless | Shopify App Store
+meta description : Shiptheory helps save retailers time and money by automating repetitive tasks such as booking shipments and printing shipping labels. Connect to do...
+canonical URL    : https://apps.shopify.com/shiptheory
+<h1> tags ( 1)  : 'Shiptheory'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

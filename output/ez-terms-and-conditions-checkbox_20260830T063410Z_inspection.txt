@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-terms-and-conditions-checkbox_20260830T063410Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-terms-and-conditions-checkbox_20260830T063410Z.html
+Requested URL    : https://apps.shopify.com/ez-terms-and-conditions-checkbox
+Final URL        : https://apps.shopify.com/ez-terms-and-conditions-checkbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,312 bytes / 235,213 chars
+Elapsed          : 0.861s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RA Term and Condition Checkbox - Terms and conditions checkbox checkout rules, age verification | Shopify App Store
+meta description : Shopify Terms and Conditions app for Shopify, checkout rules, age verification. Add an I agree to terms and conditions checkbox on the cart page & drawer cart.
+canonical URL    : https://apps.shopify.com/ez-terms-and-conditions-checkbox
+<h1> tags ( 1)  : 'RA Term and Condition Checkbox'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

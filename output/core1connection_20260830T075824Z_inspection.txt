@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\core1connection_20260830T075824Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\core1connection_20260830T075824Z.html
+Requested URL    : https://apps.shopify.com/core1connection
+Final URL        : https://apps.shopify.com/core1connection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,978 bytes / 160,882 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Actindo Core1 DOP Connector - Easily connect your store with Actindo Core1 DOP | Shopify App Store
+meta description : Steuereinheit für Composable Commerce mit Process & Data Hub, Digital Commerce ERP, Distributed Order Management, Retourenmanagement, Workflowautomation, etc.
+canonical URL    : https://apps.shopify.com/core1connection
+<h1> tags ( 1)  : 'Actindo Core1 DOP Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\okomano_20260830T151432Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\okomano_20260830T151432Z.html
+Requested URL    : https://apps.shopify.com/okomano
+Final URL        : https://apps.shopify.com/okomano
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,170 bytes / 191,081 chars
+Elapsed          : 0.882s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Okomano Inventory & Order Sync - Keep inventory and orders in sync across every sales channel | Shopify App Store
+meta description : Keep inventory and orders in sync across Shopify, Amazon, Walmart, Wayfair, Rithum and ERP systems like SAP Business One. Automate your multichannel operations.
+canonical URL    : https://apps.shopify.com/okomano
+<h1> tags ( 1)  : 'Okomano Inventory & Order Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

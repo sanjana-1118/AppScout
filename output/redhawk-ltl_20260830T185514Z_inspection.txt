@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redhawk-ltl_20260830T185514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redhawk-ltl_20260830T185514Z.html
+Requested URL    : https://apps.shopify.com/redhawk-ltl
+Final URL        : https://apps.shopify.com/redhawk-ltl
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,631 bytes / 171,538 chars
+Elapsed          : 1.120s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Redhawk LTL - Show LTL rates using product dimensions and weight. | Shopify App Store
+meta description : Show Redhawk LTL freight rates at checkout using product dimensions and packaged weight. Manage freight product details and view quote and shipment summaries.
+canonical URL    : https://apps.shopify.com/redhawk-ltl
+<h1> tags ( 1)  : 'Redhawk LTL'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

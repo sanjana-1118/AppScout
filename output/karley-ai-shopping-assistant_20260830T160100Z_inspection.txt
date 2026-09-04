@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\karley-ai-shopping-assistant_20260830T160100Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\karley-ai-shopping-assistant_20260830T160100Z.html
+Requested URL    : https://apps.shopify.com/karley-ai-shopping-assistant
+Final URL        : https://apps.shopify.com/karley-ai-shopping-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,239 bytes / 217,130 chars
+Elapsed          : 0.784s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Karley: AI Shopping Assistant  - AI Shopping Assistant that Drives More Conversions at Scale. | Shopify App Store
+meta description : Boost Shopify sales with Karley, the AI shopping assistant that delivers trusted instant answers, personalized recommendations, and higher conversions 24/7.
+canonical URL    : https://apps.shopify.com/karley-ai-shopping-assistant
+<h1> tags ( 1)  : 'Karley: AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

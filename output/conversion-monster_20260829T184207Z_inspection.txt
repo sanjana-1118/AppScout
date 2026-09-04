@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conversion-monster_20260829T184207Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conversion-monster_20260829T184207Z.html
+Requested URL    : https://apps.shopify.com/conversion-monster
+Final URL        : https://apps.shopify.com/conversion-monster
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,613 bytes / 201,466 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Conversion Monster 20‑in‑1‑App - Increase Sales, Revenue & AOV w/ 20 Proven Conversion Modules | Shopify App Store
+meta description : Boost conversions and sales with 20+ Shopify app modules including Cart Drawer Upsell, Free Shipping Bar, Countdown Timer, Trust Badges & Sticky Add to Cart.
+canonical URL    : https://apps.shopify.com/conversion-monster
+<h1> tags ( 1)  : 'Conversion Monster 20‑in‑1‑App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-loyalty-points_20260830T065247Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-loyalty-points_20260830T065247Z.html
+Requested URL    : https://apps.shopify.com/customer-loyalty-points
+Final URL        : https://apps.shopify.com/customer-loyalty-points
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,199 bytes / 212,106 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DGT Customer Rewards & Loyalty - Manage loyalty programs across single and multiple stores | Shopify App Store
+meta description : Create and manage loyalty points and rewards for customers. Supports single and multi store setups with centralized data sync.
+canonical URL    : https://apps.shopify.com/customer-loyalty-points
+<h1> tags ( 1)  : 'DGT Customer Rewards & Loyalty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

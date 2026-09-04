@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatshelp-chat-button_20260830T075156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatshelp-chat-button_20260830T075156Z.html
+Requested URL    : https://apps.shopify.com/whatshelp-chat-button
+Final URL        : https://apps.shopify.com/whatshelp-chat-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,641 bytes / 212,547 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GetButton: WhatsApp, FB & More - Add WhatsApp, Messenger, Contact Form & 20+ Other Buttons | Shopify App Store
+meta description : GetButton - Add WhatsApp, Messenger, Viber, Contact Form & 20+ Other Buttons
+canonical URL    : https://apps.shopify.com/whatshelp-chat-button
+<h1> tags ( 1)  : 'GetButton: WhatsApp, FB & More'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

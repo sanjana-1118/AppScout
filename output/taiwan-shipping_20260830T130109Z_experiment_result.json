@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/taiwan-shipping",
+  "fetch_timestamp": "2026-08-30T13:01:10.055318+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\taiwan-shipping_20260830T130109Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\taiwan-shipping_20260830T130109Z.html",
+    "url": "https://apps.shopify.com/taiwan-shipping",
+    "final_url": "https://apps.shopify.com/taiwan-shipping",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 237751,
+    "body_text_length": 236338,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.827671,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Ako Taiwan CVS Pickup Einvoice - Provide CVS pickup options and e-invoice for your customers | Shopify App Store",
+    "meta_description": "整合超商取貨宅配物流與發票自動開立，提供結帳頁自動驗證收件人資料、7-11 和全家超商取貨、支援郵局、黑貓和低溫配送、一鍵列印超商、宅配寄件單、即時更新包裹貨態，自動通知顧客、自訂購物車不可超取規則（特殊商品 / 金額 / 重量）、支援運費進階設定：區分本島 / 外島運費，依產品類型自訂運費合併規則。",
+    "canonical_url": "https://apps.shopify.com/taiwan-shipping",
+    "h1_tags": [
+      "Ako Taiwan CVS Pickup Einvoice"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Ako Taiwan CVS Pickup Einvoice",
+    "app_slug": "taiwan-shipping",
+    "app_url": "https://apps.shopify.com/taiwan-shipping",
+    "developer_name": "Akohub Commerce App",
+    "description": "整合超商取貨宅配物流與發票自動開立，提供結帳頁自動驗證收件人資料、7-11 和全家超商取貨、支援郵局、黑貓和低溫配送、一鍵列印超商、宅配寄件單、即時更新包裹貨態，自動通知顧客、自訂購物車不可超取規則（特殊商品 / 金額 / 重量）、支援運費進階設定：區分本島 / 外島運費，依產品類型自訂運費合併規則。",
+    "average_rating": 4.9,
+    "review_count": 146,
+    "category": "Delivery and pickup"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\taiwan-shipping_20260830T130109Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\taiwan-shipping_20260830T130109Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Ako Taiwan CVS Pickup Einvoice",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "taiwan-shipping",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/taiwan-shipping",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Akohub Commerce App",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "整合超商取貨宅配物流與發票自動開立，提供結帳頁自動驗證收件人資料、7-11 和全家超商取貨、支援郵局、黑貓和低溫配送、一鍵列印超商、宅配寄件單、即時更新包裹貨態，自動通知顧客、自訂購物車不可超取規則（特殊商品 / 金額 / 重量）、支援運費進階設定：區分本島 / 外島運費，依產品類型自訂運費合併規則。",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.9,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 146,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Delivery and pickup",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

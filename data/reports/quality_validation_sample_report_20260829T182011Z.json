@@ -1,0 +1,427 @@
+{
+  "audit_summary": {
+    "sample_size": 50,
+    "http_success_rate": 100.0,
+    "extraction_success_rate": 80.0,
+    "validation_pass_rate": 80.0,
+    "persistence_success_rate": 80.0,
+    "field_fill_rates": {
+      "app_name": "40/50 (80.0%)",
+      "app_slug": "40/50 (80.0%)",
+      "app_url": "40/50 (80.0%)",
+      "developer_name": "40/50 (80.0%)",
+      "description": "30/50 (60.0%)",
+      "average_rating": "15/50 (30.0%)",
+      "review_count": "15/50 (30.0%)",
+      "category": "40/50 (80.0%)"
+    },
+    "missing_optional_fields": {
+      "average_rating_missing": 35,
+      "review_count_missing": 35,
+      "developer_missing": 10,
+      "category_missing": 10
+    }
+  },
+  "results": [
+    {
+      "slug": "anydb-sync",
+      "url": "https://apps.shopify.com/anydb-sync",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "ttlinked",
+      "url": "https://apps.shopify.com/ttlinked",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "smartalt-ai-alt-text",
+      "url": "https://apps.shopify.com/smartalt-ai-alt-text",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "ex-box-price-calculator",
+      "url": "https://apps.shopify.com/ex-box-price-calculator",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "sleekpass",
+      "url": "https://apps.shopify.com/sleekpass",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "aboutthefit",
+      "url": "https://apps.shopify.com/aboutthefit",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "jebbit",
+      "url": "https://apps.shopify.com/jebbit",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "sizesense",
+      "url": "https://apps.shopify.com/sizesense",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "live-pricing",
+      "url": "https://apps.shopify.com/live-pricing",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "cart2cart-shopify-migration-module",
+      "url": "https://apps.shopify.com/cart2cart-shopify-migration-module",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "finny-agent",
+      "url": "https://apps.shopify.com/finny-agent",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "product-image-360-viewer",
+      "url": "https://apps.shopify.com/product-image-360-viewer",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "argora-cart-recovery",
+      "url": "https://apps.shopify.com/argora-cart-recovery",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "image-translate-easy",
+      "url": "https://apps.shopify.com/image-translate-easy",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "channelchainnl",
+      "url": "https://apps.shopify.com/channelchainnl",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "engagebay-marketing-automation",
+      "url": "https://apps.shopify.com/engagebay-marketing-automation",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "mo-ai-seo-boost-and-rank",
+      "url": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "firefly-sky-seo",
+      "url": "https://apps.shopify.com/firefly-sky-seo",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "clockedin",
+      "url": "https://apps.shopify.com/clockedin",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "product-label",
+      "url": "https://apps.shopify.com/product-label",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "navonaai-stop-abandoned-carts",
+      "url": "https://apps.shopify.com/navonaai-stop-abandoned-carts",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "blocksy-section-builder",
+      "url": "https://apps.shopify.com/blocksy-section-builder",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "clevyre-accessibility-widget",
+      "url": "https://apps.shopify.com/clevyre-accessibility-widget",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "20north-seo-indexing",
+      "url": "https://apps.shopify.com/20north-seo-indexing",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "crossbundle",
+      "url": "https://apps.shopify.com/crossbundle",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "multi-custom-authors",
+      "url": "https://apps.shopify.com/multi-custom-authors",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "bank-transfer-invoice-info",
+      "url": "https://apps.shopify.com/bank-transfer-invoice-info",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "alt-text-generator-autoaltai",
+      "url": "https://apps.shopify.com/alt-text-generator-autoaltai",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "karachi-courier",
+      "url": "https://apps.shopify.com/karachi-courier",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "fomoify-sales-popup-proof",
+      "url": "https://apps.shopify.com/fomoify-sales-popup-proof",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "orderbot-customer-portal",
+      "url": "https://apps.shopify.com/orderbot-customer-portal",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "click-to-chat",
+      "url": "https://apps.shopify.com/click-to-chat",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "hotwax-order-management",
+      "url": "https://apps.shopify.com/hotwax-order-management",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "shopcsv",
+      "url": "https://apps.shopify.com/shopcsv",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "rijoy-loyalty-rewards-ai",
+      "url": "https://apps.shopify.com/rijoy-loyalty-rewards-ai",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "twillit",
+      "url": "https://apps.shopify.com/twillit",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "kernvel-stockiq",
+      "url": "https://apps.shopify.com/kernvel-stockiq",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "presia",
+      "url": "https://apps.shopify.com/presia",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "colorswatch",
+      "url": "https://apps.shopify.com/colorswatch",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "activecampaign-tools",
+      "url": "https://apps.shopify.com/activecampaign-tools",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "merchant-guard-1",
+      "url": "https://apps.shopify.com/merchant-guard-1",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "yellos-whishlist",
+      "url": "https://apps.shopify.com/yellos-whishlist",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "althemaxai-subscription",
+      "url": "https://apps.shopify.com/althemaxai-subscription",
+      "http_status": 200,
+      "extracted": true,
+      "sanity_passed": true,
+      "persisted": true
+    },
+    {
+      "slug": "sold-so-many-sold-count",
+      "url": "https://apps.shopify.com/sold-so-many-sold-count",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "aria-ai-sales-support-agent",
+      "url": "https://apps.shopify.com/aria-ai-sales-support-agent",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "logx-product-version-and-revert",
+      "url": "https://apps.shopify.com/logx-product-version-and-revert",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "collective-supplier",
+      "url": "https://apps.shopify.com/collective-supplier",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "time-tracker",
+      "url": "https://apps.shopify.com/time-tracker",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "merchr",
+      "url": "https://apps.shopify.com/merchr",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    },
+    {
+      "slug": "doran-draft-orders-for-pos",
+      "url": "https://apps.shopify.com/doran-draft-orders-for-pos",
+      "http_status": 429,
+      "extracted": true,
+      "sanity_passed": false,
+      "persisted": false
+    }
+  ]
+}

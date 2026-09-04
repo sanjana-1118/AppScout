@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\haufe-x360-cloud-erp-connector_20260830T135131Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\haufe-x360-cloud-erp-connector_20260830T135131Z.html
+Requested URL    : https://apps.shopify.com/haufe-x360-cloud-erp-connector
+Final URL        : https://apps.shopify.com/haufe-x360-cloud-erp-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,244 bytes / 173,123 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Haufe X360 Cloud ERP Connector - Einfache Connection und Verwaltung des Cloud ERP "Haufe 360" | Shopify App Store
+meta description : Native Integration in das Cloud ERP Haufe X360. Verwalten Sie Aufträge, Bestände und automatisieren Sie Prozesse, um diese zu skalieren.
+Ein echtes ...
+canonical URL    : https://apps.shopify.com/haufe-x360-cloud-erp-connector?locale=de
+<h1> tags ( 1)  : 'Haufe X360 Cloud ERP Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doofinder_20260830T062648Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doofinder_20260830T062648Z.html
+Requested URL    : https://apps.shopify.com/doofinder
+Final URL        : https://apps.shopify.com/doofinder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 249,716 bytes / 249,581 chars
+Elapsed          : 0.845s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DOOFINDER ‑ Search & Discovery - Help shoppers find the right products and maximize conversions | Shopify App Store
+meta description : Upgrade your store with Doofinder’s AI Product Search & Discovery. With dynamic searchandising & product filters. A motive to enhance your customer experience.
+canonical URL    : https://apps.shopify.com/doofinder
+<h1> tags ( 1)  : 'DOOFINDER ‑ Search & Discovery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

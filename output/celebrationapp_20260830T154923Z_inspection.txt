@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\celebrationapp_20260830T154923Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\celebrationapp_20260830T154923Z.html
+Requested URL    : https://apps.shopify.com/celebrationapp
+Final URL        : https://apps.shopify.com/celebrationapp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,401 bytes / 185,304 chars
+Elapsed          : 0.780s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Celebration App Pro - Gamified cart celebrations with confetti, sounds & rewards | Shopify App Store
+meta description : Boost conversions with gamified cart celebrations. Add confetti, sounds & rewards to create memorable shopping experiences. 35+ templates, A/B testing included.
+canonical URL    : https://apps.shopify.com/celebrationapp
+<h1> tags ( 1)  : 'Celebration App Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recently-viewed-products-on-cart-page_20260830T062536Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recently-viewed-products-on-cart-page_20260830T062536Z.html
+Requested URL    : https://apps.shopify.com/recently-viewed-products-on-cart-page
+Final URL        : https://apps.shopify.com/recently-viewed-products-on-cart-page
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,948 bytes / 165,833 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReVisit‑Recent Viewed Products - Encourage Your Customers to buy Recently Viewed products. | Shopify App Store
+meta description : The recently viewed products image slider will automatically display images of items that customers have previously looked at. In addition to adjus...
+canonical URL    : https://apps.shopify.com/recently-viewed-products-on-cart-page
+<h1> tags ( 1)  : 'ReVisit‑Recent Viewed Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

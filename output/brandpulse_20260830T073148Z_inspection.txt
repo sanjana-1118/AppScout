@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandpulse_20260830T073148Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandpulse_20260830T073148Z.html
+Requested URL    : https://apps.shopify.com/brandpulse
+Final URL        : https://apps.shopify.com/brandpulse
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,593 bytes / 169,499 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BrandPulse - AI-powered SEO & growth insights for your store | Shopify App Store
+meta description : BrandPulse uses AI to analyze your Shopify store, surface SEO opportunities, generate product content, and deliver weekly growth plans.
+canonical URL    : https://apps.shopify.com/brandpulse
+<h1> tags ( 1)  : 'BrandPulse'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

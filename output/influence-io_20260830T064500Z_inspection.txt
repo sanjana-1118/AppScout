@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\influence-io_20260830T064500Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\influence-io_20260830T064500Z.html
+Requested URL    : https://apps.shopify.com/influence-io
+Final URL        : https://apps.shopify.com/influence-io
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,944 bytes / 234,836 chars
+Elapsed          : 0.621s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Influence: Loyalty & Referral - Build customer loyalty with points, rewards, referrals, VIP | Shopify App Store
+meta description : Perfect plug-and-play rewards for growing eCommerce brands, that will help build a fully customized loyalty & referral program.
+canonical URL    : https://apps.shopify.com/influence-io
+<h1> tags ( 1)  : 'Influence: Loyalty & Referral'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

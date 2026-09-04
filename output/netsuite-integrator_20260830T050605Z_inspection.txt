@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\netsuite-integrator_20260830T050605Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\netsuite-integrator_20260830T050605Z.html
+Requested URL    : https://apps.shopify.com/netsuite-integrator
+Final URL        : https://apps.shopify.com/netsuite-integrator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,544 bytes / 248,453 chars
+Elapsed          : 0.498s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Robust NetSuite Integrator - Connect NetSuite for Orders, Refund, Customer, Inventory & B2B | Shopify App Store
+meta description : Robust NetSuite Integrator helps in seamless connection between Shopify and NetSuite, real-time order sync, inventory management, seamless accounting and more.
+canonical URL    : https://apps.shopify.com/netsuite-integrator
+<h1> tags ( 1)  : 'Robust NetSuite Integrator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

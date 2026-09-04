@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shippingrevolution_20260830T051511Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shippingrevolution_20260830T051511Z.html
+Requested URL    : https://apps.shopify.com/shippingrevolution
+Final URL        : https://apps.shopify.com/shippingrevolution
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,829 bytes / 153,740 chars
+Elapsed          : 0.575s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipping Revolution - Automate fulfillment and inventory management to save time. | Shopify App Store
+meta description : Optimize your supply chain with automated order processing and real-time inventory tracking. Automatically sync orders, analyze stock levels, and s...
+canonical URL    : https://apps.shopify.com/shippingrevolution
+<h1> tags ( 1)  : 'Shipping Revolution'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

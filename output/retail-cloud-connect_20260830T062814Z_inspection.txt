@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retail-cloud-connect_20260830T062814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retail-cloud-connect_20260830T062814Z.html
+Requested URL    : https://apps.shopify.com/retail-cloud-connect
+Final URL        : https://apps.shopify.com/retail-cloud-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,830 bytes / 233,737 chars
+Elapsed          : 0.717s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RCC: Google AI Commerce Search - Add Google Cloud's AI Commerce Search directly to your store. | Shopify App Store
+meta description : Built by a Google Cloud Partner, Retail Cloud Connect is the only fully-managed service to connect Shopify stores directly to Google's AI Commerce Search.
+canonical URL    : https://apps.shopify.com/retail-cloud-connect
+<h1> tags ( 1)  : 'RCC: Google AI Commerce Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

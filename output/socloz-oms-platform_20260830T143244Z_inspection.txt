@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\socloz-oms-platform_20260830T143244Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\socloz-oms-platform_20260830T143244Z.html
+Requested URL    : https://apps.shopify.com/socloz-oms-platform
+Final URL        : https://apps.shopify.com/socloz-oms-platform
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,668 bytes / 169,580 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Socloz: OMS platform - The Omnichannel platform that adapts to your needs. | Shopify App Store
+meta description : A suite of three software packages to unify your inventory and stimulate your online and in-store sales, improve the customer experience and revita...
+canonical URL    : https://apps.shopify.com/socloz-oms-platform
+<h1> tags ( 1)  : 'Socloz: OMS platform'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

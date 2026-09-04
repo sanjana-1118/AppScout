@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/snap-wear-app",
+  "fetch_timestamp": "2026-08-30T16:50:56.634496+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snap-wear-app_20260830T165056Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snap-wear-app_20260830T165056Z.html",
+    "url": "https://apps.shopify.com/snap-wear-app",
+    "final_url": "https://apps.shopify.com/snap-wear-app",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 180391,
+    "body_text_length": 177018,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.585752,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Snap Wear｜AIバーチャル試着（日本語・英語対応） - 商品ページで写真試着し、試着から注文まで可視化できるアプリ | Shopify App Store",
+    "meta_description": "Snap Wearは商品ページに試着ボタンを追加し、顧客写真で試着イメージを表示できます。試着回数の上限管理に加え、試着経由の注文数と試着から購入までの時間を管理画面で確認できます。",
+    "canonical_url": "https://apps.shopify.com/snap-wear-app?locale=ja",
+    "h1_tags": [
+      "Snap Wear｜AIバーチャル試着（日本語・英語対応）"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Snap Wear｜AIバーチャル試着（日本語・英語対応）",
+    "app_slug": "snap-wear-app",
+    "app_url": "https://apps.shopify.com/snap-wear-app?locale=ja",
+    "developer_name": "アプリ",
+    "description": "Snap Wearは商品ページに試着ボタンを追加し、顧客写真で試着イメージを表示できます。試着回数の上限管理に加え、試着経由の注文数と試着から購入までの時間を管理画面で確認できます。",
+    "average_rating": null,
+    "review_count": null,
+    "category": "3D/AR/VR"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snap-wear-app_20260830T165056Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snap-wear-app_20260830T165056Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Snap Wear｜AIバーチャル試着（日本語・英語対応）",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "snap-wear-app",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/snap-wear-app?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "アプリ",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Snap Wearは商品ページに試着ボタンを追加し、顧客写真で試着イメージを表示できます。試着回数の上限管理に加え、試着経由の注文数と試着から購入までの時間を管理画面で確認できます。",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "3D/AR/VR",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

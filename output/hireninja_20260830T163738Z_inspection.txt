@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hireninja_20260830T163738Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hireninja_20260830T163738Z.html
+Requested URL    : https://apps.shopify.com/hireninja
+Final URL        : https://apps.shopify.com/hireninja
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,429 bytes / 195,313 chars
+Elapsed          : 0.816s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HireNinja: AI Chatbot & Inbox - AI chatbot for Instagram, WhatsApp, Messenger & Store — 24/7 | Shopify App Store
+meta description : AI chatbot for Shopify stores. HireNinja automates customer support on Instagram, WhatsApp, Messenger and store chat — 24/7, trained on your products.
+canonical URL    : https://apps.shopify.com/hireninja
+<h1> tags ( 1)  : 'HireNinja: AI Chatbot & Inbox'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

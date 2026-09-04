@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trexa_20260830T051949Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trexa_20260830T051949Z.html
+Requested URL    : https://apps.shopify.com/trexa
+Final URL        : https://apps.shopify.com/trexa
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,506 bytes / 228,409 chars
+Elapsed          : 0.980s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trexa Order Tracking AI - AI order tracking for WISMO, returns, and cancellations | Shopify App Store
+meta description : Give customers a branded tracking page with real-time shipment status and an AI assistant that answers WISMO and returns questions—so your team handles less
+canonical URL    : https://apps.shopify.com/trexa
+<h1> tags ( 1)  : 'Trexa Order Tracking AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

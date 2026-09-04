@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corvify_20260830T173300Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corvify_20260830T173300Z.html
+Requested URL    : https://apps.shopify.com/corvify
+Final URL        : https://apps.shopify.com/corvify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,420 bytes / 172,331 chars
+Elapsed          : 0.851s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Corvify AI Agent - AI agent for store management, content, and custom databases | Shopify App Store
+meta description : Corvify ist ein KI-Agent im Shopify Admin. Verwalte Produkte, Seiten, Blogartikel und eigene Datenbanken per Chat. Ab 29 USD/Monat mit 7 Tagen Test.
+canonical URL    : https://apps.shopify.com/corvify
+<h1> tags ( 1)  : 'Corvify AI Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

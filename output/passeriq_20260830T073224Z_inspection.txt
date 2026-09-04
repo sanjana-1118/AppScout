@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\passeriq_20260830T073224Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\passeriq_20260830T073224Z.html
+Requested URL    : https://apps.shopify.com/passeriq
+Final URL        : https://apps.shopify.com/passeriq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,892 bytes / 168,803 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Passeriq - Sell products effectively by using data inferred in reviews  | Shopify App Store
+meta description : Find conversion blockers, FAQ gaps, and customer copy fixes from product reviews. Improve sales and customer satisfaction.
+canonical URL    : https://apps.shopify.com/passeriq
+<h1> tags ( 1)  : 'Passeriq'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

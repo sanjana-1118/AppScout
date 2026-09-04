@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\citedseo_20260829T185908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\citedseo_20260829T185908Z.html
+Requested URL    : https://apps.shopify.com/citedseo
+Final URL        : https://apps.shopify.com/citedseo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,050 bytes / 191,947 chars
+Elapsed          : 0.681s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CitedSEO - Optimize for Google search and get cited by AI engines | Shopify App Store
+meta description : Rank higher on Google and get cited by ChatGPT, Perplexity & Gemini. CitedSEO brings AI search optimization, bulk SEO editing, and schema markup to Shopify.
+canonical URL    : https://apps.shopify.com/citedseo
+<h1> tags ( 1)  : 'CitedSEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amose-subscription_20260830T164754Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amose-subscription_20260830T164754Z.html
+Requested URL    : https://apps.shopify.com/amose-subscription
+Final URL        : https://apps.shopify.com/amose-subscription
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,710 bytes / 173,605 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amose: Subscriptions App - Boost subscription & recurring revenue — Subscribe and save | Shopify App Store
+meta description : Add flexible subscription plans to your products in under 5 minutes—no coding required. Support both pay-per-delivery and prepaid subscriptions wit...
+canonical URL    : https://apps.shopify.com/amose-subscription
+<h1> tags ( 1)  : 'Amose: Subscriptions App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

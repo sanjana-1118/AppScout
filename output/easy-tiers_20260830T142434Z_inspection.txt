@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-tiers_20260830T142434Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-tiers_20260830T142434Z.html
+Requested URL    : https://apps.shopify.com/easy-tiers
+Final URL        : https://apps.shopify.com/easy-tiers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,892 bytes / 163,803 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ripple Tier Discounts - Apply multiple tier discounts on the same order | Shopify App Store
+meta description : Create multiple tier discounts and group the products in the tier into a native Shopify bundle. You will be able to target products by collection, ...
+canonical URL    : https://apps.shopify.com/easy-tiers
+<h1> tags ( 1)  : 'Ripple Tier Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\utterbond-subscriptions_20260830T130328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\utterbond-subscriptions_20260830T130328Z.html
+Requested URL    : https://apps.shopify.com/utterbond-subscriptions
+Final URL        : https://apps.shopify.com/utterbond-subscriptions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,481 bytes / 248,357 chars
+Elapsed          : 1.023s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Utterbond Subscriptions App - Subscription app to maximize revenue with recurring payments | Shopify App Store
+meta description : Shopify subscriptions app to manage recurring orders and payments. Create a subscription box and grow the recurring revenue of Shopify stores.
+canonical URL    : https://apps.shopify.com/utterbond-subscriptions
+<h1> tags ( 1)  : 'Utterbond Subscriptions App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

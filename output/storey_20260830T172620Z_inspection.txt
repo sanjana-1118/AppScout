@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storey_20260830T172620Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storey_20260830T172620Z.html
+Requested URL    : https://apps.shopify.com/storey
+Final URL        : https://apps.shopify.com/storey
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,229 bytes / 169,140 chars
+Elapsed          : 0.780s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Storey - Auto-create and schedule social media posts from your products | Shopify App Store
+meta description : Automatically generate and schedule social posts from your product catalog with Storey.
+canonical URL    : https://apps.shopify.com/storey
+<h1> tags ( 1)  : 'Storey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

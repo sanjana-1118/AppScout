@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-box_20260830T143700Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-box_20260830T143700Z.html
+Requested URL    : https://apps.shopify.com/discount-box
+Final URL        : https://apps.shopify.com/discount-box
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,063 bytes / 192,746 chars
+Elapsed          : 0.994s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ディスカウントボックス｜顧客タグでVIP・B2B卸売り割引 - 顧客・商品タグに基づき、ボリューム割引、セット割引、購入特典（X購入でYプレゼント）、送料割引など多彩なキャンペーンを実現 | Shopify App Store
+meta description : 商品と送料のディスカウントができるようになります。商品のディスカウントでは、顧客タグと商品タグ、送料のディスカウントでは顧客タグを条件として設定可能。
+購入数量、購入金額に応じた段階的なボリュームディスカウントにも対応してます。
+ディスカウントテーブルのウィジェット表示も可能です。
+canonical URL    : https://apps.shopify.com/discount-box?locale=ja
+<h1> tags ( 1)  : 'ディスカウントボックス｜顧客タグでVIP・B2B卸売り割引'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

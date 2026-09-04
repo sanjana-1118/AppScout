@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dynamic-variant-description_20260830T041459Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dynamic-variant-description_20260830T041459Z.html
+Requested URL    : https://apps.shopify.com/dynamic-variant-description
+Final URL        : https://apps.shopify.com/dynamic-variant-description
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,952 bytes / 226,859 chars
+Elapsed          : 1.044s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Variant Description OMG - Add unique variant descriptions and display variant metafields | Shopify App Store
+meta description : Give shoppers the exact information they need when they choose a variant.
+Variant Description OMG lets you add unique descriptions, specs, images, ...
+canonical URL    : https://apps.shopify.com/dynamic-variant-description
+<h1> tags ( 1)  : 'Variant Description OMG'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

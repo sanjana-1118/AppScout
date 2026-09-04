@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swiftbundle-products_20260830T163023Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swiftbundle-products_20260830T163023Z.html
+Requested URL    : https://apps.shopify.com/swiftbundle-products
+Final URL        : https://apps.shopify.com/swiftbundle-products
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,194 bytes / 230,075 chars
+Elapsed          : 0.974s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SwiftBundle — Bundles & Kits - Sell unlimited fixed bundles & BYOB bundles to boost your... | Shopify App Store
+meta description : Sell fixed or mix-and-match bundles with tiered BXGY discounts, custom pricing, live cart previews, and customizable theme sections to increase AOV
+canonical URL    : https://apps.shopify.com/swiftbundle-products
+<h1> tags ( 1)  : 'SwiftBundle — Bundles & Kits'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

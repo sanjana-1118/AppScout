@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badges-6_20260830T170428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badges-6_20260830T170428Z.html
+Requested URL    : https://apps.shopify.com/trust-badges-6
+Final URL        : https://apps.shopify.com/trust-badges-6
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,929 bytes / 168,840 chars
+Elapsed          : 0.770s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NL Trust Badges - Add payment, security, and shipping badges to your store | Shopify App Store
+meta description : Trust Badges lets you assign different badge groups to different pages. Show payment icons on product pages, security seals on cart, certifications...
+canonical URL    : https://apps.shopify.com/trust-badges-6
+<h1> tags ( 1)  : 'NL Trust Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

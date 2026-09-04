@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snaplist_20260830T172314Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snaplist_20260830T172314Z.html
+Requested URL    : https://apps.shopify.com/snaplist
+Final URL        : https://apps.shopify.com/snaplist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,661 bytes / 170,566 chars
+Elapsed          : 0.768s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Snaplist - Generate product listings from photos in 30 seconds | Shopify App Store
+meta description : Generate product titles, descriptions, tags, and SEO from a single photo. Review, edit, and push listings live to your store in seconds.
+canonical URL    : https://apps.shopify.com/snaplist
+<h1> tags ( 1)  : 'Snaplist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

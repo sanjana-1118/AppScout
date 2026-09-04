@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cocozaiko_20260830T034027Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cocozaiko_20260830T034027Z.html
+Requested URL    : https://apps.shopify.com/cocozaiko
+Final URL        : https://apps.shopify.com/cocozaiko
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,999 bytes / 167,966 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CocoZaiko ココザイコ | 実店舗在庫表示アプリ - 実店舗在庫を商品ページに自動表示し、欠品誤認を防いで来店と売上を向上 | Shopify App Store
+meta description : 「CocoZaiko」は、Shopifyの商品ページに実店舗の在庫情報を可視化するシンプルなO2Oアプリです。
+実店舗とオンラインの在庫情報が連携していないと、商品の有無を正確に把握できず、顧客対応に時間を取られたり、来店機会を逃したりすることになります。 CocoZaikoは、この課題を解決...
+canonical URL    : https://apps.shopify.com/cocozaiko?locale=ja
+<h1> tags ( 1)  : 'CocoZaiko ココザイコ | 実店舗在庫表示アプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

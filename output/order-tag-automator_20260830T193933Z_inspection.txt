@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-tag-automator_20260830T193933Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-tag-automator_20260830T193933Z.html
+Requested URL    : https://apps.shopify.com/order-tag-automator
+Final URL        : https://apps.shopify.com/order-tag-automator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,998 bytes / 166,887 chars
+Elapsed          : 1.411s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tagflow — Order Tagger - Auto-tag new orders by country, value, or payment method | Shopify App Store
+meta description : Tagflow lets you create rules that automatically add tags to new orders the moment they come in. Set a rule once and never manually tag orders agai...
+canonical URL    : https://apps.shopify.com/order-tag-automator
+<h1> tags ( 1)  : 'Tagflow — Order Tagger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

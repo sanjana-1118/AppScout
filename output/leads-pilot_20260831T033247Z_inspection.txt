@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leads-pilot_20260831T033247Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leads-pilot_20260831T033247Z.html
+Requested URL    : https://apps.shopify.com/leads-pilot
+Final URL        : https://apps.shopify.com/leads-pilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,102 bytes / 184,012 chars
+Elapsed          : 0.829s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Leads Pilot - Engage customers and repeat sale with WhatsApp marketing & CRM | Shopify App Store
+meta description : Manage WhatsApp campaigns, broadcasts, CRM, automated follow-ups and customer engagement with LeadsPilot.
+canonical URL    : https://apps.shopify.com/leads-pilot
+<h1> tags ( 1)  : 'Leads Pilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

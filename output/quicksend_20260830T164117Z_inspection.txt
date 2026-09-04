@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quicksend_20260830T164117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quicksend_20260830T164117Z.html
+Requested URL    : https://apps.shopify.com/quicksend
+Final URL        : https://apps.shopify.com/quicksend
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,526 bytes / 172,435 chars
+Elapsed          : 0.821s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuickSend - Send sms & whatsapp messages on order updates via quicksend | Shopify App Store
+meta description : QuickSend: The leading SMS Gateway Sri Lanka for Shopify. Send automated WhatsApp alerts, branded SMS order updates, and bulk marketing campaigns to customers.
+canonical URL    : https://apps.shopify.com/quicksend
+<h1> tags ( 1)  : 'QuickSend'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

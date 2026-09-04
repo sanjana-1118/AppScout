@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onlyby_20260830T181522Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onlyby_20260830T181522Z.html
+Requested URL    : https://apps.shopify.com/onlyby
+Final URL        : https://apps.shopify.com/onlyby
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,394 bytes / 172,253 chars
+Elapsed          : 0.938s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnlyLeft - Honest urgency — real low stock or real shopper demand | Shopify App Store
+meta description : Honest urgency badge, three real-data modes: Auto (real low stock), Interest (real views), Trending (“Popular right now”). Never a fake number.
+canonical URL    : https://apps.shopify.com/onlyby
+<h1> tags ( 1)  : 'OnlyLeft'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

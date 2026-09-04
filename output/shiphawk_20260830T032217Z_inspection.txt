@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shiphawk_20260830T032217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shiphawk_20260830T032217Z.html
+Requested URL    : https://apps.shopify.com/shiphawk
+Final URL        : https://apps.shopify.com/shiphawk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,833 bytes / 185,714 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : In‑Cart Rating & Fulfillment - Advanced warehouse and fulfillment automation | Shopify App Store
+meta description : ShipHawk helps customers automate and improve their world behind the buy button™. Smart rating, packing and fulfillment solutions use data from you...
+canonical URL    : https://apps.shopify.com/shiphawk
+<h1> tags ( 1)  : 'In‑Cart Rating & Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

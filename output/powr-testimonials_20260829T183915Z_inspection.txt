@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\powr-testimonials_20260829T183915Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\powr-testimonials_20260829T183915Z.html
+Requested URL    : https://apps.shopify.com/powr-testimonials
+Final URL        : https://apps.shopify.com/powr-testimonials
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,560 bytes / 226,460 chars
+Elapsed          : 1.095s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POWR: Customer Testimonials -  Boost trust & sales with video & image customer testimonials | Shopify App Store
+meta description : Improve your eCommerce store with the POWR Testimonials app. The easy way to boost social proof with image or video reviews on your store. Free plan available.
+canonical URL    : https://apps.shopify.com/powr-testimonials
+<h1> tags ( 1)  : 'POWR: Customer Testimonials'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

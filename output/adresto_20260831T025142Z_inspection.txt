@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adresto_20260831T025142Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adresto_20260831T025142Z.html
+Requested URL    : https://apps.shopify.com/adresto
+Final URL        : https://apps.shopify.com/adresto
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,384 bytes / 174,264 chars
+Elapsed          : 0.944s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Adresto: TR Address Validation - Fix bad province and district addresses before you ship | Shopify App Store
+meta description : Adresto, siparişlerin kargo adreslerini otomatik doğrular, hatalı siparişleri kargoya çıkmadan bekletir ve yanlış adres iadelerini azaltır.
+canonical URL    : https://apps.shopify.com/adresto
+<h1> tags ( 1)  : 'Adresto: TR Address Validation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

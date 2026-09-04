@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nightjar_20260830T163327Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nightjar_20260830T163327Z.html
+Requested URL    : https://apps.shopify.com/nightjar
+Final URL        : https://apps.shopify.com/nightjar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,691 bytes / 206,600 chars
+Elapsed          : 0.626s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nightjar: AI Product Photos - On-brand product photos, consistent across your whole catalog. | Shopify App Store
+meta description : Nightjar generates realistic, on-brand product photos for Shopify. Reusable styles, AI fashion models, edits, and 4K upscales that keep your catalog consist.
+canonical URL    : https://apps.shopify.com/nightjar
+<h1> tags ( 1)  : 'Nightjar: AI Product Photos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

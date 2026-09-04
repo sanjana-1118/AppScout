@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedbackbuddy-surveys_20260830T133215Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedbackbuddy-surveys_20260830T133215Z.html
+Requested URL    : https://apps.shopify.com/feedbackbuddy-surveys
+Final URL        : https://apps.shopify.com/feedbackbuddy-surveys
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,413 bytes / 199,324 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FeedbackBuddy Purchase Surveys - Get first party data by asking the right questions at... | Shopify App Store
+meta description : With FeedbackBuddy, you can easily get the data which you would have otherwise left on the table. We know you're working hard to make your product ...
+canonical URL    : https://apps.shopify.com/feedbackbuddy-surveys
+<h1> tags ( 1)  : 'FeedbackBuddy Purchase Surveys'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

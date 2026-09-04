@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/snapmetrics",
+  "fetch_timestamp": "2026-08-30T07:29:18.485895+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snapmetrics_20260830T072918Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snapmetrics_20260830T072918Z.html",
+    "url": "https://apps.shopify.com/snapmetrics",
+    "final_url": "https://apps.shopify.com/snapmetrics",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 164130,
+    "body_text_length": 164041,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.583519,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "SnapMetrics - Marketing analytics for busy marketers | Shopify App Store",
+    "meta_description": "You spend a lot of money to acquire customers.\n\nEvery decision you make either costs or makes money.\n\nWe help you make smarter decisions to grow yo...",
+    "canonical_url": "https://apps.shopify.com/snapmetrics",
+    "h1_tags": [
+      "SnapMetrics"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "SnapMetrics",
+    "app_slug": "snapmetrics",
+    "app_url": "https://apps.shopify.com/snapmetrics",
+    "developer_name": "WebMedic",
+    "description": "You spend a lot of money to acquire customers.\n\nEvery decision you make either costs or makes money.\n\nWe help you make smarter decisions to grow yo...",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Analytics"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snapmetrics_20260830T072918Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\snapmetrics_20260830T072918Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "SnapMetrics",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "snapmetrics",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/snapmetrics",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "WebMedic",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "You spend a lot of money to acquire customers.\n\nEvery decision you make either costs or makes money.\n\nWe help you make smarter decisions to grow yo...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Analytics",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

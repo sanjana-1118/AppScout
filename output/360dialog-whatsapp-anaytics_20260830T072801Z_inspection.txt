@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\360dialog-whatsapp-anaytics_20260830T072801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\360dialog-whatsapp-anaytics_20260830T072801Z.html
+Requested URL    : https://apps.shopify.com/360dialog-whatsapp-anaytics
+Final URL        : https://apps.shopify.com/360dialog-whatsapp-anaytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,588 bytes / 182,499 chars
+Elapsed          : 0.721s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 360dialog: WhatsApp Analytics - WhatsApp Analytics, insights and optimization. Calculate ROAS. | Shopify App Store
+meta description : Transform WhatsApp conversations into structured data events. Analyze using performance messaging metrics like ROAS or CPA.
+canonical URL    : https://apps.shopify.com/360dialog-whatsapp-anaytics
+<h1> tags ( 1)  : '360dialog: WhatsApp Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

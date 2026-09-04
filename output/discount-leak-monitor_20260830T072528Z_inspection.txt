@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-leak-monitor_20260830T072528Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-leak-monitor_20260830T072528Z.html
+Requested URL    : https://apps.shopify.com/discount-leak-monitor
+Final URL        : https://apps.shopify.com/discount-leak-monitor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,887 bytes / 169,768 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Recoupon - See which discount codes fail at checkout — and recover... | Shopify App Store
+meta description : See the discount codes customers type that fail at your Shopify checkout — typos, expired and misconfigured codes — and recover the lost sales.
+canonical URL    : https://apps.shopify.com/discount-leak-monitor
+<h1> tags ( 1)  : 'Recoupon'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elfsight-team-showcase_20260830T141101Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elfsight-team-showcase_20260830T141101Z.html
+Requested URL    : https://apps.shopify.com/elfsight-team-showcase
+Final URL        : https://apps.shopify.com/elfsight-team-showcase
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,064 bytes / 185,971 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elfsight Team Showcase - Showcase your team and tell more about each member | Shopify App Store
+meta description : With the help of the Team Showcase you highlight your biggest advantages and selling points through personal narration and attract more shoppers on...
+canonical URL    : https://apps.shopify.com/elfsight-team-showcase
+<h1> tags ( 1)  : 'Elfsight Team Showcase'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

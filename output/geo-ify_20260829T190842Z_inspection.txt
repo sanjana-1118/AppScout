@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geo-ify_20260829T190842Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\geo-ify_20260829T190842Z.html
+Requested URL    : https://apps.shopify.com/geo-ify
+Final URL        : https://apps.shopify.com/geo-ify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,227 bytes / 170,124 chars
+Elapsed          : 0.635s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AEO: AI Catalog Optimizer - Get your catalog ready for ChatGPT, Copilot & Perplexity | Shopify App Store
+meta description : Audit your Shopify catalog for ChatGPT, Google AI Mode, Copilot & Perplexity. Rewrites are opt-in, logged and one-click reversible.
+canonical URL    : https://apps.shopify.com/geo-ify
+<h1> tags ( 1)  : 'AEO: AI Catalog Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

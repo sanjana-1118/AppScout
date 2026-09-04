@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/bulk-tag-editor-1",
+  "fetch_timestamp": "2026-08-30T15:08:39.028320+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-tag-editor-1_20260830T150838Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-tag-editor-1_20260830T150838Z.html",
+    "url": "https://apps.shopify.com/bulk-tag-editor-1",
+    "final_url": "https://apps.shopify.com/bulk-tag-editor-1",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 177826,
+    "body_text_length": 177737,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.840076,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "QuantumTagger: Bulk Tag Editor - Manage tags in bulk - add, remove, replace, revert, schedule | Shopify App Store",
+    "meta_description": "Easily manage your store's product tags to stay organized. Add, remove, or replace tags across multiple products in seconds to save time and reduce...",
+    "canonical_url": "https://apps.shopify.com/bulk-tag-editor-1",
+    "h1_tags": [
+      "QuantumTagger: Bulk Tag Editor"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "QuantumTagger: Bulk Tag Editor",
+    "app_slug": "bulk-tag-editor-1",
+    "app_url": "https://apps.shopify.com/bulk-tag-editor-1",
+    "developer_name": "Sync Pro",
+    "description": "Easily manage your store's product tags to stay organized. Add, remove, or replace tags across multiple products in seconds to save time and reduce...",
+    "average_rating": 4.0,
+    "review_count": 1,
+    "category": "Bulk editor"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-tag-editor-1_20260830T150838Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\bulk-tag-editor-1_20260830T150838Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "QuantumTagger: Bulk Tag Editor",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "bulk-tag-editor-1",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/bulk-tag-editor-1",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Sync Pro",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Easily manage your store's product tags to stay organized. Add, remove, or replace tags across multiple products in seconds to save time and reduce...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.0,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Bulk editor",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

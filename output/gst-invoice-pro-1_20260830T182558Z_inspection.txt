@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gst-invoice-pro-1_20260830T182558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gst-invoice-pro-1_20260830T182558Z.html
+Requested URL    : https://apps.shopify.com/gst-invoice-pro-1
+Final URL        : https://apps.shopify.com/gst-invoice-pro-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,360 bytes / 178,267 chars
+Elapsed          : 0.964s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : D2C GST Invoice Pro - Generate and print GST invoices in bulk | Shopify App Store
+meta description : D2C GST Invoice Pro is a Shopify app for generating GST-compliant invoices, tax invoices, and order invoices. Create, customize, download, and print invoices.
+canonical URL    : https://apps.shopify.com/gst-invoice-pro-1
+<h1> tags ( 1)  : 'D2C GST Invoice Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

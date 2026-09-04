@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/insightlab-comms-hub",
+  "fetch_timestamp": "2026-08-30T18:53:15.172428+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insightlab-comms-hub_20260830T185315Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insightlab-comms-hub_20260830T185315Z.html",
+    "url": "https://apps.shopify.com/insightlab-comms-hub",
+    "final_url": "https://apps.shopify.com/insightlab-comms-hub",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 163362,
+    "body_text_length": 163268,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.900327,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "InsightLab Comms Hub - Communicate with your clients, all in one place. | Shopify App Store",
+    "meta_description": "InsightLab Comms Hub enhances your way of communicating with your customers. Access messages from all customers in one place. Easily start conversa...",
+    "canonical_url": "https://apps.shopify.com/insightlab-comms-hub",
+    "h1_tags": [
+      "InsightLab Comms Hub"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "InsightLab Comms Hub",
+    "app_slug": "insightlab-comms-hub",
+    "app_url": "https://apps.shopify.com/insightlab-comms-hub",
+    "developer_name": "Insight Retail Management",
+    "description": "InsightLab Comms Hub enhances your way of communicating with your customers. Access messages from all customers in one place. Easily start conversa...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Chat"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insightlab-comms-hub_20260830T185315Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\insightlab-comms-hub_20260830T185315Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "InsightLab Comms Hub",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "insightlab-comms-hub",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/insightlab-comms-hub",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Insight Retail Management",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "InsightLab Comms Hub enhances your way of communicating with your customers. Access messages from all customers in one place. Easily start conversa...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Chat",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

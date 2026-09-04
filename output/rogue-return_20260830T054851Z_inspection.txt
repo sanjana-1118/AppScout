@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rogue-return_20260830T054851Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rogue-return_20260830T054851Z.html
+Requested URL    : https://apps.shopify.com/rogue-return
+Final URL        : https://apps.shopify.com/rogue-return
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,686 bytes / 169,583 chars
+Elapsed          : 0.553s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rogue Return - Return labels for customers with no original order | Shopify App Store
+meta description : Create a prepaid return label from any customer page in Shopify admin — no original order needed. Buys through Shopify Shipping and opens a native return.
+canonical URL    : https://apps.shopify.com/rogue-return
+<h1> tags ( 1)  : 'Rogue Return'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

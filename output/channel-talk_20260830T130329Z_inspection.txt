@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\channel-talk_20260830T130329Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\channel-talk_20260830T130329Z.html
+Requested URL    : https://apps.shopify.com/channel-talk
+Final URL        : https://apps.shopify.com/channel-talk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,089 bytes / 233,283 chars
+Elapsed          : 0.880s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Channel Sales Chat Bot CRM - All-in-one customer service with live chat, pop-ups, and AI | Shopify App Store
+meta description : Provide a VIP concierge service through live chat, CRM, and AI. Talk to customers and turn visitors into regulars of your brand.
+canonical URL    : https://apps.shopify.com/channel-talk
+<h1> tags ( 1)  : 'Channel Sales Chat Bot CRM'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

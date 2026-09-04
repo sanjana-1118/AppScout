@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meroxio-link-shortner_20260830T170441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meroxio-link-shortner_20260830T170441Z.html
+Requested URL    : https://apps.shopify.com/meroxio-link-shortner
+Final URL        : https://apps.shopify.com/meroxio-link-shortner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,864 bytes / 171,775 chars
+Elapsed          : 0.777s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Meroxio Link Shortener - Create short links and track clicks easily | Shopify App Store
+meta description : Link shortener helps merchants create and manage short links for products, collections, and pages. Generate clean, trackable URLs and share them ea...
+canonical URL    : https://apps.shopify.com/meroxio-link-shortner
+<h1> tags ( 1)  : 'Meroxio Link Shortener'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

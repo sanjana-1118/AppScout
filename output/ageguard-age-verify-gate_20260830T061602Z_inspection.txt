@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ageguard-age-verify-gate_20260830T061602Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ageguard-age-verify-gate_20260830T061602Z.html
+Requested URL    : https://apps.shopify.com/ageguard-age-verify-gate
+Final URL        : https://apps.shopify.com/ageguard-age-verify-gate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,482 bytes / 175,367 chars
+Elapsed          : 0.480s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AgeGuard ‑ Age Verify Gate - Age verification popup for your site. One toggle. Zero code. | Shopify App Store
+meta description : AgeGuard adds an age verification gate to your Shopify store, helping you stay compliant when selling alcohol, tobacco, vape, CBD, or other age-res...
+canonical URL    : https://apps.shopify.com/ageguard-age-verify-gate
+<h1> tags ( 1)  : 'AgeGuard ‑ Age Verify Gate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

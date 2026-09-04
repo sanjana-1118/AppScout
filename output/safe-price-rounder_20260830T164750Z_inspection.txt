@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\safe-price-rounder_20260830T164750Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\safe-price-rounder_20260830T164750Z.html
+Requested URL    : https://apps.shopify.com/safe-price-rounder
+Final URL        : https://apps.shopify.com/safe-price-rounder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,363 bytes / 192,264 chars
+Elapsed          : 0.793s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Jarlix: Price Rounder & Editor - Professional price rounding to .99 with one-click rollback. | Shopify App Store
+meta description : Bulk round Shopify product prices to .99, .95, .00 or any custom ending. Apply collection rules, schedule automatic runs, and roll back safely anytime.
+canonical URL    : https://apps.shopify.com/safe-price-rounder
+<h1> tags ( 1)  : 'Jarlix: Price Rounder & Editor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

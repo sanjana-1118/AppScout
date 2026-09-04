@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopmate-3_20260831T030941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopmate-3_20260831T030941Z.html
+Requested URL    : https://apps.shopify.com/shopmate-3
+Final URL        : https://apps.shopify.com/shopmate-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,767 bytes / 178,673 chars
+Elapsed          : 0.580s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shopmate - AI chat assistant for boost sale and automate customer support | Shopify App Store
+meta description : Shopmate adds an AI chat assistant to your storefront that answers customer questions about your products and store policies. It uses the informati...
+canonical URL    : https://apps.shopify.com/shopmate-3
+<h1> tags ( 1)  : 'Shopmate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

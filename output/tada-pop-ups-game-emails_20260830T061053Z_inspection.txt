@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tada-pop-ups-game-emails_20260830T061053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tada-pop-ups-game-emails_20260830T061053Z.html
+Requested URL    : https://apps.shopify.com/tada-pop-ups-game-emails
+Final URL        : https://apps.shopify.com/tada-pop-ups-game-emails
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 272,828 bytes / 272,730 chars
+Elapsed          : 0.594s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tada Pop up Spin Wheel Popups - On-brand gamified popups to grow email and SMS lists | Shopify App Store
+meta description : Quick, easy set up & free. Collect emails, phone numbers & more to boost your sales with Tada elegant & interactive popups. Gamification to optimize conversions
+canonical URL    : https://apps.shopify.com/tada-pop-ups-game-emails
+<h1> tags ( 1)  : 'Tada Pop up Spin Wheel Popups'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

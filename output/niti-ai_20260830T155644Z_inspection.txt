@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\niti-ai_20260830T155644Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\niti-ai_20260830T155644Z.html
+Requested URL    : https://apps.shopify.com/niti-ai
+Final URL        : https://apps.shopify.com/niti-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,842 bytes / 189,729 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Niti ‑ AI Growth Intelligence - Turn marketing data into actions that protect profit. | Shopify App Store
+meta description : Turn marketing data into actions. AI detects profit leaks, churn risks, and wasted spend, then tells you exactly what to fix. Get alerts and insights without
+canonical URL    : https://apps.shopify.com/niti-ai
+<h1> tags ( 1)  : 'Niti ‑ AI Growth Intelligence'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

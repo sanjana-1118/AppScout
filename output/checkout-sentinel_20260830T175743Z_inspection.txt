@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-sentinel_20260830T175743Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-sentinel_20260830T175743Z.html
+Requested URL    : https://apps.shopify.com/checkout-sentinel
+Final URL        : https://apps.shopify.com/checkout-sentinel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,977 bytes / 175,887 chars
+Elapsed          : 0.589s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReadyCart: Checkout Sentinel - Monitor checkout paths and get alerts when buying breaks | Shopify App Store
+meta description : Monitor product-to-checkout paths, confirm failures before alerting, and get clear email reports when customers cannot reach checkout.
+canonical URL    : https://apps.shopify.com/checkout-sentinel
+<h1> tags ( 1)  : 'ReadyCart: Checkout Sentinel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

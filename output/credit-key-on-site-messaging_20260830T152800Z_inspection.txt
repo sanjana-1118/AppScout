@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\credit-key-on-site-messaging_20260830T152800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\credit-key-on-site-messaging_20260830T152800Z.html
+Requested URL    : https://apps.shopify.com/credit-key-on-site-messaging
+Final URL        : https://apps.shopify.com/credit-key-on-site-messaging
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,310 bytes / 166,203 chars
+Elapsed          : 0.538s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Credit Key B2B BNPL Messaging - Drive More Purchases with Flexible B2B Payment Messaging | Shopify App Store
+meta description : Credit Key's Buy Now Pay Later solution enables you to offer instant credit and flexible payment terms from Net 30 up to 12 months to your business customers.
+canonical URL    : https://apps.shopify.com/credit-key-on-site-messaging
+<h1> tags ( 1)  : 'Credit Key B2B BNPL Messaging'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

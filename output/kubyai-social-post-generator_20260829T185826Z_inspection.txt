@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kubyai-social-post-generator_20260829T185826Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kubyai-social-post-generator_20260829T185826Z.html
+Requested URL    : https://apps.shopify.com/kubyai-social-post-generator
+Final URL        : https://apps.shopify.com/kubyai-social-post-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,066 bytes / 232,967 chars
+Elapsed          : 0.510s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pify AI Product Description - Bulk add product meta descriptions & optimize SEO by ChatGPT | Shopify App Store
+meta description : Generate product descriptions, page title, meta description, social posts or blog effortlessly, Optimize SEO, improve promotion and sales by AI.
+canonical URL    : https://apps.shopify.com/kubyai-social-post-generator
+<h1> tags ( 1)  : 'Pify AI Product Description'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

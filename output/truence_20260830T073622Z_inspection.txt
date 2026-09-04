@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\truence_20260830T073622Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\truence_20260830T073622Z.html
+Requested URL    : https://apps.shopify.com/truence
+Final URL        : https://apps.shopify.com/truence
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,816 bytes / 167,719 chars
+Elapsed          : 0.902s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Truence - Verify payouts, deposits, returns, and revenue in one place | Shopify App Store
+meta description : Truence helps Shopify merchants verify whether reported sales actually match bank deposits. It connects with Shopify, Stripe, Amazon, and bank data...
+canonical URL    : https://apps.shopify.com/truence
+<h1> tags ( 1)  : 'Truence'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

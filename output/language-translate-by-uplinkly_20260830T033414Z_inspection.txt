@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\language-translate-by-uplinkly_20260830T033414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\language-translate-by-uplinkly_20260830T033414Z.html
+Requested URL    : https://apps.shopify.com/language-translate-by-uplinkly
+Final URL        : https://apps.shopify.com/language-translate-by-uplinkly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,890 bytes / 208,797 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Uplinkly Language Translate - Translate your store & get more sales automatically! | Shopify App Store
+meta description : Instantly translate your store into over 100 languages, in just a couple of clicks.
+
+Install and simply pick the languages you'd like your store to...
+canonical URL    : https://apps.shopify.com/language-translate-by-uplinkly
+<h1> tags ( 1)  : 'Uplinkly Language Translate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zipcode-based-pricing_20260830T044834Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zipcode-based-pricing_20260830T044834Z.html
+Requested URL    : https://apps.shopify.com/zipcode-based-pricing
+Final URL        : https://apps.shopify.com/zipcode-based-pricing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,844 bytes / 190,751 chars
+Elapsed          : 0.626s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zipcode Wise Pricing - Delivery ETA, postcode validation, and zone pricing automation | Shopify App Store
+meta description : Validate delivery areas, show delivery ETA on products, manage postcode zones, and automate location-based pricing for Shopify stores.
+canonical URL    : https://apps.shopify.com/zipcode-based-pricing
+<h1> tags ( 1)  : 'Zipcode Wise Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

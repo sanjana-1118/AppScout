@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-pricing-wholesale_20260830T035429Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-pricing-wholesale_20260830T035429Z.html
+Requested URL    : https://apps.shopify.com/custom-pricing-wholesale
+Final URL        : https://apps.shopify.com/custom-pricing-wholesale
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 243,496 bytes / 243,402 chars
+Elapsed          : 1.093s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OSCP B2B Wholesale Pricing - B2B Wholesale: Volume and Custom Pricing, All-in-One Solution | Shopify App Store
+meta description : Offer volume discounts across products and collections. B2B & wholesale store for all customers or tag-based. Bulk edit variant pricing available.
+canonical URL    : https://apps.shopify.com/custom-pricing-wholesale
+<h1> tags ( 1)  : 'OSCP B2B Wholesale Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

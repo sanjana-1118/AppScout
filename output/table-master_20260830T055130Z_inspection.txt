@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\table-master_20260830T055130Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\table-master_20260830T055130Z.html
+Requested URL    : https://apps.shopify.com/table-master
+Final URL        : https://apps.shopify.com/table-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,909 bytes / 219,798 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Table Master ‑ Excel to Table - Help shoppers find and order products in one searchable table | Shopify App Store
+meta description : Create searchable Shopify tables for products, compatibility data, nutrition information, schedules, and technical catalogs. Import Excel, CSV, or Sheets.
+canonical URL    : https://apps.shopify.com/table-master
+<h1> tags ( 1)  : 'Table Master ‑ Excel to Table'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

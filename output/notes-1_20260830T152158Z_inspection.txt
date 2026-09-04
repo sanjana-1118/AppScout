@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notes-1_20260830T152158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notes-1_20260830T152158Z.html
+Requested URL    : https://apps.shopify.com/notes-1
+Final URL        : https://apps.shopify.com/notes-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,988 bytes / 160,887 chars
+Elapsed          : 0.989s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MeApps Product Notes Manager - Internal product notes manager to add and view notes. | Shopify App Store
+meta description : Add Internal Notes on products for team communication and organization.
+canonical URL    : https://apps.shopify.com/notes-1
+<h1> tags ( 1)  : 'MeApps Product Notes Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

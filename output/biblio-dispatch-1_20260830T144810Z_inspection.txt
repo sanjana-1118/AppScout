@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\biblio-dispatch-1_20260830T144810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\biblio-dispatch-1_20260830T144810Z.html
+Requested URL    : https://apps.shopify.com/biblio-dispatch-1
+Final URL        : https://apps.shopify.com/biblio-dispatch-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,702 bytes / 167,613 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Biblio Dispatch - Reduce print and inventory overhead with our POD services | Shopify App Store
+meta description : The **Biblio Dispatch** plugin integrates with stores to automate the process of sending order details to a delivery service API. Upon configuratio...
+canonical URL    : https://apps.shopify.com/biblio-dispatch-1
+<h1> tags ( 1)  : 'Biblio Dispatch'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

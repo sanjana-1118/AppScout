@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storevault-1_20260831T030652Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storevault-1_20260831T030652Z.html
+Requested URL    : https://apps.shopify.com/storevault-1
+Final URL        : https://apps.shopify.com/storevault-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,973 bytes / 191,860 chars
+Elapsed          : 1.111s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreVault ‑ Backup & Restore - Backups with proof, and restores you can undo | Shopify App Store
+meta description : Backups of your Shopify store as it changes, with proof they work. Restore one record or the whole catalog, and undo any restore.
+canonical URL    : https://apps.shopify.com/storevault-1
+<h1> tags ( 1)  : 'StoreVault ‑ Backup & Restore'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

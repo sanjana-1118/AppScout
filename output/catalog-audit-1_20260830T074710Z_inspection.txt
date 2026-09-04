@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalog-audit-1_20260830T074710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalog-audit-1_20260830T074710Z.html
+Requested URL    : https://apps.shopify.com/catalog-audit-1
+Final URL        : https://apps.shopify.com/catalog-audit-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,680 bytes / 168,591 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Profit Leak Audit - Find the catalog data that is costing you money | Shopify App Store
+meta description : Scan your catalog for the product data errors that cost you money: missing weights, unpublished stock, missing barcodes and images. Priced, not guessed.
+canonical URL    : https://apps.shopify.com/catalog-audit-1
+<h1> tags ( 1)  : 'Profit Leak Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

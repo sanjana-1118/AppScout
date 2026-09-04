@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pricepilot-5_20260831T031050Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pricepilot-5_20260831T031050Z.html
+Requested URL    : https://apps.shopify.com/pricepilot-5
+Final URL        : https://apps.shopify.com/pricepilot-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,908 bytes / 181,815 chars
+Elapsed          : 0.706s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PricePilot - Optimize your catalog with AI-powered recommendations | Shopify App Store
+meta description : Analyze inventory, sales trends, and margins to find the best opportunities. Apply AI recommendations in one click, track every change, and run A/B experiments.
+canonical URL    : https://apps.shopify.com/pricepilot-5
+<h1> tags ( 1)  : 'PricePilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

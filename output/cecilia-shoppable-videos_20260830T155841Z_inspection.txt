@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cecilia-shoppable-videos_20260830T155841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cecilia-shoppable-videos_20260830T155841Z.html
+Requested URL    : https://apps.shopify.com/cecilia-shoppable-videos
+Final URL        : https://apps.shopify.com/cecilia-shoppable-videos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,119 bytes / 197,003 chars
+Elapsed          : 1.011s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cecify ‑ Reels, Videos & UGC - Turn videos into shoppable experiences on your store | Shopify App Store
+meta description : Create shoppable videos and UGC carousels. Tag multiple products, boost engagement, and drive sales directly in your Shopify store.
+canonical URL    : https://apps.shopify.com/cecilia-shoppable-videos
+<h1> tags ( 1)  : 'Cecify ‑ Reels, Videos & UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipxposttest_20260830T142941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipxposttest_20260830T142941Z.html
+Requested URL    : https://apps.shopify.com/shipxposttest
+Final URL        : https://apps.shopify.com/shipxposttest
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,756 bytes / 185,667 chars
+Elapsed          : 0.681s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipXPost - Ship faster & cheaper with automatic carrier selection & label | Shopify App Store
+meta description : we are India's number 1 shipping solutions provider. Sell, ship, and track with ease by choosing multiple courier partners through one single shipping platform
+canonical URL    : https://apps.shopify.com/shipxposttest
+<h1> tags ( 1)  : 'ShipXPost'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

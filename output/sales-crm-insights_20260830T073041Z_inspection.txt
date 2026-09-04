@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sales-crm-insights_20260830T073041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sales-crm-insights_20260830T073041Z.html
+Requested URL    : https://apps.shopify.com/sales-crm-insights
+Final URL        : https://apps.shopify.com/sales-crm-insights
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,327 bytes / 182,212 chars
+Elapsed          : 0.472s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SegmentIQ ‑ Customer CRM - Segment customers by behavior and stop churn before it starts. | Shopify App Store
+meta description : Segment customers by RFM, track churn risk, and identify your best buyers. Sync segments to Mailchimp or Klaviyo. Free plan available.
+canonical URL    : https://apps.shopify.com/sales-crm-insights
+<h1> tags ( 1)  : 'SegmentIQ ‑ Customer CRM'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

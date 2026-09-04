@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-alert-notify-me-sb_20260831T035207Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-alert-notify-me-sb_20260831T035207Z.html
+Requested URL    : https://apps.shopify.com/back-in-stock-alert-notify-me-sb
+Final URL        : https://apps.shopify.com/back-in-stock-alert-notify-me-sb
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 273,096 bytes / 272,955 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SetuBridge Back In Stock Alert - Launch Back in Stock & Notify Me with smart restock... | Shopify App Store
+meta description : Back in Stock app allows admin to add a button on the upcoming products with Pre Launcher, Back in Stock, & Notify Me functionality and that boosts presales.
+canonical URL    : https://apps.shopify.com/back-in-stock-alert-notify-me-sb
+<h1> tags ( 1)  : 'SetuBridge Back In Stock Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

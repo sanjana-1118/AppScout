@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kevo_20260830T172156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kevo_20260830T172156Z.html
+Requested URL    : https://apps.shopify.com/kevo
+Final URL        : https://apps.shopify.com/kevo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,428 bytes / 183,333 chars
+Elapsed          : 0.527s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kevo - AI-powered link-in-bio storefront with 24/7 automated sales. | Shopify App Store
+meta description : Turn social traffic into sales with AI Chat Assistant. Kevo builds smart link-in-bio pages with 24/7 automated product recommendations and 1-click checkout.
+canonical URL    : https://apps.shopify.com/kevo
+<h1> tags ( 1)  : 'Kevo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

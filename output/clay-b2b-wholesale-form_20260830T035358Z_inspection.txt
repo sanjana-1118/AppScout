@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clay-b2b-wholesale-form_20260830T035358Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\clay-b2b-wholesale-form_20260830T035358Z.html
+Requested URL    : https://apps.shopify.com/clay-b2b-wholesale-form
+Final URL        : https://apps.shopify.com/clay-b2b-wholesale-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 264,691 bytes / 264,558 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Clay • B2B Wholesale Pricing - Wholesale B2B pricing & more, right from your existing store | Shopify App Store
+meta description : Transform your Shopify store for B2B & Wholesale buyers with Clay. Offer custom & volume pricing and a registration form for seamless wholesale operations.
+canonical URL    : https://apps.shopify.com/clay-b2b-wholesale-form
+<h1> tags ( 1)  : 'Clay • B2B Wholesale Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

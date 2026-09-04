@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-trigger_20260830T044942Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-trigger_20260830T044942Z.html
+Requested URL    : https://apps.shopify.com/price-trigger
+Final URL        : https://apps.shopify.com/price-trigger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,901 bytes / 172,811 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Netra: PriceSignal - Track changes and trigger automated workflows | Shopify App Store
+meta description : Track Shopify variant price changes and trigger Shopify Flow automations with product, collection, and percentage-based rules and alerts.
+canonical URL    : https://apps.shopify.com/price-trigger
+<h1> tags ( 1)  : 'Netra: PriceSignal'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

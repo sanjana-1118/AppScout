@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dealoftheday_20260830T134044Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dealoftheday_20260830T134044Z.html
+Requested URL    : https://apps.shopify.com/dealoftheday
+Final URL        : https://apps.shopify.com/dealoftheday
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,307 bytes / 173,218 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : My Deal of the Day - Sale & Discount Automated Scheduler | Shopify App Store
+meta description : My Deal of the Day allows you to create a group of products, you set the range of discount and watch the jump in revenue from those items being fea...
+canonical URL    : https://apps.shopify.com/dealoftheday
+<h1> tags ( 1)  : 'My Deal of the Day'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

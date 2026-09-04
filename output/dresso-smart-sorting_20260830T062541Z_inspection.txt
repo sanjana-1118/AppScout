@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dresso-smart-sorting_20260830T062541Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dresso-smart-sorting_20260830T062541Z.html
+Requested URL    : https://apps.shopify.com/dresso-smart-sorting
+Final URL        : https://apps.shopify.com/dresso-smart-sorting
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,790 bytes / 205,676 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dresso ‑ smart sorting - Smart product sorting and Google campaign optimization. | Shopify App Store
+meta description : Automatically sort your collection products by performance. Boost store conversions and optimize Google Shopping campaigns with custom tags and metafields.
+canonical URL    : https://apps.shopify.com/dresso-smart-sorting
+<h1> tags ( 1)  : 'Dresso ‑ smart sorting'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

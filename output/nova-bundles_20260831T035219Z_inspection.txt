@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nova-bundles_20260831T035219Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nova-bundles_20260831T035219Z.html
+Requested URL    : https://apps.shopify.com/nova-bundles
+Final URL        : https://apps.shopify.com/nova-bundles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,914 bytes / 217,824 chars
+Elapsed          : 0.639s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nova: Bundle Deals - Quantity breaks, BXGY & bundle deals at checkout | Shopify App Store
+meta description : Build quantity breaks, BXGY, and bundle deals with native checkout discounts. Lightweight widget, multi-currency support, and combinability controls.
+canonical URL    : https://apps.shopify.com/nova-bundles
+<h1> tags ( 1)  : 'Nova: Bundle Deals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

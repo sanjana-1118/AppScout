@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\afivio_20260830T035233Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\afivio_20260830T035233Z.html
+Requested URL    : https://apps.shopify.com/afivio
+Final URL        : https://apps.shopify.com/afivio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,482 bytes / 189,384 chars
+Elapsed          : 0.962s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Afivio - Affiliate&Referral Platform | Shopify App Store
+meta description : Manage affiliate and referral programs with Shopify integration. Track commissions, monitor partners, and grow sales with Afivio.
+canonical URL    : https://apps.shopify.com/afivio
+<h1> tags ( 1)  : 'Afivio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

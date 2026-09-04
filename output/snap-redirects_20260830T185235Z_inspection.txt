@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-redirects_20260830T185235Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snap-redirects_20260830T185235Z.html
+Requested URL    : https://apps.shopify.com/snap-redirects
+Final URL        : https://apps.shopify.com/snap-redirects
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,908 bytes / 181,815 chars
+Elapsed          : 1.001s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Snap Redirects: 301 & 404s - Fix broken links and protect your SEO with smart redirects | Shopify App Store
+meta description : Create 301 redirects with wildcard & regex rules, track 404 errors in real time, and fix broken links in one click. Bulk CSV tools and auto-redirect on delete.
+canonical URL    : https://apps.shopify.com/snap-redirects
+<h1> tags ( 1)  : 'Snap Redirects: 301 & 404s'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

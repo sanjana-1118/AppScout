@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandpay_20260830T064734Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandpay_20260830T064734Z.html
+Requested URL    : https://apps.shopify.com/brandpay
+Final URL        : https://apps.shopify.com/brandpay
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,652 bytes / 191,557 chars
+Elapsed          : 0.896s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BrandPay Performance Rewards - Reward customers for creating Instagram content about you.  | Shopify App Store
+meta description : Pay customers instantly when they create Instagram content about your business, with earnings they spend back on your Shopify store.
+canonical URL    : https://apps.shopify.com/brandpay
+<h1> tags ( 1)  : 'BrandPay Performance Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

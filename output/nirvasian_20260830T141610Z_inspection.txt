@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nirvasian_20260830T141610Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nirvasian_20260830T141610Z.html
+Requested URL    : https://apps.shopify.com/nirvasian
+Final URL        : https://apps.shopify.com/nirvasian
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,508 bytes / 151,419 chars
+Elapsed          : 0.860s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nirvasian Fulfillment - Streamline Fulfillment & Inventory management | Shopify App Store
+meta description : Order Fulfillment services philippines, southeast asia
+canonical URL    : https://apps.shopify.com/nirvasian
+<h1> tags ( 1)  : 'Nirvasian Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

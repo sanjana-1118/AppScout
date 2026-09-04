@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\figpii_20260830T072321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\figpii_20260830T072321Z.html
+Requested URL    : https://apps.shopify.com/figpii
+Final URL        : https://apps.shopify.com/figpii
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,076 bytes / 215,967 chars
+Elapsed          : 0.823s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FigPii AB Testing & Replays - Increase your conversion rate through A/B testing and replays | Shopify App Store
+meta description : Do you struggle with data obesity? Do you have to sift through mounds of data looking for “Ahas”? Well, not anymore.
+canonical URL    : https://apps.shopify.com/figpii
+<h1> tags ( 1)  : 'FigPii AB Testing & Replays'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

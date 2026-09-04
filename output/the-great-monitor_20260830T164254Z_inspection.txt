@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-great-monitor_20260830T164254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-great-monitor_20260830T164254Z.html
+Requested URL    : https://apps.shopify.com/the-great-monitor
+Final URL        : https://apps.shopify.com/the-great-monitor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,139 bytes / 171,050 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Alert Hub - Automated alerts for zero orders, high-value sale, and more. | Shopify App Store
+meta description : Automatically monitor your store's order activity and receive alerts for important events. Get notified when there are no orders during a time peri...
+canonical URL    : https://apps.shopify.com/the-great-monitor
+<h1> tags ( 1)  : 'Order Alert Hub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

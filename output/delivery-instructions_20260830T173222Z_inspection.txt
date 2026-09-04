@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delivery-instructions_20260830T173222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delivery-instructions_20260830T173222Z.html
+Requested URL    : https://apps.shopify.com/delivery-instructions
+Final URL        : https://apps.shopify.com/delivery-instructions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,023 bytes / 172,934 chars
+Elapsed          : 0.953s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Jelonyx Delivery Instructions - Collect delivery notes after checkout | Shopify App Store
+meta description : Delivery Instructions & Notes adds a simple instruction form to the Thank You page and Order Status page. Customers can choose a delivery location ...
+canonical URL    : https://apps.shopify.com/delivery-instructions
+<h1> tags ( 1)  : 'Jelonyx Delivery Instructions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

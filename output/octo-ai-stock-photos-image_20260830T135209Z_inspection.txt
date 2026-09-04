@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\octo-ai-stock-photos-image_20260830T135209Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\octo-ai-stock-photos-image_20260830T135209Z.html
+Requested URL    : https://apps.shopify.com/octo-ai-stock-photos-image
+Final URL        : https://apps.shopify.com/octo-ai-stock-photos-image
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,620 bytes / 171,511 chars
+Elapsed          : 0.628s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Octo ‑ AI Stock Photos & Image - Generate images for storefront, blog, ads, products & more  | Shopify App Store
+meta description : Generate images from text prompts with AI to generate images for your Shopify storefront, blog posts, digital marketing campaigns, ads, products and more.
+canonical URL    : https://apps.shopify.com/octo-ai-stock-photos-image
+<h1> tags ( 1)  : 'Octo ‑ AI Stock Photos & Image'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

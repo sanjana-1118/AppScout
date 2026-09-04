@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brightrix_20260830T073055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brightrix_20260830T073055Z.html
+Requested URL    : https://apps.shopify.com/brightrix
+Final URL        : https://apps.shopify.com/brightrix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,296 bytes / 168,189 chars
+Elapsed          : 0.813s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Brightrix — Fulfillment Speed - Track fulfillment speed, backlog, and revenue at risk | Shopify App Store
+meta description : Brightrix turns your Shopify orders into fulfillment metrics: shipping speed and on-time SLA, order aging and backlog, and revenue at risk in unshipped orders.
+canonical URL    : https://apps.shopify.com/brightrix
+<h1> tags ( 1)  : 'Brightrix — Fulfillment Speed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

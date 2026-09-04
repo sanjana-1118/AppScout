@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multisafepay_20260830T152314Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multisafepay_20260830T152314Z.html
+Requested URL    : https://apps.shopify.com/multisafepay
+Final URL        : https://apps.shopify.com/multisafepay
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,502 bytes / 153,405 chars
+Elapsed          : 1.319s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MultiSafepay - Smart payment solutions for your business | Shopify App Store
+meta description : Optimize your sales by creating a customer journey that meets both your needs and those of your customers, ensuring repeat business.
+
+Our team deve...
+canonical URL    : https://apps.shopify.com/multisafepay
+<h1> tags ( 1)  : 'MultiSafepay'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

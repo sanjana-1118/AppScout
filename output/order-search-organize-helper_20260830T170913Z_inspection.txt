@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-search-organize-helper_20260830T170913Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-search-organize-helper_20260830T170913Z.html
+Requested URL    : https://apps.shopify.com/order-search-organize-helper
+Final URL        : https://apps.shopify.com/order-search-organize-helper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,123 bytes / 166,034 chars
+Elapsed          : 0.789s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Panda - Automate orders tags and pick faster with scanners and audio. | Shopify App Store
+meta description : Automate order tags and improve Shopify fulfillment with Order Panda. Pick orders faster using barcode scanner support and instant audio feedback. Bol.com Intg
+canonical URL    : https://apps.shopify.com/order-search-organize-helper
+<h1> tags ( 1)  : 'Order Panda'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\embedify_20260830T060156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\embedify_20260830T060156Z.html
+Requested URL    : https://apps.shopify.com/embedify
+Final URL        : https://apps.shopify.com/embedify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,920 bytes / 168,799 chars
+Elapsed          : 0.508s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Embedify ‑ Embed Social Media - Enhance engagement by embedding social media content. | Shopify App Store
+meta description : Keep customers engaged without them even realizing it! Embedify seamlessly integrates social media content from YouTube, Facebook, and TikTok direc...
+canonical URL    : https://apps.shopify.com/embedify
+<h1> tags ( 1)  : 'Embedify ‑ Embed Social Media'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-garan-warranty-labels_20260830T185549Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-garan-warranty-labels_20260830T185549Z.html
+Requested URL    : https://apps.shopify.com/eu-garan-warranty-labels
+Final URL        : https://apps.shopify.com/eu-garan-warranty-labels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,878 bytes / 212,768 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EU GARAN Legal Guarantee - Official EU Legal Guarantee Notices & GARAN Labels | Shopify App Store
+meta description : Erstelle offizielle EU-Gewährleistungs- und GARAN-Labels automatisch. Produktprüfung, Bulk-Check und einfache Integration für Shopify.
+canonical URL    : https://apps.shopify.com/eu-garan-warranty-labels
+<h1> tags ( 1)  : 'EU GARAN Legal Guarantee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

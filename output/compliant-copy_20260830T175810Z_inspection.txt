@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\compliant-copy_20260830T175810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\compliant-copy_20260830T175810Z.html
+Requested URL    : https://apps.shopify.com/compliant-copy
+Final URL        : https://apps.shopify.com/compliant-copy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,017 bytes / 180,928 chars
+Elapsed          : 1.069s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Compliant Copy - FDA-compliant copy for supplements, cosmetics, and beauty | Shopify App Store
+meta description : Generate FDA-compliant product copy in seconds for supplements, cosmetics, and beauty. Auto-detects your category and applies the right compliance rules.
+canonical URL    : https://apps.shopify.com/compliant-copy
+<h1> tags ( 1)  : 'Compliant Copy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

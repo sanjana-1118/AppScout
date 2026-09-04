@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedops_20260830T034619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedops_20260830T034619Z.html
+Requested URL    : https://apps.shopify.com/feedops
+Final URL        : https://apps.shopify.com/feedops
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,582 bytes / 201,475 chars
+Elapsed          : 0.511s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Google Shopping feed: FeedOps - Maximize Visibility, Clicks, and Sales on Google Bing & Meta | Shopify App Store
+meta description : Optimize your Google Shopping feed for enhanced product visibility, increased sales and better Google Shopping / PMAX Ads. Ticket support or upgrade to premium.
+canonical URL    : https://apps.shopify.com/feedops
+<h1> tags ( 1)  : 'Google Shopping feed: FeedOps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

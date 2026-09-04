@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sidekick-ai-skills-library_20260830T071121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sidekick-ai-skills-library_20260830T071121Z.html
+Requested URL    : https://apps.shopify.com/sidekick-ai-skills-library
+Final URL        : https://apps.shopify.com/sidekick-ai-skills-library
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,446 bytes / 164,353 chars
+Elapsed          : 0.480s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Agentic AI Skills Library - Empower your AI with Agentic Vertical Skills & Strategic Rules | Shopify App Store
+meta description : Bridge the gap between generic AI and specific business needs. This app acts as a specialized 'Skill Warehouse,' providing verified prompts and str...
+canonical URL    : https://apps.shopify.com/sidekick-ai-skills-library
+<h1> tags ( 1)  : 'Agentic AI Skills Library'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

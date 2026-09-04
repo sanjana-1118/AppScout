@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kolage_20260830T135138Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kolage_20260830T135138Z.html
+Requested URL    : https://apps.shopify.com/kolage
+Final URL        : https://apps.shopify.com/kolage
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,249 bytes / 176,157 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kolage - Create collages of your products photos for your brand | Shopify App Store
+meta description : Kolage will let you design stunning collages of your products photos that can be used to promote your products on your website or on social networks.
+canonical URL    : https://apps.shopify.com/kolage
+<h1> tags ( 1)  : 'Kolage'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

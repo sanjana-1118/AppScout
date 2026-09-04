@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dc-preorders_20260830T063528Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dc-preorders_20260830T063528Z.html
+Requested URL    : https://apps.shopify.com/dc-preorders
+Final URL        : https://apps.shopify.com/dc-preorders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 261,453 bytes / 261,357 chars
+Elapsed          : 0.741s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DC Order Limits, Back in stock - Limit customer purchases, mixed carts, min/max, notify me | Shopify App Store
+meta description : Recover lost sales with back in stock alerts and control demand with customer order limits. Sold out shouldn't mean sold and gone. Add a Notify me form today!
+canonical URL    : https://apps.shopify.com/dc-preorders
+<h1> tags ( 1)  : 'DC Order Limits, Back in stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

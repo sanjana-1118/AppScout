@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\endcap_20260829T190317Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\endcap_20260829T190317Z.html
+Requested URL    : https://apps.shopify.com/endcap
+Final URL        : https://apps.shopify.com/endcap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,849 bytes / 192,758 chars
+Elapsed          : 0.708s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Endcap: AI SEO Rank Tracker - Find the products AI assistants skip, then fix them in... | Shopify App Store
+meta description : Find products ChatGPT and AI shopping assistants overlook. Audit your Shopify catalog, compare competitors, and fix visibility issues in bulk.
+canonical URL    : https://apps.shopify.com/endcap
+<h1> tags ( 1)  : 'Endcap: AI SEO Rank Tracker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

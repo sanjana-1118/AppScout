@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/octolize-hide-sort-shipping",
+  "fetch_timestamp": "2026-08-30T06:36:10.425173+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\octolize-hide-sort-shipping_20260830T063610Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\octolize-hide-sort-shipping_20260830T063610Z.html",
+    "url": "https://apps.shopify.com/octolize-hide-sort-shipping",
+    "final_url": "https://apps.shopify.com/octolize-hide-sort-shipping",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 234739,
+    "body_text_length": 234645,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.617534,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "OCT Hide Shipping Methods - Sort, reorder, rename, hide shipping rates with checkout rules | Shopify App Store",
+    "meta_description": "Effortlessly sort, reorder and hide shipping methods & rates in your Shopify store. Manage the way they are displayed at the checkout with various conditions.",
+    "canonical_url": "https://apps.shopify.com/octolize-hide-sort-shipping",
+    "h1_tags": [
+      "OCT Hide Shipping Methods"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "OCT Hide Shipping Methods",
+    "app_slug": "octolize-hide-sort-shipping",
+    "app_url": "https://apps.shopify.com/octolize-hide-sort-shipping",
+    "developer_name": "Octolize LTD",
+    "description": "Effortlessly sort, reorder and hide shipping methods & rates in your Shopify store. Manage the way they are displayed at the checkout with various conditions.",
+    "average_rating": 4.9,
+    "review_count": 19,
+    "category": "Cart customization"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\octolize-hide-sort-shipping_20260830T063610Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\octolize-hide-sort-shipping_20260830T063610Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "OCT Hide Shipping Methods",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "octolize-hide-sort-shipping",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/octolize-hide-sort-shipping",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Octolize LTD",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Effortlessly sort, reorder and hide shipping methods & rates in your Shopify store. Manage the way they are displayed at the checkout with various conditions.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.9,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 19,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Cart customization",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

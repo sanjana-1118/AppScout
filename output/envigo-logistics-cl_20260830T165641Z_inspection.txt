@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\envigo-logistics-cl_20260830T165641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\envigo-logistics-cl_20260830T165641Z.html
+Requested URL    : https://apps.shopify.com/envigo-logistics-cl
+Final URL        : https://apps.shopify.com/envigo-logistics-cl
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,302 bytes / 182,170 chars
+Elapsed          : 0.827s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Envigo ‑ Entregas ultima milla - Entregas de tus pedidos con servicio de última milla | Shopify App Store
+meta description : Envigo es un servicio de entregas para tiendas Shopify que buscan externalizar la última milla de sus pedidos. Al conectar tu tienda con Envigo, po...
+canonical URL    : https://apps.shopify.com/envigo-logistics-cl?locale=es
+<h1> tags ( 1)  : 'Envigo ‑ Entregas ultima milla'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

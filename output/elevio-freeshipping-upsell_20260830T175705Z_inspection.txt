@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elevio-freeshipping-upsell_20260830T175705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elevio-freeshipping-upsell_20260830T175705Z.html
+Requested URL    : https://apps.shopify.com/elevio-freeshipping-upsell
+Final URL        : https://apps.shopify.com/elevio-freeshipping-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,745 bytes / 171,652 chars
+Elapsed          : 0.783s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elevio : FreeShipping Upsell - Cross Sell & Cart Upsell with progress bar/banner | Shopify App Store
+meta description : Elevio: essential free shipping bar & cart upsell app. Boost AOV with free shipping progress bar, cart goal & cart upsell on product page
+canonical URL    : https://apps.shopify.com/elevio-freeshipping-upsell
+<h1> tags ( 1)  : 'Elevio : FreeShipping Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

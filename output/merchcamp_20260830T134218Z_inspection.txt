@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchcamp_20260830T134218Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchcamp_20260830T134218Z.html
+Requested URL    : https://apps.shopify.com/merchcamp
+Final URL        : https://apps.shopify.com/merchcamp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,757 bytes / 169,599 chars
+Elapsed          : 0.494s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MerchCamp: Print‑on‑Demand - Sustainable print on demand, dropshipping & fulfillment | Shopify App Store
+meta description : With the MerchCamp app you can connect your Shopify Store to our print-on-demand & dropshipping service and synchronize your products....
+canonical URL    : https://apps.shopify.com/merchcamp
+<h1> tags ( 1)  : 'MerchCamp: Print‑on‑Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

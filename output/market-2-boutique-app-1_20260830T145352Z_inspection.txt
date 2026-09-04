@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\market-2-boutique-app-1_20260830T145352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\market-2-boutique-app-1_20260830T145352Z.html
+Requested URL    : https://apps.shopify.com/market-2-boutique-app-1
+Final URL        : https://apps.shopify.com/market-2-boutique-app-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,332 bytes / 181,233 chars
+Elapsed          : 0.933s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Market 2 Boutique App - Saving You Time and Money with Smart Inventory management | Shopify App Store
+meta description : Market 2 Boutique is a game changer for retail stores.  It was designed for boutique owners who want more time and more organization. Quickly and e...
+canonical URL    : https://apps.shopify.com/market-2-boutique-app-1
+<h1> tags ( 1)  : 'Market 2 Boutique App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandybee_20260829T190050Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandybee_20260829T190050Z.html
+Requested URL    : https://apps.shopify.com/brandybee
+Final URL        : https://apps.shopify.com/brandybee
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,676 bytes / 212,587 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BrandyBee - Improve Product Pages With Agentic E-Commerce Growth Loop | Shopify App Store
+meta description : AI growth engine for Shopify: BrandyBee optimizes product pages, generates marketing content, and tracks competitors, turning your catalog into sales.
+canonical URL    : https://apps.shopify.com/brandybee
+<h1> tags ( 1)  : 'BrandyBee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

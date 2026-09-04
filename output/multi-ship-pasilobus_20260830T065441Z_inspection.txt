@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-ship-pasilobus_20260830T065441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-ship-pasilobus_20260830T065441Z.html
+Requested URL    : https://apps.shopify.com/multi-ship-pasilobus
+Final URL        : https://apps.shopify.com/multi-ship-pasilobus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,587 bytes / 214,485 chars
+Elapsed          : 0.708s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MultiShip Address Checkout - Ship orders to multiple addresses in one checkout | Shopify App Store
+meta description : Let customers ship to multiple addresses in one checkout. Auto-create child orders, add gift notes and delivery dates. Free plan available.
+canonical URL    : https://apps.shopify.com/multi-ship-pasilobus
+<h1> tags ( 1)  : 'MultiShip Address Checkout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

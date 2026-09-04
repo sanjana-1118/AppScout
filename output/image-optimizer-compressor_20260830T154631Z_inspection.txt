@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-optimizer-compressor_20260830T154631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-optimizer-compressor_20260830T154631Z.html
+Requested URL    : https://apps.shopify.com/image-optimizer-compressor
+Final URL        : https://apps.shopify.com/image-optimizer-compressor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,330 bytes / 199,227 chars
+Elapsed          : 0.889s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Image Optimizer Pro by MP - Resize, compress & optimize photos in bulk with WebP &... | Shopify App Store
+meta description : Optimize & Compress Images - Videos | Minify JS-CSS | Auto Sync | implement lazy loading, asynchronous loading & Eliminate render blocking resources | Free plan
+canonical URL    : https://apps.shopify.com/image-optimizer-compressor
+<h1> tags ( 1)  : 'Image Optimizer Pro by MP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

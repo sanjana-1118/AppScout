@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fa-split-partial-deposit-pay_20260830T153558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fa-split-partial-deposit-pay_20260830T153558Z.html
+Requested URL    : https://apps.shopify.com/fa-split-partial-deposit-pay
+Final URL        : https://apps.shopify.com/fa-split-partial-deposit-pay
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,562 bytes / 176,451 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FA: Split Partial Deposit Pay - Offer Split, partial and deposits payments to customers. | Shopify App Store
+meta description : Offer a wide variety of flexible payment options on your products. Create partial payments, customer deposits, shared payments, and installment pla...
+canonical URL    : https://apps.shopify.com/fa-split-partial-deposit-pay
+<h1> tags ( 1)  : 'FA: Split Partial Deposit Pay'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

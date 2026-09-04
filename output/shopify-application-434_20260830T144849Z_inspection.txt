@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-434_20260830T144849Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-434_20260830T144849Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-434
+Final URL        : https://apps.shopify.com/shopify-application-434
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,439 bytes / 176,276 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : シンプル決済カスタマイズ｜お手軽条件ごとの決済方法 - シンプルな日本製の決済カスタマイズアプリ。チェックアウト画面で、特定の条件に基づいて、決済方法の非表示を行えます。 | Shopify App Store
+meta description : 「シンプル決済カスタマイズ｜お手軽条件ごとの決済方法」は、特定の条件に応じて決済方法を非表示にできるアプリです。シンプルな料金体系で追加課金なし。日本製のため、日本語サポートも完備しています。
+canonical URL    : https://apps.shopify.com/shopify-application-434?locale=ja
+<h1> tags ( 1)  : 'シンプル決済カスタマイズ｜お手軽条件ごとの決済方法'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

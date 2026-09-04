@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hoko_20260830T142526Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hoko_20260830T142526Z.html
+Requested URL    : https://apps.shopify.com/hoko
+Final URL        : https://apps.shopify.com/hoko
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,079 bytes / 168,958 chars
+Elapsed          : 0.986s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : hoko - simplificar y potencia la gestión logística de tu tienda | Shopify App Store
+meta description : La aplicación de Hoko para Shopify se destaca por su integración completa y sin fisuras con el sistema logístico de Hoko. Lo que la hace única es s...
+canonical URL    : https://apps.shopify.com/hoko
+<h1> tags ( 1)  : 'hoko'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

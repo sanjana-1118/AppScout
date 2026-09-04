@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modulus_20260830T163136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modulus_20260830T163136Z.html
+Requested URL    : https://apps.shopify.com/modulus
+Final URL        : https://apps.shopify.com/modulus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,593 bytes / 170,486 chars
+Elapsed          : 0.755s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Modulus AI ‑ Unify Your Growth - Unified Analytics with AI-powered Insights  | Shopify App Store
+meta description : Modulus solves the challenge of managing advertising data across multiple platforms. Instead of logging into Facebook Ads Manager, Google Ads, and ...
+canonical URL    : https://apps.shopify.com/modulus
+<h1> tags ( 1)  : 'Modulus AI ‑ Unify Your Growth'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

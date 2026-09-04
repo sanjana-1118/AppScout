@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\billstack-app_20260830T194214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\billstack-app_20260830T194214Z.html
+Requested URL    : https://apps.shopify.com/billstack-app
+Final URL        : https://apps.shopify.com/billstack-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 255,309 bytes / 255,204 chars
+Elapsed          : 0.571s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Billstack - E-Commerce on Autopilot - Next-Generation Multichannel ERP | Shopify App Store
+meta description : Connect Shopify to Billstack: real-time order import, GoBD-compliant invoices (ZUGFeRD), stock sync and shipping — built for merchants in Germany & the EU.
+canonical URL    : https://apps.shopify.com/billstack-app
+<h1> tags ( 1)  : 'Billstack'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

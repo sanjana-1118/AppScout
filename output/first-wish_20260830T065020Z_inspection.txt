@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\first-wish_20260830T065020Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\first-wish_20260830T065020Z.html
+Requested URL    : https://apps.shopify.com/first-wish
+Final URL        : https://apps.shopify.com/first-wish
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,857 bytes / 185,744 chars
+Elapsed          : 0.807s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : First Wish ‑ Wishlist & Boards - Let customers save and share their favorite items | Shopify App Store
+meta description : Let customers save items for later, create curated lists and share them with family and friends. Have unique insights into what products your customers like.
+canonical URL    : https://apps.shopify.com/first-wish
+<h1> tags ( 1)  : 'First Wish ‑ Wishlist & Boards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helpium_20260830T184012Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helpium_20260830T184012Z.html
+Requested URL    : https://apps.shopify.com/helpium
+Final URL        : https://apps.shopify.com/helpium
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,496 bytes / 183,402 chars
+Elapsed          : 0.897s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Helpium: AI Support Chat - AI Chat that answer FAQs, track orders or hand over... | Shopify App Store
+meta description : Helpium is an AI chat widget that answers customer questions, tracks orders, and handles returns automatically, then brings in a live agent when needed.
+canonical URL    : https://apps.shopify.com/helpium
+<h1> tags ( 1)  : 'Helpium: AI Support Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

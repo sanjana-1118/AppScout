@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\humanizegpt-product-writer_20260830T153027Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\humanizegpt-product-writer_20260830T153027Z.html
+Requested URL    : https://apps.shopify.com/humanizegpt-product-writer
+Final URL        : https://apps.shopify.com/humanizegpt-product-writer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,836 bytes / 184,731 chars
+Elapsed          : 0.685s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HumanizeGPT Product Writer - Generate human-like product descriptions using AI | Shopify App Store
+meta description : This app helps Shopify merchants enhance their product pages with high-quality, human-like descriptions generated using AI. It’s designed to reflec...
+canonical URL    : https://apps.shopify.com/humanizegpt-product-writer
+<h1> tags ( 1)  : 'HumanizeGPT Product Writer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\athena-ai-preview_20260830T043645Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\athena-ai-preview_20260830T043645Z.html
+Requested URL    : https://apps.shopify.com/athena-ai-preview
+Final URL        : https://apps.shopify.com/athena-ai-preview
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,056 bytes / 191,963 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Athena AI Custom Products - AI previews for custom product options, avoid variant uploads | Shopify App Store
+meta description : AI previews for customizable product options. Skip variant image uploads, show selections at checkout, and save the preview image on every order.
+canonical URL    : https://apps.shopify.com/athena-ai-preview
+<h1> tags ( 1)  : 'Athena AI Custom Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

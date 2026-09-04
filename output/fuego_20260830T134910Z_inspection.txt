@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fuego_20260830T134910Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fuego_20260830T134910Z.html
+Requested URL    : https://apps.shopify.com/fuego
+Final URL        : https://apps.shopify.com/fuego
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,113 bytes / 211,986 chars
+Elapsed          : 0.609s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fuego ‑ Mobile App Builder - Fully customizable mobile app for your online store. | Shopify App Store
+meta description : Fuego is a customizable and extensible no-code mobile app builder for Shopify Plus brands. Powered by the latest advances in Generative AI, our pla...
+canonical URL    : https://apps.shopify.com/fuego
+<h1> tags ( 1)  : 'Fuego ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

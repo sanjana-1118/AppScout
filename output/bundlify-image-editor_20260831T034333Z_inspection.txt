@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlify-image-editor_20260831T034333Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundlify-image-editor_20260831T034333Z.html
+Requested URL    : https://apps.shopify.com/bundlify-image-editor
+Final URL        : https://apps.shopify.com/bundlify-image-editor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,512 bytes / 178,418 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bundlify - AI-generated bundle images. | Shopify App Store
+meta description : Bundle Image Generator helps merchants create professional product bundle images using AI - no photography skills or design software needed.
+
+This ...
+canonical URL    : https://apps.shopify.com/bundlify-image-editor
+<h1> tags ( 1)  : 'Bundlify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

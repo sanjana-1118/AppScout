@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-boost_20260830T061103Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-boost_20260830T061103Z.html
+Requested URL    : https://apps.shopify.com/social-boost
+Final URL        : https://apps.shopify.com/social-boost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,447 bytes / 248,358 chars
+Elapsed          : 0.775s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Social Boost by AppsMav  - Drive engagement and boost revenue through targeted campaigns | Shopify App Store
+meta description : Run giveaways, contests, sweepstakes, post purchase, instant win campaigns to boost sales, newsletter subscription, followers, referrals, shares, leads and more
+canonical URL    : https://apps.shopify.com/social-boost
+<h1> tags ( 1)  : 'Social Boost by AppsMav'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

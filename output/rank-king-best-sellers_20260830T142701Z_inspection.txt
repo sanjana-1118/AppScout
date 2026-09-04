@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rank-king-best-sellers_20260830T142701Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rank-king-best-sellers_20260830T142701Z.html
+Requested URL    : https://apps.shopify.com/rank-king-best-sellers
+Final URL        : https://apps.shopify.com/rank-king-best-sellers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,219 bytes / 182,666 chars
+Elapsed          : 1.023s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rank King: Bestseller Ranking - Promote best sellers of the last 7 days, last 30... | Shopify App Store
+meta description : Promote shopify store best sellers of the last 7 days, last 30 days, & more. Instantly create a best sellers list on your store.
+canonical URL    : https://apps.shopify.com/rank-king-best-sellers
+<h1> tags ( 1)  : 'Rank King: Bestseller Ranking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

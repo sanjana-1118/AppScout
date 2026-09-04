@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fresh-relevance_20260830T075535Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fresh-relevance_20260830T075535Z.html
+Requested URL    : https://apps.shopify.com/fresh-relevance
+Final URL        : https://apps.shopify.com/fresh-relevance
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,709 bytes / 199,602 chars
+Elapsed          : 0.530s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dotdigital Personalization - Personalize customer experiences with ease | Shopify App Store
+meta description : Dotdigital Personalization increases conversion rates for your Shopify store, site search, apps, emails, SMS & ads by delivering a targeted customer experience.
+canonical URL    : https://apps.shopify.com/fresh-relevance
+<h1> tags ( 1)  : 'Dotdigital Personalization'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

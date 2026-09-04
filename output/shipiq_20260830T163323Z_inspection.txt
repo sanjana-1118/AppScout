@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipiq_20260830T163323Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipiq_20260830T163323Z.html
+Requested URL    : https://apps.shopify.com/shipiq
+Final URL        : https://apps.shopify.com/shipiq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,113 bytes / 174,024 chars
+Elapsed          : 0.760s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipIQ Order Priority Manager - Automate which orders to fulfill first based on rules &... | Shopify App Store
+meta description : Rank and prioritize Shopify orders using custom rules. Export priority-based CSVs and packing lists to reduce manual checks and speed up dispatch.
+canonical URL    : https://apps.shopify.com/shipiq
+<h1> tags ( 1)  : 'ShipIQ Order Priority Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

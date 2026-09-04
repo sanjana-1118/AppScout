@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixcustom-product-customizer_20260830T043251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixcustom-product-customizer_20260830T043251Z.html
+Requested URL    : https://apps.shopify.com/pixcustom-product-customizer
+Final URL        : https://apps.shopify.com/pixcustom-product-customizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,309 bytes / 202,216 chars
+Elapsed          : 0.625s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PixCustom: Product Customizer - Customers can personalize products with image uploads and text | Shopify App Store
+meta description : Let customers personalize products with image uploads, custom text, and live previews. Boost conversions and simplify custom order management in Shopify.
+canonical URL    : https://apps.shopify.com/pixcustom-product-customizer
+<h1> tags ( 1)  : 'PixCustom: Product Customizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

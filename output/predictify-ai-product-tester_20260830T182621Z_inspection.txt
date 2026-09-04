@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\predictify-ai-product-tester_20260830T182621Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\predictify-ai-product-tester_20260830T182621Z.html
+Requested URL    : https://apps.shopify.com/predictify-ai-product-tester
+Final URL        : https://apps.shopify.com/predictify-ai-product-tester
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,039 bytes / 177,930 chars
+Elapsed          : 0.884s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GCY: AI CVR Optimizer & Proof - Optimize CVR with AI listing audits & causal attribution | Shopify App Store
+meta description : Diagnose product details with AI, track changes for one-click rollbacks, and measure real conversion rate lift using scientific causal attribution.
+canonical URL    : https://apps.shopify.com/predictify-ai-product-tester
+<h1> tags ( 1)  : 'GCY: AI CVR Optimizer & Proof'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

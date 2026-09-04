@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foss-engine_20260829T190242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\foss-engine_20260829T190242Z.html
+Requested URL    : https://apps.shopify.com/foss-engine
+Final URL        : https://apps.shopify.com/foss-engine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,494 bytes / 209,401 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FossEngine Product Description - Unlimited product description, SEO info & ALT text with AI | Shopify App Store
+meta description : Boost your store with FOSS Engine: AI-powered app that generate product titles, descriptions, SEO title & description, & alt text in seconds and improve sales.
+canonical URL    : https://apps.shopify.com/foss-engine
+<h1> tags ( 1)  : 'FossEngine Product Description'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

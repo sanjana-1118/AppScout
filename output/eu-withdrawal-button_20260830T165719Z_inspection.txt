@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-button_20260830T165719Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-button_20260830T165719Z.html
+Requested URL    : https://apps.shopify.com/eu-withdrawal-button
+Final URL        : https://apps.shopify.com/eu-withdrawal-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,914 bytes / 170,785 chars
+Elapsed          : 0.744s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EU Withdrawal Button - Gesetzlicher Widerrufsbutton und Formular für EU-Online-Shops | Shopify App Store
+meta description : Gesetzlicher Widerrufsbutton für deinen Shop. Zweistufiger Prozess, automatische Bestätigungs-E-Mails, Bestellverifizierung, CSV/PDF-Export. Auf 8 Sprachen.
+canonical URL    : https://apps.shopify.com/eu-withdrawal-button?locale=de
+<h1> tags ( 1)  : 'EU Withdrawal Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

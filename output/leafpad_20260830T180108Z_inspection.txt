@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leafpad_20260830T180108Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\leafpad_20260830T180108Z.html
+Requested URL    : https://apps.shopify.com/leafpad
+Final URL        : https://apps.shopify.com/leafpad
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,481 bytes / 212,386 chars
+Elapsed          : 0.888s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Leafpad AI SEO Blog Autopilot - SEO blog posts for your store, on autopilot | Shopify App Store
+meta description : Leafpad creates and publishes SEO blog posts for your Shopify store automatically, helping you grow organic visibility on Google and AI answer tools like ChatGP
+canonical URL    : https://apps.shopify.com/leafpad
+<h1> tags ( 1)  : 'Leafpad AI SEO Blog Autopilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

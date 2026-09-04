@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inngage-storefront_20260830T152353Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inngage-storefront_20260830T152353Z.html
+Requested URL    : https://apps.shopify.com/inngage-storefront
+Final URL        : https://apps.shopify.com/inngage-storefront
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,427 bytes / 190,309 chars
+Elapsed          : 0.738s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inngage - Recupere carrinhos e envie mensagens personalizadas | Shopify App Store
+meta description : A Inngage permite automatizar mensagens personalizadas via Push, WhatsApp, Email e SMS com base no comportamento dos clientes. Com integração nativ...
+canonical URL    : https://apps.shopify.com/inngage-storefront?locale=pt-BR
+<h1> tags ( 1)  : 'Inngage'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

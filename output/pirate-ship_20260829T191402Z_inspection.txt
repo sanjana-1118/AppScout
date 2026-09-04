@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pirate-ship_20260829T191402Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pirate-ship_20260829T191402Z.html
+Requested URL    : https://apps.shopify.com/pirate-ship
+Final URL        : https://apps.shopify.com/pirate-ship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,737 bytes / 220,648 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pirate Ship: CheapARR Shipping - Save your booty on UPS and USPS with Pirate Ship | Shopify App Store
+meta description : Pirate Ship offers pre-negotiated rates for UPS and USPS, with access to secret services like UPS Ground Saver and USPS Priority Mail Cubic, which ...
+canonical URL    : https://apps.shopify.com/pirate-ship
+<h1> tags ( 1)  : 'Pirate Ship: CheapARR Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

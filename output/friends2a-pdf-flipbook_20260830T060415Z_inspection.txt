@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\friends2a-pdf-flipbook_20260830T060415Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\friends2a-pdf-flipbook_20260830T060415Z.html
+Requested URL    : https://apps.shopify.com/friends2a-pdf-flipbook
+Final URL        : https://apps.shopify.com/friends2a-pdf-flipbook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,227 bytes / 167,134 chars
+Elapsed          : 0.707s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Friends2a PDF FlipBook - Turn PDFs into interactive flipbooks on your store | Shopify App Store
+meta description : Display PDFs as interactive flipbooks on your store. Easy setup, smooth page flips, responsive design, and no coding required.
+canonical URL    : https://apps.shopify.com/friends2a-pdf-flipbook
+<h1> tags ( 1)  : 'Friends2a PDF FlipBook'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

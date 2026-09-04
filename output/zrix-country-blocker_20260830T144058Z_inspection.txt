@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zrix-country-blocker_20260830T144058Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zrix-country-blocker_20260830T144058Z.html
+Requested URL    : https://apps.shopify.com/zrix-country-blocker
+Final URL        : https://apps.shopify.com/zrix-country-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,234 bytes / 185,145 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zrix Country Blocker - Protect with IP/country blocks, whitelisting and data security | Shopify App Store
+meta description : It brings the block country & specific IPs and whitelist IPs features. Zrix's app protect your content by disabling the right click & keyboard shortcuts
+canonical URL    : https://apps.shopify.com/zrix-country-blocker
+<h1> tags ( 1)  : 'Zrix Country Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

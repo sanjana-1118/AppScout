@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-tracker_20260831T035258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-tracker_20260831T035258Z.html
+Requested URL    : https://apps.shopify.com/inventory-tracker
+Final URL        : https://apps.shopify.com/inventory-tracker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,327 bytes / 163,234 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Casier - Printable product-by-size stock grid with PDF export | Shopify App Store
+meta description : Casier turns your Shopify inventory into a clear cross-table (grid): products as rows, variant sizes as columns, and the available stock in every c...
+canonical URL    : https://apps.shopify.com/inventory-tracker
+<h1> tags ( 1)  : 'Casier'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

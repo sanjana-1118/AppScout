@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\currency-converter-master_20260830T033419Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\currency-converter-master_20260830T033419Z.html
+Requested URL    : https://apps.shopify.com/currency-converter-master
+Final URL        : https://apps.shopify.com/currency-converter-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,333 bytes / 210,205 chars
+Elapsed          : 0.782s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Currency Converter ‑ Multicoin - Automatically convert currency and language based on location. | Shopify App Store
+meta description : Our app allows automatic conversion of 164+ world currencies based on the customer's location. Therefore, customers will know exactly how much they...
+canonical URL    : https://apps.shopify.com/currency-converter-master
+<h1> tags ( 1)  : 'Currency Converter ‑ Multicoin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

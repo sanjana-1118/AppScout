@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-export_20260830T051318Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-export_20260830T051318Z.html
+Requested URL    : https://apps.shopify.com/order-export
+Final URL        : https://apps.shopify.com/order-export
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,877 bytes / 246,767 chars
+Elapsed          : 0.800s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : syncX: Data Export Reports PDF - Real-time export data to Google Sheet, ERP, FTP, API &... | Shopify App Store
+meta description : Export customizable order report to vendors, suppliers, or warehouses automatically. Export order reports in the exact format you need. Add static field.
+canonical URL    : https://apps.shopify.com/order-export
+<h1> tags ( 1)  : 'syncX: Data Export Reports PDF'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

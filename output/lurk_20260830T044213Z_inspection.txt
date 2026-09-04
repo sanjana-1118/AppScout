@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lurk_20260830T044213Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lurk_20260830T044213Z.html
+Requested URL    : https://apps.shopify.com/lurk
+Final URL        : https://apps.shopify.com/lurk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,245 bytes / 218,134 chars
+Elapsed          : 0.503s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lurk ‑ Dynamic Pricing - Competitor Price Monitoring & Dynamic Pricing Rules | Shopify App Store
+meta description : Competitor Price Tracking of Any Website & Dynamic Pricing Automation
+canonical URL    : https://apps.shopify.com/lurk
+<h1> tags ( 1)  : 'Lurk ‑ Dynamic Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\herd_20260830T182442Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\herd_20260830T182442Z.html
+Requested URL    : https://apps.shopify.com/herd
+Final URL        : https://apps.shopify.com/herd
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,857 bytes / 176,768 chars
+Elapsed          : 0.666s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Herd Feedback AI Digest - Post-purchase feedback with a Monday AI digest. | Shopify App Store
+meta description : Collect post-purchase feedback on your thank-you page. Monday AI summary of what customers said plus instant alerts for low ratings. Free plan available.
+canonical URL    : https://apps.shopify.com/herd
+<h1> tags ( 1)  : 'Herd Feedback AI Digest'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

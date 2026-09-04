@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ebay-template-1_20260830T151710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ebay-template-1_20260830T151710Z.html
+Requested URL    : https://apps.shopify.com/ebay-template-1
+Final URL        : https://apps.shopify.com/ebay-template-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,183 bytes / 166,094 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eBay Templates - Create professional eBay templates for your listings | Shopify App Store
+meta description : Perfect for merchants selling on both Shopify and eBay, our app streamlines the listing process by automatically converting your Shopify product de...
+canonical URL    : https://apps.shopify.com/ebay-template-1
+<h1> tags ( 1)  : 'eBay Templates'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

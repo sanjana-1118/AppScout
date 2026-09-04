@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sb-ai-chatbot-sales-support_20260831T024247Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sb-ai-chatbot-sales-support_20260831T024247Z.html
+Requested URL    : https://apps.shopify.com/sb-ai-chatbot-sales-support
+Final URL        : https://apps.shopify.com/sb-ai-chatbot-sales-support
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,832 bytes / 198,592 chars
+Elapsed          : 0.550s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SB AI Chatbot: Sales & Support - AI assistant that boosts sales and cuts support tickets | Shopify App Store
+meta description : AI shopping assistant for Shopify that recommends products, answers FAQs, tracks orders and automates customer support.
+canonical URL    : https://apps.shopify.com/sb-ai-chatbot-sales-support
+<h1> tags ( 1)  : 'SB AI Chatbot: Sales & Support'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

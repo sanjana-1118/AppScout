@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nexora-product-labels_20260830T060239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nexora-product-labels_20260830T060239Z.html
+Requested URL    : https://apps.shopify.com/nexora-product-labels
+Final URL        : https://apps.shopify.com/nexora-product-labels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,061 bytes / 228,966 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nexora Product Labels & Badges - Boost sales with dynamic product labels and custom badges. | Shopify App Store
+meta description : Boost sales with Nexora! Create eye-catching product labels & custom badges. Use dynamic data like inventory or discounts to drive urgency. Try it today!
+canonical URL    : https://apps.shopify.com/nexora-product-labels
+<h1> tags ( 1)  : 'Nexora Product Labels & Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storelock_20260830T140616Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storelock_20260830T140616Z.html
+Requested URL    : https://apps.shopify.com/storelock
+Final URL        : https://apps.shopify.com/storelock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,333 bytes / 220,231 chars
+Elapsed          : 0.829s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreLock Copyright Protection - Find and take down counterfeit sites impersonating your brand. | Shopify App Store
+meta description : Detect counterfeit stores impersonating your brand. Get real-time alerts when scammers steal your content or images, and get them taken down from one dashboard.
+canonical URL    : https://apps.shopify.com/storelock
+<h1> tags ( 1)  : 'StoreLock Copyright Protection'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wtpbiz-neon_20260830T043725Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wtpbiz-neon_20260830T043725Z.html
+Requested URL    : https://apps.shopify.com/wtpbiz-neon
+Final URL        : https://apps.shopify.com/wtpbiz-neon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,906 bytes / 189,799 chars
+Elapsed          : 1.121s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WTPBiz Neon Designer - Let customers design and price custom neon signs instantly | Shopify App Store
+meta description : Let customers design custom neon signs with live previews and auto-calculated pricing. Embed a neon sign configurator on any Shopify product page. No coding nee
+canonical URL    : https://apps.shopify.com/wtpbiz-neon
+<h1> tags ( 1)  : 'WTPBiz Neon Designer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

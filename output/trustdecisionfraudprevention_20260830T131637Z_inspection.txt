@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trustdecisionfraudprevention_20260830T131637Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trustdecisionfraudprevention_20260830T131637Z.html
+Requested URL    : https://apps.shopify.com/trustdecisionfraudprevention
+Final URL        : https://apps.shopify.com/trustdecisionfraudprevention
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,445 bytes / 157,355 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrustDecision Fraud Prevention - Prevent Fraud And Approve Good Orders | Shopify App Store
+meta description : Prevent Fraud And Approve Good Orders, reduce fraud chargeback and false declines by up to 90%
+canonical URL    : https://apps.shopify.com/trustdecisionfraudprevention
+<h1> tags ( 1)  : 'TrustDecision Fraud Prevention'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\euvat-app_20260830T070041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\euvat-app_20260830T070041Z.html
+Requested URL    : https://apps.shopify.com/euvat-app
+Final URL        : https://apps.shopify.com/euvat-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,528 bytes / 218,409 chars
+Elapsed          : 0.829s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EUVAT.app – B2B Reverse Tax - Validates VAT numbers and deducts tax for eligible B2B buyers. | Shopify App Store
+meta description : Automates EU VAT validation & reverse charge for B2B. Supports net & gross pricing, OSS or non-OSS, EU or non-EU sellers. Shopify Plus: VAT capture at checkout.
+canonical URL    : https://apps.shopify.com/euvat-app
+<h1> tags ( 1)  : 'EUVAT.app – B2B Reverse Tax'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

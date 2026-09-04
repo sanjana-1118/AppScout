@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sharechat-ads_20260830T161403Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sharechat-ads_20260830T161403Z.html
+Requested URL    : https://apps.shopify.com/sharechat-ads
+Final URL        : https://apps.shopify.com/sharechat-ads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,424 bytes / 156,335 chars
+Elapsed          : 0.831s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sharechat Ads - The easiest way to track conversions on ShareChat. | Shopify App Store
+meta description : Stop struggling with complicated pixel setups. Our app solves the technical challenge of connecting your Shopify store to ShareChat, one of India's...
+canonical URL    : https://apps.shopify.com/sharechat-ads
+<h1> tags ( 1)  : 'Sharechat Ads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

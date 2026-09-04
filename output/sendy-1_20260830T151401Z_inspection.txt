@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendy-1_20260830T151401Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendy-1_20260830T151401Z.html
+Requested URL    : https://apps.shopify.com/sendy-1
+Final URL        : https://apps.shopify.com/sendy-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,617 bytes / 179,511 chars
+Elapsed          : 0.838s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sendy - Slimme verzendsoftware voor een eenvoudig verzendproces | Shopify App Store
+meta description : De Shopify koppeling bespaart je niet alleen tijd, maar ook frustraties rondom het verzendproces. Al je zendingen staan nu in één overzicht, waardo...
+canonical URL    : https://apps.shopify.com/sendy-1?locale=nl
+<h1> tags ( 1)  : 'Sendy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

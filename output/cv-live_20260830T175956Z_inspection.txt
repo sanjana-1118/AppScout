@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cv-live_20260830T175956Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cv-live_20260830T175956Z.html
+Requested URL    : https://apps.shopify.com/cv-live
+Final URL        : https://apps.shopify.com/cv-live
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,787 bytes / 176,696 chars
+Elapsed          : 1.010s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Compliance Vine Live - Catch non-compliant DTC wine orders before fulfillment | Shopify App Store
+meta description : Real-time compliance checks for direct-to-consumer wine orders. Hold non-compliant orders, review violations, approve or reject from your Shopify admin.
+canonical URL    : https://apps.shopify.com/cv-live
+<h1> tags ( 1)  : 'Compliance Vine Live'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

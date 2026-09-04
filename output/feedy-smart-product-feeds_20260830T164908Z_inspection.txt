@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedy-smart-product-feeds_20260830T164908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feedy-smart-product-feeds_20260830T164908Z.html
+Requested URL    : https://apps.shopify.com/feedy-smart-product-feeds
+Final URL        : https://apps.shopify.com/feedy-smart-product-feeds
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,366 bytes / 205,277 chars
+Elapsed          : 0.983s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Feedy McFeed Feed - AI-powered product feeds for every channel and market | Shopify App Store
+meta description : Create AI-optimized product feeds for Google Shopping, Meta, TikTok, Pinterest and Microsoft Ads. Multiple feeds for different markets. Direct GMC upload.
+canonical URL    : https://apps.shopify.com/feedy-smart-product-feeds
+<h1> tags ( 1)  : 'Feedy McFeed Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

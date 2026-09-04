@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smash-ai-product-description_20260829T185652Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smash-ai-product-description_20260829T185652Z.html
+Requested URL    : https://apps.shopify.com/smash-ai-product-description
+Final URL        : https://apps.shopify.com/smash-ai-product-description
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,329 bytes / 215,220 chars
+Elapsed          : 0.752s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smash AI Description - Generates quality AI descriptions for your products | Shopify App Store
+meta description : Boost your Shopify store with AI-powered product content that enhances SEO and drives conversions. Generate high-quality, unique descriptions in bulk.
+canonical URL    : https://apps.shopify.com/smash-ai-product-description
+<h1> tags ( 1)  : 'Smash AI Description'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

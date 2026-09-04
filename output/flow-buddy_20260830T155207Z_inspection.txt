@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flow-buddy_20260830T155207Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flow-buddy_20260830T155207Z.html
+Requested URL    : https://apps.shopify.com/flow-buddy
+Final URL        : https://apps.shopify.com/flow-buddy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,801 bytes / 185,712 chars
+Elapsed          : 1.024s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flow Buddy -  Extend Flow with custom triggers, email, AI, and SFTP | Shopify App Store
+meta description : Flow Buddy extends Shopify Flow with custom triggers and actions so merchants can run branded email automations, trigger workflows from web
+canonical URL    : https://apps.shopify.com/flow-buddy
+<h1> tags ( 1)  : 'Flow Buddy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

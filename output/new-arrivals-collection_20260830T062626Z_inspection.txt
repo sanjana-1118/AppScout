@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\new-arrivals-collection_20260830T062626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\new-arrivals-collection_20260830T062626Z.html
+Requested URL    : https://apps.shopify.com/new-arrivals-collection
+Final URL        : https://apps.shopify.com/new-arrivals-collection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,410 bytes / 165,307 chars
+Elapsed          : 0.801s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NU: New Arrivals Automation - Automatically add/remove items from New Arrivals collection  | Shopify App Store
+meta description : Automatically add products to the "New Arrivals" collection and remove after a set period of time. Add custom "New Arrivals" labels.
+canonical URL    : https://apps.shopify.com/new-arrivals-collection
+<h1> tags ( 1)  : 'NU: New Arrivals Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

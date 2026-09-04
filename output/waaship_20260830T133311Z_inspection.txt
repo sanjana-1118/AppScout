@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\waaship_20260830T133311Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\waaship_20260830T133311Z.html
+Requested URL    : https://apps.shopify.com/waaship
+Final URL        : https://apps.shopify.com/waaship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,311 bytes / 196,884 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : waaship：跨通路物流發票解決方案 - 一站式物流發票解決方案，一鍵即可將國內超商取貨、宅配及跨境多個物流串接您的官網，且自動回拋物流號，並提供商品上架、收單、出貨 | Shopify App Store
+meta description : waaship 雲端訂單出貨管理平台，一站式整合超商取貨、宅配與跨境物流，自動開立電子發票，支援蝦皮多平台訂單集中處理，並提供匯單與庫存同步，全面簡化電商出貨流程。
+canonical URL    : https://apps.shopify.com/waaship?locale=zh-TW
+<h1> tags ( 1)  : 'waaship：跨通路物流發票解決方案'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magepow-infinite-scroll_20260830T134741Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magepow-infinite-scroll_20260830T134741Z.html
+Requested URL    : https://apps.shopify.com/magepow-infinite-scroll
+Final URL        : https://apps.shopify.com/magepow-infinite-scroll
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,150 bytes / 202,061 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magepow Infinite Scroll - Magepow Infinite Scroll helps users scroll products unlimited | Shopify App Store
+meta description : Infinite Scroll Product
+Infinite Scroll collections
+Infinite Scroll  blog
+Button Load more
+Load More
+canonical URL    : https://apps.shopify.com/magepow-infinite-scroll
+<h1> tags ( 1)  : 'Magepow Infinite Scroll'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

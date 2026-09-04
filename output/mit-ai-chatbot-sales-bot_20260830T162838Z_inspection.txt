@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mit-ai-chatbot-sales-bot_20260830T162838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mit-ai-chatbot-sales-bot_20260830T162838Z.html
+Requested URL    : https://apps.shopify.com/mit-ai-chatbot-sales-bot
+Final URL        : https://apps.shopify.com/mit-ai-chatbot-sales-bot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,587 bytes / 182,493 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MIT AI Chatbot & Sales Bot - Supercharge customer support & sales with AI | Shopify App Store
+meta description : Stop missing opportunities when you are offline. The MIT AI Chatbot app instantly answers queries, recommends products, and converts more visitors 24/7.
+canonical URL    : https://apps.shopify.com/mit-ai-chatbot-sales-bot
+<h1> tags ( 1)  : 'MIT AI Chatbot & Sales Bot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogconnect_20260830T055254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blogconnect_20260830T055254Z.html
+Requested URL    : https://apps.shopify.com/blogconnect
+Final URL        : https://apps.shopify.com/blogconnect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,894 bytes / 198,791 chars
+Elapsed          : 0.786s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BlogConnect: Comment Manager - Threaded blog comments with customer and merchant replies | Shopify App Store
+meta description : Enhance Shopify blog posts with threaded comments and easy replies. Manage discussions directly in admin to boost engagement and keep conversations organized.
+canonical URL    : https://apps.shopify.com/blogconnect
+<h1> tags ( 1)  : 'BlogConnect: Comment Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

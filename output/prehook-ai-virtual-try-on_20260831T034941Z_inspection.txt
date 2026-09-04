@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prehook-ai-virtual-try-on_20260831T034941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prehook-ai-virtual-try-on_20260831T034941Z.html
+Requested URL    : https://apps.shopify.com/prehook-ai-virtual-try-on
+Final URL        : https://apps.shopify.com/prehook-ai-virtual-try-on
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,358 bytes / 222,261 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Prehook: AI Virtual Try On - AI product try on | Lead capture |  Social proof... | Shopify App Store
+meta description : Add AI virtual try-on to your Shopify store: shoppers upload a selfie, see products on themselves in seconds, and every try-on captures an email and style data.
+canonical URL    : https://apps.shopify.com/prehook-ai-virtual-try-on
+<h1> tags ( 1)  : 'Prehook: AI Virtual Try On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

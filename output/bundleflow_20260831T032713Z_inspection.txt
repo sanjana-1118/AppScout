@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundleflow_20260831T032713Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundleflow_20260831T032713Z.html
+Requested URL    : https://apps.shopify.com/bundleflow
+Final URL        : https://apps.shopify.com/bundleflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,970 bytes / 222,879 chars
+Elapsed          : 0.446s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bundleflow - Bundling & Invoicing (All in One) | Shopify App Store
+meta description : Create bundle offers, generate invoices and order documents, send branded email attachments, and edit templates with a free-form editor.
+canonical URL    : https://apps.shopify.com/bundleflow
+<h1> tags ( 1)  : 'Bundleflow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

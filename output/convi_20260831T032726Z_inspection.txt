@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convi_20260831T032726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convi_20260831T032726Z.html
+Requested URL    : https://apps.shopify.com/convi
+Final URL        : https://apps.shopify.com/convi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,565 bytes / 248,476 chars
+Elapsed          : 0.565s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Convi: AI Helpdesk & AI Chat - Claude-powered AI chatbot helpdesk. answers FAQ & contact us | Shopify App Store
+meta description : Best AI chat app for Shopify plus stores. Our chatbot answers support questions, helps customers find products, and provides 24/7 automated chat for your store.
+canonical URL    : https://apps.shopify.com/convi
+<h1> tags ( 1)  : 'Convi: AI Helpdesk & AI Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

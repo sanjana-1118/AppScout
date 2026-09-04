@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onchat_20260830T142446Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onchat_20260830T142446Z.html
+Requested URL    : https://apps.shopify.com/onchat
+Final URL        : https://apps.shopify.com/onchat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,670 bytes / 168,576 chars
+Elapsed          : 1.397s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnChat - Enhance customer engagement with an AI-powered chatbot | Shopify App Store
+meta description : OnChat is an AI chatbot creation platform that allows you to easily build your own virtual assistant, which you can train with the content of your website.
+canonical URL    : https://apps.shopify.com/onchat
+<h1> tags ( 1)  : 'OnChat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

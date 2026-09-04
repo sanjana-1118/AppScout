@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\porter-metrics_20260830T034307Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\porter-metrics_20260830T034307Z.html
+Requested URL    : https://apps.shopify.com/porter-metrics
+Final URL        : https://apps.shopify.com/porter-metrics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,738 bytes / 222,651 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Porter Metrics - Automate your e-commerce reports on Google Sheets  | Shopify App Store
+meta description : Porter connects your Shopify sales, orders, products, and customer data to Looker Studio, Google Sheets, and BigQuery. No SQL. No code required.
+Wh...
+canonical URL    : https://apps.shopify.com/porter-metrics
+<h1> tags ( 1)  : 'Porter Metrics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

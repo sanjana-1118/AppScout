@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\suppliersafe_20260830T180302Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\suppliersafe_20260830T180302Z.html
+Requested URL    : https://apps.shopify.com/suppliersafe
+Final URL        : https://apps.shopify.com/suppliersafe
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,802 bytes / 169,713 chars
+Elapsed          : 0.670s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SupplierSafe - Clean and validate supplier files for import | Shopify App Store
+meta description : Upload a supplier CSV or Excel file, map columns to Shopify fields, fix flagged errors, and export a clean import-ready file.
+
+Supplier files often...
+canonical URL    : https://apps.shopify.com/suppliersafe
+<h1> tags ( 1)  : 'SupplierSafe'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

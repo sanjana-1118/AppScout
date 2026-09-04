@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notifylyst_20260830T152657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notifylyst_20260830T152657Z.html
+Requested URL    : https://apps.shopify.com/notifylyst
+Final URL        : https://apps.shopify.com/notifylyst
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 247,637 bytes / 247,534 chars
+Elapsed          : 1.007s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CB Notifylyst  - Smart Back-in-Stock Alerts via Email, SMS, WhatsApp & Push. | Shopify App Store
+meta description : CB Notifylyst sends automated back-in-stock alerts via email, SMS, WhatsApp & web push, with smart campaigns, analytics, and powerful inventory tools.
+canonical URL    : https://apps.shopify.com/notifylyst
+<h1> tags ( 1)  : 'CB Notifylyst'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

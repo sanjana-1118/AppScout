@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zithara-connect_20260830T072155Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zithara-connect_20260830T072155Z.html
+Requested URL    : https://apps.shopify.com/zithara-connect
+Final URL        : https://apps.shopify.com/zithara-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,583 bytes / 162,490 chars
+Elapsed          : 0.695s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zithara Connect - Sync your store data with Zithara CRM for AI-powered insights. | Shopify App Store
+meta description : Shopify integration for Zithara CRM users. Automatically sync store data with AI-driven customer analytics. Enhance CRM insights & boost sales.
+canonical URL    : https://apps.shopify.com/zithara-connect
+<h1> tags ( 1)  : 'Zithara Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

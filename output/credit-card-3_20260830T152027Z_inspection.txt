@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\credit-card-3_20260830T152027Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\credit-card-3_20260830T152027Z.html
+Requested URL    : https://apps.shopify.com/credit-card-3
+Final URL        : https://apps.shopify.com/credit-card-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,148 bytes / 168,921 chars
+Elapsed          : 0.786s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cartão de Crédito ‑ Asaas - Venda no cartão de crédito à vista e parcelado com... | Shopify App Store
+meta description : O Asaas é uma instituição de pagamentos digitais e SCD autorizada pelo Banco Central do Brasil. Receba pagamentos à vista ou parcelados no cartão e...
+canonical URL    : https://apps.shopify.com/credit-card-3?locale=pt-BR
+<h1> tags ( 1)  : 'Cartão de Crédito ‑ Asaas'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

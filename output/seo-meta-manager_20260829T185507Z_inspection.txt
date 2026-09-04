@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-meta-manager_20260829T185507Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-meta-manager_20260829T185507Z.html
+Requested URL    : https://apps.shopify.com/seo-meta-manager
+Final URL        : https://apps.shopify.com/seo-meta-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,316 bytes / 230,199 chars
+Elapsed          : 0.598s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SEO Manager | venntov - Boost SEO rankings on Google, ChatGPT, and Claude with ease. | Shopify App Store
+meta description : Boost your Shopify store’s rankings with AI-powered SEO for Google, ChatGPT, and Gemini. Automate SEO tasks, enhance structured data, and drive more traffic.
+canonical URL    : https://apps.shopify.com/seo-meta-manager
+<h1> tags ( 1)  : 'SEO Manager | venntov'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

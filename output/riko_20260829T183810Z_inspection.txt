@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\riko_20260829T183810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\riko_20260829T183810Z.html
+Requested URL    : https://apps.shopify.com/riko
+Final URL        : https://apps.shopify.com/riko
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,053 bytes / 225,960 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Riko AliExpress Amazon Reviews - Boost shop trust with customer review widgets. | Shopify App Store
+meta description : All in one marketing. Scraping reviews from Amazon, Etsy and AliExpress sites. Attract more customers with cool widgets in 1 app
+canonical URL    : https://apps.shopify.com/riko
+<h1> tags ( 1)  : 'Riko AliExpress Amazon Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

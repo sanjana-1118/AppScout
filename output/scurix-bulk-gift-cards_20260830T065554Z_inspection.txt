@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-bulk-gift-cards_20260830T065554Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-bulk-gift-cards_20260830T065554Z.html
+Requested URL    : https://apps.shopify.com/scurix-bulk-gift-cards
+Final URL        : https://apps.shopify.com/scurix-bulk-gift-cards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,154 bytes / 171,065 chars
+Elapsed          : 0.728s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scurix Bulk Gift Cards - Bulk-create or import gift cards, then export the full codes | Shopify App Store
+meta description : Creating gift cards one by one in the Shopify admin does not scale for corporate orders, giveaways, or promotions. Scurix creates thousands of gift...
+canonical URL    : https://apps.shopify.com/scurix-bulk-gift-cards
+<h1> tags ( 1)  : 'Scurix Bulk Gift Cards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

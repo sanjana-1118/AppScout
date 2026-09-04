@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-order-chat_20260830T184644Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-order-chat_20260830T184644Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-order-chat
+Final URL        : https://apps.shopify.com/whatsapp-order-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,635 bytes / 165,534 chars
+Elapsed          : 0.608s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whatsapp Order By Codexecom - Sell on WhatsApp with a floating chat button & analytics | Shopify App Store
+meta description : Add WhatsApp order buttons to your Shopify store — product pages, collection cards & floating chat button. One-tap ordering, easy setup, no coding.
+canonical URL    : https://apps.shopify.com/whatsapp-order-chat
+<h1> tags ( 1)  : 'Whatsapp Order By Codexecom'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

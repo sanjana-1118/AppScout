@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-page-product-share-bar_20260830T060140Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-page-product-share-bar_20260830T060140Z.html
+Requested URL    : https://apps.shopify.com/social-page-product-share-bar
+Final URL        : https://apps.shopify.com/social-page-product-share-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,184 bytes / 198,079 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TRANH ‑ Social Media Share bar - Add sharing buttons to any page, product,.. from 30+ platforms | Shopify App Store
+meta description : This app helps you to add a social sharing bar to your store with over 30 options to choose from: Email, SMS, Facebook, Twitter, WhatsApp, LinkedIn...
+canonical URL    : https://apps.shopify.com/social-page-product-share-bar
+<h1> tags ( 1)  : 'TRANH ‑ Social Media Share bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

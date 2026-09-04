@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wehub_20260830T181008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wehub_20260830T181008Z.html
+Requested URL    : https://apps.shopify.com/wehub
+Final URL        : https://apps.shopify.com/wehub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,925 bytes / 165,584 chars
+Elapsed          : 0.787s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wehub - Wehub | Shopify App Store
+meta description : 专为商家打造的增长决策引擎：一键授权店铺与 Meta、Google 广告账户，自动同步订单与广告花费。支持首触/末触/数据驱动等多种归因模型，90 天历史订单回填，Dashboard 展示真实 ROAS、渠道对比与预算优化建议，帮你看清每一笔广告投入的真实回报...
+canonical URL    : https://apps.shopify.com/wehub?locale=zh-CN
+<h1> tags ( 1)  : 'Wehub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

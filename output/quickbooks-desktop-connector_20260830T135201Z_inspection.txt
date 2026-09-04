@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickbooks-desktop-connector_20260830T135201Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickbooks-desktop-connector_20260830T135201Z.html
+Requested URL    : https://apps.shopify.com/quickbooks-desktop-connector
+Final URL        : https://apps.shopify.com/quickbooks-desktop-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,207 bytes / 222,118 chars
+Elapsed          : 0.557s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuickBooks Desktop Connector - Simplify Accounting: Sync Sales, Inventory & More to Quickbook | Shopify App Store
+meta description : Seamlessly migrate from QuickBooks Desktop POS, integrate with Shopify POS & B2B(Shopify Plus), & sync data to QuickBooks Desktop accounting. The a...
+canonical URL    : https://apps.shopify.com/quickbooks-desktop-connector
+<h1> tags ( 1)  : 'QuickBooks Desktop Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

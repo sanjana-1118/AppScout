@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\factur-x-france_20260831T025715Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\factur-x-france_20260831T025715Z.html
+Requested URL    : https://apps.shopify.com/factur-x-france
+Final URL        : https://apps.shopify.com/factur-x-france
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,635 bytes / 178,474 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Factur‑X France: E‑Invoicing - Factur-X invoices and credit notes, 2026 reform | Shopify App Store
+meta description : Générez automatiquement des factures Factur-X conformes à la réforme 2026 sur chaque commande Shopify. Avoirs automatiques et pré-contrôle EN 16931 inclus.
+canonical URL    : https://apps.shopify.com/factur-x-france
+<h1> tags ( 1)  : 'Factur‑X France: E‑Invoicing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

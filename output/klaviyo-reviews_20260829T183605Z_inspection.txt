@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\klaviyo-reviews_20260829T183605Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\klaviyo-reviews_20260829T183605Z.html
+Requested URL    : https://apps.shopify.com/klaviyo-reviews
+Final URL        : https://apps.shopify.com/klaviyo-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,225 bytes / 222,132 chars
+Elapsed          : 0.888s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Klaviyo: Product Reviews  - Collect product reviews and star ratings over email and SMS | Shopify App Store
+meta description : Collect product reviews and ratings for your Shopify store with automated email and SMS requests. Verified reviews build trust and power segments in Klaviyo.
+canonical URL    : https://apps.shopify.com/klaviyo-reviews
+<h1> tags ( 1)  : 'Klaviyo: Product Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

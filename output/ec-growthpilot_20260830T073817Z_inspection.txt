@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ec-growthpilot_20260830T073817Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ec-growthpilot_20260830T073817Z.html
+Requested URL    : https://apps.shopify.com/ec-growthpilot
+Final URL        : https://apps.shopify.com/ec-growthpilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,321 bytes / 192,960 chars
+Elapsed          : 0.514s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EC GrowthPilot｜AI分析・売上・顧客・KPI - AIチャットで質問できるストア分析。顧客LTV・リピート率を自動可視化 | Shopify App Store
+meta description : Shopifyストアのデータを自動分析。顧客LTV・リピート率・商品パフォーマンスを可視化し、AIチャットでデータについて質問できます。14日間無料トライアルあり。
+canonical URL    : https://apps.shopify.com/ec-growthpilot?locale=ja
+<h1> tags ( 1)  : 'EC GrowthPilot｜AI分析・売上・顧客・KPI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

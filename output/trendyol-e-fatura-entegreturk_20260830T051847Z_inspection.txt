@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trendyol-e-fatura-entegreturk_20260830T051847Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trendyol-e-fatura-entegreturk_20260830T051847Z.html
+Requested URL    : https://apps.shopify.com/trendyol-e-fatura-entegreturk
+Final URL        : https://apps.shopify.com/trendyol-e-fatura-entegreturk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,812 bytes / 216,327 chars
+Elapsed          : 0.683s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trendyol E‑Fatura‑EntegreTürk - Trendyol üzerinden siparişleri tek tıkla faturalandırabilmek | Shopify App Store
+meta description : Trendyol - EntegreTürk işbirliği ile siparişlerinizi tek tıkla faturalandırın.
+canonical URL    : https://apps.shopify.com/trendyol-e-fatura-entegreturk?locale=tr
+<h1> tags ( 1)  : 'Trendyol E‑Fatura‑EntegreTürk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

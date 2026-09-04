@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeblock_20260830T175420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeblock_20260830T175420Z.html
+Requested URL    : https://apps.shopify.com/chargeblock
+Final URL        : https://apps.shopify.com/chargeblock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,725 bytes / 218,635 chars
+Elapsed          : 0.549s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChargeBlock: Stop Chargebacks - Stop Chargebacks: Flag Orders Linked to Global Fraud Data | Shopify App Store
+meta description : Stop chargebacks before they happen by identifying risky orders connected to past known disputes, allowing cancellation before fulfillment and shipping.
+canonical URL    : https://apps.shopify.com/chargeblock
+<h1> tags ( 1)  : 'ChargeBlock: Stop Chargebacks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

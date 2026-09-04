@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/dseragent",
+  "fetch_timestamp": "2026-08-30T15:25:32.075764+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\dseragent_20260830T152532Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\dseragent_20260830T152532Z.html",
+    "url": "https://apps.shopify.com/dseragent",
+    "final_url": "https://apps.shopify.com/dseragent",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 187527,
+    "body_text_length": 187408,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.570833,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Dseragent‑Dropshipping Agent - Source Product And Fulfill Your Orders Efficiently - Dseragent | Shopify App Store",
+    "meta_description": "Dseragent is a China-based dropshipping and sourcing private agent offering personalized end-to-end solutions for Shopify merchants. Dseragent prov...",
+    "canonical_url": "https://apps.shopify.com/dseragent",
+    "h1_tags": [
+      "Dseragent‑Dropshipping Agent"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Dseragent‑Dropshipping Agent",
+    "app_slug": "dseragent",
+    "app_url": "https://apps.shopify.com/dseragent",
+    "developer_name": "Dseragent",
+    "description": "Dseragent is a China-based dropshipping and sourcing private agent offering personalized end-to-end solutions for Shopify merchants. Dseragent prov...",
+    "average_rating": 5.0,
+    "review_count": 2,
+    "category": "Dropshipping"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\dseragent_20260830T152532Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\dseragent_20260830T152532Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Dseragent‑Dropshipping Agent",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "dseragent",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/dseragent",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Dseragent",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Dseragent is a China-based dropshipping and sourcing private agent offering personalized end-to-end solutions for Shopify merchants. Dseragent prov...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 2,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Dropshipping",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

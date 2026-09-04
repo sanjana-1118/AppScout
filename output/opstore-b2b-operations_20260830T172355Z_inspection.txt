@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\opstore-b2b-operations_20260830T172355Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\opstore-b2b-operations_20260830T172355Z.html
+Requested URL    : https://apps.shopify.com/opstore-b2b-operations
+Final URL        : https://apps.shopify.com/opstore-b2b-operations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,486 bytes / 169,369 chars
+Elapsed          : 0.792s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Opstore ‑ B2B Operations - Run your entire store operations from one embedded app. | Shopify App Store
+meta description : Manage GST invoices, purchase orders, SKUs, barcodes, inventory and product catalogs inside Shopify. Built for Indian B2B and B2C merchants.
+canonical URL    : https://apps.shopify.com/opstore-b2b-operations
+<h1> tags ( 1)  : 'Opstore ‑ B2B Operations'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

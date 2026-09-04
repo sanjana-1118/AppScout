@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\424-sales-map_20260830T154815Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\424-sales-map_20260830T154815Z.html
+Requested URL    : https://apps.shopify.com/424-sales-map
+Final URL        : https://apps.shopify.com/424-sales-map
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,006 bytes / 162,905 chars
+Elapsed          : 0.592s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 424 Sales Map - Show off your sales skills by displaying where your sales... | Shopify App Store
+meta description : 424 Sales Map showcases where you’ve sold across the U.S. using a visual map with individual states highlighting your reach, adding instant social ...
+canonical URL    : https://apps.shopify.com/424-sales-map
+<h1> tags ( 1)  : '424 Sales Map'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\econfirm_20260830T164025Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\econfirm_20260830T164025Z.html
+Requested URL    : https://apps.shopify.com/econfirm
+Final URL        : https://apps.shopify.com/econfirm
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,499 bytes / 164,386 chars
+Elapsed          : 0.789s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eConfirm ‑ Order qualification - Automatically confirm orders by phone with AI | Shopify App Store
+meta description : This app helps merchants qualify orders using AI voice agents and built-in telephony. It automatically calls customers to confirm intent, validate ...
+canonical URL    : https://apps.shopify.com/econfirm
+<h1> tags ( 1)  : 'eConfirm ‑ Order qualification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

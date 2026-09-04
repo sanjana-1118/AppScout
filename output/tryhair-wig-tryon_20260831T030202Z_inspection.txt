@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tryhair-wig-tryon_20260831T030202Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tryhair-wig-tryon_20260831T030202Z.html
+Requested URL    : https://apps.shopify.com/tryhair-wig-tryon
+Final URL        : https://apps.shopify.com/tryhair-wig-tryon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,347 bytes / 198,236 chars
+Elapsed          : 0.549s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TryHair: Wig Try‑On - Let shoppers virtually try on wigs from product photos | Shopify App Store
+meta description : TryHair adds an AI-powered virtual wig try-on experience to selected product pages. Merchants choose which wig products support Try On, and shopper...
+canonical URL    : https://apps.shopify.com/tryhair-wig-tryon
+<h1> tags ( 1)  : 'TryHair: Wig Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

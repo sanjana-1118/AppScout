@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-141-ur-csv-customer_20260830T174952Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-141-ur-csv-customer_20260830T174952Z.html
+Requested URL    : https://apps.shopify.com/sa-141-ur-csv-customer
+Final URL        : https://apps.shopify.com/sa-141-ur-csv-customer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,652 bytes / 175,548 chars
+Elapsed          : 0.975s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Customer Metafields CSV - Bulk import and export customer metafields via CSV files. | Shopify App Store
+meta description : Manage customer metafields in bulk with CSV import and export. Edit metafields in a spreadsheet, validate data, and apply changes to your Shopify store easily.
+canonical URL    : https://apps.shopify.com/sa-141-ur-csv-customer
+<h1> tags ( 1)  : 'UR: Customer Metafields CSV'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

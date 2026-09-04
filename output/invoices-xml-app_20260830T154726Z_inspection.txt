@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invoices-xml-app_20260830T154726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invoices-xml-app_20260830T154726Z.html
+Requested URL    : https://apps.shopify.com/invoices-xml-app
+Final URL        : https://apps.shopify.com/invoices-xml-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,737 bytes / 194,639 chars
+Elapsed          : 0.638s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : XML Invoice Europe CandelaSoft -  Send XML & PDF invoices automatically or manually | Shopify App Store
+meta description : Generate and send e-invoices (XML) and PDFs automatically or manually. Custom layouts and full invoice data control for seamless order processing.
+canonical URL    : https://apps.shopify.com/invoices-xml-app
+<h1> tags ( 1)  : 'XML Invoice Europe CandelaSoft'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

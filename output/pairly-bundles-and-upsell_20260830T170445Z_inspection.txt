@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pairly-bundles-and-upsell_20260830T170445Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pairly-bundles-and-upsell_20260830T170445Z.html
+Requested URL    : https://apps.shopify.com/pairly-bundles-and-upsell
+Final URL        : https://apps.shopify.com/pairly-bundles-and-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,893 bytes / 196,780 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pairly ‑ Bundles and Upsell - AI-powered bundles and upsells for any online store | Shopify App Store
+meta description : Create product bundles, volume discounts, buy X get Y, and AI-powered frequently bought together widgets. No-code setup, works on any theme.
+canonical URL    : https://apps.shopify.com/pairly-bundles-and-upsell
+<h1> tags ( 1)  : 'Pairly ‑ Bundles and Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

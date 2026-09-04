@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wealthmeup-1_20260830T164227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wealthmeup-1_20260830T164227Z.html
+Requested URL    : https://apps.shopify.com/wealthmeup-1
+Final URL        : https://apps.shopify.com/wealthmeup-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,347 bytes / 176,252 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WealthMeUp - Rewards that build value | Shopify App Store
+meta description : Improve customer retention without deeper discounts. Increase repeat purchases and AOV with merchant-funded rewards for Shopify brands.
+canonical URL    : https://apps.shopify.com/wealthmeup-1
+<h1> tags ( 1)  : 'WealthMeUp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

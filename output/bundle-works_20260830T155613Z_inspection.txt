@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-works_20260830T155613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-works_20260830T155613Z.html
+Requested URL    : https://apps.shopify.com/bundle-works
+Final URL        : https://apps.shopify.com/bundle-works
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,789 bytes / 170,673 chars
+Elapsed          : 0.995s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bundle Works ‑ Bundle Products - Simple product bundling to help merchants sell more together | Shopify App Store
+meta description : Create bundles quickly without complex configurations or overwhelming features. Perfect for seasonal gift sets, cross-selling related items, or inventory manage
+canonical URL    : https://apps.shopify.com/bundle-works
+<h1> tags ( 1)  : 'Bundle Works ‑ Bundle Products'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

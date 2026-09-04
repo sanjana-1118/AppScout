@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spotmetal-pricing-buyback_20260830T044613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spotmetal-pricing-buyback_20260830T044613Z.html
+Requested URL    : https://apps.shopify.com/spotmetal-pricing-buyback
+Final URL        : https://apps.shopify.com/spotmetal-pricing-buyback
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,907 bytes / 199,818 chars
+Elapsed          : 1.004s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Spotmetal: Live gold pricing - Live gold pricing, bullion updates & metal buyback workflows | Shopify App Store
+meta description : Automate real-time gold, silver, platinum & palladium pricing using live spot rates. Dynamic pricing, margin protection & buyback bullion & jewelry stores.
+canonical URL    : https://apps.shopify.com/spotmetal-pricing-buyback
+<h1> tags ( 1)  : 'Spotmetal: Live gold pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

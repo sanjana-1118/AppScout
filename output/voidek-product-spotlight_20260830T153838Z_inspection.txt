@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voidek-product-spotlight_20260830T153838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voidek-product-spotlight_20260830T153838Z.html
+Requested URL    : https://apps.shopify.com/voidek-product-spotlight
+Final URL        : https://apps.shopify.com/voidek-product-spotlight
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,329 bytes / 165,218 chars
+Elapsed          : 0.911s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Voidek – Product Spotlight - Showcase key products where they matter most on storefront | Shopify App Store
+meta description : Showcase top-selling or manually selected products with custom headings and app block integration. Quick setup, no code needed. Boost conversions today!
+canonical URL    : https://apps.shopify.com/voidek-product-spotlight
+<h1> tags ( 1)  : 'Voidek – Product Spotlight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

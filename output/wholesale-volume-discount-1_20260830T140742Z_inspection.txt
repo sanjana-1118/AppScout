@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-volume-discount-1_20260830T140742Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-volume-discount-1_20260830T140742Z.html
+Requested URL    : https://apps.shopify.com/wholesale-volume-discount-1
+Final URL        : https://apps.shopify.com/wholesale-volume-discount-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,037 bytes / 235,930 chars
+Elapsed          : 0.984s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Apptiv ‑ Tier & POS Discount - Offer Wholesale, Tier, Volume Discount for POS and Website | Shopify App Store
+meta description : Increase sale with Volume discounts, Tiered discounts, discounts on order total and quantity breaks.
+Wholesale, Volume  and Tier discounts based on Location.
+canonical URL    : https://apps.shopify.com/wholesale-volume-discount-1
+<h1> tags ( 1)  : 'Apptiv ‑ Tier & POS Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

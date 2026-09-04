@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-blocks_20260830T062237Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-blocks_20260830T062237Z.html
+Requested URL    : https://apps.shopify.com/b2b-blocks
+Final URL        : https://apps.shopify.com/b2b-blocks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,299 bytes / 165,210 chars
+Elapsed          : 0.501s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Blocks - Handy theme blocks to improve Plus B2B stores | Shopify App Store
+meta description : Perfect for Plus stores using B2B feature, B2B Blocks transforms how you guide your retail partners. Clearly display suggested retail prices alongs...
+canonical URL    : https://apps.shopify.com/b2b-blocks
+<h1> tags ( 1)  : 'B2B Blocks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

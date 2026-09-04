@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fraudlabs-pro-sms-verification_20260830T074921Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fraudlabs-pro-sms-verification_20260830T074921Z.html
+Requested URL    : https://apps.shopify.com/fraudlabs-pro-sms-verification
+Final URL        : https://apps.shopify.com/fraudlabs-pro-sms-verification
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,715 bytes / 186,625 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FraudLabs Pro SMS Verification - Helps merchants to authenticate clients using SMS verification | Shopify App Store
+meta description : FraudLabs Pro SMS Verification verifies if the buyer is the right owner of the given phone number by using the SMS verification loop. To begin with...
+canonical URL    : https://apps.shopify.com/fraudlabs-pro-sms-verification
+<h1> tags ( 1)  : 'FraudLabs Pro SMS Verification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

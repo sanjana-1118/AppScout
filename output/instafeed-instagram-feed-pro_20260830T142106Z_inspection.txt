@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instafeed-instagram-feed-pro_20260830T142106Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instafeed-instagram-feed-pro_20260830T142106Z.html
+Requested URL    : https://apps.shopify.com/instafeed-instagram-feed-pro
+Final URL        : https://apps.shopify.com/instafeed-instagram-feed-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,238 bytes / 209,123 chars
+Elapsed          : 0.858s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Instagram Feed ‑ Instafeed IG - Add Instagram Feeds, Stories, Highlights & Reels to your store | Shopify App Store
+meta description : The ultimate Instagram app for your Shopify Store. Simple Instagram integration. Seamlessly connect your Instagram account to automatically update your feeds.
+canonical URL    : https://apps.shopify.com/instafeed-instagram-feed-pro
+<h1> tags ( 1)  : 'Instagram Feed ‑ Instafeed IG'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

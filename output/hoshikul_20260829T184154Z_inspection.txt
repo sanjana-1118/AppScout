@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hoshikul_20260829T184154Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hoshikul_20260829T184154Z.html
+Requested URL    : https://apps.shopify.com/hoshikul
+Final URL        : https://apps.shopify.com/hoshikul
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,740 bytes / 170,409 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ほしクル ‐ レビューアプリ - レビューで星を集め、お客様の「欲しい」を呼び込む国産レビューアプリ | Shopify App Store
+meta description : ほしクルは、Shopifyストアにレビュー機能を追加し、レビューの収集・管理・公開を行える国産レビューアプリです。
+
+お客様は商品ごとにレビューを投稿でき、管理者が承認したレビューのみを公開できます。レビュー投稿フォームやレビュー一覧は、テーマエディタからアプリブロックとして設置できるため、コ...
+canonical URL    : https://apps.shopify.com/hoshikul?locale=ja
+<h1> tags ( 1)  : 'ほしクル ‐ レビューアプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

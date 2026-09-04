@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ordercircle-1_20260830T140555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ordercircle-1_20260830T140555Z.html
+Requested URL    : https://apps.shopify.com/ordercircle-1
+Final URL        : https://apps.shopify.com/ordercircle-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,760 bytes / 177,665 chars
+Elapsed          : 0.697s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OrderCircle - B2B/Wholesale eCommerce solution for brands and buyers | Shopify App Store
+meta description : OrderCircle works towards one primary goal, making your B2B wholesale order management hassle-free. From cloud-based ordering systems, wholesale or...
+canonical URL    : https://apps.shopify.com/ordercircle-1
+<h1> tags ( 1)  : 'OrderCircle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

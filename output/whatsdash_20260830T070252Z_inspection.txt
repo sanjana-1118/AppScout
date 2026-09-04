@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsdash_20260830T070252Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsdash_20260830T070252Z.html
+Requested URL    : https://apps.shopify.com/whatsdash
+Final URL        : https://apps.shopify.com/whatsdash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,447 bytes / 219,356 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StatNexa - Create and automate reports with custom and external data. | Shopify App Store
+meta description : With StatNexa, an ecommerce reporting tool, generate automated shopify reports. Where easily evaluate sales, inventory, payout, shipping, customers, etc.
+canonical URL    : https://apps.shopify.com/whatsdash
+<h1> tags ( 1)  : 'StatNexa'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

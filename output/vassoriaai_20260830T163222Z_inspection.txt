@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vassoriaai_20260830T163222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vassoriaai_20260830T163222Z.html
+Requested URL    : https://apps.shopify.com/vassoriaai
+Final URL        : https://apps.shopify.com/vassoriaai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,123 bytes / 185,014 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vassoria Chat de Soporte  - Resuelve dudas y automatiza tu atención al cliente con IA | Shopify App Store
+meta description : AI chat and live support app that answers product questions, handles order status requests, and helps ecommerce stores manage customer conversations efficiently
+canonical URL    : https://apps.shopify.com/vassoriaai?locale=es
+<h1> tags ( 1)  : 'Vassoria Chat de Soporte'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

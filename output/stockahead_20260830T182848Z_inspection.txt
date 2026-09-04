@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockahead_20260830T182848Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockahead_20260830T182848Z.html
+Requested URL    : https://apps.shopify.com/stockahead
+Final URL        : https://apps.shopify.com/stockahead
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,051 bytes / 174,962 chars
+Elapsed          : 1.050s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockAhead - Forecast demand, reorder on time, email POs to suppliers | Shopify App Store
+meta description : Stockahead tells you what to reorder, how much, and when - before you run out. Every recommendation shows the math: demand, trend, seasonality, saf...
+canonical URL    : https://apps.shopify.com/stockahead
+<h1> tags ( 1)  : 'StockAhead'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storetoapp-mobile-app-banner_20260830T170736Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storetoapp-mobile-app-banner_20260830T170736Z.html
+Requested URL    : https://apps.shopify.com/storetoapp-mobile-app-banner
+Final URL        : https://apps.shopify.com/storetoapp-mobile-app-banner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,626 bytes / 173,519 chars
+Elapsed          : 0.811s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mobile App Banner ‑ StoreToApp - Turn store visitors into app users with a smart install... | Shopify App Store
+meta description : Promote your mobile app directly on your Shopify store with a smart banner. Convert visitors into app users and increase installs and engagement.
+canonical URL    : https://apps.shopify.com/storetoapp-mobile-app-banner
+<h1> tags ( 1)  : 'Mobile App Banner ‑ StoreToApp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

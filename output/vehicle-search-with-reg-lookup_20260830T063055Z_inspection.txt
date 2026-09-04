@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vehicle-search-with-reg-lookup_20260830T063055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vehicle-search-with-reg-lookup_20260830T063055Z.html
+Requested URL    : https://apps.shopify.com/vehicle-search-with-reg-lookup
+Final URL        : https://apps.shopify.com/vehicle-search-with-reg-lookup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,713 bytes / 180,624 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Apex Vehicle Search Bundler - Tailor vehicle searches and bundle tyres with wheels easily. | Shopify App Store
+meta description : Enhance your Shopify store with a vehicle search, fitment checker, and tyre & wheel bundling. Perfect for automotive retailers to streamline sales.
+canonical URL    : https://apps.shopify.com/vehicle-search-with-reg-lookup
+<h1> tags ( 1)  : 'Apex Vehicle Search Bundler'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

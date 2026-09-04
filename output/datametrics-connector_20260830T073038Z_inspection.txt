@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datametrics-connector_20260830T073038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\datametrics-connector_20260830T073038Z.html
+Requested URL    : https://apps.shopify.com/datametrics-connector
+Final URL        : https://apps.shopify.com/datametrics-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,218 bytes / 166,129 chars
+Elapsed          : 0.707s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DataMetrics - Simple analytics dashboard for brands running ads | Shopify App Store
+meta description : DataMetrics Connector syncs your Shopify store data with the DataMetrics analytics platform. See your sales, orders, ad spend, ROAS, and profitabil...
+canonical URL    : https://apps.shopify.com/datametrics-connector
+<h1> tags ( 1)  : 'DataMetrics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

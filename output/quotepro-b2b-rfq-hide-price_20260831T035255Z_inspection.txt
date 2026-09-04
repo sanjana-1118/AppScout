@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotepro-b2b-rfq-hide-price_20260831T035255Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quotepro-b2b-rfq-hide-price_20260831T035255Z.html
+Requested URL    : https://apps.shopify.com/quotepro-b2b-rfq-hide-price
+Final URL        : https://apps.shopify.com/quotepro-b2b-rfq-hide-price
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,510 bytes / 172,399 chars
+Elapsed          : 0.608s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuotePro ‑ B2B RFQ, Hide Price - B2B quote form with hide price, file uploads, and draft... | Shopify App Store
+meta description : QuotePro adds a Request a Quote button to product pages so customers can submit detailed specifications instead of adding items to cart. Built for ...
+canonical URL    : https://apps.shopify.com/quotepro-b2b-rfq-hide-price
+<h1> tags ( 1)  : 'QuotePro ‑ B2B RFQ, Hide Price'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

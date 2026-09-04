@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\common-ninja-rss-feeds_20260830T055156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\common-ninja-rss-feeds_20260830T055156Z.html
+Requested URL    : https://apps.shopify.com/common-ninja-rss-feeds
+Final URL        : https://apps.shopify.com/common-ninja-rss-feeds
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,773 bytes / 178,678 chars
+Elapsed          : 0.531s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Common Ninja RSS Feeds - Boost Engagement & Social Media Presence With the Feeds App | Shopify App Store
+meta description : Add an RSS Feed app to your Shopify store. Pull content from social media platforms and embed it on your store to boost engagement.
+canonical URL    : https://apps.shopify.com/common-ninja-rss-feeds
+<h1> tags ( 1)  : 'Common Ninja RSS Feeds'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\print4you_20260830T175122Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\print4you_20260830T175122Z.html
+Requested URL    : https://apps.shopify.com/print4you
+Final URL        : https://apps.shopify.com/print4you
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,321 bytes / 175,159 chars
+Elapsed          : 1.053s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Print4You - Print-on-Demand aus Deutschland — produziert, versendet. | Shopify App Store
+meta description : Print4You ermöglicht Händlern, bedruckte Produkte in ihrem Shopify-Shop zu verkaufen, ohne selbst zu drucken oder zu lagern. Der Händler wählt aus  ...
+canonical URL    : https://apps.shopify.com/print4you?locale=de
+<h1> tags ( 1)  : 'Print4You'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

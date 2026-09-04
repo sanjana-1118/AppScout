@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-sunglass-designer_20260830T043125Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-sunglass-designer_20260830T043125Z.html
+Requested URL    : https://apps.shopify.com/custom-sunglass-designer
+Final URL        : https://apps.shopify.com/custom-sunglass-designer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,959 bytes / 168,870 chars
+Elapsed          : 0.971s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StyleBazi : Sunglass Designer - Let customer to design and customize sunglass and place order | Shopify App Store
+meta description : Let customers design custom sunglasses with colors, text and images. Create personalized eyewear with live preview for your Shopify store.
+canonical URL    : https://apps.shopify.com/custom-sunglass-designer
+<h1> tags ( 1)  : 'StyleBazi : Sunglass Designer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

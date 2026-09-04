@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\egentify_20260830T180038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\egentify_20260830T180038Z.html
+Requested URL    : https://apps.shopify.com/egentify
+Final URL        : https://apps.shopify.com/egentify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,194 bytes / 202,100 chars
+Elapsed          : 0.914s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Egentify - AI chat agent that resolves chat, email, and voice tickets. | Shopify App Store
+meta description : AI support agent that resolves chat, email, and voice tickets for Shopify stores. Looks up orders, processes refunds, and reduces support volume.
+canonical URL    : https://apps.shopify.com/egentify
+<h1> tags ( 1)  : 'Egentify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

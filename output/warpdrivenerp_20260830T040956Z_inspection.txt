@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warpdrivenerp_20260830T040956Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warpdrivenerp_20260830T040956Z.html
+Requested URL    : https://apps.shopify.com/warpdrivenerp
+Final URL        : https://apps.shopify.com/warpdrivenerp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 233,771 bytes / 233,662 chars
+Elapsed          : 0.722s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WarpDriven AI Dropshipping - AI-driven product selection for dropshipping & wholesale. | Shopify App Store
+meta description : Find winning products from global suppliers. Automate dropshipping, wholesale, inventory sync & order fulfillment with WarpDriven AI.
+canonical URL    : https://apps.shopify.com/warpdrivenerp
+<h1> tags ( 1)  : 'WarpDriven AI Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

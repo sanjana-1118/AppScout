@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderline-custom-orders_20260830T164732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderline-custom-orders_20260830T164732Z.html
+Requested URL    : https://apps.shopify.com/orderline-custom-orders
+Final URL        : https://apps.shopify.com/orderline-custom-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,669 bytes / 220,570 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Orderline Custom Order Manager - Order management for made-to-order & customized products. | Shopify App Store
+meta description : Order management for made-to-order sellers: images, customizations & line items in one view. Custom statuses, ship-by deadlines, filters & saved views.
+canonical URL    : https://apps.shopify.com/orderline-custom-orders
+<h1> tags ( 1)  : 'Orderline Custom Order Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

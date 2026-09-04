@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hura-video-gallery_20260830T134201Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hura-video-gallery_20260830T134201Z.html
+Requested URL    : https://apps.shopify.com/hura-video-gallery
+Final URL        : https://apps.shopify.com/hura-video-gallery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,409 bytes / 171,320 chars
+Elapsed          : 0.719s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hura Video Gallery - Display YouTube video gallery in a grid view on your... | Shopify App Store
+meta description : Hura Video Gallery helps you display YouTube videos (from a channel or a playlist) in a grid view on your store. It is designed for simplicity. You...
+canonical URL    : https://apps.shopify.com/hura-video-gallery
+<h1> tags ( 1)  : 'Hura Video Gallery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

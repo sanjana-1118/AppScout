@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-aio-autoketing-code_20260830T044144Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-aio-autoketing-code_20260830T044144Z.html
+Requested URL    : https://apps.shopify.com/discount-aio-autoketing-code
+Final URL        : https://apps.shopify.com/discount-aio-autoketing-code
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,988 bytes / 215,896 chars
+Elapsed          : 0.454s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount AIO Autoketing Code - Create bundles discount, volume/bulk discount & discount code | Shopify App Store
+meta description : Discount app allows customers to create many types of discounts such as volume discount, bulk discount, bundle discount, discount code.  
+
+Create d...
+canonical URL    : https://apps.shopify.com/discount-aio-autoketing-code
+<h1> tags ( 1)  : 'Discount AIO Autoketing Code'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

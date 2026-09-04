@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modern-store-locator_20260830T034028Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modern-store-locator_20260830T034028Z.html
+Requested URL    : https://apps.shopify.com/modern-store-locator
+Final URL        : https://apps.shopify.com/modern-store-locator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,474 bytes / 170,381 chars
+Elapsed          : 0.423s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Modern Store Locator - Beautiful store finder with map clustering & CSV import. | Shopify App Store
+meta description : Turn your store list into a beautiful, searchable map your customers actually use.
+
+Modern Store Locator adds a polished, branded "Find a store nea...
+canonical URL    : https://apps.shopify.com/modern-store-locator
+<h1> tags ( 1)  : 'Modern Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

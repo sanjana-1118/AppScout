@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\preloaderx-keep-them-engaged_20260830T060437Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\preloaderx-keep-them-engaged_20260830T060437Z.html
+Requested URL    : https://apps.shopify.com/preloaderx-keep-them-engaged
+Final URL        : https://apps.shopify.com/preloaderx-keep-them-engaged
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,001 bytes / 201,902 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PreloaderX: Keep Them Engaged - Lightweight and SEO-Friendly loading animations & preloaders. | Shopify App Store
+meta description : A beautiful variants of lightweight preloaders & animations that keep your customers engaged from the very moment they visit your store!
+canonical URL    : https://apps.shopify.com/preloaderx-keep-them-engaged
+<h1> tags ( 1)  : 'PreloaderX: Keep Them Engaged'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

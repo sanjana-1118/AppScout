@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docket-pdf-invoices-dev_20260831T041802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\docket-pdf-invoices-dev_20260831T041802Z.html
+Requested URL    : https://apps.shopify.com/docket-pdf-invoices-dev
+Final URL        : https://apps.shopify.com/docket-pdf-invoices-dev
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,269 bytes / 200,176 chars
+Elapsed          : 0.515s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Docket: PDF Invoices & Print - Design, print, and send order documents without code | Shopify App Store
+meta description : Design, print, export, and automatically send invoices, packing slips, receipts, credit notes, and other Shopify order documents with Docket.
+canonical URL    : https://apps.shopify.com/docket-pdf-invoices-dev
+<h1> tags ( 1)  : 'Docket: PDF Invoices & Print'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

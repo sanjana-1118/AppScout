@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/simla",
+  "fetch_timestamp": "2026-08-30T07:20:21.325813+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simla_20260830T072021Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simla_20260830T072021Z.html",
+    "url": "https://apps.shopify.com/simla",
+    "final_url": "https://apps.shopify.com/simla",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 184990,
+    "body_text_length": 184901,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.692481,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Simla.com - Sales Platform for WhatsApp, Facebook and Instagram | Shopify App Store",
+    "meta_description": "A CRM that will increase your sales in the next month. Improve your interaction with customers at every step of the way: communicate with them, add...",
+    "canonical_url": "https://apps.shopify.com/simla",
+    "h1_tags": [
+      "Simla.com"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Simla.com",
+    "app_slug": "simla",
+    "app_url": "https://apps.shopify.com/simla",
+    "developer_name": "DIGITAL RETAIL TECHNOLOGIES",
+    "description": "A CRM that will increase your sales in the next month. Improve your interaction with customers at every step of the way: communicate with them, add...",
+    "average_rating": 4.7,
+    "review_count": 3,
+    "category": "Email marketing"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simla_20260830T072021Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simla_20260830T072021Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Simla.com",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "simla",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/simla",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "DIGITAL RETAIL TECHNOLOGIES",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "A CRM that will increase your sales in the next month. Improve your interaction with customers at every step of the way: communicate with them, add...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.7,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 3,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Email marketing",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lupper_20260830T180708Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lupper_20260830T180708Z.html
+Requested URL    : https://apps.shopify.com/lupper
+Final URL        : https://apps.shopify.com/lupper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,740 bytes / 220,619 chars
+Elapsed          : 0.699s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lupper: Email, SMS & Pop‑ups - Automate marketing based on customer behavior | Shopify App Store
+meta description : Samla kund-, order- och beteendedata från Shopify. Aktivera automatiska segment i e-post, automationer och pop-ups.
+canonical URL    : https://apps.shopify.com/lupper
+<h1> tags ( 1)  : 'Lupper: Email, SMS & Pop‑ups'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

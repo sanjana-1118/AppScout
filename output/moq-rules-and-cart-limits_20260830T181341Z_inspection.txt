@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\moq-rules-and-cart-limits_20260830T181341Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\moq-rules-and-cart-limits_20260830T181341Z.html
+Requested URL    : https://apps.shopify.com/moq-rules-and-cart-limits
+Final URL        : https://apps.shopify.com/moq-rules-and-cart-limits
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,351 bytes / 184,234 chars
+Elapsed          : 0.702s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Solution Digest: MOQ Rules - MOQ for B2B and wholesale: multi-currency, multi-language. | Shopify App Store
+meta description : Minimum order quantity (MOQ) and cart limits for Shopify. Server-side enforcement, B2B wholesale customer segments, multi-currency cart thresholds, multi-language errors, schedule windows. Free plan.
+canonical URL    : https://apps.shopify.com/moq-rules-and-cart-limits
+<h1> tags ( 1)  : 'Solution Digest: MOQ Rules'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

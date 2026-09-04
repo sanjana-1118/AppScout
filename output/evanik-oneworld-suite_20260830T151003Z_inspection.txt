@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\evanik-oneworld-suite_20260830T151003Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\evanik-oneworld-suite_20260830T151003Z.html
+Requested URL    : https://apps.shopify.com/evanik-oneworld-suite
+Final URL        : https://apps.shopify.com/evanik-oneworld-suite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,163 bytes / 171,018 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eVanik OneWorld Suite - Automate order fulfillment with Amazon MCF | Shopify App Store
+meta description : Automate order fulfillment with eVanik Amazon MCF. Sync orders, update tracking in real-time, and manage inventory effortlessly for multi-channel selling
+canonical URL    : https://apps.shopify.com/evanik-oneworld-suite
+<h1> tags ( 1)  : 'eVanik OneWorld Suite'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

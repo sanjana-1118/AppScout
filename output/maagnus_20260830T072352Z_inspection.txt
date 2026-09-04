@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\maagnus_20260830T072352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\maagnus_20260830T072352Z.html
+Requested URL    : https://apps.shopify.com/maagnus
+Final URL        : https://apps.shopify.com/maagnus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,293 bytes / 195,105 chars
+Elapsed          : 0.889s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Maagnus – Data for Growth - Collect customer data, track personas, and improve ads/emails | Shopify App Store
+meta description : Gather customer data, track personas, and optimize ads and newsletters for more sales
+canonical URL    : https://apps.shopify.com/maagnus
+<h1> tags ( 1)  : 'Maagnus – Data for Growth'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

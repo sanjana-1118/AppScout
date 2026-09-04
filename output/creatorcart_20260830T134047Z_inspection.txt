@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\creatorcart_20260830T134047Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\creatorcart_20260830T134047Z.html
+Requested URL    : https://apps.shopify.com/creatorcart
+Final URL        : https://apps.shopify.com/creatorcart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,938 bytes / 169,847 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CreatorCart  - SMS Marketing for Creators to Sell on behalf of Brands | Shopify App Store
+meta description : The world's first SMS Auction Platform for Creators & Social Brands. 
+
+Simple and automated, CreatorCart powers SMS auctions, helping you connect w...
+canonical URL    : https://apps.shopify.com/creatorcart
+<h1> tags ( 1)  : 'CreatorCart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

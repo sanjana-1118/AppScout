@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendpulse-email-sms-pop-ups_20260830T140932Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendpulse-email-sms-pop-ups_20260830T140932Z.html
+Requested URL    : https://apps.shopify.com/sendpulse-email-sms-pop-ups
+Final URL        : https://apps.shopify.com/sendpulse-email-sms-pop-ups
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 241,675 bytes / 241,558 chars
+Elapsed          : 0.981s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SendPulse Email, SMS & Pop‑ups - Send emails, SMS, and more. Grow your list with pop-ups. | Shopify App Store
+meta description : SendPulse helps Shopify store owners grow revenue with automated email, SMS, and WhatsApp marketing. Recover lost sales with abandoned cart sequenc...
+canonical URL    : https://apps.shopify.com/sendpulse-email-sms-pop-ups
+<h1> tags ( 1)  : 'SendPulse Email, SMS & Pop‑ups'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

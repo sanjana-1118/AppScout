@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\obor_20260830T131612Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\obor_20260830T131612Z.html
+Requested URL    : https://apps.shopify.com/obor
+Final URL        : https://apps.shopify.com/obor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,503 bytes / 150,414 chars
+Elapsed          : 0.977s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Obor Desk Dropshipping - Source quality products and fulfil your orders with ease | Shopify App Store
+meta description : Our all-in-one easy to use app helps you to take away the stress of working with factories. We will source the best factory for your product, offer...
+canonical URL    : https://apps.shopify.com/obor
+<h1> tags ( 1)  : 'Obor Desk Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

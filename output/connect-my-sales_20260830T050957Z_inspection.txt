@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\connect-my-sales_20260830T050957Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\connect-my-sales_20260830T050957Z.html
+Requested URL    : https://apps.shopify.com/connect-my-sales
+Final URL        : https://apps.shopify.com/connect-my-sales
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,317 bytes / 214,228 chars
+Elapsed          : 1.162s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Connect My Sales - Connect Your Store to Keap and Infusionsoft | Shopify App Store
+meta description : Integrate your Shopify store data with Keap/Infusionsoft automation.
+canonical URL    : https://apps.shopify.com/connect-my-sales
+<h1> tags ( 1)  : 'Connect My Sales'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

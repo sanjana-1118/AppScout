@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfiz-dropshipping_20260830T170215Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfiz-dropshipping_20260830T170215Z.html
+Requested URL    : https://apps.shopify.com/fulfiz-dropshipping
+Final URL        : https://apps.shopify.com/fulfiz-dropshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,078 bytes / 195,923 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fulfiz‑Global Dropshipping&POD - AI-Powered Ecommerce Fulfillment & Sourcing Platform | Shopify App Store
+meta description : Fulfiz is an AI-powered fulfillment platform built for ecommerce brands. Source products, automate order fulfillment, manage inventory, and ship gl...
+canonical URL    : https://apps.shopify.com/fulfiz-dropshipping
+<h1> tags ( 1)  : 'Fulfiz‑Global Dropshipping&POD'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatomatic-whatsapp-automation-1_20260830T170839Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatomatic-whatsapp-automation-1_20260830T170839Z.html
+Requested URL    : https://apps.shopify.com/whatomatic-whatsapp-automation-1
+Final URL        : https://apps.shopify.com/whatomatic-whatsapp-automation-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 248,852 bytes / 248,737 chars
+Elapsed          : 0.599s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whatomatic‑Whatsapp Automation - Automate orders, recover carts, and send real-time updates | Shopify App Store
+meta description : Whatomatic helps Shopify merchants automate order confirmations, abandoned cart recovery, fulfillment updates, and cancellations via WhatsApp.
+canonical URL    : https://apps.shopify.com/whatomatic-whatsapp-automation-1
+<h1> tags ( 1)  : 'Whatomatic‑Whatsapp Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

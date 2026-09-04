@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\estsshipping_20260830T141726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\estsshipping_20260830T141726Z.html
+Requested URL    : https://apps.shopify.com/estsshipping
+Final URL        : https://apps.shopify.com/estsshipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,099 bytes / 189,972 chars
+Elapsed          : 0.635s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DimenAI – Smart Shipping & Box - Show accurate rates using product dimensions. | Shopify App Store
+meta description : Show live UPS, USPS, FedEx & Australia Post rates at checkout. 3D bin packing reduces oversized shipping costs and improves accuracy.
+canonical URL    : https://apps.shopify.com/estsshipping
+<h1> tags ( 1)  : 'DimenAI – Smart Shipping & Box'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

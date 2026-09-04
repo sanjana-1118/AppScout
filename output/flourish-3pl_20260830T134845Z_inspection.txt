@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flourish-3pl_20260830T134845Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flourish-3pl_20260830T134845Z.html
+Requested URL    : https://apps.shopify.com/flourish-3pl
+Final URL        : https://apps.shopify.com/flourish-3pl
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,028 bytes / 150,939 chars
+Elapsed          : 0.673s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flourish 3PL - Thrid party logistic solution for shipping to Canada and Us | Shopify App Store
+meta description : Helps you intelligently manage your shipment dispatch orders. Flourish 3PL is a one-stop 3rd party logistic solution that can help you ship product...
+canonical URL    : https://apps.shopify.com/flourish-3pl
+<h1> tags ( 1)  : 'Flourish 3PL'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

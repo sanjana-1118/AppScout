@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chiibi-scan_20260830T032929Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chiibi-scan_20260830T032929Z.html
+Requested URL    : https://apps.shopify.com/chiibi-scan
+Final URL        : https://apps.shopify.com/chiibi-scan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,502 bytes / 158,301 chars
+Elapsed          : 0.501s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scan documents to orders  - Automatically match scanned docs to correct orders in admin | Shopify App Store
+meta description : Our app automatically match scanned documents to the correct orders in your Shopify admin. Simply upload your scanned documents to a designated Goo...
+canonical URL    : https://apps.shopify.com/chiibi-scan
+<h1> tags ( 1)  : 'Scan documents to orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

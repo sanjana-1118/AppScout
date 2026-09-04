@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goadgo_20260830T035004Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goadgo_20260830T035004Z.html
+Requested URL    : https://apps.shopify.com/goadgo
+Final URL        : https://apps.shopify.com/goadgo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,265 bytes / 229,091 chars
+Elapsed          : 0.726s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : goadgo ‑ Affiliate Marketing - Collaborate with influencers to grow visibility and sales. | Shopify App Store
+meta description : With goadgo, you can easily carry out your Affiliate Marketing activities from your store and increase both your brand awareness and income.
+canonical URL    : https://apps.shopify.com/goadgo
+<h1> tags ( 1)  : 'goadgo ‑ Affiliate Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

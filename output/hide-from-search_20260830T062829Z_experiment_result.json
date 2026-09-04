@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/hide-from-search",
+  "fetch_timestamp": "2026-08-30T06:28:29.938925+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\hide-from-search_20260830T062829Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\hide-from-search_20260830T062829Z.html",
+    "url": "https://apps.shopify.com/hide-from-search",
+    "final_url": "https://apps.shopify.com/hide-from-search",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 164368,
+    "body_text_length": 164279,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.080673,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Stash - Hide products from search results and search engines | Shopify App Store",
+    "meta_description": "There are a variety of reasons you might want to hide products from the public e.g, they are for internal use only or part of customer collections ...",
+    "canonical_url": "https://apps.shopify.com/hide-from-search",
+    "h1_tags": [
+      "Stash"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Stash",
+    "app_slug": "hide-from-search",
+    "app_url": "https://apps.shopify.com/hide-from-search",
+    "developer_name": "Bug Shall Not Pass",
+    "description": "There are a variety of reasons you might want to hide products from the public e.g, they are for internal use only or part of customer collections ...",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Search and filters"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\hide-from-search_20260830T062829Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\hide-from-search_20260830T062829Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Stash",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "hide-from-search",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/hide-from-search",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Bug Shall Not Pass",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "There are a variety of reasons you might want to hide products from the public e.g, they are for internal use only or part of customer collections ...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Search and filters",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

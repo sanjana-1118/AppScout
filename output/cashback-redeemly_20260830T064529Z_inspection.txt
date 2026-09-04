@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cashback-redeemly_20260830T064529Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cashback-redeemly_20260830T064529Z.html
+Requested URL    : https://apps.shopify.com/cashback-redeemly
+Final URL        : https://apps.shopify.com/cashback-redeemly
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 237,104 bytes / 237,001 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Redeemly Store Credit Rewards - Cash Back Loyalty Rewards & Referrals With Native Store Credit | Shopify App Store
+meta description : Cashback that customers treat like real money. Redeemly issues cashback as native Shopify store credit. Built-in referrals. Free for partner stores.
+canonical URL    : https://apps.shopify.com/cashback-redeemly
+<h1> tags ( 1)  : 'Redeemly Store Credit Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/imgpress-image-compression",
+  "fetch_timestamp": "2026-08-30T16:56:18.026981+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\imgpress-image-compression_20260830T165618Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\imgpress-image-compression_20260830T165618Z.html",
+    "url": "https://apps.shopify.com/imgpress-image-compression",
+    "final_url": "https://apps.shopify.com/imgpress-image-compression",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 178225,
+    "body_text_length": 178134,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.832044,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "IMGPress Image Compression - Compress images in bulk without losing quality | Shopify App Store",
+    "meta_description": "Compress and optimize images in bulk without losing quality. Improve store speed and search visibility with full control over what gets optimized.",
+    "canonical_url": "https://apps.shopify.com/imgpress-image-compression",
+    "h1_tags": [
+      "IMGPress Image Compression"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "IMGPress Image Compression",
+    "app_slug": "imgpress-image-compression",
+    "app_url": "https://apps.shopify.com/imgpress-image-compression",
+    "developer_name": "Mursel Koseer",
+    "description": "Compress and optimize images in bulk without losing quality. Improve store speed and search visibility with full control over what gets optimized.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Image editor"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\imgpress-image-compression_20260830T165618Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\imgpress-image-compression_20260830T165618Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "IMGPress Image Compression",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "imgpress-image-compression",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/imgpress-image-compression",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Mursel Koseer",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Compress and optimize images in bulk without losing quality. Improve store speed and search visibility with full control over what gets optimized.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Image editor",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

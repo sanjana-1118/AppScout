@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\booking-system-calendar_20260830T150113Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\booking-system-calendar_20260830T150113Z.html
+Requested URL    : https://apps.shopify.com/booking-system-calendar
+Final URL        : https://apps.shopify.com/booking-system-calendar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,621 bytes / 188,532 chars
+Elapsed          : 0.679s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Klassbooker: The Booking App - Simple booking for classes, workshops & events | Shopify App Store
+meta description : Turn your Shopify store into a booking system. Perfect for any business offering classes, workshops, experiences, or events. Accept bookings & payments 24/7.
+canonical URL    : https://apps.shopify.com/booking-system-calendar
+<h1> tags ( 1)  : 'Klassbooker: The Booking App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

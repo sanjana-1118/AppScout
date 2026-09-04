@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-store-finder_20260830T033924Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-store-finder_20260830T033924Z.html
+Requested URL    : https://apps.shopify.com/easy-store-finder
+Final URL        : https://apps.shopify.com/easy-store-finder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,097 bytes / 177,006 chars
+Elapsed          : 0.516s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Google Maps Store Locator - Locate stores easily using Google Maps, Mapbox, OpenStreetMap | Shopify App Store
+meta description : Add unlimited store locations to Shopify with an interactive map. Bulk CSV import, nearby store detection, search insights, and multi-language supp
+canonical URL    : https://apps.shopify.com/easy-store-finder
+<h1> tags ( 1)  : 'Easy Google Maps Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autopost_20260830T140708Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autopost_20260830T140708Z.html
+Requested URL    : https://apps.shopify.com/autopost
+Final URL        : https://apps.shopify.com/autopost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,454 bytes / 218,343 chars
+Elapsed          : 0.982s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VibeFlow ‑ Social Auto Post - Automatically create video/image Ads and Post on Social Media | Shopify App Store
+meta description : Our app simplifies social media marketing by allowing you to easily publish product links, images, collages or videos to your Facebook, Instagram, ...
+canonical URL    : https://apps.shopify.com/autopost
+<h1> tags ( 1)  : 'VibeFlow ‑ Social Auto Post'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

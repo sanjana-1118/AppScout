@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-company-management_20260830T041234Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-company-management_20260830T041234Z.html
+Requested URL    : https://apps.shopify.com/b2b-company-management
+Final URL        : https://apps.shopify.com/b2b-company-management
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,094 bytes / 197,005 chars
+Elapsed          : 0.734s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Onboard, Lock & Self Serve - Automate wholesale onboarding, access, and account management. | Shopify App Store
+meta description : Customisable B2B registration forms, store access control, and self-service company portals for Shopify merchants selling wholesale.
+canonical URL    : https://apps.shopify.com/b2b-company-management
+<h1> tags ( 1)  : 'B2B Onboard, Lock & Self Serve'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

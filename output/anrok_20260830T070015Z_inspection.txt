@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anrok_20260830T070015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anrok_20260830T070015Z.html
+Requested URL    : https://apps.shopify.com/anrok
+Final URL        : https://apps.shopify.com/anrok
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,390 bytes / 168,295 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Anrok Sales Tax Automation - Automate your tax compliance from first sale to global scale. | Shopify App Store
+meta description : Connect your Shopify store to Anrok to automate sales tax registrations and on‑time filings. Track your requirements and maintain audit-ready financials.
+canonical URL    : https://apps.shopify.com/anrok
+<h1> tags ( 1)  : 'Anrok Sales Tax Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\impresee-vsearch_20260830T062755Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\impresee-vsearch_20260830T062755Z.html
+Requested URL    : https://apps.shopify.com/impresee-vsearch
+Final URL        : https://apps.shopify.com/impresee-vsearch
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,790 bytes / 230,683 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Impresee’s Smart Search Bar - Advanced search by text, photo and sketch without usage limits | Shopify App Store
+meta description : Empower your store with a fast, actionable AI-powered search bar that aligns with your business goals. 
+Enhance your store with advanced search by ...
+canonical URL    : https://apps.shopify.com/impresee-vsearch
+<h1> tags ( 1)  : 'Impresee’s Smart Search Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

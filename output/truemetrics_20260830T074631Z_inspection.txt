@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\truemetrics_20260830T074631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\truemetrics_20260830T074631Z.html
+Requested URL    : https://apps.shopify.com/truemetrics
+Final URL        : https://apps.shopify.com/truemetrics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,817 bytes / 167,728 chars
+Elapsed          : 0.707s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrueMetrics - See the impact of bot traffic and stop emailing fake... | Shopify App Store
+meta description : TrueMetrics detects bot traffic on your Shopify store, corrects your conversion rate, and stops Klaviyo from emailing bots. Measure and protect, not block.
+canonical URL    : https://apps.shopify.com/truemetrics
+<h1> tags ( 1)  : 'TrueMetrics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

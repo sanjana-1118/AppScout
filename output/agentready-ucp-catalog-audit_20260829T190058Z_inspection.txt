@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agentready-ucp-catalog-audit_20260829T190058Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agentready-ucp-catalog-audit_20260829T190058Z.html
+Requested URL    : https://apps.shopify.com/agentready-ucp-catalog-audit
+Final URL        : https://apps.shopify.com/agentready-ucp-catalog-audit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,656 bytes / 178,565 chars
+Elapsed          : 0.565s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AgentReady: UCP & Catalog - Make your products discoverable for AI agents | Shopify App Store
+meta description : Prepare your Shopify store for Agentic Commerce. AgentReady ensures your products are discoverable by AI agents like ChatGPT, Google Gemini, Perplexity, etc.
+canonical URL    : https://apps.shopify.com/agentready-ucp-catalog-audit
+<h1> tags ( 1)  : 'AgentReady: UCP & Catalog'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\egg-email-ai-email-flows_20260830T194024Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\egg-email-ai-email-flows_20260830T194024Z.html
+Requested URL    : https://apps.shopify.com/egg-email-ai-email-flows
+Final URL        : https://apps.shopify.com/egg-email-ai-email-flows
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,920 bytes / 181,825 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eggemail Abandoned Cart Email - AI builds 5 email flows in your brand voice, live... | Shopify App Store
+meta description : 5 AI email flows written in your brand voice — abandoned cart, welcome and winback. Live in minutes. See revenue by flow. Built for Shopify stores.
+canonical URL    : https://apps.shopify.com/egg-email-ai-email-flows
+<h1> tags ( 1)  : 'eggemail Abandoned Cart Email'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

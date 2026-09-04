@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\segmentiq_20260830T073720Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\segmentiq_20260830T073720Z.html
+Requested URL    : https://apps.shopify.com/segmentiq
+Final URL        : https://apps.shopify.com/segmentiq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,685 bytes / 162,594 chars
+Elapsed          : 0.770s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SegmentIQ - Discount performance broken down by customer segment | Shopify App Store
+meta description : See which discounts drive real revenue and which waste margin. SegmentIQ breaks down discount performance by customer segment with automated insights.
+canonical URL    : https://apps.shopify.com/segmentiq
+<h1> tags ( 1)  : 'SegmentIQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

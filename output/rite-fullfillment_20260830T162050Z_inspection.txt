@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rite-fullfillment_20260830T162050Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rite-fullfillment_20260830T162050Z.html
+Requested URL    : https://apps.shopify.com/rite-fullfillment
+Final URL        : https://apps.shopify.com/rite-fullfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,828 bytes / 160,731 chars
+Elapsed          : 0.882s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rite Fulfillment - Automate order syncing and shipping across marketplaces | Shopify App Store
+meta description : Simplify fulfillment with Rite Fulfillment. Automate order syncing, shipping, and tracking across channels to save time and eliminate manual work.
+canonical URL    : https://apps.shopify.com/rite-fullfillment
+<h1> tags ( 1)  : 'Rite Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

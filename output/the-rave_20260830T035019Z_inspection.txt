@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-rave_20260830T035019Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-rave_20260830T035019Z.html
+Requested URL    : https://apps.shopify.com/the-rave
+Final URL        : https://apps.shopify.com/the-rave
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,345 bytes / 230,244 chars
+Elapsed          : 0.633s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rave: Referral, Affiliate, UGC - Cash back referral for everyday shoppers & micro influencers  | Shopify App Store
+meta description : Get customers excited (and sharing) with cash and free items!
+
+The Rave’s platform lets you quickly set up effective referral marketing, affiliate,...
+canonical URL    : https://apps.shopify.com/the-rave
+<h1> tags ( 1)  : 'Rave: Referral, Affiliate, UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

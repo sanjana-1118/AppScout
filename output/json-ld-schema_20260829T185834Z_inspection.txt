@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\json-ld-schema_20260829T185834Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\json-ld-schema_20260829T185834Z.html
+Requested URL    : https://apps.shopify.com/json-ld-schema
+Final URL        : https://apps.shopify.com/json-ld-schema
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,702 bytes / 219,611 chars
+Elapsed          : 0.841s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Rich Snippets for SEO - Increase your SEO traffic through Rich Snippets with JSON-LD | Shopify App Store
+meta description : Increase your store traffic with outstanding search results. You don't need technical SEO knowledge to benefit from Easy Rich Snippets for SEO. Just install it.
+canonical URL    : https://apps.shopify.com/json-ld-schema
+<h1> tags ( 1)  : 'Easy Rich Snippets for SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

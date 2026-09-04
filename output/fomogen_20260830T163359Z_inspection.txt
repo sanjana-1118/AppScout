@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fomogen_20260830T163359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fomogen_20260830T163359Z.html
+Requested URL    : https://apps.shopify.com/fomogen
+Final URL        : https://apps.shopify.com/fomogen
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,406 bytes / 205,317 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FOMO Gen: All in one FOMO App - Build trust and urgency with purchase popups and timers | Shopify App Store
+meta description : Add purchase popups, countdown timers, stock alerts & trust badges to your Shopify store. Build trust and create urgency with 9 customizable features.
+canonical URL    : https://apps.shopify.com/fomogen
+<h1> tags ( 1)  : 'FOMO Gen: All in one FOMO App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

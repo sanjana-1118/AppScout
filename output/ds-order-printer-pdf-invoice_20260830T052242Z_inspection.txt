@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ds-order-printer-pdf-invoice_20260830T052242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ds-order-printer-pdf-invoice_20260830T052242Z.html
+Requested URL    : https://apps.shopify.com/ds-order-printer-pdf-invoice
+Final URL        : https://apps.shopify.com/ds-order-printer-pdf-invoice
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,291 bytes / 199,182 chars
+Elapsed          : 0.923s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DS Order Printer PDF Invoice - Generate and print PDF invoices, packing & refund slips easily | Shopify App Store
+meta description : DS Order Printer PDF Invoice is a powerful app to create, print, and download invoices, packing slips, receipts, and refund slips in PDF format. Pr...
+canonical URL    : https://apps.shopify.com/ds-order-printer-pdf-invoice
+<h1> tags ( 1)  : 'DS Order Printer PDF Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\formfence_20260830T180743Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\formfence_20260830T180743Z.html
+Requested URL    : https://apps.shopify.com/formfence
+Final URL        : https://apps.shopify.com/formfence
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,337 bytes / 179,248 chars
+Elapsed          : 0.579s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FormFence - Stops AI-written contact-form spam without showing a CAPTCHA. | Shopify App Store
+meta description : Block bot and AI-written spam on Shopify contact forms without a CAPTCHA. FormFence catches    what other filters miss, with no friction for real customers.
+canonical URL    : https://apps.shopify.com/formfence
+<h1> tags ( 1)  : 'FormFence'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

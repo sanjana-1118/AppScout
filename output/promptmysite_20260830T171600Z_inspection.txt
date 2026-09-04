@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\promptmysite_20260830T171600Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\promptmysite_20260830T171600Z.html
+Requested URL    : https://apps.shopify.com/promptmysite
+Final URL        : https://apps.shopify.com/promptmysite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,504 bytes / 187,259 chars
+Elapsed          : 0.758s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopAsk - A zero config AI assistant for your store! Products +... | Shopify App Store
+meta description : A chat widget that knows your entire store the moment you install it. Products, pages, policies, prices — no setup, no training, no code changes.
+
+...
+canonical URL    : https://apps.shopify.com/promptmysite
+<h1> tags ( 1)  : 'ShopAsk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

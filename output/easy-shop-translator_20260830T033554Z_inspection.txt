@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-shop-translator_20260830T033554Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-shop-translator_20260830T033554Z.html
+Requested URL    : https://apps.shopify.com/easy-shop-translator
+Final URL        : https://apps.shopify.com/easy-shop-translator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,968 bytes / 178,831 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Traducteur Automatique IA - Traduisez toute votre boutique en plusieurs langues avec l'IA. | Shopify App Store
+meta description : Traduisez automatiquement produits, pages et articles avec l'IA. Gérez un glossaire personnalisé et vendez dans plusieurs langues sans effort.
+canonical URL    : https://apps.shopify.com/easy-shop-translator?locale=fr
+<h1> tags ( 1)  : 'Traducteur Automatique IA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

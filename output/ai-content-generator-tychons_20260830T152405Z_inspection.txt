@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-content-generator-tychons_20260830T152405Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-content-generator-tychons_20260830T152405Z.html
+Requested URL    : https://apps.shopify.com/ai-content-generator-tychons
+Final URL        : https://apps.shopify.com/ai-content-generator-tychons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,220 bytes / 168,131 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Content Generator:Tychons - Generate product descriptions and blog content with AI | Shopify App Store
+meta description : Easily generate multilingual product descriptions, blog posts, and SEO-friendly meta titles and descriptions. Whether you're adding new products or...
+canonical URL    : https://apps.shopify.com/ai-content-generator-tychons
+<h1> tags ( 1)  : 'AI Content Generator:Tychons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

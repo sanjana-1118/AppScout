@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\algomo_20260830T141528Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\algomo_20260830T141528Z.html
+Requested URL    : https://apps.shopify.com/algomo
+Final URL        : https://apps.shopify.com/algomo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,027 bytes / 195,929 chars
+Elapsed          : 0.949s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Chatbot & Live Chat | Algomo - Chatbots are old stuff, welcome to the new era of... | Shopify App Store
+meta description : Chatbots for Shopify are now old stuff. Welcome to the new era of AI Agents for Shopify that can autonomously take decisions and complete tasks.
+canonical URL    : https://apps.shopify.com/algomo
+<h1> tags ( 1)  : 'Chatbot & Live Chat | Algomo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

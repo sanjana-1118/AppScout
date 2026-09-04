@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellestic_20260830T193742Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellestic_20260830T193742Z.html
+Requested URL    : https://apps.shopify.com/sellestic
+Final URL        : https://apps.shopify.com/sellestic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,013 bytes / 171,884 chars
+Elapsed          : 0.518s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sellestic: Fashion AI Agent - Studio-quality on-model photos in seconds | Shopify App Store
+meta description : Sellestic is an AI agent for fashion e-commerce. 
+
+Drop a photo of your garment—from a hanger, mannequin, or flat-lay—and it handles the entire on-...
+canonical URL    : https://apps.shopify.com/sellestic
+<h1> tags ( 1)  : 'Sellestic: Fashion AI Agent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

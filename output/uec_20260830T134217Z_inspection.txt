@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uec_20260830T134217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uec_20260830T134217Z.html
+Requested URL    : https://apps.shopify.com/uec
+Final URL        : https://apps.shopify.com/uec
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,891 bytes / 150,926 chars
+Elapsed          : 0.486s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopMate - 让出海更简单，让仓储更智能 | Shopify App Store
+meta description : 跨境电商全链接产品工具，提供商品管理、订单管理、库存管理等，合作海外仓，提供专业的代打包服务和海外仓储解决方案...
+canonical URL    : https://apps.shopify.com/uec?locale=zh-CN
+<h1> tags ( 1)  : 'ShopMate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

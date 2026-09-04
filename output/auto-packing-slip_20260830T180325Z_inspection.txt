@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-packing-slip_20260830T180325Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-packing-slip_20260830T180325Z.html
+Requested URL    : https://apps.shopify.com/auto-packing-slip
+Final URL        : https://apps.shopify.com/auto-packing-slip
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,085 bytes / 199,992 chars
+Elapsed          : 0.967s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AMNYA: Auto Packing Slip - Auto emails for orders created/fulfilled with packing slip | Shopify App Store
+meta description : Automatically email a packing slip PDF to your team the moment an order is created or fulfilled. Bilingual English/Arabic, with retry and full job log.
+canonical URL    : https://apps.shopify.com/auto-packing-slip
+<h1> tags ( 1)  : 'AMNYA: Auto Packing Slip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

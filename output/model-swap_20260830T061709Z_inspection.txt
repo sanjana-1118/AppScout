@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\model-swap_20260830T061709Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\model-swap_20260830T061709Z.html
+Requested URL    : https://apps.shopify.com/model-swap
+Final URL        : https://apps.shopify.com/model-swap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,164 bytes / 201,053 chars
+Elapsed          : 0.519s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnModel ‑ AI Models Photos - Instantly upgrade your photos with AI Fashion Models | Shopify App Store
+meta description : Automatically create clothing model photography with AI. Lower model photography costs by 10X, increase conversions and target new customer audiences.
+canonical URL    : https://apps.shopify.com/model-swap
+<h1> tags ( 1)  : 'OnModel ‑ AI Models Photos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

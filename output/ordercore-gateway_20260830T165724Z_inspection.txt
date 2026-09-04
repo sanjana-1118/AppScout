@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ordercore-gateway_20260830T165724Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ordercore-gateway_20260830T165724Z.html
+Requested URL    : https://apps.shopify.com/ordercore-gateway
+Final URL        : https://apps.shopify.com/ordercore-gateway
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,232 bytes / 161,143 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OrderCore Gateway - Sync store orders to OrderCore for AI-ready commerce. | Shopify App Store
+meta description : OrderCore Gateway connects Shopify paid orders to OrderCore for downstream processing. After install, it receives paid order webhooks, maps line it...
+canonical URL    : https://apps.shopify.com/ordercore-gateway
+<h1> tags ( 1)  : 'OrderCore Gateway'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

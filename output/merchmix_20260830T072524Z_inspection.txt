@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchmix_20260830T072524Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchmix_20260830T072524Z.html
+Requested URL    : https://apps.shopify.com/merchmix
+Final URL        : https://apps.shopify.com/merchmix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,975 bytes / 157,886 chars
+Elapsed          : 0.946s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MerchMix - Connect retail data to MerchMix for planning and analysis | Shopify App Store
+meta description : MerchMix connects a store to the MerchMix data platform. Merchants can start a historical sync, view its status, and keep data current through veri...
+canonical URL    : https://apps.shopify.com/merchmix
+<h1> tags ( 1)  : 'MerchMix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

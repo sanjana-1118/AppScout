@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cxbox_20260830T141159Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cxbox_20260830T141159Z.html
+Requested URL    : https://apps.shopify.com/cxbox
+Final URL        : https://apps.shopify.com/cxbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,867 bytes / 159,774 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CXBOX - Rise up sales by cross-selling feature | Shopify App Store
+meta description : Enhance customer support as well as experience with a customer-personalized solution.
+
+- Respond and solve tickets easily and faster in Zendesk age...
+canonical URL    : https://apps.shopify.com/cxbox
+<h1> tags ( 1)  : 'CXBOX'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

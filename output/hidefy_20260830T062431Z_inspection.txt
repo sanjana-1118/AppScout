@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hidefy_20260830T062431Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hidefy_20260830T062431Z.html
+Requested URL    : https://apps.shopify.com/hidefy
+Final URL        : https://apps.shopify.com/hidefy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,237 bytes / 164,126 chars
+Elapsed          : 0.968s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hidefy – Hide Prices & Buttons - Hide prices and buy buttons without editing your theme | Shopify App Store
+meta description : Hide prices and add to cart buttons in your Shopify store without editing theme code. Control storefront product visibility with simple app settings.
+canonical URL    : https://apps.shopify.com/hidefy
+<h1> tags ( 1)  : 'Hidefy – Hide Prices & Buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fraudblock_20260830T180918Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fraudblock_20260830T180918Z.html
+Requested URL    : https://apps.shopify.com/fraudblock
+Final URL        : https://apps.shopify.com/fraudblock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,375 bytes / 167,281 chars
+Elapsed          : 0.672s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FraudBlock - Cancel risky orders automatically to stop chargebacks | Shopify App Store
+meta description : FraudBlock automatically cancels orders that Shopify's built-in risk analysis flags. The order is cancelled, payment refunded, and inventory restoc...
+canonical URL    : https://apps.shopify.com/fraudblock
+<h1> tags ( 1)  : 'FraudBlock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

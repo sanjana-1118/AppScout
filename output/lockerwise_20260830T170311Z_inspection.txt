@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lockerwise_20260830T170311Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lockerwise_20260830T170311Z.html
+Requested URL    : https://apps.shopify.com/lockerwise
+Final URL        : https://apps.shopify.com/lockerwise
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,701 bytes / 190,589 chars
+Elapsed          : 0.849s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LockerWise ‑ Locker delivery - ACS, Box Now & Skroutz lockers. Greek carrier shipping. | Shopify App Store
+meta description : Add Skroutz Last Mile, ACS Courier, and Box Now locker delivery to your Shopify checkout. Customers pick the closest point. Manage shipments from one dashboard.
+canonical URL    : https://apps.shopify.com/lockerwise
+<h1> tags ( 1)  : 'LockerWise ‑ Locker delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

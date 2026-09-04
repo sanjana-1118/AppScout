@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warevolve_20260830T172926Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warevolve_20260830T172926Z.html
+Requested URL    : https://apps.shopify.com/warevolve
+Final URL        : https://apps.shopify.com/warevolve
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,173 bytes / 174,076 chars
+Elapsed          : 0.911s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Warevolve WMS - Know what's in your warehouse, who moved it, and when. | Shopify App Store
+meta description : Replace Stocky before August 31. Scan-first stocktake, 
+transfers, pallets, and full audit trail. Free plan available. 
+Built for warehouse teams.
+canonical URL    : https://apps.shopify.com/warevolve
+<h1> tags ( 1)  : 'Warevolve WMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ysd-all-in-one-discount_20260830T131730Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ysd-all-in-one-discount_20260830T131730Z.html
+Requested URL    : https://apps.shopify.com/ysd-all-in-one-discount
+Final URL        : https://apps.shopify.com/ysd-all-in-one-discount
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,814 bytes / 173,689 chars
+Elapsed          : 0.936s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : All‑in‑1 Discounts & Offer - Offer multiple discounts and offers with just one app | Shopify App Store
+meta description : Offer multiple discounts and offers to your Shopify customers with just one app
+canonical URL    : https://apps.shopify.com/ysd-all-in-one-discount
+<h1> tags ( 1)  : 'All‑in‑1 Discounts & Offer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

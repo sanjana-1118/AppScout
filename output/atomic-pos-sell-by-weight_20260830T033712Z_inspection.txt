@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\atomic-pos-sell-by-weight_20260830T033712Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\atomic-pos-sell-by-weight_20260830T033712Z.html
+Requested URL    : https://apps.shopify.com/atomic-pos-sell-by-weight
+Final URL        : https://apps.shopify.com/atomic-pos-sell-by-weight
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,305 bytes / 223,216 chars
+Elapsed          : 0.536s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Measura: Sell by Weight & More - Sell by weight, length, area, and volume in POS &... | Shopify App Store
+meta description : Easily sell by weight, length, area, or volume with POS support. Track fractional inventory and automate stock updates for accurate measurement-based sales.
+canonical URL    : https://apps.shopify.com/atomic-pos-sell-by-weight
+<h1> tags ( 1)  : 'Measura: Sell by Weight & More'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

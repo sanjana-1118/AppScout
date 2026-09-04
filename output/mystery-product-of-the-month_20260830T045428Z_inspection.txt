@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mystery-product-of-the-month_20260830T045428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mystery-product-of-the-month_20260830T045428Z.html
+Requested URL    : https://apps.shopify.com/mystery-product-of-the-month
+Final URL        : https://apps.shopify.com/mystery-product-of-the-month
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,646 bytes / 178,557 chars
+Elapsed          : 0.784s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasyRNG Mystery Product - Automatically balance your inventory levels and increase sales | Shopify App Store
+meta description : Introducing a new product is challenging. It may take a long time for customers to find the new product, try it, and decide whether it is right for...
+canonical URL    : https://apps.shopify.com/mystery-product-of-the-month
+<h1> tags ( 1)  : 'EasyRNG Mystery Product'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

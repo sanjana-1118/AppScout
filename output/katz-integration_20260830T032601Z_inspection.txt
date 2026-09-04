@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\katz-integration_20260830T032601Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\katz-integration_20260830T032601Z.html
+Requested URL    : https://apps.shopify.com/katz-integration
+Final URL        : https://apps.shopify.com/katz-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,043 bytes / 176,952 chars
+Elapsed          : 0.651s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Katz DeliverIt - Easily create shipments for Katz shipments in Israel | Shopify App Store
+meta description : With the easy installed Katz Delivery Integration you can sync all the orders from your Shopify store with your Katz account. In this one-click sys...
+canonical URL    : https://apps.shopify.com/katz-integration
+<h1> tags ( 1)  : 'Katz DeliverIt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

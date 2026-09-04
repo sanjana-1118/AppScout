@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\consentpl_20260830T180827Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\consentpl_20260830T180827Z.html
+Requested URL    : https://apps.shopify.com/consentpl
+Final URL        : https://apps.shopify.com/consentpl
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,871 bytes / 179,772 chars
+Elapsed          : 1.045s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ConsentPL: GDPR Cookie Banner - GDPR banner that blocks trackers until shoppers consent | Shopify App Store
+meta description : GDPR cookie consent banner for EU Shopify stores. Blocks Google, Meta and TikTok until visitors consent. Google Consent Mode v2. Polish and English.
+canonical URL    : https://apps.shopify.com/consentpl
+<h1> tags ( 1)  : 'ConsentPL: GDPR Cookie Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

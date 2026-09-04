@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meet-seo-app_20260829T185924Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meet-seo-app_20260829T185924Z.html
+Requested URL    : https://apps.shopify.com/meet-seo-app
+Final URL        : https://apps.shopify.com/meet-seo-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,491 bytes / 178,648 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrafficFlow:SEO Optimizer - 智能SEO诊断+速度优化，一键获取可执行建议，告别盲目优化！ | Shopify App Store
+meta description : 专为Shopify商家打造的SEO诊断工具：通过全站扫描和智能分析，精准发现网站SEO问题。网站健康检查深入诊断技术性问题，提供详细报告。内容分析功能评估页面标题、元描述长度、内容质量与重复内容状况，揭示可见度影响因素。应用执行多达17项核心SEO检测，并集成PageSpeed性能评估。可视化...
+canonical URL    : https://apps.shopify.com/meet-seo-app?locale=zh-CN
+<h1> tags ( 1)  : 'TrafficFlow:SEO Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

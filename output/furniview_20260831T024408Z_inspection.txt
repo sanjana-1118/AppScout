@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\furniview_20260831T024408Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\furniview_20260831T024408Z.html
+Requested URL    : https://apps.shopify.com/furniview
+Final URL        : https://apps.shopify.com/furniview
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,098 bytes / 190,005 chars
+Elapsed          : 0.863s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FurniView - Let shoppers preview your furniture in their own room with... | Shopify App Store
+meta description : FurniView adds an AI "See it in your space" button to your product pages, so shoppers can preview furniture and decor in their own room before buying.
+canonical URL    : https://apps.shopify.com/furniview
+<h1> tags ( 1)  : 'FurniView'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

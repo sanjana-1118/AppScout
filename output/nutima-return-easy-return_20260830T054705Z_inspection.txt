@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nutima-return-easy-return_20260830T054705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nutima-return-easy-return_20260830T054705Z.html
+Requested URL    : https://apps.shopify.com/nutima-return-easy-return
+Final URL        : https://apps.shopify.com/nutima-return-easy-return
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,876 bytes / 184,779 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NutimaReturn: Easy Return - Easy return management with customizable and scalable options | Shopify App Store
+meta description : Enable customers to create return requests seamlessly, receive instant email alerts, and manage returns with customizable options with NutimaReturn.
+canonical URL    : https://apps.shopify.com/nutima-return-easy-return
+<h1> tags ( 1)  : 'NutimaReturn: Easy Return'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

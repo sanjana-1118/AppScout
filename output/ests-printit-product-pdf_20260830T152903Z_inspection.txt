@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ests-printit-product-pdf_20260830T152903Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ests-printit-product-pdf_20260830T152903Z.html
+Requested URL    : https://apps.shopify.com/ests-printit-product-pdf
+Final URL        : https://apps.shopify.com/ests-printit-product-pdf
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,633 bytes / 183,536 chars
+Elapsed          : 0.968s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ESTS Catalog Product PDF - Custom PDF catalogs and brochures for your storefront | Shopify App Store
+meta description : Create downloadable product and collection PDFs with one click. Add print buttons, customize templates, and generate spec sheets and catalogs easily.
+canonical URL    : https://apps.shopify.com/ests-printit-product-pdf
+<h1> tags ( 1)  : 'ESTS Catalog Product PDF'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

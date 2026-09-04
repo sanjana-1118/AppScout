@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\announcement-bar-21_20260830T170431Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\announcement-bar-21_20260830T170431Z.html
+Requested URL    : https://apps.shopify.com/announcement-bar-21
+Final URL        : https://apps.shopify.com/announcement-bar-21
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,050 bytes / 166,961 chars
+Elapsed          : 0.864s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NL Announcement Bar - Customizable announcement bars with animations and targeting | Shopify App Store
+meta description : Announcement Bar lets you target each bar to a specific page or product, so your homepage, product pages, and cart each say exactly what they need ...
+canonical URL    : https://apps.shopify.com/announcement-bar-21
+<h1> tags ( 1)  : 'NL Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

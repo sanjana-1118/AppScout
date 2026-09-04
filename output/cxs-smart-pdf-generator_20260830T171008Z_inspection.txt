@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cxs-smart-pdf-generator_20260830T171008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cxs-smart-pdf-generator_20260830T171008Z.html
+Requested URL    : https://apps.shopify.com/cxs-smart-pdf-generator
+Final URL        : https://apps.shopify.com/cxs-smart-pdf-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,333 bytes / 201,240 chars
+Elapsed          : 0.891s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CXS Smart PDF Generator - Smart PDF generator for invoices, packing slips, and quotes | Shopify App Store
+meta description : Create professional Shopify PDF invoices and packing slips instantly. Bulk print/email documents, customize templates, and support multi-currency and taxes.
+canonical URL    : https://apps.shopify.com/cxs-smart-pdf-generator
+<h1> tags ( 1)  : 'CXS Smart PDF Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

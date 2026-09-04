@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\insta-cod_20260830T145143Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\insta-cod_20260830T145143Z.html
+Requested URL    : https://apps.shopify.com/insta-cod
+Final URL        : https://apps.shopify.com/insta-cod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,707 bytes / 188,602 chars
+Elapsed          : 0.936s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Insta COD & Partial Payment - Control COD: customise fees, set rules, block risky customers. | Shopify App Store
+meta description : With InstaCOD, you have complete control over the Cash on Delivery payment option in your store. You can easily add a custom fee—whether a fixed am...
+canonical URL    : https://apps.shopify.com/insta-cod
+<h1> tags ( 1)  : 'Insta COD & Partial Payment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

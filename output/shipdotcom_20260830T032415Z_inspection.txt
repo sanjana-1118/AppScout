@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipdotcom_20260830T032415Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipdotcom_20260830T032415Z.html
+Requested URL    : https://apps.shopify.com/shipdotcom
+Final URL        : https://apps.shopify.com/shipdotcom
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,697 bytes / 197,572 chars
+Elapsed          : 0.621s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SHIP.com | All‑in‑One Shipping - Ship Smarter with the Shipping Software for E-Commerce | Shopify App Store
+meta description : SHIP.com is the go-to shipping solution for small businesses. Ship in just 3 clicks with exclusive access to the absolute lowest rates available. Save hours!
+canonical URL    : https://apps.shopify.com/shipdotcom
+<h1> tags ( 1)  : 'SHIP.com | All‑in‑One Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

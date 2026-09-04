@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\project-shop-1_20260830T041135Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\project-shop-1_20260830T041135Z.html
+Requested URL    : https://apps.shopify.com/project-shop-1
+Final URL        : https://apps.shopify.com/project-shop-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,441 bytes / 173,334 chars
+Elapsed          : 1.458s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wholesale Samples ‑ SampleLoop - Wholesale sample request form with revenue attribution. | Shopify App Store
+meta description : Attribute wholesale sample requests to paid orders over 180 days. Capture requests on your Shopify storefront and auto-create $0 draft orders.
+canonical URL    : https://apps.shopify.com/project-shop-1
+<h1> tags ( 1)  : 'Wholesale Samples ‑ SampleLoop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

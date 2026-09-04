@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kamifactory-print-on-demand_20260830T145509Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kamifactory-print-on-demand_20260830T145509Z.html
+Requested URL    : https://apps.shopify.com/kamifactory-print-on-demand
+Final URL        : https://apps.shopify.com/kamifactory-print-on-demand
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,287 bytes / 159,196 chars
+Elapsed          : 0.805s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kamifactory: Print on Demand - Customize and sell premium products printed in Spain, Europe | Shopify App Store
+meta description : Your ally to create and sell personalized products on demand.
+Over 70 top-quality, selected products are ready for your unique touch! With Camifact...
+canonical URL    : https://apps.shopify.com/kamifactory-print-on-demand
+<h1> tags ( 1)  : 'Kamifactory: Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

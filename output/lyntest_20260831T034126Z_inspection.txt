@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lyntest_20260831T034126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lyntest_20260831T034126Z.html
+Requested URL    : https://apps.shopify.com/lyntest
+Final URL        : https://apps.shopify.com/lyntest
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,767 bytes / 169,678 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lyntest: A/B Testing Image - A/B test product images to increase conversions | Shopify App Store
+meta description : A/B test your Shopify product images with Lyntest. Find the most profitable visuals to boost add-to-carts, conversion rates, and revenue per visitor.
+canonical URL    : https://apps.shopify.com/lyntest
+<h1> tags ( 1)  : 'Lyntest: A/B Testing Image'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,15 @@
+# HTTP client — single synchronous request, no retry logic
+requests==2.32.3
+
+# HTML parsing for the inspection summary (read-only, no scraping infrastructure)
+# Uses Python's built-in html.parser backend — no lxml/MSVC required
+beautifulsoup4==4.12.3
+
+# PostgreSQL persistence & ORM
+sqlalchemy>=2.0.0
+psycopg[binary]>=3.1.0
+python-dotenv>=1.0.0
+# FastAPI Web Framework & Server
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.9.0

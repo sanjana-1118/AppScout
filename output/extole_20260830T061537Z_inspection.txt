@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\extole_20260830T061537Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\extole_20260830T061537Z.html
+Requested URL    : https://apps.shopify.com/extole
+Final URL        : https://apps.shopify.com/extole
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,255 bytes / 187,166 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Extole: Rewards and Referrals - Acquire customers and boost loyalty with referrals & rewards | Shopify App Store
+meta description : Launch refer a friend and drop a hint programs with the Extole app on Shopify
+canonical URL    : https://apps.shopify.com/extole
+<h1> tags ( 1)  : 'Extole: Rewards and Referrals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

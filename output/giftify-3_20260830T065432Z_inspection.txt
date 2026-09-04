@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\giftify-3_20260830T065432Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\giftify-3_20260830T065432Z.html
+Requested URL    : https://apps.shopify.com/giftify-3
+Final URL        : https://apps.shopify.com/giftify-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,389 bytes / 211,274 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Giftify ‑ Gift Wrap & Messages - Create a special gifting experience through your store. | Shopify App Store
+meta description : Create a special gifting experience through your store. Allow customers to send gift messages directly to their gift recipient through a custom email.
+canonical URL    : https://apps.shopify.com/giftify-3
+<h1> tags ( 1)  : 'Giftify ‑ Gift Wrap & Messages'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

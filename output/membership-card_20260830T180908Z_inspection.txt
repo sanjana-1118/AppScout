@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\membership-card_20260830T180908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\membership-card_20260830T180908Z.html
+Requested URL    : https://apps.shopify.com/membership-card
+Final URL        : https://apps.shopify.com/membership-card
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,075 bytes / 170,532 chars
+Elapsed          : 0.978s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Membership Card - タグでランク自動判定。顧客アカウントにデジタル会員カードを表示します。 | Shopify App Store
+meta description : 顧客アカウントのプロフィールページに、デジタル会員カードをリアルタイムで表示します。
+
+顧客に付与したShopifyタグをもとにランクを自動判定し、名前・ランク・会員番号が記載されたカードを表示します。複数のランクを設定して優先順位を管理でき、タグ・アイコン・表示名を自由にカスタマイズできます...
+canonical URL    : https://apps.shopify.com/membership-card?locale=ja
+<h1> tags ( 1)  : 'Membership Card'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

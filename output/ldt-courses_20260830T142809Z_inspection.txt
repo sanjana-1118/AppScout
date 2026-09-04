@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ldt-courses_20260830T142809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ldt-courses_20260830T142809Z.html
+Requested URL    : https://apps.shopify.com/ldt-courses
+Final URL        : https://apps.shopify.com/ldt-courses
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 246,253 bytes / 246,137 chars
+Elapsed          : 1.057s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LDT Courses & Communities - Easy build & sell online courses, tutorials, digital products | Shopify App Store
+meta description : Connect with your audience by offering online courses effortlessly through our LMS. Amplify sales by selling your courses, coaching programs, tutor...
+canonical URL    : https://apps.shopify.com/ldt-courses
+<h1> tags ( 1)  : 'LDT Courses & Communities'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

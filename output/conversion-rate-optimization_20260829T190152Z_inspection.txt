@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conversion-rate-optimization_20260829T190152Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conversion-rate-optimization_20260829T190152Z.html
+Requested URL    : https://apps.shopify.com/conversion-rate-optimization
+Final URL        : https://apps.shopify.com/conversion-rate-optimization
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,166 bytes / 181,041 chars
+Elapsed          : 0.485s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CRO Guru ‑  Launch Check - AI-powered CRO audits to boost your store’s conversion rate | Shopify App Store
+meta description : Optimisation tool to improve store conversion rate of your Shopify e-commerce store. Built by CRO experts exclusively for Shopify. CRO audit to create checklist
+canonical URL    : https://apps.shopify.com/conversion-rate-optimization
+<h1> tags ( 1)  : 'CRO Guru ‑  Launch Check'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

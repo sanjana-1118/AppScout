@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swipereel_20260831T032605Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swipereel_20260831T032605Z.html
+Requested URL    : https://apps.shopify.com/swipereel
+Final URL        : https://apps.shopify.com/swipereel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,284 bytes / 231,175 chars
+Elapsed          : 0.917s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SwipeReel Shoppable Videos UGC - Shoppable Instagram Reels & TikTok UGC with revenue analytics | Shopify App Store
+meta description : Turn Instagram Reels, TikTok & UGC into shoppable video feeds on Shopify. Tag products, drive sales with social proof. Free plan available.
+canonical URL    : https://apps.shopify.com/swipereel
+<h1> tags ( 1)  : 'SwipeReel Shoppable Videos UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

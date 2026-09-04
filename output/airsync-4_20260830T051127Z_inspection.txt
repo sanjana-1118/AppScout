@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airsync-4_20260830T051127Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\airsync-4_20260830T051127Z.html
+Requested URL    : https://apps.shopify.com/airsync-4
+Final URL        : https://apps.shopify.com/airsync-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,589 bytes / 216,486 chars
+Elapsed          : 0.776s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AirSync for Airtable - Connect your store to Airtable with real-time data sync | Shopify App Store
+meta description : AirSync automatically syncs your Shopify store data with Airtable, eliminating manual data entry. Your orders, customers, and inventory information...
+canonical URL    : https://apps.shopify.com/airsync-4
+<h1> tags ( 1)  : 'AirSync for Airtable'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

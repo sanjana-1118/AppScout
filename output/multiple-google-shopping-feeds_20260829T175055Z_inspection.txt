@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multiple-google-shopping-feeds_20260829T175055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multiple-google-shopping-feeds_20260829T175055Z.html
+Requested URL    : https://apps.shopify.com/multiple-google-shopping-feeds
+Final URL        : https://apps.shopify.com/multiple-google-shopping-feeds
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 251,804 bytes / 251,707 chars
+Elapsed          : 0.821s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Multifeed Google Shopping Feed - Feeds, server-side tracking & Google Automated Discounts | Shopify App Store
+meta description : Create high-quality feeds for Google, Meta, TikTok & custom platforms. Customize attributes with expressions and sync via API, CSV, TSV, XML, or JS...
+canonical URL    : https://apps.shopify.com/multiple-google-shopping-feeds
+<h1> tags ( 1)  : 'Multifeed Google Shopping Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

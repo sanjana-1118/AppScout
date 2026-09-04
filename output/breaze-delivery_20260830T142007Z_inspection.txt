@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\breaze-delivery_20260830T142007Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\breaze-delivery_20260830T142007Z.html
+Requested URL    : https://apps.shopify.com/breaze-delivery
+Final URL        : https://apps.shopify.com/breaze-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,059 bytes / 179,970 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Breaze Delivery - Impress customers with speedy, trackable same day delivery | Shopify App Store
+meta description : Breaze Delivery is a technolofy enabled delivery platform that allow Shopify merchants in South Africa to do same day and on-demand deliveries with ease.
+canonical URL    : https://apps.shopify.com/breaze-delivery
+<h1> tags ( 1)  : 'Breaze Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

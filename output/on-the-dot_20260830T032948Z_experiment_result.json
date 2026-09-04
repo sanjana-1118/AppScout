@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/on-the-dot",
+  "fetch_timestamp": "2026-08-30T03:29:48.037027+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\on-the-dot_20260830T032948Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\on-the-dot_20260830T032948Z.html",
+    "url": "https://apps.shopify.com/on-the-dot",
+    "final_url": "https://apps.shopify.com/on-the-dot",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 173218,
+    "body_text_length": 173129,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.797643,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "On the Dot - Use On the Dot to ship your parcels with ease | Shopify App Store",
+    "meta_description": "On the Dot automates your shipping workflow with real-time rates and instant label generation. Connect your account, set your shipping preferences,...",
+    "canonical_url": "https://apps.shopify.com/on-the-dot",
+    "h1_tags": [
+      "On the Dot"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "On the Dot",
+    "app_slug": "on-the-dot",
+    "app_url": "https://apps.shopify.com/on-the-dot",
+    "developer_name": "Shiplogic",
+    "description": "On the Dot automates your shipping workflow with real-time rates and instant label generation. Connect your account, set your shipping preferences,...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Shipping"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\on-the-dot_20260830T032948Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\on-the-dot_20260830T032948Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "On the Dot",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "on-the-dot",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/on-the-dot",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Shiplogic",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "On the Dot automates your shipping workflow with real-time rates and instant label generation. Connect your account, set your shipping preferences,...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Shipping",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

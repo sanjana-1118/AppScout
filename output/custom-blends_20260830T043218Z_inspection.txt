@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-blends_20260830T043218Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\custom-blends_20260830T043218Z.html
+Requested URL    : https://apps.shopify.com/custom-blends
+Final URL        : https://apps.shopify.com/custom-blends
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,141 bytes / 173,052 chars
+Elapsed          : 0.618s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Custom Blend Options - Create custom blends easily with real-time calculations. | Shopify App Store
+meta description : Let your customers create their own Custom Blends or Mix and Match on their Shopify Store. Perfect for Coffee, Tinctures, CBD, Teas and more. Try for free.
+canonical URL    : https://apps.shopify.com/custom-blends
+<h1> tags ( 1)  : 'Custom Blend Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

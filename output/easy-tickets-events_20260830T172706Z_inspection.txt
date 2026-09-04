@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-tickets-events_20260830T172706Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-tickets-events_20260830T172706Z.html
+Requested URL    : https://apps.shopify.com/easy-tickets-events
+Final URL        : https://apps.shopify.com/easy-tickets-events
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,243 bytes / 226,154 chars
+Elapsed          : 0.775s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Tickets & Events - Sell event tickets with QR check-in & drag-and-drop design | Shopify App Store
+meta description : Sell event tickets via Shopify. Manage attendees, send QR tickets and wallet passes, check in with a phone or POS.  Classes, tours, concerts, and more.
+canonical URL    : https://apps.shopify.com/easy-tickets-events
+<h1> tags ( 1)  : 'Easy Tickets & Events'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

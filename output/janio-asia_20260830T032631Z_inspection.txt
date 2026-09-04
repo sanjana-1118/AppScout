@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\janio-asia_20260830T032631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\janio-asia_20260830T032631Z.html
+Requested URL    : https://apps.shopify.com/janio-asia
+Final URL        : https://apps.shopify.com/janio-asia
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,800 bytes / 191,711 chars
+Elapsed          : 0.644s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Janio Asia - International eCommerce shipping to and through Southeast Asia | Shopify App Store
+meta description : 1. Integrating all the different processes across the supply chain onto a centralised platform, we simplify the logistics process for easy shipping...
+canonical URL    : https://apps.shopify.com/janio-asia
+<h1> tags ( 1)  : 'Janio Asia'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

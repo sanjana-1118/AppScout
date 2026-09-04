@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnpostage_20260830T054725Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnpostage_20260830T054725Z.html
+Requested URL    : https://apps.shopify.com/returnpostage
+Final URL        : https://apps.shopify.com/returnpostage
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,238 bytes / 180,143 chars
+Elapsed          : 0.480s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReturnPostage Automate Returns - Save time with an automated returns process for your store | Shopify App Store
+meta description : Offer an automated returns process for your store. Generate return labels and emails. Manage all your e-commerce returns from start to finish. Keep...
+canonical URL    : https://apps.shopify.com/returnpostage
+<h1> tags ( 1)  : 'ReturnPostage Automate Returns'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

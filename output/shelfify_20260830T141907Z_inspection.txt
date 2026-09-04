@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelfify_20260830T141907Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelfify_20260830T141907Z.html
+Requested URL    : https://apps.shopify.com/shelfify
+Final URL        : https://apps.shopify.com/shelfify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,258 bytes / 174,169 chars
+Elapsed          : 0.725s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shelfify - Add personalised shelves to your store | Shopify App Store
+meta description : Introducing Shelfify: Enhance Your Store with Effortless Product Matching!
+
+Shelfify empowers you to present customers with pertinent product sugge...
+canonical URL    : https://apps.shopify.com/shelfify
+<h1> tags ( 1)  : 'Shelfify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

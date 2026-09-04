@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xanavo-conversion-health_20260830T071610Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xanavo-conversion-health_20260830T071610Z.html
+Requested URL    : https://apps.shopify.com/xanavo-conversion-health
+Final URL        : https://apps.shopify.com/xanavo-conversion-health
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,634 bytes / 211,545 chars
+Elapsed          : 0.724s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Xanavo Conversion Health - Conversion Health Analysis with Prioritized Decisions | Shopify App Store
+meta description : Conversion health analysis with prioritized decisions and ongoing monitoring for ecommerce teams seeking clarity, structure, and measurable store improvements.
+canonical URL    : https://apps.shopify.com/xanavo-conversion-health
+<h1> tags ( 1)  : 'Xanavo Conversion Health'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

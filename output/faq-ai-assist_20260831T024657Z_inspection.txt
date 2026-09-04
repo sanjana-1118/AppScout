@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-ai-assist_20260831T024657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-ai-assist_20260831T024657Z.html
+Requested URL    : https://apps.shopify.com/faq-ai-assist
+Final URL        : https://apps.shopify.com/faq-ai-assist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,540 bytes / 191,065 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FAQ AI Assist - Answer buyer questions with FAQs and reviewed AI drafts | Shopify App Store
+meta description : 商品別・コレクション別・共通FAQを管理し、検索履歴から不足FAQを発見。確認して保存するAI下書きでFAQ運用を支援します。
+canonical URL    : https://apps.shopify.com/faq-ai-assist
+<h1> tags ( 1)  : 'FAQ AI Assist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

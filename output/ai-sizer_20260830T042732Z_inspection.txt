@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-sizer_20260830T042732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-sizer_20260830T042732Z.html
+Requested URL    : https://apps.shopify.com/ai-sizer
+Final URL        : https://apps.shopify.com/ai-sizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,006 bytes / 217,893 chars
+Elapsed          : 0.804s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Robosize: AI Try‑On & Fit - Increase Sales with Fit Recommendation and Virtual Try-Ons | Shopify App Store
+meta description : Shoppers can't try clothes on through a screen, so they guess, order two sizes, and send one back.
+
+Robosize fixes both halves of that. Virtual try...
+canonical URL    : https://apps.shopify.com/ai-sizer
+<h1> tags ( 1)  : 'Robosize: AI Try‑On & Fit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

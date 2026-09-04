@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\verda-eu-green-claims_20260831T030902Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\verda-eu-green-claims_20260831T030902Z.html
+Requested URL    : https://apps.shopify.com/verda-eu-green-claims
+Final URL        : https://apps.shopify.com/verda-eu-green-claims
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,991 bytes / 175,884 chars
+Elapsed          : 0.610s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Verda: EU Green Claims - Fix greenwashing and show the EU legal-guarantee notice | Shopify App Store
+meta description : From 27 September 2026, EU stores must drop vague green wording and show a harmonised legal-guarantee notice before checkout. Verda does both. The ...
+canonical URL    : https://apps.shopify.com/verda-eu-green-claims
+<h1> tags ( 1)  : 'Verda: EU Green Claims'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

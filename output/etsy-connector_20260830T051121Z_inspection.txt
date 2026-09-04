@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\etsy-connector_20260830T051121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\etsy-connector_20260830T051121Z.html
+Requested URL    : https://apps.shopify.com/etsy-connector
+Final URL        : https://apps.shopify.com/etsy-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,881 bytes / 201,774 chars
+Elapsed          : 1.008s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Etsy Connector - Sync with Etsy made simple | Shopify App Store
+meta description : Selling products on multiple channels is something that’ll enhance your store’s product visibility & brand reachability.
+
+Our app enables Shopify u...
+canonical URL    : https://apps.shopify.com/etsy-connector
+<h1> tags ( 1)  : 'Webkul Etsy Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

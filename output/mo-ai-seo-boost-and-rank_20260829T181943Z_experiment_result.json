@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+  "fetch_timestamp": "2026-08-29T18:19:43.019055+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mo-ai-seo-boost-and-rank_20260829T181943Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mo-ai-seo-boost-and-rank_20260829T181943Z.html",
+    "url": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+    "final_url": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 208658,
+    "body_text_length": 208545,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.558812,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "mO AI SEO ‑ Speed Optimization - Raise SEO rankings & page speed for better conversions. | Shopify App Store",
+    "meta_description": "Accelerate website performance & enhance search engine rankings with mO AI SEO. Achieve faster results and higher visibility with smart optimization.",
+    "canonical_url": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+    "h1_tags": [
+      "mO AI SEO ‑ Speed Optimization"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "mO AI SEO ‑ Speed Optimization",
+    "app_slug": "mo-ai-seo-boost-and-rank",
+    "app_url": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+    "developer_name": "miniOrange",
+    "description": "Accelerate website performance & enhance search engine rankings with mO AI SEO. Achieve faster results and higher visibility with smart optimization.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "SEO"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mo-ai-seo-boost-and-rank_20260829T181943Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\mo-ai-seo-boost-and-rank_20260829T181943Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "mO AI SEO ‑ Speed Optimization",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "mo-ai-seo-boost-and-rank",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/mo-ai-seo-boost-and-rank",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "miniOrange",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Accelerate website performance & enhance search engine rankings with mO AI SEO. Achieve faster results and higher visibility with smart optimization.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "SEO",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

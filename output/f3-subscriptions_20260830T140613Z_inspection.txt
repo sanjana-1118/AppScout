@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\f3-subscriptions_20260830T140613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\f3-subscriptions_20260830T140613Z.html
+Requested URL    : https://apps.shopify.com/f3-subscriptions
+Final URL        : https://apps.shopify.com/f3-subscriptions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,368 bytes / 167,275 chars
+Elapsed          : 0.937s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Folio: Subscriptions - Effortless Recurring Revenue using our app. | Shopify App Store
+meta description : Subscriptions recurring payment
+canonical URL    : https://apps.shopify.com/f3-subscriptions
+<h1> tags ( 1)  : 'Folio: Subscriptions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

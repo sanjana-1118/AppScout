@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsellr-ai-upsells_20260830T161350Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsellr-ai-upsells_20260830T161350Z.html
+Requested URL    : https://apps.shopify.com/upsellr-ai-upsells
+Final URL        : https://apps.shopify.com/upsellr-ai-upsells
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,372 bytes / 197,223 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upsellr: All‑In‑One Upsells - Lift order values with a suite of simple drag-n-drop upsells | Shopify App Store
+meta description : Don’t leave money on the table—let every order work harder for you! With Upsellr, you can add pre-purchase upsells in minutes, showing customers co...
+canonical URL    : https://apps.shopify.com/upsellr-ai-upsells
+<h1> tags ( 1)  : 'Upsellr: All‑In‑One Upsells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

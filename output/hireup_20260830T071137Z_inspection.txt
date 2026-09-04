@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hireup_20260830T071137Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hireup_20260830T071137Z.html
+Requested URL    : https://apps.shopify.com/hireup
+Final URL        : https://apps.shopify.com/hireup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,860 bytes / 207,751 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HireUp: Careers Page - Build a jobs board and accept job applications from your... | Shopify App Store
+meta description : Begin accepting résumés today with our RésuméUploader app block
+canonical URL    : https://apps.shopify.com/hireup
+<h1> tags ( 1)  : 'HireUp: Careers Page'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

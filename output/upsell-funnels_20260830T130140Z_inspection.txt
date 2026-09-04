@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsell-funnels_20260830T130140Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsell-funnels_20260830T130140Z.html
+Requested URL    : https://apps.shopify.com/upsell-funnels
+Final URL        : https://apps.shopify.com/upsell-funnels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,428 bytes / 219,337 chars
+Elapsed          : 0.872s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zegsu Cart & Checkout Upsell - Increase avg order value with upsell, cross sell & BOGO... | Shopify App Store
+meta description : Checkout upsells & order bump is the best upsell & cross sell app for Shopify. It helps you show BOGO offers in cart & checkout to increase average order value.
+canonical URL    : https://apps.shopify.com/upsell-funnels
+<h1> tags ( 1)  : 'Zegsu Cart & Checkout Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

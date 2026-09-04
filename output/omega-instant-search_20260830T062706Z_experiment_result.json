@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/omega-instant-search",
+  "fetch_timestamp": "2026-08-30T06:27:06.379935+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\omega-instant-search_20260830T062706Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\omega-instant-search_20260830T062706Z.html",
+    "url": "https://apps.shopify.com/omega-instant-search",
+    "final_url": "https://apps.shopify.com/omega-instant-search",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 211038,
+    "body_text_length": 210949,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.636622,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Omega Instant Search - Improve store searching and boost your sales | Shopify App Store",
+    "meta_description": "The Omega Instant Search app guides your potential clients to exactly what they are searching for and delivers accurate product search results in a...",
+    "canonical_url": "https://apps.shopify.com/omega-instant-search",
+    "h1_tags": [
+      "Omega Instant Search"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Omega Instant Search",
+    "app_slug": "omega-instant-search",
+    "app_url": "https://apps.shopify.com/omega-instant-search",
+    "developer_name": "Mirasvit Ecommerce Solutions",
+    "description": "The Omega Instant Search app guides your potential clients to exactly what they are searching for and delivers accurate product search results in a...",
+    "average_rating": 4.9,
+    "review_count": 102,
+    "category": "Navigation and menus"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\omega-instant-search_20260830T062706Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\omega-instant-search_20260830T062706Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Omega Instant Search",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "omega-instant-search",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/omega-instant-search",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Mirasvit Ecommerce Solutions",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "The Omega Instant Search app guides your potential clients to exactly what they are searching for and delivers accurate product search results in a...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.9,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 102,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Navigation and menus",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

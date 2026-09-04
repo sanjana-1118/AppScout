@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bike-size-pro_20260830T163321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bike-size-pro_20260830T163321Z.html
+Requested URL    : https://apps.shopify.com/bike-size-pro
+Final URL        : https://apps.shopify.com/bike-size-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,173 bytes / 178,080 chars
+Elapsed          : 0.777s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bike Size Pro - Find the perfect bike size with custom recommendations | Shopify App Store
+meta description : Helping customers choose the perfect bike size is critical for reducing returns and increasing conversion rates.
+canonical URL    : https://apps.shopify.com/bike-size-pro
+<h1> tags ( 1)  : 'Bike Size Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

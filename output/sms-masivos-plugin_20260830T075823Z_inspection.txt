@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-masivos-plugin_20260830T075823Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sms-masivos-plugin_20260830T075823Z.html
+Requested URL    : https://apps.shopify.com/sms-masivos-plugin
+Final URL        : https://apps.shopify.com/sms-masivos-plugin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,508 bytes / 162,346 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SMS Masivos ‑ SMS Marketing - Recupera carritos abandonados por SMS | WhatsApp y vende más. | Shopify App Store
+meta description : Nuestro plugin de SMS Masivos te permite, entre otras muchas cosas, recuperar carritos abandonados, confirmar pedidos, dar la bienvenida a usuarios. ¡Vende más!
+canonical URL    : https://apps.shopify.com/sms-masivos-plugin?locale=es
+<h1> tags ( 1)  : 'SMS Masivos ‑ SMS Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nda-profit-global_20260830T072047Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nda-profit-global_20260830T072047Z.html
+Requested URL    : https://apps.shopify.com/nda-profit-global
+Final URL        : https://apps.shopify.com/nda-profit-global
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,197 bytes / 175,108 chars
+Elapsed          : 1.003s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NDA Profit Global - Order-level profit after VAT, goods, shipping and returns | Shopify App Store
+meta description : See what each order leaves you after VAT, goods, shipping, returns and ads. Set rates per destination country and track profit per order, product and region.
+canonical URL    : https://apps.shopify.com/nda-profit-global
+<h1> tags ( 1)  : 'NDA Profit Global'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

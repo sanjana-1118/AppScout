@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spectre-reviews-ai_20260830T033051Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spectre-reviews-ai_20260830T033051Z.html
+Requested URL    : https://apps.shopify.com/spectre-reviews-ai
+Final URL        : https://apps.shopify.com/spectre-reviews-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,058 bytes / 204,965 chars
+Elapsed          : 0.446s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Spectre AI Reviews - AI-powered reviews with Google Shopping and Meta feeds | Shopify App Store
+meta description : Collect verified photo and video reviews. Use AI to analyze sentiment and generate summaries. Sync ratings to Google Shopping and Meta automatically.
+canonical URL    : https://apps.shopify.com/spectre-reviews-ai
+<h1> tags ( 1)  : 'Spectre AI Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

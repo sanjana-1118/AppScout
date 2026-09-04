@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\watix_20260830T163809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\watix_20260830T163809Z.html
+Requested URL    : https://apps.shopify.com/watix
+Final URL        : https://apps.shopify.com/watix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,771 bytes / 214,657 chars
+Elapsed          : 0.828s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Watix ‑ WhatsApp Order Alerts - Connect your WhatsApp number with official Meta Cloud API | Shopify App Store
+meta description : Connect your Shopify store with Official WhatsApp Cloud API to automate order confirmations, tracking updates and real-time customer notifications on WhatsApp.
+canonical URL    : https://apps.shopify.com/watix
+<h1> tags ( 1)  : 'Watix ‑ WhatsApp Order Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

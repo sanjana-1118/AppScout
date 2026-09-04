@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\badges-by-tag_20260830T175302Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\badges-by-tag_20260830T175302Z.html
+Requested URL    : https://apps.shopify.com/badges-by-tag
+Final URL        : https://apps.shopify.com/badges-by-tag
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,407 bytes / 183,300 chars
+Elapsed          : 0.863s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UltraTalent ‑ Badges by Tag - Create customizable product badges from Product tags. | Shopify App Store
+meta description : Badges by Tag lets merchants create storefront badges from existing Shopify product tags. Merchants can map tags such as new, sale, bestseller, or ...
+canonical URL    : https://apps.shopify.com/badges-by-tag
+<h1> tags ( 1)  : 'UltraTalent ‑ Badges by Tag'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

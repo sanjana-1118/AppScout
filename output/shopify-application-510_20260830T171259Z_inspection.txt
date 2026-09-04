@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-510_20260830T171259Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-510_20260830T171259Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-510
+Final URL        : https://apps.shopify.com/shopify-application-510
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,564 bytes / 164,701 chars
+Elapsed          : 0.747s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ふるさとズクーポン変換ツール - ふるさとズ返礼品クーポンを簡単作成。割引コードを一括変換し、CSV編集の手間を大幅削減。 | Shopify App Store
+meta description : 「ふるさとズクーポン変換ツール」は、Shopifyで作成した割引コードをふるさと納税プラットフォーム「ふるさとズ」の返礼品オンラインクーポン形式に自動変換するアプリです。従来はCSVファイルの手作業編集が必要でしたが、本
+  アプリはShopify Admin API経由で直接取得し、ふるさと...
+canonical URL    : https://apps.shopify.com/shopify-application-510?locale=ja
+<h1> tags ( 1)  : 'ふるさとズクーポン変換ツール'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

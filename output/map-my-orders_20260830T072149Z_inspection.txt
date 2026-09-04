@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\map-my-orders_20260830T072149Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\map-my-orders_20260830T072149Z.html
+Requested URL    : https://apps.shopify.com/map-my-orders
+Final URL        : https://apps.shopify.com/map-my-orders
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,711 bytes / 204,622 chars
+Elapsed          : 0.726s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Map My Orders - Map orders and revenue by location to identify strong markets | Shopify App Store
+meta description : Map Shopify orders and revenue by location. Identify your strongest sales markets and add a live order map to your storefront for social proof.
+canonical URL    : https://apps.shopify.com/map-my-orders
+<h1> tags ( 1)  : 'Map My Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

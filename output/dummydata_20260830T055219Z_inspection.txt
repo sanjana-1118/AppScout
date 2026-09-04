@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dummydata_20260830T055219Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dummydata_20260830T055219Z.html
+Requested URL    : https://apps.shopify.com/dummydata
+Final URL        : https://apps.shopify.com/dummydata
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,357 bytes / 186,266 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dummy Data | Sample Data - Effortlessly Add Realistic Dummy Data for Testing and Demos | Shopify App Store
+meta description : Quickly populate your store with realistic dummy fake test products, customers, and orders. Ideal for testing, demos, theme development, and faster store setup.
+canonical URL    : https://apps.shopify.com/dummydata
+<h1> tags ( 1)  : 'Dummy Data | Sample Data'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

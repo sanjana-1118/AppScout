@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kool_20260830T035336Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kool_20260830T035336Z.html
+Requested URL    : https://apps.shopify.com/kool
+Final URL        : https://apps.shopify.com/kool
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,541 bytes / 171,418 chars
+Elapsed          : 0.781s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kool - Vendé tus productos con creadores, sin inversión ni riesgo. | Shopify App Store
+meta description : Trabajar con influencers suele terminar en códigos repartidos a mano y comisiones calculadas en planillas, sin saber quién vendió. Kool le da a cad...
+canonical URL    : https://apps.shopify.com/kool?locale=es
+<h1> tags ( 1)  : 'Kool'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

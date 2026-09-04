@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asto-whatsapp-retargeting_20260830T150159Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asto-whatsapp-retargeting_20260830T150159Z.html
+Requested URL    : https://apps.shopify.com/asto-whatsapp-retargeting
+Final URL        : https://apps.shopify.com/asto-whatsapp-retargeting
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,055 bytes / 185,935 chars
+Elapsed          : 0.730s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Asto ‑ Conversational Commerce - Let visitors browse, add to cart and buy directly in... | Shopify App Store
+meta description : Turn WhatsApp into your 24/7 sales channel. Asto helps visitors browse products, answers questions in any language, and completes purchases in chat.
+canonical URL    : https://apps.shopify.com/asto-whatsapp-retargeting
+<h1> tags ( 1)  : 'Asto ‑ Conversational Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

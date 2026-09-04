@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dtf-gang-sheet-builder-1_20260831T033317Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dtf-gang-sheet-builder-1_20260831T033317Z.html
+Requested URL    : https://apps.shopify.com/dtf-gang-sheet-builder-1
+Final URL        : https://apps.shopify.com/dtf-gang-sheet-builder-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,712 bytes / 176,615 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DTF Onestop Gang Sheet Builder - Let customers build gang sheets, with AI tools built in | Shopify App Store
+meta description : Turn your store into a self-serve DTF gang sheet shop.
+
+Customers upload artwork, lay it out on a 22-inch-wide sheet, watch the total update live, ...
+canonical URL    : https://apps.shopify.com/dtf-gang-sheet-builder-1
+<h1> tags ( 1)  : 'DTF Onestop Gang Sheet Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

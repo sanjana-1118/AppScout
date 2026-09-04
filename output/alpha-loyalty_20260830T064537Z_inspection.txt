@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alpha-loyalty_20260830T064537Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alpha-loyalty_20260830T064537Z.html
+Requested URL    : https://apps.shopify.com/alpha-loyalty
+Final URL        : https://apps.shopify.com/alpha-loyalty
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,107 bytes / 213,004 chars
+Elapsed          : 0.516s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Alpha: Loyalty Program, Points - No-coding Loyalty App with loyalty points, rewards & VIP tiers | Shopify App Store
+meta description : No-coding customer loyalty programs for Shopify. Let customers earn points for shopping & brand interactions, and redeem them for discounts and freebies.
+canonical URL    : https://apps.shopify.com/alpha-loyalty
+<h1> tags ( 1)  : 'Alpha: Loyalty Program, Points'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

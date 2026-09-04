@@ -1,0 +1,3 @@
+# Raw HTTP response files land here.
+# Files are named: <app-slug>_<utc-timestamp>.json
+# Do not commit real response files — add them to .gitignore.

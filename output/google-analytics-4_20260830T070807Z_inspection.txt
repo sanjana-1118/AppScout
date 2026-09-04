@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-analytics-4_20260830T070807Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-analytics-4_20260830T070807Z.html
+Requested URL    : https://apps.shopify.com/google-analytics-4
+Final URL        : https://apps.shopify.com/google-analytics-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 238,465 bytes / 238,346 chars
+Elapsed          : 0.808s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GA4 Google Analytics 4 ‑ GTM - Automate GA4 eCommerce & Custom Events Tracking via GTM | Shopify App Store
+meta description : Track product views, Add to Cart, Checkout, and Purchase events in Google Analytics 4 for Shopify. Real-time ecommerce reporting with no-code setup.
+canonical URL    : https://apps.shopify.com/google-analytics-4
+<h1> tags ( 1)  : 'GA4 Google Analytics 4 ‑ GTM'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

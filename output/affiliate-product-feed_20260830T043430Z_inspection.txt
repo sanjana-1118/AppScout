@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\affiliate-product-feed_20260830T043430Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\affiliate-product-feed_20260830T043430Z.html
+Requested URL    : https://apps.shopify.com/affiliate-product-feed
+Final URL        : https://apps.shopify.com/affiliate-product-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,337 bytes / 171,244 chars
+Elapsed          : 1.168s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Affiliate Product Feed - Automatically export your products via FTP | Shopify App Store
+meta description : Affiliate Product Feed from Alliant Development allows you to provide up-to-date information about your products to your affiliates and business pa...
+canonical URL    : https://apps.shopify.com/affiliate-product-feed
+<h1> tags ( 1)  : 'Affiliate Product Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

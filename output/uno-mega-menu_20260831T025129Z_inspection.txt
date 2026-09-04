@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uno-mega-menu_20260831T025129Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uno-mega-menu_20260831T025129Z.html
+Requested URL    : https://apps.shopify.com/uno-mega-menu
+Final URL        : https://apps.shopify.com/uno-mega-menu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,010 bytes / 199,921 chars
+Elapsed          : 0.956s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Uno Mega Menu, Nav Builder - Mega menu, dropdown & tab menu builder, no code | Shopify App Store
+meta description : Build mega menus, dropdown menus and tab menus for your Shopify store. Live prices, sale prices and stock states right in the menu. Styled your way, no code.
+canonical URL    : https://apps.shopify.com/uno-mega-menu
+<h1> tags ( 1)  : 'Uno Mega Menu, Nav Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

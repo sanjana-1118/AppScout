@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishful-ultimate-wishlist_20260830T133824Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishful-ultimate-wishlist_20260830T133824Z.html
+Requested URL    : https://apps.shopify.com/wishful-ultimate-wishlist
+Final URL        : https://apps.shopify.com/wishful-ultimate-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,560 bytes / 172,467 chars
+Elapsed          : 0.978s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Folio: Wishlist - Customizable, Shareable and Unlimited Wishlist | Shopify App Store
+meta description : Folio Wishlist empowers customers to bookmark their chosen merchandise, our app will provide a dashboard that can keep you posted with the analytic...
+canonical URL    : https://apps.shopify.com/wishful-ultimate-wishlist
+<h1> tags ( 1)  : 'Folio: Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

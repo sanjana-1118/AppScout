@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sociable-reviews_20260829T184211Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sociable-reviews_20260829T184211Z.html
+Requested URL    : https://apps.shopify.com/sociable-reviews
+Final URL        : https://apps.shopify.com/sociable-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,903 bytes / 180,792 chars
+Elapsed          : 1.726s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sociable ‑ Social Reviews - Display Facebook, Google and Trustpilot reviews in one widget | Shopify App Store
+meta description : Display customer reviews from Google, Facebook & Trustpilot in customizable widgets. Build trust & increase conversions with social proof that shoppers trust.
+canonical URL    : https://apps.shopify.com/sociable-reviews
+<h1> tags ( 1)  : 'Sociable ‑ Social Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

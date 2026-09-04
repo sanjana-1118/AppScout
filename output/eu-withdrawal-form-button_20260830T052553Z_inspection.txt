@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-form-button_20260830T052553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-withdrawal-form-button_20260830T052553Z.html
+Requested URL    : https://apps.shopify.com/eu-withdrawal-form-button
+Final URL        : https://apps.shopify.com/eu-withdrawal-form-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,206 bytes / 197,111 chars
+Elapsed          : 0.720s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lifetime: EU Withdrawal Button - EU Withdrawal Button and Form - Lifetime Deal: Pay Once... | Shopify App Store
+meta description : Easily comply with EU Directive 2023/2673. Add a mandatory withdrawal button to your store, automate request tracking, and use analytics to reduce revenue loss.
+canonical URL    : https://apps.shopify.com/eu-withdrawal-form-button
+<h1> tags ( 1)  : 'Lifetime: EU Withdrawal Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

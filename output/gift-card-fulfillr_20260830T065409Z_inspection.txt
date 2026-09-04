@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gift-card-fulfillr_20260830T065409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gift-card-fulfillr_20260830T065409Z.html
+Requested URL    : https://apps.shopify.com/gift-card-fulfillr
+Final URL        : https://apps.shopify.com/gift-card-fulfillr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,019 bytes / 188,911 chars
+Elapsed          : 0.631s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : #GiftCardFulfiller - Automatically capture and fulfill gift cards | Shopify App Store
+meta description : In many countries, merchants can't charge for orders until dispatch. This delays digital gift cards and specifically if ordered with physical goods...
+canonical URL    : https://apps.shopify.com/gift-card-fulfillr
+<h1> tags ( 1)  : '#GiftCardFulfiller'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

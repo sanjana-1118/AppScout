@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loxx_20260829T184109Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loxx_20260829T184109Z.html
+Requested URL    : https://apps.shopify.com/loxx
+Final URL        : https://apps.shopify.com/loxx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,329 bytes / 177,214 chars
+Elapsed          : 0.611s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loxx ‑ Product Reviews App - Import reviews and display them with custom widgets | Shopify App Store
+meta description : Import product reviews with CSV files, manage feedback, and display customizable review widgets to build trust on your store.
+canonical URL    : https://apps.shopify.com/loxx
+<h1> tags ( 1)  : 'Loxx ‑ Product Reviews App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\diffy_20260830T055115Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\diffy_20260830T055115Z.html
+Requested URL    : https://apps.shopify.com/diffy
+Final URL        : https://apps.shopify.com/diffy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,985 bytes / 184,895 chars
+Elapsed          : 0.712s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Diffy Theme Tools - Compare, Backup, Search, and Track Changes in Your Themes | Shopify App Store
+meta description : Quickly compare two themes, view/download file changes, and search themes for keywords in your Shopify store.
+canonical URL    : https://apps.shopify.com/diffy
+<h1> tags ( 1)  : 'Diffy Theme Tools'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

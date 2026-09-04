@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alienz-countdown-timer-bar_20260830T175716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\alienz-countdown-timer-bar_20260830T175716Z.html
+Requested URL    : https://apps.shopify.com/alienz-countdown-timer-bar
+Final URL        : https://apps.shopify.com/alienz-countdown-timer-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,077 bytes / 183,962 chars
+Elapsed          : 0.706s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Alienz ‑ Countdown Timer Bar - Add countdown bars to any page with a live visual... | Shopify App Store
+meta description : Show shoppers how long is left before a sale ends.
+
+A live visual editor lets you pick colors, gradients, patterns, animations, and corner radius. ...
+canonical URL    : https://apps.shopify.com/alienz-countdown-timer-bar
+<h1> tags ( 1)  : 'Alienz ‑ Countdown Timer Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

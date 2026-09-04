@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weatheriship_20260830T032308Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\weatheriship_20260830T032308Z.html
+Requested URL    : https://apps.shopify.com/weatheriship
+Final URL        : https://apps.shopify.com/weatheriship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,348 bytes / 215,239 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WeatherIShip ‑ Ship by Weather - Ensure Safe Delivery of Temperature-Sensitive Packages | Shopify App Store
+meta description : WeatherIShip is a must-have app for any merchant who deals with temperature-sensitive products. Ideal for shipping livestock, houseplants, or other perishables
+canonical URL    : https://apps.shopify.com/weatheriship
+<h1> tags ( 1)  : 'WeatherIShip ‑ Ship by Weather'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

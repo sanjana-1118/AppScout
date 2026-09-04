@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatbeacon-picturedata_20260830T154641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatbeacon-picturedata_20260830T154641Z.html
+Requested URL    : https://apps.shopify.com/chatbeacon-picturedata
+Final URL        : https://apps.shopify.com/chatbeacon-picturedata
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,373 bytes / 195,258 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PictureData by ChatBeacon - AI chatbot that upsells with real product chat, not menus | Shopify App Store
+meta description : PictureData is a Shopify add-on that lets shoppers chat in natural language to find products. No filters or menus, just real results.
+canonical URL    : https://apps.shopify.com/chatbeacon-picturedata
+<h1> tags ( 1)  : 'PictureData by ChatBeacon'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

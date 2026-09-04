@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\standing-orders-for-b2b_20260830T041242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\standing-orders-for-b2b_20260830T041242Z.html
+Requested URL    : https://apps.shopify.com/standing-orders-for-b2b
+Final URL        : https://apps.shopify.com/standing-orders-for-b2b
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,993 bytes / 167,886 chars
+Elapsed          : 2.277s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Orumio — Standing Orders - Recurring B2B orders drafted on schedule, ready for review | Shopify App Store
+meta description : Schedule recurring B2B draft orders for company locations. Each run follows the catalog and payment terms already set there, and you review every draft.
+canonical URL    : https://apps.shopify.com/standing-orders-for-b2b
+<h1> tags ( 1)  : 'Orumio — Standing Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

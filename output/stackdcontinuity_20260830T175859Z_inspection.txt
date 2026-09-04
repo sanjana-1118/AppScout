@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stackdcontinuity_20260830T175859Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stackdcontinuity_20260830T175859Z.html
+Requested URL    : https://apps.shopify.com/stackdcontinuity
+Final URL        : https://apps.shopify.com/stackdcontinuity
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,833 bytes / 192,742 chars
+Elapsed          : 0.766s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stackd: Continuity & Wishlist - 4-in-1 wishlist with stock and price alerts. And more. | Shopify App Store
+meta description : Stackd: Shopping Continuity gives merchants a single app for wishlists, back-in-stock alerts, price-drop notifications, cart sync, and recently vie...
+canonical URL    : https://apps.shopify.com/stackdcontinuity
+<h1> tags ( 1)  : 'Stackd: Continuity & Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

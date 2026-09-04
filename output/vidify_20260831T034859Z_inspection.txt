@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vidify_20260831T034859Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vidify_20260831T034859Z.html
+Requested URL    : https://apps.shopify.com/vidify
+Final URL        : https://apps.shopify.com/vidify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,099 bytes / 206,992 chars
+Elapsed          : 0.668s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vidify: AI Video Generator - Make an AI video of your product from just an... | Shopify App Store
+meta description : Vidify transforms your static product images into dynamic videos using the power of AI. Upload any product photo from your store and generate profe...
+canonical URL    : https://apps.shopify.com/vidify
+<h1> tags ( 1)  : 'Vidify: AI Video Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

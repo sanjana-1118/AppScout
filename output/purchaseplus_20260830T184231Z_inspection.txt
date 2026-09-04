@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\purchaseplus_20260830T184231Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\purchaseplus_20260830T184231Z.html
+Requested URL    : https://apps.shopify.com/purchaseplus
+Final URL        : https://apps.shopify.com/purchaseplus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,976 bytes / 166,882 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Surcharly - Sell warranties and add-ons at checkout with buyer consent | Shopify App Store
+meta description : Sell extended warranties and protection add-ons at checkout. Buyers opt in with one tap, with explicit consent and real order line items.
+canonical URL    : https://apps.shopify.com/purchaseplus
+<h1> tags ( 1)  : 'Surcharly'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

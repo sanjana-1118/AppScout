@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishmate_20260830T064810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishmate_20260830T064810Z.html
+Requested URL    : https://apps.shopify.com/wishmate
+Final URL        : https://apps.shopify.com/wishmate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,485 bytes / 197,364 chars
+Elapsed          : 0.619s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WishMate ‑ Wishlist Pro - Increase your store conversions with full featured wishlist | Shopify App Store
+meta description : Let customers save favorites, boost conversions, and grow sales effortlessly with WishMate - a customizable wishlist app built for Shopify.
+canonical URL    : https://apps.shopify.com/wishmate
+<h1> tags ( 1)  : 'WishMate ‑ Wishlist Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

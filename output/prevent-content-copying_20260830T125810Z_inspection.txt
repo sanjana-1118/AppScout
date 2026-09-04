@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prevent-content-copying_20260830T125810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prevent-content-copying_20260830T125810Z.html
+Requested URL    : https://apps.shopify.com/prevent-content-copying
+Final URL        : https://apps.shopify.com/prevent-content-copying
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,966 bytes / 185,877 chars
+Elapsed          : 1.392s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Protection Shield - Add a protection layer on your store to protect store... | Shopify App Store
+meta description : Apart from installing you don't need to do any changes in your store.
+It starts protecting your store right away once you install and enable the ap...
+canonical URL    : https://apps.shopify.com/prevent-content-copying
+<h1> tags ( 1)  : 'Protection Shield'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

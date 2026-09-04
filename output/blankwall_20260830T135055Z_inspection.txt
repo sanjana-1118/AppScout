@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blankwall_20260830T135055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blankwall_20260830T135055Z.html
+Requested URL    : https://apps.shopify.com/blankwall
+Final URL        : https://apps.shopify.com/blankwall
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,910 bytes / 205,799 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blankwall ‑ AR Art Previews - Photorealistic AR previews for artwork and prints. | Shopify App Store
+meta description : Simply add the Blankwall AR Button to your product page, and your entire art catalog is instantly supported. Whether you have 100 products or 10000...
+canonical URL    : https://apps.shopify.com/blankwall
+<h1> tags ( 1)  : 'Blankwall ‑ AR Art Previews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

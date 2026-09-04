@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sortlock_20260831T024431Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sortlock_20260831T024431Z.html
+Requested URL    : https://apps.shopify.com/sortlock
+Final URL        : https://apps.shopify.com/sortlock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,365 bytes / 174,272 chars
+Elapsed          : 0.909s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SortLock - Pin featured products while collection sorting continues | Shopify App Store
+meta description : Keep featured products at fixed collection positions while unpinned items follow best-selling, newest, price, or title order. Free plan available.
+canonical URL    : https://apps.shopify.com/sortlock
+<h1> tags ( 1)  : 'SortLock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

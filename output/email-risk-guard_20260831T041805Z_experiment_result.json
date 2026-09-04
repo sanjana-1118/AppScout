@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/email-risk-guard",
+  "fetch_timestamp": "2026-08-31T04:18:05.182030+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\email-risk-guard_20260831T041805Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\email-risk-guard_20260831T041805Z.html",
+    "url": "https://apps.shopify.com/email-risk-guard",
+    "final_url": "https://apps.shopify.com/email-risk-guard",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 179057,
+    "body_text_length": 178967,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.894512,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "MailShield: Fake Email Blocker - Blocks fake emails and fixes the typos that lose you... | Shopify App Store",
+    "meta_description": "Block disposable and fake email addresses at checkout, and fix shopper typos so order confirmations actually arrive. Works on any Shopify plan.",
+    "canonical_url": "https://apps.shopify.com/email-risk-guard",
+    "h1_tags": [
+      "MailShield: Fake Email Blocker"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "MailShield: Fake Email Blocker",
+    "app_slug": "email-risk-guard",
+    "app_url": "https://apps.shopify.com/email-risk-guard",
+    "developer_name": "Stackedboost",
+    "description": "Block disposable and fake email addresses at checkout, and fix shopper typos so order confirmations actually arrive. Works on any Shopify plan.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Fraud"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\email-risk-guard_20260831T041805Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\email-risk-guard_20260831T041805Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "MailShield: Fake Email Blocker",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "email-risk-guard",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/email-risk-guard",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Stackedboost",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Block disposable and fake email addresses at checkout, and fix shopper typos so order confirmations actually arrive. Works on any Shopify plan.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Fraud",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

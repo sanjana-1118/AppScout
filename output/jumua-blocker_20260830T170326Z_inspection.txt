@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jumua-blocker_20260830T170326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jumua-blocker_20260830T170326Z.html
+Requested URL    : https://apps.shopify.com/jumua-blocker
+Final URL        : https://apps.shopify.com/jumua-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,524 bytes / 175,413 chars
+Elapsed          : 0.826s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Waqt ‑ Jumu'ah Blocker - Automate Friday checkout pauses and protect your SEO. | Shopify App Store
+meta description : Automatically pause your Shopify store sales during Friday Jumu'ah prayer. Keep your catalog open, protect your SEO, and ensure your income remains Halal.
+canonical URL    : https://apps.shopify.com/jumua-blocker
+<h1> tags ( 1)  : "Waqt ‑ Jumu'ah Blocker"
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

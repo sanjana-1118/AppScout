@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-100_20260830T125856Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-100_20260830T125856Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-100
+Final URL        : https://apps.shopify.com/shopify-application-100
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,692 bytes / 168,661 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : スマホアプリを活用した販促CRMなら‑ OTEGARU - コアファンとの関係性を深めていくためのスマホ施策 | Shopify App Store
+meta description : アプセルではストアのブランディング、集客、売上増加のための宣伝販売促進をアプリを通じて実行いただけます。実行には弊社スタッフがしっかりサポートいたします。
+canonical URL    : https://apps.shopify.com/shopify-application-100?locale=ja
+<h1> tags ( 1)  : 'スマホアプリを活用した販促CRMなら‑ OTEGARU'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

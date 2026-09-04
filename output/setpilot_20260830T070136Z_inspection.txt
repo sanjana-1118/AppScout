@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\setpilot_20260830T070136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\setpilot_20260830T070136Z.html
+Requested URL    : https://apps.shopify.com/setpilot
+Final URL        : https://apps.shopify.com/setpilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,179 bytes / 230,054 chars
+Elapsed          : 0.736s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Setpilot • AI Profit Analytics - Profit analytics with cost tracking and a margin calculator. | Shopify App Store
+meta description : Shopify shows revenue. Setpilot shows profit. Know exactly where profit is made, lost, or left on the table.
+canonical URL    : https://apps.shopify.com/setpilot
+<h1> tags ( 1)  : 'Setpilot • AI Profit Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

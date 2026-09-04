@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ea-accessibility_20260830T152912Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ea-accessibility_20260830T152912Z.html
+Requested URL    : https://apps.shopify.com/ea-accessibility
+Final URL        : https://apps.shopify.com/ea-accessibility
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,886 bytes / 232,775 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EA• Accessibility ADA WCAG EAA - Enable accessibility widget compliance AODA, ADA, WCAG & EAA | Shopify App Store
+meta description : Solve all your accessibility compliance needs with one easy to use app! Just install in your theme embed and your good to go in less than 10 seconds.
+canonical URL    : https://apps.shopify.com/ea-accessibility
+<h1> tags ( 1)  : 'EA• Accessibility ADA WCAG EAA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revlifter-app_20260830T144631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revlifter-app_20260830T144631Z.html
+Requested URL    : https://apps.shopify.com/revlifter-app
+Final URL        : https://apps.shopify.com/revlifter-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,857 bytes / 168,760 chars
+Elapsed          : 0.637s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tempo by RevLifter - Tempo spots shoppers about to leave and stops them | Shopify App Store
+meta description : Tempo, RevLifter's predictive engine, reads real-time behaviour to work out who's about to leave without buying, then steps in before they go.
+canonical URL    : https://apps.shopify.com/revlifter-app
+<h1> tags ( 1)  : 'Tempo by RevLifter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

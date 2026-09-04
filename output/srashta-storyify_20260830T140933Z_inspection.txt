@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\srashta-storyify_20260830T140933Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\srashta-storyify_20260830T140933Z.html
+Requested URL    : https://apps.shopify.com/srashta-storyify
+Final URL        : https://apps.shopify.com/srashta-storyify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,872 bytes / 172,783 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Srashta Storify - Boost sales with product videos & story highlights | Shopify App Store
+meta description : Srashta Storify simplifies the process for customers to swiftly explore and purchase products more efficiently through shoppable videos. Implement ...
+canonical URL    : https://apps.shopify.com/srashta-storyify
+<h1> tags ( 1)  : 'Srashta Storify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

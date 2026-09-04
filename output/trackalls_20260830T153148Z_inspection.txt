@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackalls_20260830T153148Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackalls_20260830T153148Z.html
+Requested URL    : https://apps.shopify.com/trackalls
+Final URL        : https://apps.shopify.com/trackalls
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,033 bytes / 171,860 chars
+Elapsed          : 1.131s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trackalls - Track all logistics orders in real time on a panel. | Shopify App Store
+meta description : Trackall supports sellers in automatically tracking the logistics trajectory and viewing the logistics status in real time.It support one panel to ...
+canonical URL    : https://apps.shopify.com/trackalls
+<h1> tags ( 1)  : 'Trackalls'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

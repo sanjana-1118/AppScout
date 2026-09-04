@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsell-by-email_20260830T135721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsell-by-email_20260830T135721Z.html
+Requested URL    : https://apps.shopify.com/upsell-by-email
+Final URL        : https://apps.shopify.com/upsell-by-email
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,356 bytes / 182,267 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SpurIT Upsell Email Marketing - Automate Thank you email with product upsell | Shopify App Store
+meta description : Would you like to stay in touch with your customers and make your emails another point of sale? Would you like to discover a seamless way to promot...
+canonical URL    : https://apps.shopify.com/upsell-by-email
+<h1> tags ( 1)  : 'SpurIT Upsell Email Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

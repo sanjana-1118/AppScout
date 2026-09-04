@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ezy-all-in-one-chat-widgets_20260830T143541Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ezy-all-in-one-chat-widgets_20260830T143541Z.html
+Requested URL    : https://apps.shopify.com/ezy-all-in-one-chat-widgets
+Final URL        : https://apps.shopify.com/ezy-all-in-one-chat-widgets
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,643 bytes / 183,550 chars
+Elapsed          : 0.943s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChatPop: Multi Chat Widget - Add WhatsApp Chat, Phone Call, Facebook Messenger Chat Buttons | Shopify App Store
+meta description : Chatpop: An all-in-one chat button for seamless customer communication via WhatsApp, Facebook Messenger, Phone Call & more. Elevate your customer support now
+canonical URL    : https://apps.shopify.com/ezy-all-in-one-chat-widgets
+<h1> tags ( 1)  : 'ChatPop: Multi Chat Widget'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

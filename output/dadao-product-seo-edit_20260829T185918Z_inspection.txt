@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dadao-product-seo-edit_20260829T185918Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dadao-product-seo-edit_20260829T185918Z.html
+Requested URL    : https://apps.shopify.com/dadao-product-seo-edit
+Final URL        : https://apps.shopify.com/dadao-product-seo-edit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,384 bytes / 223,273 chars
+Elapsed          : 0.670s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RankPilot AI SEO & Schema - Evidence-first SEO audit with GSC and AI candidates | Shopify App Store
+meta description : Prioritize Shopify SEO work with GSC evidence, editable AI candidates, SERP previews, receipts, rollback notes, and Trust Center disclosures.
+canonical URL    : https://apps.shopify.com/dadao-product-seo-edit
+<h1> tags ( 1)  : 'RankPilot AI SEO & Schema'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

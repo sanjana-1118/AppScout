@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\moodscout_20260830T172211Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\moodscout_20260830T172211Z.html
+Requested URL    : https://apps.shopify.com/moodscout
+Final URL        : https://apps.shopify.com/moodscout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,416 bytes / 165,327 chars
+Elapsed          : 0.562s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Moodscout - Rank your products by what a customer finds inspiring. | Shopify App Store
+meta description : Add visual search to your store. Let shoppers find your products matching themes in their images, Pinterest vision boards, or style prompts.
+canonical URL    : https://apps.shopify.com/moodscout
+<h1> tags ( 1)  : 'Moodscout'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

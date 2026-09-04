@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avisos_20260830T073829Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avisos_20260830T073829Z.html
+Requested URL    : https://apps.shopify.com/avisos
+Final URL        : https://apps.shopify.com/avisos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,330 bytes / 165,241 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avisos: Google Ads Audit - Turn scattered marketing data into clear, actionable insights | Shopify App Store
+meta description : Avisos audits and monitors Google Ads accounts to identify wasted spend, conversion tracking issues, landing page problems, budget pacing anomalies...
+canonical URL    : https://apps.shopify.com/avisos
+<h1> tags ( 1)  : 'Avisos: Google Ads Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fondue-cashback-promotions_20260830T065357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fondue-cashback-promotions_20260830T065357Z.html
+Requested URL    : https://apps.shopify.com/fondue-cashback-promotions
+Final URL        : https://apps.shopify.com/fondue-cashback-promotions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,995 bytes / 205,906 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fondue CashBack Promotions - Offer flexible post-purchase rewards that protect your margin. | Shopify App Store
+meta description : Replacing pre-purchase incentives (like a coupon code), shoppers see their CashBack eligibility throughout the purchase journey and then redeem it ...
+canonical URL    : https://apps.shopify.com/fondue-cashback-promotions
+<h1> tags ( 1)  : 'Fondue CashBack Promotions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

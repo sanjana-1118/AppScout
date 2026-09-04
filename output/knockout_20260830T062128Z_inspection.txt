@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\knockout_20260830T062128Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\knockout_20260830T062128Z.html
+Requested URL    : https://apps.shopify.com/knockout
+Final URL        : https://apps.shopify.com/knockout
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,559 bytes / 173,452 chars
+Elapsed          : 0.790s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Knockout ‑ Hide Out Of Stock - Hide out of stock products across multiple sales channels | Shopify App Store
+meta description : Customers often lose interest when they come across out of stock products. This can have a significant negative impact on your sales. With Knockout...
+canonical URL    : https://apps.shopify.com/knockout
+<h1> tags ( 1)  : 'Knockout ‑ Hide Out Of Stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

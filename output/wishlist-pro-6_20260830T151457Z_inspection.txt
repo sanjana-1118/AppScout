@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-pro-6_20260830T151457Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-pro-6_20260830T151457Z.html
+Requested URL    : https://apps.shopify.com/wishlist-pro-6
+Final URL        : https://apps.shopify.com/wishlist-pro-6
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,382 bytes / 171,275 chars
+Elapsed          : 0.620s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wish‑Pro - Enhance shopping experience with a seamless wishlist. | Shopify App Store
+meta description : Enhance your Shopify store with Wishlist Pro! Let customers save products, manage them in a sleek wishlist drawer, move items to the cart, or share to email.
+canonical URL    : https://apps.shopify.com/wishlist-pro-6
+<h1> tags ( 1)  : 'Wish‑Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-discounts_20260830T164028Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-discounts_20260830T164028Z.html
+Requested URL    : https://apps.shopify.com/bundle-discounts
+Final URL        : https://apps.shopify.com/bundle-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,911 bytes / 160,822 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EL Bundle Deals - Create flexible bundle deals with automatic cart discounts | Shopify App Store
+meta description : Create flexible bundle deals like "3 for $100" with automatic cart discounts. Simple admin interface, no coding required. Works with any Shopify theme.
+canonical URL    : https://apps.shopify.com/bundle-discounts
+<h1> tags ( 1)  : 'EL Bundle Deals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

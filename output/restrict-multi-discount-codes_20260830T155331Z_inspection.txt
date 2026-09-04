@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restrict-multi-discount-codes_20260830T155331Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restrict-multi-discount-codes_20260830T155331Z.html
+Requested URL    : https://apps.shopify.com/restrict-multi-discount-codes
+Final URL        : https://apps.shopify.com/restrict-multi-discount-codes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,434 bytes / 167,325 chars
+Elapsed          : 0.959s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Restrict Multi Discount Codes - Control discount code & gift card limits at checkout easily. | Shopify App Store
+meta description : Take control of your checkout discounts. This app lets you set custom limits on how many discount codes AND gift cards customers can apply per orde...
+canonical URL    : https://apps.shopify.com/restrict-multi-discount-codes
+<h1> tags ( 1)  : 'Restrict Multi Discount Codes'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

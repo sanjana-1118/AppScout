@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smrthapps-mobile-app-builder_20260830T162802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smrthapps-mobile-app-builder_20260830T162802Z.html
+Requested URL    : https://apps.shopify.com/smrthapps-mobile-app-builder
+Final URL        : https://apps.shopify.com/smrthapps-mobile-app-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,029 bytes / 196,914 chars
+Elapsed          : 0.789s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supreme ‑ Mobile App Builder - Turn Your Store Into a Mobile App Without Writing Code | Shopify App Store
+meta description : Build iOS and Android apps for your Shopify store without code. Boost sales with unlimited push notifications.  No coding required. Free trial available.
+canonical URL    : https://apps.shopify.com/smrthapps-mobile-app-builder
+<h1> tags ( 1)  : 'Supreme ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

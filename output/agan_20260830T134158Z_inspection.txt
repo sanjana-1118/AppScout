@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agan_20260830T134158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\agan_20260830T134158Z.html
+Requested URL    : https://apps.shopify.com/agan
+Final URL        : https://apps.shopify.com/agan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,062 bytes / 161,953 chars
+Elapsed          : 0.643s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ATMS ‑ Agan Integration - Agan ATMS Integration automate your Agan ATMS Service. | Shopify App Store
+meta description : ATMS - Agan Integration help you to connect your store and agan service. No need to sync your order to agan manually. Our app will automatically pu...
+canonical URL    : https://apps.shopify.com/agan
+<h1> tags ( 1)  : 'ATMS ‑ Agan Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

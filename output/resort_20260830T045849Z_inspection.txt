@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\resort_20260830T045849Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\resort_20260830T045849Z.html
+Requested URL    : https://apps.shopify.com/resort
+Final URL        : https://apps.shopify.com/resort
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,379 bytes / 222,274 chars
+Elapsed          : 0.592s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bestsellers reSort ‑ Organizer - Automatically sort products in collections using custom rules. | Shopify App Store
+meta description : Increase sales, save time, and streamline your online merchandising with powerful collection automation. Bestsellers reSort lets you organize produ...
+canonical URL    : https://apps.shopify.com/resort
+<h1> tags ( 1)  : 'Bestsellers reSort ‑ Organizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

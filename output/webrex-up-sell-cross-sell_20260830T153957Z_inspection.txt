@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webrex-up-sell-cross-sell_20260830T153957Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webrex-up-sell-cross-sell_20260830T153957Z.html
+Requested URL    : https://apps.shopify.com/webrex-up-sell-cross-sell
+Final URL        : https://apps.shopify.com/webrex-up-sell-cross-sell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,707 bytes / 265,598 chars
+Elapsed          : 1.402s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WB: Frequently Bought Together - Increase your AOV and sales with AI-recommended product bundle | Shopify App Store
+meta description : Merchandiser-controlled upsell & cross-sell for Shopify. Rules by collection, vendor or tag. FBT, BxGy, free shipping bar across cart, checkout & post-purchase.
+canonical URL    : https://apps.shopify.com/webrex-up-sell-cross-sell
+<h1> tags ( 1)  : 'WB: Frequently Bought Together'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

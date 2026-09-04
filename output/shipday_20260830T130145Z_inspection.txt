@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipday_20260830T130145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipday_20260830T130145Z.html
+Requested URL    : https://apps.shopify.com/shipday
+Final URL        : https://apps.shopify.com/shipday
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,060 bytes / 229,967 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipday : Delivery + Pickup - Offer local delivery with your own fleet or 3rd party... | Shopify App Store
+meta description : Shipday is the go-to platform for local businesses offering store pick up, on-demand or same-day deliveries. 
+
+Perfect for restaurants, meal-prep, ...
+canonical URL    : https://apps.shopify.com/shipday
+<h1> tags ( 1)  : 'Shipday : Delivery + Pickup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

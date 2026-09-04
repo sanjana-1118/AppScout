@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsplit-a-b-test-cro_20260831T025111Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopsplit-a-b-test-cro_20260831T025111Z.html
+Requested URL    : https://apps.shopify.com/shopsplit-a-b-test-cro
+Final URL        : https://apps.shopify.com/shopsplit-a-b-test-cro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,683 bytes / 178,594 chars
+Elapsed          : 0.661s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopSplit A/B Test & CRO - Find winning storefront variants with statistical confidence. | Shopify App Store
+meta description : Run A/B tests on themes, templates, cart pages, homepage sections, elements, and URLs. Compare variants with conversion analytics and statistical confidence.
+canonical URL    : https://apps.shopify.com/shopsplit-a-b-test-cro
+<h1> tags ( 1)  : 'ShopSplit A/B Test & CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

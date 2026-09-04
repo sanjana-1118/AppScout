@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gency-lite_20260831T024334Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gency-lite_20260831T024334Z.html
+Requested URL    : https://apps.shopify.com/gency-lite
+Final URL        : https://apps.shopify.com/gency-lite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,086 bytes / 180,989 chars
+Elapsed          : 0.581s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GENCY Lite: AI Product Pages - AI builds, publishes & A/B tests product detail pages. | Shopify App Store
+meta description : GENCY Lite turns your product photos into designed, full-width detail pages, publishes them to your store, and A/B tests which design converts best.
+canonical URL    : https://apps.shopify.com/gency-lite
+<h1> tags ( 1)  : 'GENCY Lite: AI Product Pages'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

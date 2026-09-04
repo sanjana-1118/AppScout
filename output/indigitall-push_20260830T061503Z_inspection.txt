@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\indigitall-push_20260830T061503Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\indigitall-push_20260830T061503Z.html
+Requested URL    : https://apps.shopify.com/indigitall-push
+Final URL        : https://apps.shopify.com/indigitall-push
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,108 bytes / 169,017 chars
+Elapsed          : 0.439s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : indigitall Push - Multiply your sales with retargeting and driving traffic | Shopify App Store
+meta description : indigitall knows how to recover empty carts, attract more customers and boost your sales all at once. Communicate with your users in a customized, ...
+canonical URL    : https://apps.shopify.com/indigitall-push
+<h1> tags ( 1)  : 'indigitall Push'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

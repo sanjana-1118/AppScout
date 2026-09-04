@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-discount-automation_20260830T172359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bulk-discount-automation_20260830T172359Z.html
+Requested URL    : https://apps.shopify.com/bulk-discount-automation
+Final URL        : https://apps.shopify.com/bulk-discount-automation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,016 bytes / 180,917 chars
+Elapsed          : 0.813s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bulk Discount Automation - Scheduled bulk discounts — percentage, fixed, or random rates | Shopify App Store
+meta description : Apply bulk discounts by percentage, fixed amount, or random rates to all, selected, or collection-based products. Schedule, automate, and revert discounts with
+canonical URL    : https://apps.shopify.com/bulk-discount-automation
+<h1> tags ( 1)  : 'Bulk Discount Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

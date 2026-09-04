@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-assistant-bar_20260830T131854Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-assistant-bar_20260830T131854Z.html
+Requested URL    : https://apps.shopify.com/discount-assistant-bar
+Final URL        : https://apps.shopify.com/discount-assistant-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,610 bytes / 181,521 chars
+Elapsed          : 0.862s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount Assistant Bar - Automatically display and calculate store discount information | Shopify App Store
+meta description : Display store discounts in a conspicuous place, and automatically calculate how to get discounts for customers according to the user's shopping car...
+canonical URL    : https://apps.shopify.com/discount-assistant-bar
+<h1> tags ( 1)  : 'Discount Assistant Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-552_20260831T025136Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-552_20260831T025136Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-552
+Final URL        : https://apps.shopify.com/shopify-application-552
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,348 bytes / 162,345 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 住所正す君 | 住所チェックで住所不備を防止 - 郵便番号と住所の不一致をチェックアウトで自動検出し、配送ミスを未然に防ぎます | Shopify App Store
+meta description : チェックアウトの配送先住所を日本郵便のデータと自動照合。郵便番号と市区町村の不一致や町名の入力漏れをその場で顧客に表示し、住所不備による再配達・出荷保留を防ぎます。通常プランで利用可能・無料。
+canonical URL    : https://apps.shopify.com/shopify-application-552?locale=ja
+<h1> tags ( 1)  : '住所正す君 | 住所チェックで住所不備を防止'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

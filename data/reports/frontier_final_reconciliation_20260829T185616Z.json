@@ -1,0 +1,15 @@
+{
+  "reconciliation_timestamp": "2026-08-29T18:56:16.578766+00:00",
+  "frontier_total": 25633,
+  "canonical_active_apps_in_db": 831,
+  "categorized_counts": {
+    "success": 831,
+    "skipped_fresh": 0,
+    "validation_failed": 151,
+    "not_found_delisted": 0,
+    "transient_retryable": 0,
+    "permanent_failures": 0
+  },
+  "delisted_or_not_found_count": 151,
+  "retry_candidates_count": 0
+}

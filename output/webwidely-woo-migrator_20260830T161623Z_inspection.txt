@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webwidely-woo-migrator_20260830T161623Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webwidely-woo-migrator_20260830T161623Z.html
+Requested URL    : https://apps.shopify.com/webwidely-woo-migrator
+Final URL        : https://apps.shopify.com/webwidely-woo-migrator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,725 bytes / 198,630 chars
+Elapsed          : 1.095s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webwidely Woo Migrator - Migrate WooCommerce products, orders, SEO & ACF data. | Shopify App Store
+meta description : Securely migrate products, orders, customers, and SEO from WooCommerce to Shopify. The only app with native ACF, Page Builder, and 301 redirect support.
+canonical URL    : https://apps.shopify.com/webwidely-woo-migrator
+<h1> tags ( 1)  : 'Webwidely Woo Migrator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

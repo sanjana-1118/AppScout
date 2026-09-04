@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mydataninja_20260830T073053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mydataninja_20260830T073053Z.html
+Requested URL    : https://apps.shopify.com/mydataninja
+Final URL        : https://apps.shopify.com/mydataninja
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,757 bytes / 227,668 chars
+Elapsed          : 0.518s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MyDataNinja Analytics - MyDataNinja - Manage All Ads Accounts Within a Single Platform | Shopify App Store
+meta description : MyDataNinja is Easiest Solution to Optimize, Analyze and Manage Multiple Store and Ads Accounts Digital Marketing Campaigns All in One Place.
+canonical URL    : https://apps.shopify.com/mydataninja
+<h1> tags ( 1)  : 'MyDataNinja Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

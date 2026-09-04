@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-cart-min-max_20260830T064209Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magic-cart-min-max_20260830T064209Z.html
+Requested URL    : https://apps.shopify.com/magic-cart-min-max
+Final URL        : https://apps.shopify.com/magic-cart-min-max
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,092 bytes / 199,003 chars
+Elapsed          : 0.550s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Magic Cart Min & Max - Limit the quantity of each purchase to a minimum or... | Shopify App Store
+meta description : You may come across a circumstance where a customer purchases your product in bulk to resell it and generate profits. You find this frustrating bec...
+canonical URL    : https://apps.shopify.com/magic-cart-min-max
+<h1> tags ( 1)  : 'Magic Cart Min & Max'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

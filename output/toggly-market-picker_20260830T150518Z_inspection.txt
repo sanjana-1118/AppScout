@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\toggly-market-picker_20260830T150518Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\toggly-market-picker_20260830T150518Z.html
+Requested URL    : https://apps.shopify.com/toggly-market-picker
+Final URL        : https://apps.shopify.com/toggly-market-picker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,845 bytes / 176,732 chars
+Elapsed          : 0.572s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Toggly ‑ Geolocation + Markets - Enhance experience with a stylish country & language selector | Shopify App Store
+meta description : Toggly Market Picker: Simplify shopping with a responsive, customizable currency & language selector. Effortless switching and automatic localization.
+canonical URL    : https://apps.shopify.com/toggly-market-picker
+<h1> tags ( 1)  : 'Toggly ‑ Geolocation + Markets'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

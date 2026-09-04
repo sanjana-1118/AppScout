@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\random-discount-pop-up_20260830T075246Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\random-discount-pop-up_20260830T075246Z.html
+Requested URL    : https://apps.shopify.com/random-discount-pop-up
+Final URL        : https://apps.shopify.com/random-discount-pop-up
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,647 bytes / 178,536 chars
+Elapsed          : 0.911s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TIS Random Discount Pop‑up - Surprise everyone! Give random discount coupon and boost sales | Shopify App Store
+meta description : Amazing APP to Display your Discount Code Randomly on Home Page with Popup. You can simply create multiple Discount Code and Random Code in Popup m...
+canonical URL    : https://apps.shopify.com/random-discount-pop-up
+<h1> tags ( 1)  : 'TIS Random Discount Pop‑up'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

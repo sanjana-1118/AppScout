@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-event-calendar_20260830T170036Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-event-calendar_20260830T170036Z.html
+Requested URL    : https://apps.shopify.com/k-event-calendar
+Final URL        : https://apps.shopify.com/k-event-calendar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,821 bytes / 212,720 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Event Calendar - Show upcoming events, sales, and launches in one calendar. | Shopify App Store
+meta description : Event Calendar widget helps you announce upcoming webinars, product launches, workshops, or in-store events, in a clear, visual way. Add store even...
+canonical URL    : https://apps.shopify.com/k-event-calendar
+<h1> tags ( 1)  : 'K: Event Calendar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

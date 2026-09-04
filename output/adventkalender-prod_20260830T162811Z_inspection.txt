@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adventkalender-prod_20260830T162811Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adventkalender-prod_20260830T162811Z.html
+Requested URL    : https://apps.shopify.com/adventkalender-prod
+Final URL        : https://apps.shopify.com/adventkalender-prod
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,936 bytes / 157,800 chars
+Elapsed          : 0.590s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Simple Adventskalender - Türchen mit Produkten und Rabatten, in Minuten eingerichtet | Shopify App Store
+meta description : Adventskalender für deinen Shop: Hinter jedem Türchen ein Produkt mit automatischem Rabattcode. Eigenes Motiv oder klassisches Raster, ohne Programmierung.
+canonical URL    : https://apps.shopify.com/adventkalender-prod?locale=de
+<h1> tags ( 1)  : 'Simple Adventskalender'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

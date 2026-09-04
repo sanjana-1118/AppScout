@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-shop-by-sauce_20260830T135750Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-shop-by-sauce_20260830T135750Z.html
+Requested URL    : https://apps.shopify.com/instagram-shop-by-sauce
+Final URL        : https://apps.shopify.com/instagram-shop-by-sauce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,304 bytes / 250,203 chars
+Elapsed          : 1.179s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sauce: Instagram, TikTok & UGC - Sell More with UGC, Shoppable Videos & Influencer-Led Shopping | Shopify App Store
+meta description : Instagram, TikTok Shopping, UGC automation, Influencer Partnerships and cutting-edge Video Commerce solutions, all designed to boost sales and build brand trust
+canonical URL    : https://apps.shopify.com/instagram-shop-by-sauce
+<h1> tags ( 1)  : 'Sauce: Instagram, TikTok & UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

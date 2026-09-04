@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loot_20260830T064744Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loot_20260830T064744Z.html
+Requested URL    : https://apps.shopify.com/loot
+Final URL        : https://apps.shopify.com/loot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,419 bytes / 213,326 chars
+Elapsed          : 0.561s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boost by Loop - One Click Customizable Loyalty  | Shopify App Store
+meta description : With Boost by Loop, you can offer free or paid incentives at checkout that bring customers back to buy again.
+canonical URL    : https://apps.shopify.com/loot
+<h1> tags ( 1)  : 'Boost by Loop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helium-visual-tags_20260830T143026Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helium-visual-tags_20260830T143026Z.html
+Requested URL    : https://apps.shopify.com/helium-visual-tags
+Final URL        : https://apps.shopify.com/helium-visual-tags
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,272 bytes / 177,183 chars
+Elapsed          : 0.696s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Helium AI product tags - Generate AI product tags instantly. Enhance search and SEO  | Shopify App Store
+meta description : Our AI-driven app auto-generates precise product tags for multiple sku's. It ensures consistency, improving SEO, searchability, and recommendations.
+canonical URL    : https://apps.shopify.com/helium-visual-tags
+<h1> tags ( 1)  : 'Helium AI product tags'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

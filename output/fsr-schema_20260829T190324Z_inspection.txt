@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fsr-schema_20260829T190324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fsr-schema_20260829T190324Z.html
+Requested URL    : https://apps.shopify.com/fsr-schema
+Final URL        : https://apps.shopify.com/fsr-schema
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,539 bytes / 181,424 chars
+Elapsed          : 0.569s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FSR Schema - Kostenloses SEO-Schema für Rich Snippets und KI. | Shopify App Store
+meta description : Erstelle gratis alle relevanten SEO-Schemata. Rich Snippets können deinen Traffic verbessern.
+canonical URL    : https://apps.shopify.com/fsr-schema?locale=de
+<h1> tags ( 1)  : 'FSR Schema'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\limit-cart-quantity_20260830T153243Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\limit-cart-quantity_20260830T153243Z.html
+Requested URL    : https://apps.shopify.com/limit-cart-quantity
+Final URL        : https://apps.shopify.com/limit-cart-quantity
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,257 bytes / 168,162 chars
+Elapsed          : 0.765s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopziCurious Limit Cart Qty - Easily control product quantity limits to prevent bulk orders. | Shopify App Store
+meta description : Set max product limits in the cart to prevent bulk orders, manage inventory, and control purchases. Easy setup, no coding needed, works with all Shopify themes.
+canonical URL    : https://apps.shopify.com/limit-cart-quantity
+<h1> tags ( 1)  : 'ShopziCurious Limit Cart Qty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

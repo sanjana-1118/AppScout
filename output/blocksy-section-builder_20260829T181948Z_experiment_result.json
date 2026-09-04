@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/blocksy-section-builder",
+  "fetch_timestamp": "2026-08-29T18:19:48.530750+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blocksy-section-builder_20260829T181948Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blocksy-section-builder_20260829T181948Z.html",
+    "url": "https://apps.shopify.com/blocksy-section-builder",
+    "final_url": "https://apps.shopify.com/blocksy-section-builder",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 194759,
+    "body_text_length": 194632,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.515397,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Blocksy ‑ Section Builder - Build converting pages with custom sections & blocks. | Shopify App Store",
+    "meta_description": "Design high-converting Shopify pages with Blocksy. Add custom sections, sliders, testimonials, countdowns, & more. No coding required, Build faster, sell smart.",
+    "canonical_url": "https://apps.shopify.com/blocksy-section-builder",
+    "h1_tags": [
+      "Blocksy ‑ Section Builder"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Blocksy ‑ Section Builder",
+    "app_slug": "blocksy-section-builder",
+    "app_url": "https://apps.shopify.com/blocksy-section-builder",
+    "developer_name": "Vowel Web",
+    "description": "Design high-converting Shopify pages with Blocksy. Add custom sections, sliders, testimonials, countdowns, & more. No coding required, Build faster, sell smart.",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Page builder"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blocksy-section-builder_20260829T181948Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blocksy-section-builder_20260829T181948Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Blocksy ‑ Section Builder",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "blocksy-section-builder",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/blocksy-section-builder",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Vowel Web",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Design high-converting Shopify pages with Blocksy. Add custom sections, sliders, testimonials, countdowns, & more. No coding required, Build faster, sell smart.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Page builder",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

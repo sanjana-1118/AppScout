@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bewertungklar_20260829T184222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bewertungklar_20260829T184222Z.html
+Requested URL    : https://apps.shopify.com/bewertungklar
+Final URL        : https://apps.shopify.com/bewertungklar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,470 bytes / 170,357 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bewertung Klar - Authentisches Bewertungsmanagement für Shops in Deuts | Shopify App Store
+meta description : Sammle echte Kundenbewertungen mit automatischen Anfragen und zeige sie mit flexiblen Widgets an. Mehr Vertrauen und höhere Conversion für deinen Shopify-Shop.
+canonical URL    : https://apps.shopify.com/bewertungklar?locale=de
+<h1> tags ( 1)  : 'Bewertung Klar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

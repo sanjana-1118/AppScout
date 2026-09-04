@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/avatar-offer",
+  "fetch_timestamp": "2026-08-30T17:53:19.454643+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avatar-offer_20260830T175319Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avatar-offer_20260830T175319Z.html",
+    "url": "https://apps.shopify.com/avatar-offer",
+    "final_url": "https://apps.shopify.com/avatar-offer",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 173033,
+    "body_text_length": 172944,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.944292,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Pet Avatar Studio - Add playful pet mascots and coupon offers to your store | Shopify App Store",
+    "meta_description": "custom avatar brand mascot for brand with effects, seasonal greetings text, ideal for summer sales with holiday offers, banners, coupons, and discount features",
+    "canonical_url": "https://apps.shopify.com/avatar-offer",
+    "h1_tags": [
+      "Pet Avatar Studio"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Pet Avatar Studio",
+    "app_slug": "avatar-offer",
+    "app_url": "https://apps.shopify.com/avatar-offer",
+    "developer_name": "Wow apps",
+    "description": "custom avatar brand mascot for brand with effects, seasonal greetings text, ideal for summer sales with holiday offers, banners, coupons, and discount features",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Animation and effects"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avatar-offer_20260830T175319Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\avatar-offer_20260830T175319Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Pet Avatar Studio",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "avatar-offer",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/avatar-offer",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Wow apps",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "custom avatar brand mascot for brand with effects, seasonal greetings text, ideal for summer sales with holiday offers, banners, coupons, and discount features",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Animation and effects",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

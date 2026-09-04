@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zs-wishlist_20260830T064938Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zs-wishlist_20260830T064938Z.html
+Requested URL    : https://apps.shopify.com/zs-wishlist
+Final URL        : https://apps.shopify.com/zs-wishlist
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,683 bytes / 214,587 chars
+Elapsed          : 0.594s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZS Wishlist - Save products in one tap and win shoppers back with... | Shopify App Store
+meta description : Add a wishlist to your store. Shoppers save products in one tap; you bring them back with price-drop and back-in-stock email reminders. Free to start.
+canonical URL    : https://apps.shopify.com/zs-wishlist
+<h1> tags ( 1)  : 'ZS Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

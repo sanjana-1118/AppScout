@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\color-swatch-image-ocs_20260830T045638Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\color-swatch-image-ocs_20260830T045638Z.html
+Requested URL    : https://apps.shopify.com/color-swatch-image-ocs
+Final URL        : https://apps.shopify.com/color-swatch-image-ocs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,656 bytes / 198,531 chars
+Elapsed          : 0.855s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Color Swatch Image ‑ OCS - Help shoppers pick variants with color & image swatches | Shopify App Store
+meta description : Add color and image swatches to Shopify product and collection pages, group products as variants and auto-assign variant images with AI — no theme code.
+canonical URL    : https://apps.shopify.com/color-swatch-image-ocs
+<h1> tags ( 1)  : 'Color Swatch Image ‑ OCS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

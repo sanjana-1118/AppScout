@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-optimizer-speed-seo_20260829T190408Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-optimizer-speed-seo_20260829T190408Z.html
+Requested URL    : https://apps.shopify.com/image-optimizer-speed-seo
+Final URL        : https://apps.shopify.com/image-optimizer-speed-seo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,308 bytes / 193,209 chars
+Elapsed          : 0.493s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Image Optimizer: Speed & SEO - Speed up your store and rank higher on Google | Shopify App Store
+meta description : Compress Shopify images, improve site speed, Core Web Vitals, and Google SEO. 50 free images included. GDPR-compliant. Unlimited with upgrade.
+canonical URL    : https://apps.shopify.com/image-optimizer-speed-seo
+<h1> tags ( 1)  : 'Image Optimizer: Speed & SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

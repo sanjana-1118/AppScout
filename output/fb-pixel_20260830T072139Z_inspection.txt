@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fb-pixel_20260830T072139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fb-pixel_20260830T072139Z.html
+Requested URL    : https://apps.shopify.com/fb-pixel
+Final URL        : https://apps.shopify.com/fb-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,085 bytes / 171,976 chars
+Elapsed          : 0.627s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PixelTrack ‑ Multi Pixel Fb - Connecting Facebook Pixels Made Easy. Conversion API supported | Shopify App Store
+meta description : PixelTrack is one click solution to integrate facebook pixel into your store. No coding, no technical hassle. We will do all the back end so you can focus on
+canonical URL    : https://apps.shopify.com/fb-pixel
+<h1> tags ( 1)  : 'PixelTrack ‑ Multi Pixel Fb'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

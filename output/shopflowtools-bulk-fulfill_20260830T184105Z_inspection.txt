@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopflowtools-bulk-fulfill_20260830T184105Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopflowtools-bulk-fulfill_20260830T184105Z.html
+Requested URL    : https://apps.shopify.com/shopflowtools-bulk-fulfill
+Final URL        : https://apps.shopify.com/shopflowtools-bulk-fulfill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,789 bytes / 188,694 chars
+Elapsed          : 0.711s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bulk Tracking Upload - Fulfill orders in bulk by uploading supplier tracking CSVs. | Shopify App Store
+meta description : Fulfill hundreds of orders in seconds. Upload tracking CSV files from any supplier or carrier, auto-map columns, and notify customers in one click.
+canonical URL    : https://apps.shopify.com/shopflowtools-bulk-fulfill
+<h1> tags ( 1)  : 'Bulk Tracking Upload'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

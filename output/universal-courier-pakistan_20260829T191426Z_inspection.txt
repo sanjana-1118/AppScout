@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\universal-courier-pakistan_20260829T191426Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\universal-courier-pakistan_20260829T191426Z.html
+Requested URL    : https://apps.shopify.com/universal-courier-pakistan
+Final URL        : https://apps.shopify.com/universal-courier-pakistan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,111 bytes / 213,012 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Universal Courier Pakistan - Upload shipments bookings in any courier service in Pakistan. | Shopify App Store
+meta description : Upload shipments bookings in any courier service in Pakistan. Print custom labels, auto track shipments and share tracking details with your customers.
+canonical URL    : https://apps.shopify.com/universal-courier-pakistan
+<h1> tags ( 1)  : 'Universal Courier Pakistan'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

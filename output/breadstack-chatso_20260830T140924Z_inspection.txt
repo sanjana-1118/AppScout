@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\breadstack-chatso_20260830T140924Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\breadstack-chatso_20260830T140924Z.html
+Requested URL    : https://apps.shopify.com/breadstack-chatso
+Final URL        : https://apps.shopify.com/breadstack-chatso
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,240 bytes / 153,146 chars
+Elapsed          : 0.526s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Breadstack Chatso - Making online business easy to everyone | Shopify App Store
+meta description : Breadstack Chatso offers a distinctive customer support solution, harnessing detailed customer data to increase merchant sales. Merchants benefit f...
+canonical URL    : https://apps.shopify.com/breadstack-chatso
+<h1> tags ( 1)  : 'Breadstack Chatso'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

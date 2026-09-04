@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\one-click-social-login_20260830T070740Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\one-click-social-login_20260830T070740Z.html
+Requested URL    : https://apps.shopify.com/one-click-social-login
+Final URL        : https://apps.shopify.com/one-click-social-login
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,360 bytes / 235,269 chars
+Elapsed          : 0.592s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Users Insights & Social Login - Track behavior, fix drop-offs, and enable social login | Shopify App Store
+meta description : Understand how customers behave across your store and where they drop off before purchasing. Track interactions from product views to checkout and ...
+canonical URL    : https://apps.shopify.com/one-click-social-login
+<h1> tags ( 1)  : 'Users Insights & Social Login'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

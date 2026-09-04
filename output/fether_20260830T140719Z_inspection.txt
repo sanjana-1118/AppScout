@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fether_20260830T140719Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fether_20260830T140719Z.html
+Requested URL    : https://apps.shopify.com/fether
+Final URL        : https://apps.shopify.com/fether
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 280,470 bytes / 280,381 chars
+Elapsed          : 1.022s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Frequently Bought Together FT - Grow AOV with FBT bundles and related product recommendations | Shopify App Store
+meta description : Boost AOV with Fether. Get AI Frequently Bought Together & a full Product Bundles builder. Create Related Products, Buy Together offers. Trusted by 132K stores.
+canonical URL    : https://apps.shopify.com/fether
+<h1> tags ( 1)  : 'Frequently Bought Together FT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\road-train-delivery_20260830T150913Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\road-train-delivery_20260830T150913Z.html
+Requested URL    : https://apps.shopify.com/road-train-delivery
+Final URL        : https://apps.shopify.com/road-train-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,623 bytes / 166,534 chars
+Elapsed          : 1.466s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Road Train Deliveries - Easily Send order to RTDeliveries and save your time | Shopify App Store
+meta description : Integrate your Shopify store with our powerful delivery system to streamline your order fulfillment process.
+canonical URL    : https://apps.shopify.com/road-train-delivery
+<h1> tags ( 1)  : 'Road Train Deliveries'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

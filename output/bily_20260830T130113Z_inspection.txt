@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bily_20260830T130113Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bily_20260830T130113Z.html
+Requested URL    : https://apps.shopify.com/bily
+Final URL        : https://apps.shopify.com/bily
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,199 bytes / 218,078 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bily: Server‑Side Tracking - Trust conversions with server-side tracking and attribution. | Shopify App Store
+meta description : Capture first-party Shopify events, improve conversion signals, and attribute revenue across Meta, Google, TikTok, Pinterest, and Snap.
+canonical URL    : https://apps.shopify.com/bily
+<h1> tags ( 1)  : 'Bily: Server‑Side Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

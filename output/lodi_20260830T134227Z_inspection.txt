@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lodi_20260830T134227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lodi_20260830T134227Z.html
+Requested URL    : https://apps.shopify.com/lodi
+Final URL        : https://apps.shopify.com/lodi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,513 bytes / 156,184 chars
+Elapsed          : 0.711s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lense - Seamless integration to Flexicore Fulfillment service | Shopify App Store
+meta description : Focusing on e-fulfillment service, Flexicore manages the order handling of your products, starting from warehouse & inventory management, order han...
+canonical URL    : https://apps.shopify.com/lodi
+<h1> tags ( 1)  : 'Lense'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

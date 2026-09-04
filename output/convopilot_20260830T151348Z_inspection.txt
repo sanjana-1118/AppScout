@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convopilot_20260830T151348Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convopilot_20260830T151348Z.html
+Requested URL    : https://apps.shopify.com/convopilot
+Final URL        : https://apps.shopify.com/convopilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,443 bytes / 183,327 chars
+Elapsed          : 0.769s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ConvoPilot ‑ Live AI ChatBot  - Engage shoppers 24/7 and more purchases with an AI chatbot. | Shopify App Store
+meta description : Automate 24/7 customer support, boost engagement, and increase sales with ConvoPilot's AI chatbot for Shopify stores. Try it today!
+canonical URL    : https://apps.shopify.com/convopilot
+<h1> tags ( 1)  : 'ConvoPilot ‑ Live AI ChatBot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

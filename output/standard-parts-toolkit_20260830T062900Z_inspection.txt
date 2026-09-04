@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\standard-parts-toolkit_20260830T062900Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\standard-parts-toolkit_20260830T062900Z.html
+Requested URL    : https://apps.shopify.com/standard-parts-toolkit
+Final URL        : https://apps.shopify.com/standard-parts-toolkit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,519 bytes / 200,418 chars
+Elapsed          : 0.638s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SPT: Auto Parts Fitment - Auto parts fitment search, catalog sync, and order tools | Shopify App Store
+meta description : Automate auto parts fitment with ACES & PIES, YMM selectors, VIN lookup, and Shopify integration — no manual data upkeep needed.
+canonical URL    : https://apps.shopify.com/standard-parts-toolkit
+<h1> tags ( 1)  : 'SPT: Auto Parts Fitment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

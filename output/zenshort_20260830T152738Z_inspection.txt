@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zenshort_20260830T152738Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zenshort_20260830T152738Z.html
+Requested URL    : https://apps.shopify.com/zenshort
+Final URL        : https://apps.shopify.com/zenshort
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,254 bytes / 165,757 chars
+Elapsed          : 0.619s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZenShort - Auto-Generation of Vertical Short Videos | Shopify App Store
+meta description : 商品情報を選択するだけで、縦型ショート動画を自動生成します。
+生成する動画は、Instagramリール, TikTok, YouTube Shortsに最適化されています。
+canonical URL    : https://apps.shopify.com/zenshort
+<h1> tags ( 1)  : 'ZenShort'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

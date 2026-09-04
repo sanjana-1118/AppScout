@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\otryon_20260830T155816Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\otryon_20260830T155816Z.html
+Requested URL    : https://apps.shopify.com/otryon
+Final URL        : https://apps.shopify.com/otryon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,455 bytes / 184,344 chars
+Elapsed          : 0.979s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Otryon: Virtual Try‑On - AI Virtual Try-On with Automatic Discounts and Analytics | Shopify App Store
+meta description : AI-powered virtual try-on app for Shopify. Let customers visualize products before buying. Easy integration, detailed analytics, flexible usage-based pricing.
+canonical URL    : https://apps.shopify.com/otryon
+<h1> tags ( 1)  : 'Otryon: Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

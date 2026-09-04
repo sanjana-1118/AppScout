@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delivery-rules-by-caretaker_20260830T182417Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delivery-rules-by-caretaker_20260830T182417Z.html
+Requested URL    : https://apps.shopify.com/delivery-rules-by-caretaker
+Final URL        : https://apps.shopify.com/delivery-rules-by-caretaker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,938 bytes / 173,849 chars
+Elapsed          : 0.689s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Delivery Rules by Caretaker - Show, hide, and discount shipping options by company | Shopify App Store
+meta description : Delivery Rules by Caretaker gives B2B merchants precise, no-code control over the delivery options shown at checkout. Build IF/THEN rules to hide, ...
+canonical URL    : https://apps.shopify.com/delivery-rules-by-caretaker
+<h1> tags ( 1)  : 'Delivery Rules by Caretaker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

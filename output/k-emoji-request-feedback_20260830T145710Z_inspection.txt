@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-emoji-request-feedback_20260830T145710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-emoji-request-feedback_20260830T145710Z.html
+Requested URL    : https://apps.shopify.com/k-emoji-request-feedback
+Final URL        : https://apps.shopify.com/k-emoji-request-feedback
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,632 bytes / 210,526 chars
+Elapsed          : 0.811s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Emoji Form + Reviews&Rating - Capture customer reviews with easy, AI emoji-powered forms. | Shopify App Store
+meta description : The Emoji Request Feedback and Reviews app offers a fun and engaging way to collect customer feedback. Store owners can effortlessly create custom ...
+canonical URL    : https://apps.shopify.com/k-emoji-request-feedback
+<h1> tags ( 1)  : 'K: Emoji Form + Reviews&Rating'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

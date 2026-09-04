@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restock-alerts-storebeep_20260830T154948Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restock-alerts-storebeep_20260830T154948Z.html
+Requested URL    : https://apps.shopify.com/restock-alerts-storebeep
+Final URL        : https://apps.shopify.com/restock-alerts-storebeep
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,581 bytes / 205,494 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Storebeep Restock Alerts - Smart Notifications for Restock Alerts, Cart Recovery and more | Shopify App Store
+meta description : Send automated Shopify alerts across Email, WhatsApp, SMS & Web Push. Recover abandoned carts, notify restock, alert price drops. All from one app.
+canonical URL    : https://apps.shopify.com/restock-alerts-storebeep
+<h1> tags ( 1)  : 'Storebeep Restock Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

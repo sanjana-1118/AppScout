@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ogiv_20260829T190737Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ogiv_20260829T190737Z.html
+Requested URL    : https://apps.shopify.com/ogiv
+Final URL        : https://apps.shopify.com/ogiv
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,517 bytes / 181,426 chars
+Elapsed          : 0.893s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OGVI Image ALT Text Updater - Generate professional alt text for all product images | Shopify App Store
+meta description : Generate alt text for Shopify product images automatically with AI. Improve store accessibility, boost SEO rankings, and save time with bulk processing.
+canonical URL    : https://apps.shopify.com/ogiv
+<h1> tags ( 1)  : 'OGVI Image ALT Text Updater'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

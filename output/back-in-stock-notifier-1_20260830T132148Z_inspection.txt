@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-notifier-1_20260830T132148Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-in-stock-notifier-1_20260830T132148Z.html
+Requested URL    : https://apps.shopify.com/back-in-stock-notifier-1
+Final URL        : https://apps.shopify.com/back-in-stock-notifier-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 238,031 bytes / 237,912 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pre‑Order | Restock Notifier - Back in stock alert notification and preorder with discount | Shopify App Store
+meta description : Automated restock emails send to customers and generate more sales, Allow users to place a pre-order with extra discounts and generate more leads.
+canonical URL    : https://apps.shopify.com/back-in-stock-notifier-1
+<h1> tags ( 1)  : 'Pre‑Order | Restock Notifier'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

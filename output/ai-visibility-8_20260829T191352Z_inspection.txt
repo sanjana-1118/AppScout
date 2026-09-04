@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-visibility-8_20260829T191352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-visibility-8_20260829T191352Z.html
+Requested URL    : https://apps.shopify.com/ai-visibility-8
+Final URL        : https://apps.shopify.com/ai-visibility-8
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,169 bytes / 197,078 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yumnaz AI SEO: AEO & ChatGPT - AI SEO optimizer for ChatGPT, Perplexity and Google AI search | Shopify App Store
+meta description : AI SEO optimizer for Shopify. See which products ChatGPT and AI search skip, rewrite the data keeping them out, and publish llms.txt in one click.
+canonical URL    : https://apps.shopify.com/ai-visibility-8
+<h1> tags ( 1)  : 'Yumnaz AI SEO: AEO & ChatGPT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

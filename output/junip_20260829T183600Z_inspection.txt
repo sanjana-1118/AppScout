@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\junip_20260829T183600Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\junip_20260829T183600Z.html
+Requested URL    : https://apps.shopify.com/junip
+Final URL        : https://apps.shopify.com/junip
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 261,044 bytes / 260,951 chars
+Elapsed          : 0.565s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Junip Product Reviews App & AI - Convert more with product reviews, unlimited review requests | Shopify App Store
+meta description : Help every shopper make the right decision. Increase conversions & grow your business with product reviews, photo reviews & our AI sales agent. You...
+canonical URL    : https://apps.shopify.com/junip
+<h1> tags ( 1)  : 'Junip Product Reviews App & AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

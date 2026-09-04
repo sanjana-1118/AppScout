@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sort-by-bot_20260830T062328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sort-by-bot_20260830T062328Z.html
+Requested URL    : https://apps.shopify.com/sort-by-bot
+Final URL        : https://apps.shopify.com/sort-by-bot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,239 bytes / 188,133 chars
+Elapsed          : 0.494s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sortbot | Collection  - Automatic collection sorting by custom parameters | Shopify App Store
+meta description : Automatiza el orden de tus colecciones en Shopify en base parámetros seleccionados por tí e incluso con IA
+
+¡No más orden manual de tus productos, automatízalo!
+canonical URL    : https://apps.shopify.com/sort-by-bot
+<h1> tags ( 1)  : 'Sortbot | Collection'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

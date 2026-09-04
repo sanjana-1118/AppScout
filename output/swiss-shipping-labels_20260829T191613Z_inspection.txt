@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swiss-shipping-labels_20260829T191613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swiss-shipping-labels_20260829T191613Z.html
+Requested URL    : https://apps.shopify.com/swiss-shipping-labels
+Final URL        : https://apps.shopify.com/swiss-shipping-labels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,897 bytes / 212,771 chars
+Elapsed          : 0.870s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Swiss Shipping Labels - Shipping labels for Swiss Post — quick & easy | Shopify App Store
+meta description : Erstelle Versandlabels & Briefmarken der Schweizerischen Post direkt in Shopify – mit Adressprüfung, Zolldokumenten (CN22/CN23) und automatischem Tracking.
+canonical URL    : https://apps.shopify.com/swiss-shipping-labels
+<h1> tags ( 1)  : 'Swiss Shipping Labels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

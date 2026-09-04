@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\total-json-ld-schema-org-markup_20260829T190023Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\total-json-ld-schema-org-markup_20260829T190023Z.html
+Requested URL    : https://apps.shopify.com/total-json-ld-schema-org-markup
+Final URL        : https://apps.shopify.com/total-json-ld-schema-org-markup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,611 bytes / 216,514 chars
+Elapsed          : 0.807s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Schema App Total Schema Markup - Automatically generate Schema Markup for Product pages & more. | Shopify App Store
+meta description : Get Schema Markup on your site. Our App will automatically create and deploy Schema Markup based on the existing content on your Shopify site, ensu...
+canonical URL    : https://apps.shopify.com/total-json-ld-schema-org-markup
+<h1> tags ( 1)  : 'Schema App Total Schema Markup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-ai-shopping-assistant_20260830T181707Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-ai-shopping-assistant_20260830T181707Z.html
+Requested URL    : https://apps.shopify.com/easy-ai-shopping-assistant
+Final URL        : https://apps.shopify.com/easy-ai-shopping-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,135 bytes / 194,043 chars
+Elapsed          : 0.890s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy AI Shopping Assistant - AI chat that helps shoppers find products and buy faster. | Shopify App Store
+meta description : Add an AI chat assistant to your store that helps shoppers find products, get instant answers, and complete checkout faster. Turn more visitors into buyers.
+canonical URL    : https://apps.shopify.com/easy-ai-shopping-assistant
+<h1> tags ( 1)  : 'Easy AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

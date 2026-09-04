@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-take_20260830T045847Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-take_20260830T045847Z.html
+Requested URL    : https://apps.shopify.com/stock-take
+Final URL        : https://apps.shopify.com/stock-take
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,510 bytes / 231,407 chars
+Elapsed          : 0.532s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BR Stock Take: Inventory Count - Do a stock count by scanning inventory barcodes and fix... | Shopify App Store
+meta description : Take inventory of your Shopify products using multiple devices. Use a barcode scanner or your mobile device camera to scan inventory barcodes. Replace Stocky.
+canonical URL    : https://apps.shopify.com/stock-take
+<h1> tags ( 1)  : 'BR Stock Take: Inventory Count'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

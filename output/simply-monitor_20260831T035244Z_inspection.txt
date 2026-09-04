@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simply-monitor_20260831T035244Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simply-monitor_20260831T035244Z.html
+Requested URL    : https://apps.shopify.com/simply-monitor
+Final URL        : https://apps.shopify.com/simply-monitor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,308 bytes / 175,219 chars
+Elapsed          : 0.523s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Simply Monitor - Real-time platform outage alerts with email, SMS, and WhatsApp | Shopify App Store
+meta description : Get instant outage alerts, monitor platform components, and route notifications to your team via email, SMS, or WhatsApp. Simple setup and real-time visibility.
+canonical URL    : https://apps.shopify.com/simply-monitor
+<h1> tags ( 1)  : 'Simply Monitor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

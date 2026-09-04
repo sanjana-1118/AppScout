@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\top-form-builder_20260830T140606Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\top-form-builder_20260830T140606Z.html
+Requested URL    : https://apps.shopify.com/top-form-builder
+Final URL        : https://apps.shopify.com/top-form-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,214 bytes / 168,125 chars
+Elapsed          : 0.915s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Top Form Builder - Create ultimate forms without any code, start collecting lead  | Shopify App Store
+meta description : Create lead generation and contact form without knowing any coding, create user-friendly forms with Top Form Builder.
+canonical URL    : https://apps.shopify.com/top-form-builder
+<h1> tags ( 1)  : 'Top Form Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

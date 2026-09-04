@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-cart-drawer_20260830T075718Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-cart-drawer_20260830T075718Z.html
+Requested URL    : https://apps.shopify.com/advanced-cart-drawer
+Final URL        : https://apps.shopify.com/advanced-cart-drawer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,805 bytes / 198,705 chars
+Elapsed          : 0.457s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Advanced Cart Drawer - Increase Sales With Easy Cart Management And 1 Click Checkout | Shopify App Store
+meta description : Advanced Cart Drawer is a good replacement for your current cart page as it adds worth to your store by letting customers access the products in th...
+canonical URL    : https://apps.shopify.com/advanced-cart-drawer
+<h1> tags ( 1)  : 'Advanced Cart Drawer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

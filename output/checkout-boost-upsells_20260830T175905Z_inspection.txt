@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-boost-upsells_20260830T175905Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-boost-upsells_20260830T175905Z.html
+Requested URL    : https://apps.shopify.com/checkout-boost-upsells
+Final URL        : https://apps.shopify.com/checkout-boost-upsells
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,181 bytes / 207,089 chars
+Elapsed          : 0.888s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Checkout Extensions - Personalize, A/B test, and optimize checkout with upsells | Shopify App Store
+meta description : Shopify checkout upsell, trust badges, surveys, gift offers, payment icons, custom messages & post-purchase offers. One app, 20+ checkout extensions, zero code.
+canonical URL    : https://apps.shopify.com/checkout-boost-upsells
+<h1> tags ( 1)  : 'Checkout Extensions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

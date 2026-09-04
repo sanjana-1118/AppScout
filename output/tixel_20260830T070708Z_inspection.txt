@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tixel_20260830T070708Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tixel_20260830T070708Z.html
+Requested URL    : https://apps.shopify.com/tixel
+Final URL        : https://apps.shopify.com/tixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,140 bytes / 230,043 chars
+Elapsed          : 0.613s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TiXel: Meta Pixel TikTok Pixel - TikTok Pixel, Meta Multi Pixel, Facebook Pixel &more with CAPI | Shopify App Store
+meta description : Install unlimited TikTok, Pinterest, X (Twitter), Snapchat (Snap) & Facebook Pixels. Bypass iOS 14 limits with Conversions API (CAPI) & Server-Side tracking.
+canonical URL    : https://apps.shopify.com/tixel
+<h1> tags ( 1)  : 'TiXel: Meta Pixel TikTok Pixel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

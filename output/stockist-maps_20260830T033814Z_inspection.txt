@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockist-maps_20260830T033814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockist-maps_20260830T033814Z.html
+Requested URL    : https://apps.shopify.com/stockist-maps
+Final URL        : https://apps.shopify.com/stockist-maps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,368 bytes / 212,267 chars
+Elapsed          : 1.021s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stockist Maps: Store Locator - Stockist locator map, store finder, & dealer form made easy | Shopify App Store
+meta description : Create a store locator, stockist map, and dealer form with Leaflet, Mapbox, or Google Maps. Bulk import locations and help customers find nearby stores.
+canonical URL    : https://apps.shopify.com/stockist-maps
+<h1> tags ( 1)  : 'Stockist Maps: Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\channeldock_20260829T191622Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\channeldock_20260829T191622Z.html
+Requested URL    : https://apps.shopify.com/channeldock
+Final URL        : https://apps.shopify.com/channeldock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,284 bytes / 183,189 chars
+Elapsed          : 0.552s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChannelDock - Sync stock & orders with built-in PIM and warehouse automation | Shopify App Store
+meta description : Sync inventory, products & orders across 150+ channels like Shopify, Bol & Amazon. Automate shipping, PIM, and warehouse management with ChannelDock.
+canonical URL    : https://apps.shopify.com/channeldock
+<h1> tags ( 1)  : 'ChannelDock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

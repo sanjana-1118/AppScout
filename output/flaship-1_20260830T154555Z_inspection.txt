@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flaship-1_20260830T154555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flaship-1_20260830T154555Z.html
+Requested URL    : https://apps.shopify.com/flaship-1
+Final URL        : https://apps.shopify.com/flaship-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,026 bytes / 168,937 chars
+Elapsed          : 1.070s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flaship - Manage your orders shipment directly from admin portal.  | Shopify App Store
+meta description : Connect to multiple courier services from one dashboard! Our Shopify app automates shipping, compares rates, and simplifies logistics for your eCommerce store.
+canonical URL    : https://apps.shopify.com/flaship-1
+<h1> tags ( 1)  : 'Flaship'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

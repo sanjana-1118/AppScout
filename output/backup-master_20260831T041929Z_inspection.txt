@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\backup-master_20260831T041929Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\backup-master_20260831T041929Z.html
+Requested URL    : https://apps.shopify.com/backup-master
+Final URL        : https://apps.shopify.com/backup-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,279 bytes / 225,182 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BackupMaster Backups - Back up, restore, and protect your store data with confidence | Shopify App Store
+meta description : Automatic Shopify backups for products, collections, themes, metafields, and more. Restore previous versions or duplicate store data for staging or expansion.
+canonical URL    : https://apps.shopify.com/backup-master
+<h1> tags ( 1)  : 'BackupMaster Backups'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

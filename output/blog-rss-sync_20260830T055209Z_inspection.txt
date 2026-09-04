@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blog-rss-sync_20260830T055209Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blog-rss-sync_20260830T055209Z.html
+Requested URL    : https://apps.shopify.com/blog-rss-sync
+Final URL        : https://apps.shopify.com/blog-rss-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,481 bytes / 223,382 chars
+Elapsed          : 0.756s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PugSync: RSS Blog Sync - Import Medium, WordPress and RSS posts + AI SEO &... | Shopify App Store
+meta description : Paste a Medium, WordPress or RSS URL. PugSync imports the posts, hosts the images, and AutoSyncs new articles into your Shopify blog. Free plan, no card.
+canonical URL    : https://apps.shopify.com/blog-rss-sync
+<h1> tags ( 1)  : 'PugSync: RSS Blog Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\low-inventory-alert_20260830T050606Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\low-inventory-alert_20260830T050606Z.html
+Requested URL    : https://apps.shopify.com/low-inventory-alert
+Final URL        : https://apps.shopify.com/low-inventory-alert
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 231,048 bytes / 230,951 chars
+Elapsed          : 0.571s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Low Inventory Alert Guru - Simplify inventory management. Monitor low stock levels easily | Shopify App Store
+meta description : Easy to use. No coding. No scripts to install. No rules to configure. Automatically get notified when inventory levels fall below thresholds you se...
+canonical URL    : https://apps.shopify.com/low-inventory-alert
+<h1> tags ( 1)  : 'Low Inventory Alert Guru'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

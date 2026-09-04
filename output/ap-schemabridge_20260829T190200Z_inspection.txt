@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ap-schemabridge_20260829T190200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ap-schemabridge_20260829T190200Z.html
+Requested URL    : https://apps.shopify.com/ap-schemabridge
+Final URL        : https://apps.shopify.com/ap-schemabridge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,400 bytes / 185,567 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AP SchemaBridge - Connect website & store using Organization schema for brand | Shopify App Store
+meta description : ブランドサイトとShopifyストアで同じOrganizationを参照し、JSON-LDを一貫して管理。検索・AIに「同一主体」を伝え、複数店舗のLocalBusinessにも対応。メタフィールドで設定、テーマでブロックを有効化するだけ。SEO・AI検索を意識する企業向け。
+canonical URL    : https://apps.shopify.com/ap-schemabridge
+<h1> tags ( 1)  : 'AP SchemaBridge'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-blog-post-generator-1_20260829T184857Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-blog-post-generator-1_20260829T184857Z.html
+Requested URL    : https://apps.shopify.com/ai-blog-post-generator-1
+Final URL        : https://apps.shopify.com/ai-blog-post-generator-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 274,064 bytes / 273,969 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vizby: GEO & AEO for ChatGPT  - Agentic Storefront: GEO & AEO for ChatGPT, Gemini & Claude | Shopify App Store
+meta description : Get found, recommended and bought through ChatGPT, Gemini & Claude. Vizby's AI agents find what's blocking your AI visibility and fix it 24/7.
+canonical URL    : https://apps.shopify.com/ai-blog-post-generator-1
+<h1> tags ( 1)  : 'Vizby: GEO & AEO for ChatGPT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

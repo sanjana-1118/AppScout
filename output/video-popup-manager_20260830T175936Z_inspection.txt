@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\video-popup-manager_20260830T175936Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\video-popup-manager_20260830T175936Z.html
+Requested URL    : https://apps.shopify.com/video-popup-manager
+Final URL        : https://apps.shopify.com/video-popup-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,238 bytes / 168,111 chars
+Elapsed          : 0.976s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : itWoorks ‑ MiniTV - Show your products in action with videos on your product... | Shopify App Store
+meta description : Add product videos to any product page. Let customers see your products in real life before they buy. Works with all Shopify themes, no coding required
+canonical URL    : https://apps.shopify.com/video-popup-manager
+<h1> tags ( 1)  : 'itWoorks ‑ MiniTV'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

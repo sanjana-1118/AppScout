@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\can-i-help_20260830T162851Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\can-i-help_20260830T162851Z.html
+Requested URL    : https://apps.shopify.com/can-i-help
+Final URL        : https://apps.shopify.com/can-i-help
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,030 bytes / 192,937 chars
+Elapsed          : 0.745s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Can I Help - AI Customer Concierge: Drive sales, resolve issues 24/7 | Shopify App Store
+meta description : Can I Help is an AI customer concierge for Shopify that drives sales, resolves support issues 24/7 via chat, email & phone. Free to start, plans from $59/mo.
+canonical URL    : https://apps.shopify.com/can-i-help
+<h1> tags ( 1)  : 'Can I Help'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

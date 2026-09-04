@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uvdesk_20260830T075239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\uvdesk_20260830T075239Z.html
+Requested URL    : https://apps.shopify.com/uvdesk
+Final URL        : https://apps.shopify.com/uvdesk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,380 bytes / 194,261 chars
+Elapsed          : 0.835s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Helpdesk Support‑UVdesk - Automate customer support inquiries across all channels easily | Shopify App Store
+meta description : UVdesk helpdesk allows merchants to handle all their customer support inquiry coming from different channels in one place. It additionally has robu...
+canonical URL    : https://apps.shopify.com/uvdesk
+<h1> tags ( 1)  : 'Webkul Helpdesk Support‑UVdesk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

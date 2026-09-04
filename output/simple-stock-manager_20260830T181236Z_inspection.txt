@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simple-stock-manager_20260830T181236Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simple-stock-manager_20260830T181236Z.html
+Requested URL    : https://apps.shopify.com/simple-stock-manager
+Final URL        : https://apps.shopify.com/simple-stock-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,875 bytes / 192,786 chars
+Elapsed          : 0.794s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Simple Stock Manager - Know exactly when to reorder. Avoid lose a sale to... | Shopify App Store
+meta description : Automate inventory management with reorder point forecasting, one-click PDF purchase orders, and direct vendor email delivery. Free plan available.
+canonical URL    : https://apps.shopify.com/simple-stock-manager
+<h1> tags ( 1)  : 'Simple Stock Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

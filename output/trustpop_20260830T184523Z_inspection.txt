@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trustpop_20260830T184523Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trustpop_20260830T184523Z.html
+Requested URL    : https://apps.shopify.com/trustpop
+Final URL        : https://apps.shopify.com/trustpop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,552 bytes / 183,459 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trustpop - Place trust badges anywhere in your store, no code. | Shopify App Store
+meta description : Add trust badges, security seals, and payment icons to your Shopify store without coding. Increase buyer confidence and improve conversions.
+canonical URL    : https://apps.shopify.com/trustpop
+<h1> tags ( 1)  : 'Trustpop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

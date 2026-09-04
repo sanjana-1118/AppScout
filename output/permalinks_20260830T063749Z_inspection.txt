@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\permalinks_20260830T063749Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\permalinks_20260830T063749Z.html
+Requested URL    : https://apps.shopify.com/permalinks
+Final URL        : https://apps.shopify.com/permalinks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,224 bytes / 200,131 chars
+Elapsed          : 0.892s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZipLinks - Build preloaded checkout & add to cart links - sell... | Shopify App Store
+meta description : ZipLinks improves conversion rates allowing shops to create pre-selected "shortcuts" to the cart page or checkout page. Install for your Shopify store today
+canonical URL    : https://apps.shopify.com/permalinks
+<h1> tags ( 1)  : 'ZipLinks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

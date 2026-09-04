@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-blog-generator_20260830T180559Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-blog-generator_20260830T180559Z.html
+Requested URL    : https://apps.shopify.com/ai-blog-generator
+Final URL        : https://apps.shopify.com/ai-blog-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,055 bytes / 168,962 chars
+Elapsed          : 0.818s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qe AI SEO: AI Blog Post - Generate engaging blog content and SEO articles using AI | Shopify App Store
+meta description : Generate AI-powered blog posts, titles, and outlines. Create SEO-friendly content, customize tone and keywords, save drafts, and publish faster.
+canonical URL    : https://apps.shopify.com/ai-blog-generator
+<h1> tags ( 1)  : 'Qe AI SEO: AI Blog Post'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

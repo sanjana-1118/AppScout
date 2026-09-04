@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kockatoos-discounts-manager_20260830T045037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kockatoos-discounts-manager_20260830T045037Z.html
+Requested URL    : https://apps.shopify.com/kockatoos-discounts-manager
+Final URL        : https://apps.shopify.com/kockatoos-discounts-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,966 bytes / 178,877 chars
+Elapsed          : 0.882s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kockatoos Discounts Manager - Manage collection discounts locally and update variant prices | Shopify App Store
+meta description : Kockatoos Local Discount Manager lets merchants manage collection-based discount campaigns locally and apply them directly to product variant price...
+canonical URL    : https://apps.shopify.com/kockatoos-discounts-manager
+<h1> tags ( 1)  : 'Kockatoos Discounts Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

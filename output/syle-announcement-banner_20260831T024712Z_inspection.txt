@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syle-announcement-banner_20260831T024712Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syle-announcement-banner_20260831T024712Z.html
+Requested URL    : https://apps.shopify.com/syle-announcement-banner
+Final URL        : https://apps.shopify.com/syle-announcement-banner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,794 bytes / 178,703 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Syle: Announcement Banner - Customizable announcement bar with countdown and scheduling | Shopify App Store
+meta description : Add a customizable announcement bar with countdown timers, scheduling, CTA buttons, and page targeting. Pro plan adds geo-targeting and analytics.
+canonical URL    : https://apps.shopify.com/syle-announcement-banner
+<h1> tags ( 1)  : 'Syle: Announcement Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\surva-ai-surveys_20260830T155912Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\surva-ai-surveys_20260830T155912Z.html
+Requested URL    : https://apps.shopify.com/surva-ai-surveys
+Final URL        : https://apps.shopify.com/surva-ai-surveys
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,058 bytes / 194,945 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Surva.ai Post‑Purchase Surveys - Easily create and analyze post-purchase surveys with AI. | Shopify App Store
+meta description : Surva.ai is a Shopify app for post-purchase customer feedback, AI-generated surveys, and testimonial sharing.
+canonical URL    : https://apps.shopify.com/surva-ai-surveys
+<h1> tags ( 1)  : 'Surva.ai Post‑Purchase Surveys'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

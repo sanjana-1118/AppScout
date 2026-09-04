@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/team-page",
+  "fetch_timestamp": "2026-08-30T14:53:42.912299+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\team-page_20260830T145342Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\team-page_20260830T145342Z.html",
+    "url": "https://apps.shopify.com/team-page",
+    "final_url": "https://apps.shopify.com/team-page",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 167831,
+    "body_text_length": 167738,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.862949,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "TeamList: Team Page Creator - Create a Team Page | Shopify App Store",
+    "meta_description": "This app enables you to craft an engaging team page for your online store, enhancing customer connection. It's an ideal tool for showcasing your te...",
+    "canonical_url": "https://apps.shopify.com/team-page",
+    "h1_tags": [
+      "TeamList: Team Page Creator"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "TeamList: Team Page Creator",
+    "app_slug": "team-page",
+    "app_url": "https://apps.shopify.com/team-page",
+    "developer_name": "Boltverk",
+    "description": "This app enables you to craft an engaging team page for your online store, enhancing customer connection. It's an ideal tool for showcasing your te...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Page builder"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\team-page_20260830T145342Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\team-page_20260830T145342Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "TeamList: Team Page Creator",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "team-page",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/team-page",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Boltverk",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "This app enables you to craft an engaging team page for your online store, enhancing customer connection. It's an ideal tool for showcasing your te...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Page builder",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

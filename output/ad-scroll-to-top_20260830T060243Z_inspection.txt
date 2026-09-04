@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ad-scroll-to-top_20260830T060243Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ad-scroll-to-top_20260830T060243Z.html
+Requested URL    : https://apps.shopify.com/ad-scroll-to-top
+Final URL        : https://apps.shopify.com/ad-scroll-to-top
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,145 bytes / 203,054 chars
+Elapsed          : 0.828s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ScrollEase | Scroll To Top - Allows the visitor to easily scroll back to top of... | Shopify App Store
+meta description : AD Scroll To Top allows the visitor to easily scroll back to the top of the page, with fully customizable options and images. 
+
+#Visualize your but...
+canonical URL    : https://apps.shopify.com/ad-scroll-to-top
+<h1> tags ( 1)  : 'ScrollEase | Scroll To Top'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

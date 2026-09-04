@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-background-remover_20260830T180515Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scurix-background-remover_20260830T180515Z.html
+Requested URL    : https://apps.shopify.com/scurix-background-remover
+Final URL        : https://apps.shopify.com/scurix-background-remover
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,022 bytes / 186,931 chars
+Elapsed          : 0.674s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scurix Background Remover - Remove backgrounds and create cleaner product photos | Shopify App Store
+meta description : Scurix Background Remover helps merchants clean up product photos without leaving their admin. Select product images, remove the background in bulk...
+canonical URL    : https://apps.shopify.com/scurix-background-remover
+<h1> tags ( 1)  : 'Scurix Background Remover'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

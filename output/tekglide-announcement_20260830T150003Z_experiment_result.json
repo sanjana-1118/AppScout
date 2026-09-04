@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/tekglide-announcement",
+  "fetch_timestamp": "2026-08-30T15:00:03.826007+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tekglide-announcement_20260830T150003Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tekglide-announcement_20260830T150003Z.html",
+    "url": "https://apps.shopify.com/tekglide-announcement",
+    "final_url": "https://apps.shopify.com/tekglide-announcement",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 161427,
+    "body_text_length": 161336,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.750371,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Tekglide Announcement - Boost Engagement with Fully Customizable Announcement Bars | Shopify App Store",
+    "meta_description": "Transform your Shopify store with our powerful announcement bar app, designed for all types of merchants! Say goodbye to basic, uninspiring announc...",
+    "canonical_url": "https://apps.shopify.com/tekglide-announcement",
+    "h1_tags": [
+      "Tekglide Announcement"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Tekglide Announcement",
+    "app_slug": "tekglide-announcement",
+    "app_url": "https://apps.shopify.com/tekglide-announcement",
+    "developer_name": "Tekglide, Inc",
+    "description": "Transform your Shopify store with our powerful announcement bar app, designed for all types of merchants! Say goodbye to basic, uninspiring announc...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Banners"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tekglide-announcement_20260830T150003Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tekglide-announcement_20260830T150003Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Tekglide Announcement",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "tekglide-announcement",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/tekglide-announcement",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Tekglide, Inc",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Transform your Shopify store with our powerful announcement bar app, designed for all types of merchants! Say goodbye to basic, uninspiring announc...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Banners",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

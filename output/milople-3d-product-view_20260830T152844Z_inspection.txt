@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-3d-product-view_20260830T152844Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-3d-product-view_20260830T152844Z.html
+Requested URL    : https://apps.shopify.com/milople-3d-product-view
+Final URL        : https://apps.shopify.com/milople-3d-product-view
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,921 bytes / 172,825 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Milople 3D Product View - Our app makes it easy to showcase your items from... | Shopify App Store
+meta description : Show products in immersive 3D and 360° views. Allow shoppers to rotate, zoom, and explore every product angle for a realistic visual experience.
+canonical URL    : https://apps.shopify.com/milople-3d-product-view
+<h1> tags ( 1)  : 'Milople 3D Product View'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

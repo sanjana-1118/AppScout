@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-anywhere_20260830T130222Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-anywhere_20260830T130222Z.html
+Requested URL    : https://apps.shopify.com/faq-anywhere
+Final URL        : https://apps.shopify.com/faq-anywhere
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,650 bytes / 221,541 chars
+Elapsed          : 0.848s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CP24 Membership - Seamlessly collect recurring payment with paid membership plan | Shopify App Store
+meta description : membership plans & subscription, offer members-only discounts, auto-renewal & orders, FAQs & Product Q/A
+canonical URL    : https://apps.shopify.com/faq-anywhere
+<h1> tags ( 1)  : 'CP24 Membership'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

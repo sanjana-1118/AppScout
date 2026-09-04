@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\collection-image-override_20260830T165801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\collection-image-override_20260830T165801Z.html
+Requested URL    : https://apps.shopify.com/collection-image-override
+Final URL        : https://apps.shopify.com/collection-image-override
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,060 bytes / 183,967 chars
+Elapsed          : 0.804s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SwapShot Image Override - Product images by collection without duplicates | Shopify App Store
+meta description : Show different product images by collection without duplicating products. No-code image swaps for better merchandising.
+canonical URL    : https://apps.shopify.com/collection-image-override
+<h1> tags ( 1)  : 'SwapShot Image Override'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

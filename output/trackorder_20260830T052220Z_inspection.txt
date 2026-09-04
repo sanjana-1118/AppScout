@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackorder_20260830T052220Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackorder_20260830T052220Z.html
+Requested URL    : https://apps.shopify.com/trackorder
+Final URL        : https://apps.shopify.com/trackorder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,194 bytes / 169,085 chars
+Elapsed          : 0.533s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrackOrder ‑ Tracking & Sync - Unlimited PayPal and Strip Order Sync, Order Tracking Page | Shopify App Store
+meta description : Add Track Your Order Page on Shopify store and let your customers check status of their orders with branded UI experience at $1 per month
+canonical URL    : https://apps.shopify.com/trackorder
+<h1> tags ( 1)  : 'TrackOrder ‑ Tracking & Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

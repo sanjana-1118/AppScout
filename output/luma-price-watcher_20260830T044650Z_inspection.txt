@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luma-price-watcher_20260830T044650Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luma-price-watcher_20260830T044650Z.html
+Requested URL    : https://apps.shopify.com/luma-price-watcher
+Final URL        : https://apps.shopify.com/luma-price-watcher
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,416 bytes / 184,321 chars
+Elapsed          : 0.661s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Luma: Price Watcher - Notify customers of price changes and send personal discounts | Shopify App Store
+meta description : Add a price watcher to your store. Let customers track price changes, receive alerts, and get notified when prices meet their expectations.
+canonical URL    : https://apps.shopify.com/luma-price-watcher
+<h1> tags ( 1)  : 'Luma: Price Watcher'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

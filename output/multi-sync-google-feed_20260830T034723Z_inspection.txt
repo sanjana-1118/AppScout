@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-sync-google-feed_20260830T034723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multi-sync-google-feed_20260830T034723Z.html
+Requested URL    : https://apps.shopify.com/multi-sync-google-feed
+Final URL        : https://apps.shopify.com/multi-sync-google-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,941 bytes / 180,846 chars
+Elapsed          : 0.631s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Multi Sync Google Feed - Sync products for Google Merchant Center | Shopify App Store
+meta description : Sync Shopify products to Google Merchant Center with live XML feeds, Shopify Markets support, diagnostics, and automatic updates
+canonical URL    : https://apps.shopify.com/multi-sync-google-feed
+<h1> tags ( 1)  : 'Multi Sync Google Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

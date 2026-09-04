@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lynkai_20260830T162328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lynkai_20260830T162328Z.html
+Requested URL    : https://apps.shopify.com/lynkai
+Final URL        : https://apps.shopify.com/lynkai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,470 bytes / 174,381 chars
+Elapsed          : 0.906s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LynkAI - AI Discoverability & Readiness Scan / Store-Trained Assistant | Shopify App Store
+meta description : AI Discoverability & Readiness Scan / Store-Trained Assistant.  It highlights priority issues such as missing attributes and structured data gaps.
+canonical URL    : https://apps.shopify.com/lynkai
+<h1> tags ( 1)  : 'LynkAI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

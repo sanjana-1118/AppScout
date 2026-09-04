@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easylockdown_20260830T035501Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easylockdown_20260830T035501Z.html
+Requested URL    : https://apps.shopify.com/easylockdown
+Final URL        : https://apps.shopify.com/easylockdown
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,836 bytes / 214,706 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Wholesale Lock for B2B - Hide prices, restrict B2B login with password page, lock pages | Shopify App Store
+meta description : Lock or hide products, collections, and prices. Locks wholesale pages or specific pages on your store with a few simple clicks.
+canonical URL    : https://apps.shopify.com/easylockdown
+<h1> tags ( 1)  : 'Easy Wholesale Lock for B2B'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

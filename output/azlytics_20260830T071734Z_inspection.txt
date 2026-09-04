@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\azlytics_20260830T071734Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\azlytics_20260830T071734Z.html
+Requested URL    : https://apps.shopify.com/azlytics
+Final URL        : https://apps.shopify.com/azlytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,657 bytes / 183,562 chars
+Elapsed          : 0.803s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Azlytics - Azlytics: Turn data into dollars with AI-driven insights | Shopify App Store
+meta description : Azlytics is an AI-powered analytics platform designed to empower ecommerce merchants. With a user-friendly interface and advanced analytics capabil...
+canonical URL    : https://apps.shopify.com/azlytics
+<h1> tags ( 1)  : 'Azlytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

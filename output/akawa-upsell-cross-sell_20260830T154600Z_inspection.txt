@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\akawa-upsell-cross-sell_20260830T154600Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\akawa-upsell-cross-sell_20260830T154600Z.html
+Requested URL    : https://apps.shopify.com/akawa-upsell-cross-sell
+Final URL        : https://apps.shopify.com/akawa-upsell-cross-sell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,438 bytes / 171,313 chars
+Elapsed          : 0.539s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Akawa Upsell & Cross Sell - Show upsells and add-ons that match each product automatically | Shopify App Store
+meta description : Boost AOV with customizable upsell and cross sell blocks. Create smart recommendation sets and display them directly on Shopify product pages—no coding needed.
+canonical URL    : https://apps.shopify.com/akawa-upsell-cross-sell
+<h1> tags ( 1)  : 'Akawa Upsell & Cross Sell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

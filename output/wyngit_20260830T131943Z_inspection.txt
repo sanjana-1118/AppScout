@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wyngit_20260830T131943Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wyngit_20260830T131943Z.html
+Requested URL    : https://apps.shopify.com/wyngit
+Final URL        : https://apps.shopify.com/wyngit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,423 bytes / 183,326 chars
+Elapsed          : 0.866s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wyngit - Same-day delivery in Vancouver, Canada | Shopify App Store
+meta description : Seamless same-day delivery from your store to their door.
+What does Wyngit do? We deliver—swiftly and seamlessly. We tailor our service offering to...
+canonical URL    : https://apps.shopify.com/wyngit
+<h1> tags ( 1)  : 'Wyngit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,1184 @@
+{
+  "created_at": "2026-08-29T13:35:35.749816+00:00",
+  "summary": {
+    "categories_attempted": 3,
+    "categories_succeeded": 3,
+    "total_category_urls_encountered": 162,
+    "unique_app_urls": 162,
+    "global_duplicates_removed": 0,
+    "multi_category_apps_count": 0,
+    "total_snapshots_reused": 7,
+    "total_new_http_requests": 0
+  },
+  "categories_processed": [
+    {
+      "category_url": "https://apps.shopify.com/categories/finding-products-sourcing-options-dropshipping",
+      "category_slug": "finding-products-sourcing-options-dropshipping",
+      "category_label": "Dropshipping",
+      "pages_processed": 1,
+      "apps_discovered": 18,
+      "snapshots_reused": 1,
+      "new_http_requests": 0,
+      "stopped_reason": "no_next_page",
+      "status": "success"
+    },
+    {
+      "category_url": "https://apps.shopify.com/categories/sales-channels-selling-online-marketplaces",
+      "category_slug": "sales-channels-selling-online-marketplaces",
+      "category_label": "Marketplaces",
+      "pages_processed": 3,
+      "apps_discovered": 72,
+      "snapshots_reused": 3,
+      "new_http_requests": 0,
+      "stopped_reason": "max_pages_reached",
+      "status": "success"
+    },
+    {
+      "category_url": "https://apps.shopify.com/categories/marketing-and-conversion-social-trust-product-reviews",
+      "category_slug": "marketing-and-conversion-social-trust-product-reviews",
+      "category_label": "Product reviews",
+      "pages_processed": 3,
+      "apps_discovered": 72,
+      "snapshots_reused": 3,
+      "new_http_requests": 0,
+      "stopped_reason": "max_pages_reached",
+      "status": "success"
+    }
+  ],
+  "apps": [
+    {
+      "url": "https://apps.shopify.com/eprolo",
+      "slug": "eprolo",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/aliexpress-dropshipping-master",
+      "slug": "aliexpress-dropshipping-master",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-upload",
+      "slug": "product-upload",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-amazon-affiliate",
+      "slug": "reputon-amazon-affiliate",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/cloneify-copy-products",
+      "slug": "cloneify-copy-products",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/ninja-pod",
+      "slug": "ninja-pod",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/odmpod-dropshipping",
+      "slug": "odmpod-dropshipping",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/printful",
+      "slug": "printful",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/fforder-dropshipping",
+      "slug": "fforder-dropshipping",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/dsers",
+      "slug": "dsers",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/apliiq",
+      "slug": "apliiq",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/germandrop",
+      "slug": "germandrop",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/customix-product-personalizer",
+      "slug": "customix-product-personalizer",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-options-personalizer",
+      "slug": "product-options-personalizer",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-designer-setubridge",
+      "slug": "product-designer-setubridge",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/printify",
+      "slug": "printify",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/buckydrop",
+      "slug": "buckydrop",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/collective",
+      "slug": "collective",
+      "categories": [
+        "finding-products-sourcing-options-dropshipping"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/ig-fb-shoppable-comments",
+      "slug": "ig-fb-shoppable-comments",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google",
+      "slug": "google",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/slashcart-tiktok-shop-sync",
+      "slug": "slashcart-tiktok-shop-sync",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/tiktok",
+      "slug": "tiktok",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/faire-sell-wholesale",
+      "slug": "faire-sell-wholesale",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/multiple-google-shopping-feeds",
+      "slug": "multiple-google-shopping-feeds",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/instachat",
+      "slug": "instachat",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/amazon-by-cedcommerce",
+      "slug": "amazon-by-cedcommerce",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/shop",
+      "slug": "shop",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/facebook",
+      "slug": "facebook",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/mulwi-shopping-feeds",
+      "slug": "mulwi-shopping-feeds",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-shopping-feed",
+      "slug": "google-shopping-feed",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/pinterest",
+      "slug": "pinterest",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/litcommerce",
+      "slug": "litcommerce",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/automizely-shopping",
+      "slug": "automizely-shopping",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/cedcommerce-tiktok-shop",
+      "slug": "cedcommerce-tiktok-shop",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/optimaconnector",
+      "slug": "optimaconnector",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-feed-10",
+      "slug": "product-feed-10",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-shopping-feed-2",
+      "slug": "google-shopping-feed-2",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/syncee-for-suppliers",
+      "slug": "syncee-for-suppliers",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/etsy-integration-sync",
+      "slug": "etsy-integration-sync",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/m2e-sales-channels",
+      "slug": "m2e-sales-channels",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/etsy-importer-2",
+      "slug": "etsy-importer-2",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/ebay-integration",
+      "slug": "ebay-integration",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/litcommerce-product-feeds",
+      "slug": "litcommerce-product-feeds",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/mirakl-marketplaces-app",
+      "slug": "mirakl-marketplaces-app",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/lionz-apps-sync",
+      "slug": "lionz-apps-sync",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/marketplace-connect",
+      "slug": "marketplace-connect",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/datafeedwatch",
+      "slug": "datafeedwatch",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/shopupz-inventory",
+      "slug": "shopupz-inventory",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/whatnot",
+      "slug": "whatnot",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/amazon-easy-tool",
+      "slug": "amazon-easy-tool",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/salestio-integration",
+      "slug": "salestio-integration",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/x",
+      "slug": "x",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/etsy-marketplace-integration",
+      "slug": "etsy-marketplace-integration",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/disconnect-by-constacloud-1",
+      "slug": "disconnect-by-constacloud-1",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/temu",
+      "slug": "temu",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/shopee-channel",
+      "slug": "shopee-channel",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/linktree",
+      "slug": "linktree",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/free-traffic-exchange",
+      "slug": "free-traffic-exchange",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/nabu-for-facebook-feed",
+      "slug": "nabu-for-facebook-feed",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/easyfeed-for-google-shopping-feeds",
+      "slug": "easyfeed-for-google-shopping-feeds",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/doordash",
+      "slug": "doordash",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/koongo",
+      "slug": "koongo",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/tiktok-shop-integration-dpl",
+      "slug": "tiktok-shop-integration-dpl",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/tiktok-shop-connect-ecomzier",
+      "slug": "tiktok-shop-connect-ecomzier",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/glmall-sales-channel",
+      "slug": "glmall-sales-channel",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/spotify",
+      "slug": "spotify",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/ankorstore-sell-wholesale",
+      "slug": "ankorstore-sell-wholesale",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/speedy-google-shopping-feed",
+      "slug": "speedy-google-shopping-feed",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/market-sync-multi-channel",
+      "slug": "market-sync-multi-channel",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/orichi-product-feeds",
+      "slug": "orichi-product-feeds",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-shopping-feed-pro",
+      "slug": "google-shopping-feed-pro",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/walmart-marketplace-integration",
+      "slug": "walmart-marketplace-integration",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/channable",
+      "slug": "channable",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/feedhub-for-google-shopping",
+      "slug": "feedhub-for-google-shopping",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/faire-integration",
+      "slug": "faire-integration",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/multivendor-marketplace",
+      "slug": "multivendor-marketplace",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/whatsellsai",
+      "slug": "whatsellsai",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/grommet",
+      "slug": "grommet",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/astroselling",
+      "slug": "astroselling",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/exportyourstore",
+      "slug": "exportyourstore",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/multi-vendor-marketplace",
+      "slug": "multi-vendor-marketplace",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/idealo-integration",
+      "slug": "idealo-integration",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/omnivore",
+      "slug": "omnivore",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/garnet-seller",
+      "slug": "garnet-seller",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/woolworthsmarketplus",
+      "slug": "woolworthsmarketplus",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/stockx",
+      "slug": "stockx",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/fourty-ai",
+      "slug": "fourty-ai",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/canal-for-suppliers",
+      "slug": "canal-for-suppliers",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/dropcommerce",
+      "slug": "dropcommerce",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/vela",
+      "slug": "vela",
+      "categories": [
+        "sales-channels-selling-online-marketplaces"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/judgeme",
+      "slug": "judgeme",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/air-reviews",
+      "slug": "air-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-reviews-trust-badge",
+      "slug": "google-reviews-trust-badge",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-review-plus-by-entangle-1",
+      "slug": "google-review-plus-by-entangle-1",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/aliexpress-review-importer",
+      "slug": "aliexpress-review-importer",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/junip",
+      "slug": "junip",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trustshop",
+      "slug": "trustshop",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-store-reviews",
+      "slug": "reputon-store-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/loox",
+      "slug": "loox",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/klaviyo-reviews",
+      "slug": "klaviyo-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trustify",
+      "slug": "trustify",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-amazon-reviews",
+      "slug": "reputon-amazon-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-reviews-importer",
+      "slug": "google-reviews-importer",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/wise-reviews",
+      "slug": "wise-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-reviews-by-repocean",
+      "slug": "google-reviews-by-repocean",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-ebay-reviews",
+      "slug": "reputon-ebay-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/vitals",
+      "slug": "vitals",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/sealapps-product-review",
+      "slug": "sealapps-product-review",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/lai-reviews",
+      "slug": "lai-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/doran-reviews-questions",
+      "slug": "doran-reviews-questions",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-etsy-reviews",
+      "slug": "reputon-etsy-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/etsy-reviews-importer",
+      "slug": "etsy-reviews-importer",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/google-reviews-by-appio",
+      "slug": "google-reviews-by-appio",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trustyy-reviews",
+      "slug": "trustyy-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/ryviu",
+      "slug": "ryviu",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/rivyo-product-review",
+      "slug": "rivyo-product-review",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/okendo-reviews",
+      "slug": "okendo-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/ali-reviews",
+      "slug": "ali-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/revie",
+      "slug": "revie",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-facebook-reviews",
+      "slug": "reputon-facebook-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/tt-reviewimport",
+      "slug": "tt-reviewimport",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trustpilot",
+      "slug": "trustpilot",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/yotpo-social-reviews",
+      "slug": "yotpo-social-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/lipscore-real-reviews",
+      "slug": "lipscore-real-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/k-google-reviews-importer",
+      "slug": "k-google-reviews-importer",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/areviews-aliexpress",
+      "slug": "areviews-aliexpress",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/star-review",
+      "slug": "star-review",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/k-amazon-reviews",
+      "slug": "k-amazon-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/webwinkelkeur",
+      "slug": "webwinkelkeur",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/fera",
+      "slug": "fera",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trustap-reviews",
+      "slug": "trustap-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reviews-co-uk-product-and-merchant-review-collection",
+      "slug": "reviews-co-uk-product-and-merchant-review-collection",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/reputon-testimonials",
+      "slug": "reputon-testimonials",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/vouch",
+      "slug": "vouch",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/nector-rewards-loyalty",
+      "slug": "nector-rewards-loyalty",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/checkoutreview",
+      "slug": "checkoutreview",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/easyreviews",
+      "slug": "easyreviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/wair-size-recommendation",
+      "slug": "wair-size-recommendation",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-reviews-by-appio",
+      "slug": "product-reviews-by-appio",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-review-myappgurus",
+      "slug": "product-review-myappgurus",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/aitrillion",
+      "slug": "aitrillion",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/bk-reviews",
+      "slug": "bk-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/etsy-reviews-1",
+      "slug": "etsy-reviews-1",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/proviews",
+      "slug": "proviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trueview",
+      "slug": "trueview",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/dadao-reviews",
+      "slug": "dadao-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/customer-reviews-collector",
+      "slug": "customer-reviews-collector",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/sgcr",
+      "slug": "sgcr",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/product-reviews-addon",
+      "slug": "product-reviews-addon",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/review-collect",
+      "slug": "review-collect",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/photo-reviews",
+      "slug": "photo-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/testimonial-review",
+      "slug": "testimonial-review",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/rapid-reviews",
+      "slug": "rapid-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/k-facebook-reviews",
+      "slug": "k-facebook-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/import-reviews",
+      "slug": "import-reviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/onereview",
+      "slug": "onereview",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/inflate",
+      "slug": "inflate",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/audien-review",
+      "slug": "audien-review",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/trustreviews",
+      "slug": "trustreviews",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/rateify-review",
+      "slug": "rateify-review",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/video-product-review-app",
+      "slug": "video-product-review-app",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    },
+    {
+      "url": "https://apps.shopify.com/heureka-verified",
+      "slug": "heureka-verified",
+      "categories": [
+        "marketing-and-conversion-social-trust-product-reviews"
+      ]
+    }
+  ]
+}

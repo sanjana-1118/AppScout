@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ot-easy-instagram-feed_20260830T145446Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ot-easy-instagram-feed_20260830T145446Z.html
+Requested URL    : https://apps.shopify.com/ot-easy-instagram-feed
+Final URL        : https://apps.shopify.com/ot-easy-instagram-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,317 bytes / 220,214 chars
+Elapsed          : 0.826s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OT: Instagram Feed, Instafeed - Add shoppable Instagram feed to store. Increase trust & sales | Shopify App Store
+meta description : OT: Instagram Feed turns your Instagram into a sales channel. Create shoppable posts so customers can buy directly, choose which posts to show or h...
+canonical URL    : https://apps.shopify.com/ot-easy-instagram-feed
+<h1> tags ( 1)  : 'OT: Instagram Feed, Instafeed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

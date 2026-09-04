@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\giftwrappingpaper_20260830T065406Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\giftwrappingpaper_20260830T065406Z.html
+Requested URL    : https://apps.shopify.com/giftwrappingpaper
+Final URL        : https://apps.shopify.com/giftwrappingpaper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,808 bytes / 178,359 chars
+Elapsed          : 0.740s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ギフトラッピング＆のし専用アプリ - 贈り物に必要なラッピングとのしの設定項目をカート画面に追加できます。 | Shopify App Store
+meta description : 難しい設定は不要、インストールしてから必要な項目を管理画面で設定するだけですぐに使えます。コーディングのスキルがなくても簡単に設定可能です。
+顧客のギフトニーズに応えることで、ECサイトのサービス向上を図ることができます。画像の設定や、有料／無料の金額設定、表書きのカスタマイズなども簡単にでき...
+canonical URL    : https://apps.shopify.com/giftwrappingpaper?locale=ja
+<h1> tags ( 1)  : 'ギフトラッピング＆のし専用アプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

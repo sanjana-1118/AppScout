@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-gps-coordinates_20260830T052033Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-gps-coordinates_20260830T052033Z.html
+Requested URL    : https://apps.shopify.com/customer-gps-coordinates
+Final URL        : https://apps.shopify.com/customer-gps-coordinates
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,518 bytes / 209,395 chars
+Elapsed          : 0.898s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wayfinder ‑ Local Delivery GPS - Customers pinpoint exact location on a map for local delivery | Shopify App Store
+meta description : Collect your customers’ precise delivery location and make faster and more precise deliveries. Create delivery zones and set custom shipping rates.
+canonical URL    : https://apps.shopify.com/customer-gps-coordinates
+<h1> tags ( 1)  : 'Wayfinder ‑ Local Delivery GPS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

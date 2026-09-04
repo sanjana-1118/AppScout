@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enorm-image-slider_20260830T140405Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\enorm-image-slider_20260830T140405Z.html
+Requested URL    : https://apps.shopify.com/enorm-image-slider
+Final URL        : https://apps.shopify.com/enorm-image-slider
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,272 bytes / 224,183 chars
+Elapsed          : 0.405s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Image Slider Pro - Upload images to create logo , carousal or banner sliders | Shopify App Store
+meta description : Image Slider Pro helps you create banner sliders, logo carousels, and lookbook-style sliders in just a few steps. Upload multiple images, control s...
+canonical URL    : https://apps.shopify.com/enorm-image-slider
+<h1> tags ( 1)  : 'Image Slider Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

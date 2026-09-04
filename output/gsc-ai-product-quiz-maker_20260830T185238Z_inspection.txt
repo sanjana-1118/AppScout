@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gsc-ai-product-quiz-maker_20260830T185238Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gsc-ai-product-quiz-maker_20260830T185238Z.html
+Requested URL    : https://apps.shopify.com/gsc-ai-product-quiz-maker
+Final URL        : https://apps.shopify.com/gsc-ai-product-quiz-maker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,391 bytes / 221,302 chars
+Elapsed          : 1.166s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GSC AI Product Quiz Builder - AI product quiz maker for recommendations, leads, and sales | Shopify App Store
+meta description : Build AI product quizzes, product finders, and recommendation quizzes for Shopify. Collect leads, guide shoppers, and personalize product recommendations.
+canonical URL    : https://apps.shopify.com/gsc-ai-product-quiz-maker
+<h1> tags ( 1)  : 'GSC AI Product Quiz Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/shopify-application-285",
+  "fetch_timestamp": "2026-08-30T13:22:26.086293+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-285_20260830T132226Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-285_20260830T132226Z.html",
+    "url": "https://apps.shopify.com/shopify-application-285",
+    "final_url": "https://apps.shopify.com/shopify-application-285",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 166538,
+    "body_text_length": 162335,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.608147,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "リピート対策！かんたんSTEPメール - リピート客を増やすためのSTEPメールがかんたんに設定できます。定額料金で無制限にメール配信できる日本製アプリです。 | Shopify App Store",
+    "meta_description": "“リピート客を増やす”ための STEPメールがかんたんに 定額料金で無制限にメール配信できる 日本製アプリです。\n\nステップメールは、Shopifyの注文データや商品情報を自動連係して、お客様毎の購入日等を起点に、かんたんに自動でステップメールの設定・配信可能です。まずはお客様へのフォローとし...",
+    "canonical_url": "https://apps.shopify.com/shopify-application-285?locale=ja",
+    "h1_tags": [
+      "リピート対策！かんたんSTEPメール"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "リピート対策！かんたんSTEPメール",
+    "app_slug": "shopify-application-285",
+    "app_url": "https://apps.shopify.com/shopify-application-285?locale=ja",
+    "developer_name": "株式会社LTV-X",
+    "description": "“リピート客を増やす”ための STEPメールがかんたんに 定額料金で無制限にメール配信できる 日本製アプリです。\n\nステップメールは、Shopifyの注文データや商品情報を自動連係して、お客様毎の購入日等を起点に、かんたんに自動でステップメールの設定・配信可能です。まずはお客様へのフォローとし...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Email marketing"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-285_20260830T132226Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\shopify-application-285_20260830T132226Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "リピート対策！かんたんSTEPメール",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "shopify-application-285",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/shopify-application-285?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "株式会社LTV-X",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "“リピート客を増やす”ための STEPメールがかんたんに 定額料金で無制限にメール配信できる 日本製アプリです。\n\nステップメールは、Shopifyの注文データや商品情報を自動連係して、お客様毎の購入日等を起点に、かんたんに自動でステップメールの設定・配信可能です。まずはお客様へのフォローとし...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Email marketing",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

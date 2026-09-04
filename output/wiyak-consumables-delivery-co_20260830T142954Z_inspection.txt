@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wiyak-consumables-delivery-co_20260830T142954Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wiyak-consumables-delivery-co_20260830T142954Z.html
+Requested URL    : https://apps.shopify.com/wiyak-consumables-delivery-co
+Final URL        : https://apps.shopify.com/wiyak-consumables-delivery-co
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,174 bytes / 167,081 chars
+Elapsed          : 0.667s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WIYAK Delivery (Business) - A digital delivery platform which delivers smiles at your door | Shopify App Store
+meta description : Move from the old way to the WIYAK way with a digital solution proposed-build to serve all of your logistic needs.
+Avoid ordered chaos, expensive d...
+canonical URL    : https://apps.shopify.com/wiyak-consumables-delivery-co
+<h1> tags ( 1)  : 'WIYAK Delivery (Business)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-deck_20260830T055315Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-deck_20260830T055315Z.html
+Requested URL    : https://apps.shopify.com/discount-deck
+Final URL        : https://apps.shopify.com/discount-deck
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,343 bytes / 199,932 chars
+Elapsed          : 0.618s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount Deck ‑ Coupon Display -  Show available coupons on customer accounts and at checkout | Shopify App Store
+meta description : 【日本語サポート・導入支援可能】顧客が持っているクーポンをマイページ・チェックアウトページ上で一覧表示を行うことで、クーポンの利用率の向上やカゴ落ち率の改善が狙えます。クーポン付与・失効通知（あと◯日でクーポンが失効）も本アプリを使用することで可能になります
+canonical URL    : https://apps.shopify.com/discount-deck
+<h1> tags ( 1)  : 'Discount Deck ‑ Coupon Display'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

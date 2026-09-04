@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-catalyst_20260830T063900Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-catalyst_20260830T063900Z.html
+Requested URL    : https://apps.shopify.com/checkout-catalyst
+Final URL        : https://apps.shopify.com/checkout-catalyst
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,835 bytes / 209,742 chars
+Elapsed          : 0.701s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Checkout Catalyst - Checkout catalsyt helps to customize the checkout page | Shopify App Store
+meta description : Checkout Catalyst: Shopify app for checkout customization with multiple features and functionalities. Enhance conversions and shopping experience today!
+canonical URL    : https://apps.shopify.com/checkout-catalyst
+<h1> tags ( 1)  : 'Checkout Catalyst'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

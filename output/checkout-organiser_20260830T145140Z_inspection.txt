@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-organiser_20260830T145140Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkout-organiser_20260830T145140Z.html
+Requested URL    : https://apps.shopify.com/checkout-organiser
+Final URL        : https://apps.shopify.com/checkout-organiser
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,934 bytes / 184,845 chars
+Elapsed          : 0.588s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zip: Checkout Organiser - Modify shipping & payment methods at checkout based on rules | Shopify App Store
+meta description : Personalize the checkout experience for your customers based on various rules. 
+
+Set various conditions, and when they're met, shipping methods and...
+canonical URL    : https://apps.shopify.com/checkout-organiser
+<h1> tags ( 1)  : 'Zip: Checkout Organiser'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

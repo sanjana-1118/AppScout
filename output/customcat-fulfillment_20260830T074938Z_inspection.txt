@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customcat-fulfillment_20260830T074938Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customcat-fulfillment_20260830T074938Z.html
+Requested URL    : https://apps.shopify.com/customcat-fulfillment
+Final URL        : https://apps.shopify.com/customcat-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,647 bytes / 212,554 chars
+Elapsed          : 0.930s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CustomCat: Print on Demand - Sell Custom Products – Low Prices, 48-Hour US Printing | Shopify App Store
+meta description : Lightning FAST Print-On-Demand Custom Product Fulfillment. Create & sell custom print-on-demand products, hats, apparel, activewear, houseware, & accessories.
+canonical URL    : https://apps.shopify.com/customcat-fulfillment
+<h1> tags ( 1)  : 'CustomCat: Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

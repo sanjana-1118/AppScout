@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snail-pinterest-pixel_20260830T175949Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snail-pinterest-pixel_20260830T175949Z.html
+Requested URL    : https://apps.shopify.com/snail-pinterest-pixel
+Final URL        : https://apps.shopify.com/snail-pinterest-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,666 bytes / 170,530 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Snail ‑ Pinterest Pixel & CAPI - Pinterest Tag & Conversion API for smarter ad tracking | Shopify App Store
+meta description : Automatically install Pinterest Tag on your Shopify store — no coding required — and send conversion events server-side via Pinterest API for Conve...
+canonical URL    : https://apps.shopify.com/snail-pinterest-pixel
+<h1> tags ( 1)  : 'Snail ‑ Pinterest Pixel & CAPI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

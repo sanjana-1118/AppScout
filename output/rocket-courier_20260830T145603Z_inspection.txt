@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rocket-courier_20260830T145603Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rocket-courier_20260830T145603Z.html
+Requested URL    : https://apps.shopify.com/rocket-courier
+Final URL        : https://apps.shopify.com/rocket-courier
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,638 bytes / 152,545 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rocket Courier - Connect Rocket Courier account to add Bookings & Print labels | Shopify App Store
+meta description : Rocket Courier is a courier company in Pakistan. Connect Shopify store with Rocket Courier Shopify App to add shipment bookings, fulfillment and print labels
+canonical URL    : https://apps.shopify.com/rocket-courier
+<h1> tags ( 1)  : 'Rocket Courier'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

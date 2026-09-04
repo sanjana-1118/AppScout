@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gift-card-hero_20260830T065308Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gift-card-hero_20260830T065308Z.html
+Requested URL    : https://apps.shopify.com/gift-card-hero
+Final URL        : https://apps.shopify.com/gift-card-hero
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 244,606 bytes / 244,449 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gift Card Hero • All‑in‑one - Boost sales with reloadable gift cards for online and in-store | Shopify App Store
+meta description : Boost your Shopify store with Gift Card Hero! Enjoy balance reloads, scheduled delivery, customizable designs, and detailed reporting.
+canonical URL    : https://apps.shopify.com/gift-card-hero
+<h1> tags ( 1)  : 'Gift Card Hero • All‑in‑one'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

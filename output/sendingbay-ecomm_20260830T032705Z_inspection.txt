@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendingbay-ecomm_20260830T032705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sendingbay-ecomm_20260830T032705Z.html
+Requested URL    : https://apps.shopify.com/sendingbay-ecomm
+Final URL        : https://apps.shopify.com/sendingbay-ecomm
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,915 bytes / 181,796 chars
+Elapsed          : 0.682s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SendingBay eComm - Shipping management with full control over your carriers | Shopify App Store
+meta description : Manage shipping by connecting your store with your own carriers. Create labels, track orders, handle returns, and keep full control over deliveries.
+canonical URL    : https://apps.shopify.com/sendingbay-ecomm?locale=es
+<h1> tags ( 1)  : 'SendingBay eComm'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

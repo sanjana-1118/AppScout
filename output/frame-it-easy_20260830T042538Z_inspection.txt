@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frame-it-easy_20260830T042538Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\frame-it-easy_20260830T042538Z.html
+Requested URL    : https://apps.shopify.com/frame-it-easy
+Final URL        : https://apps.shopify.com/frame-it-easy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,651 bytes / 207,538 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Frame It Easy - Sell art & photos with print & frame, US dropship... | Shopify App Store
+meta description : You make the art — we’ll print, mount, frame, and ship it for you! Unlock additional revenue with a complete, ready-to-hang, piece of wall art.
+canonical URL    : https://apps.shopify.com/frame-it-easy
+<h1> tags ( 1)  : 'Frame It Easy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

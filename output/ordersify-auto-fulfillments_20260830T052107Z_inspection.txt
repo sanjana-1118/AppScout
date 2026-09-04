@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ordersify-auto-fulfillments_20260830T052107Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ordersify-auto-fulfillments_20260830T052107Z.html
+Requested URL    : https://apps.shopify.com/ordersify-auto-fulfillments
+Final URL        : https://apps.shopify.com/ordersify-auto-fulfillments
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,792 bytes / 197,691 chars
+Elapsed          : 0.755s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ordersify Pick, Pack & Fulfill - Focus on order fulfillment. Pick, pack and fulfill orders | Shopify App Store
+meta description : With Ordersify, our goal is to help merchants pick, pack, and fulfill orders to Shopify easily and quickly, so you don’t need to waste time fulfill...
+canonical URL    : https://apps.shopify.com/ordersify-auto-fulfillments
+<h1> tags ( 1)  : 'Ordersify Pick, Pack & Fulfill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

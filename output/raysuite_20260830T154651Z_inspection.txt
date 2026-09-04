@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\raysuite_20260830T154651Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\raysuite_20260830T154651Z.html
+Requested URL    : https://apps.shopify.com/raysuite
+Final URL        : https://apps.shopify.com/raysuite
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,146 bytes / 166,057 chars
+Elapsed          : 1.047s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RaySuite - Scale smarter with unified AI creative and data | Shopify App Store
+meta description : Scale your brand with RaySuite. Generate AI video, track competitor ads, and get real-time analytics from a unified AI co-pilot.
+canonical URL    : https://apps.shopify.com/raysuite
+<h1> tags ( 1)  : 'RaySuite'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

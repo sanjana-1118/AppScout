@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hero-slider_20260830T130216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hero-slider_20260830T130216Z.html
+Requested URL    : https://apps.shopify.com/hero-slider
+Final URL        : https://apps.shopify.com/hero-slider
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,801 bytes / 184,707 chars
+Elapsed          : 0.686s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hero Slider - Create beautiful introductions that impress your customers | Shopify App Store
+meta description : Pick-up your customers directly. Neno Hero Slider works theme-independently and can be placed directly under your header to greet your customers wi...
+canonical URL    : https://apps.shopify.com/hero-slider
+<h1> tags ( 1)  : 'Hero Slider'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

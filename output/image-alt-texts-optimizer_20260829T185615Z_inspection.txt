@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-alt-texts-optimizer_20260829T185615Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-alt-texts-optimizer_20260829T185615Z.html
+Requested URL    : https://apps.shopify.com/image-alt-texts-optimizer
+Final URL        : https://apps.shopify.com/image-alt-texts-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,523 bytes / 227,424 chars
+Elapsed          : 0.827s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SEOPro: SEO Products Optimizer - SEO Optimizer to fix SEO issues & increase traffic from... | Shopify App Store
+meta description : Fix On-page SEO + Meta tags. Optimize SEO. Increase Traffic.
+canonical URL    : https://apps.shopify.com/image-alt-texts-optimizer
+<h1> tags ( 1)  : 'SEOPro: SEO Products Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

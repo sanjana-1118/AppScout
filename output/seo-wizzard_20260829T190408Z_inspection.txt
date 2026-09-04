@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-wizzard_20260829T190408Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-wizzard_20260829T190408Z.html
+Requested URL    : https://apps.shopify.com/seo-wizzard
+Final URL        : https://apps.shopify.com/seo-wizzard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,782 bytes / 189,673 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Seo Wizard ‑ Easy Redirect - Fix 404 errors using 301 redirects, wildcards, and analytics. | Shopify App Store
+meta description : Easily manage 404 errors, set up redirects, and improve your website's SEO with SEO Wizard. Simplify link management and boost rankings today!
+canonical URL    : https://apps.shopify.com/seo-wizzard
+<h1> tags ( 1)  : 'Seo Wizard ‑ Easy Redirect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

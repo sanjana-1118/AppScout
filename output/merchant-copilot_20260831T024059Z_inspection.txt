@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchant-copilot_20260831T024059Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\merchant-copilot_20260831T024059Z.html
+Requested URL    : https://apps.shopify.com/merchant-copilot
+Final URL        : https://apps.shopify.com/merchant-copilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,200 bytes / 179,106 chars
+Elapsed          : 0.848s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Merchant Copilot AI Chatbot - Instant shopper answers from your real product & order data | Shopify App Store
+meta description : Merchant Copilot puts an AI support agent on your storefront, so shoppers get answers the moment they ask instead of waiting on email.
+
+It indexes ...
+canonical URL    : https://apps.shopify.com/merchant-copilot
+<h1> tags ( 1)  : 'Merchant Copilot AI Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ihairium-hair-analysis-widget_20260830T043409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ihairium-hair-analysis-widget_20260830T043409Z.html
+Requested URL    : https://apps.shopify.com/ihairium-hair-analysis-widget
+Final URL        : https://apps.shopify.com/ihairium-hair-analysis-widget
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,486 bytes / 173,373 chars
+Elapsed          : 0.970s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : iHairium – AI Hair Analysis - AI hair analysis widget with personalized recommendations | Shopify App Store
+meta description : Boost your salon or e-commerce with AI hair & scalp analysis. Offer personalized care, improve client retention, and drive sales.
+canonical URL    : https://apps.shopify.com/ihairium-hair-analysis-widget
+<h1> tags ( 1)  : 'iHairium – AI Hair Analysis'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restrict-shipping_20260830T075354Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restrict-shipping_20260830T075354Z.html
+Requested URL    : https://apps.shopify.com/restrict-shipping
+Final URL        : https://apps.shopify.com/restrict-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,731 bytes / 198,638 chars
+Elapsed          : 0.436s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Shipping Restrictions - Simple custom shipping rules using postal/ZIP codes & patterns | Shopify App Store
+meta description : If you are looking to sell online but only to a specific area, Easy Shipping Restrictions will give you that control wherever your cart appears. Us...
+canonical URL    : https://apps.shopify.com/restrict-shipping
+<h1> tags ( 1)  : 'Easy Shipping Restrictions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

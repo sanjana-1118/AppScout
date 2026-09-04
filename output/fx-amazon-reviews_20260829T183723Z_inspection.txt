@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fx-amazon-reviews_20260829T183723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fx-amazon-reviews_20260829T183723Z.html
+Requested URL    : https://apps.shopify.com/fx-amazon-reviews
+Final URL        : https://apps.shopify.com/fx-amazon-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,784 bytes / 219,689 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FX Amazon Importer & Affiliate - 1-Click Importer for Amazon Dropshipping, Products, Reviews | Shopify App Store
+meta description : 1-Click Amazon Importer for products & reviews. Use AI to write SEO descriptions. Perfect for Amazon Affiliates & Dropshippers to boost sales and social proof.
+canonical URL    : https://apps.shopify.com/fx-amazon-reviews
+<h1> tags ( 1)  : 'FX Amazon Importer & Affiliate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

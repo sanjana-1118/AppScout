@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decile-app_20260830T071523Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decile-app_20260830T071523Z.html
+Requested URL    : https://apps.shopify.com/decile-app
+Final URL        : https://apps.shopify.com/decile-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,469 bytes / 209,354 chars
+Elapsed          : 0.971s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Decile ‑ Customer Analytics - Drive Customer Lifetime Value with Enriched First-Party Data | Shopify App Store
+meta description : Decile is the AI-powered ecommerce analytics platform that empowers ecommerce teams to move faster and more strategically. Illuminate opportunities...
+canonical URL    : https://apps.shopify.com/decile-app
+<h1> tags ( 1)  : 'Decile ‑ Customer Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

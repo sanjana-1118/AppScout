@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simple-split-testing_20260830T072941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\simple-split-testing_20260830T072941Z.html
+Requested URL    : https://apps.shopify.com/simple-split-testing
+Final URL        : https://apps.shopify.com/simple-split-testing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,763 bytes / 186,644 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Culsin ‑ Simple Split Testing - Honest A/B tests for your storefront. No flicker, no fluff. | Shopify App Store
+meta description : Run real A/B tests on your Shopify storefront. Test copy, CTAs, and layouts with proper statistical significance. Theme-native install, no flicker.
+canonical URL    : https://apps.shopify.com/simple-split-testing
+<h1> tags ( 1)  : 'Culsin ‑ Simple Split Testing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

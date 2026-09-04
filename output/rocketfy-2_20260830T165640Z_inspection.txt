@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rocketfy-2_20260830T165640Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rocketfy-2_20260830T165640Z.html
+Requested URL    : https://apps.shopify.com/rocketfy-2
+Final URL        : https://apps.shopify.com/rocketfy-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,346 bytes / 164,218 chars
+Elapsed          : 0.921s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rocketfy - Haz dropshipping con COD en múltiples países | Shopify App Store
+meta description : Descubre el catálogo de productos de Rocket, impórtalos a tu tienda Shopify en segundos y lanza tu dropshipping con contra entrega (COD) sin compli...
+canonical URL    : https://apps.shopify.com/rocketfy-2?locale=es
+<h1> tags ( 1)  : 'Rocketfy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

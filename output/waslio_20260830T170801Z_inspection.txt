@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\waslio_20260830T170801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\waslio_20260830T170801Z.html
+Requested URL    : https://apps.shopify.com/waslio
+Final URL        : https://apps.shopify.com/waslio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,761 bytes / 172,662 chars
+Elapsed          : 0.523s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Waslio UAE Courier Integration - Dispatch orders to UAE couriers with automatic failover | Shopify App Store
+meta description : Dispatch Shopify orders to noon Send, Careem & Quiqup with automatic courier failover, live rider tracking, delivery slots and COD support for UAE stores.
+canonical URL    : https://apps.shopify.com/waslio
+<h1> tags ( 1)  : 'Waslio UAE Courier Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

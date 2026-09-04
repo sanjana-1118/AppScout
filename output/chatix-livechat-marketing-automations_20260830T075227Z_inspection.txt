@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatix-livechat-marketing-automations_20260830T075227Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatix-livechat-marketing-automations_20260830T075227Z.html
+Requested URL    : https://apps.shopify.com/chatix-livechat-marketing-automations
+Final URL        : https://apps.shopify.com/chatix-livechat-marketing-automations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 234,463 bytes / 234,369 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ctx: WhatsApp Chat + Marketing - Support chat, automation, marketing & more with WhatsApp API | Shopify App Store
+meta description : Recover abandoned checkouts, WhatsApp Chat, FAQ, Order tracking, Automated WhatsApp messages, Manual WhatsApp messages, CRM tool Chrome Extension  and more.
+canonical URL    : https://apps.shopify.com/chatix-livechat-marketing-automations
+<h1> tags ( 1)  : 'Ctx: WhatsApp Chat + Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

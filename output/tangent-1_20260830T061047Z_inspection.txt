@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tangent-1_20260830T061047Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tangent-1_20260830T061047Z.html
+Requested URL    : https://apps.shopify.com/tangent-1
+Final URL        : https://apps.shopify.com/tangent-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,118 bytes / 225,016 chars
+Elapsed          : 0.607s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tangent: Skin Quiz & Analysis - Help beauty brands convert more shoppers with personalization | Shopify App Store
+meta description : AI-powered skin and hair intelligence platform with selfie analysis, diagnostic quizzes, personalized routines, and product recommendations for beauty brands.
+canonical URL    : https://apps.shopify.com/tangent-1
+<h1> tags ( 1)  : 'Tangent: Skin Quiz & Analysis'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

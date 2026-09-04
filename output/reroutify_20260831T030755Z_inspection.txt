@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reroutify_20260831T030755Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\reroutify_20260831T030755Z.html
+Requested URL    : https://apps.shopify.com/reroutify
+Final URL        : https://apps.shopify.com/reroutify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,607 bytes / 168,492 chars
+Elapsed          : 0.723s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reroutify – 301 & 404 Redirect - Manage exact 301s and redirects to fix broken storefront URLs | Shopify App Store
+meta description : Manage exact 301 redirects and wildcard rules for your Online Store. Fix broken links, track 404s, and keep shoppers on working pages with Reroutify.
+canonical URL    : https://apps.shopify.com/reroutify
+<h1> tags ( 1)  : 'Reroutify – 301 & 404 Redirect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

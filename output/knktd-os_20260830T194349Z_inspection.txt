@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\knktd-os_20260830T194349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\knktd-os_20260830T194349Z.html
+Requested URL    : https://apps.shopify.com/knktd-os
+Final URL        : https://apps.shopify.com/knktd-os
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,337 bytes / 195,228 chars
+Elapsed          : 0.579s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KNKTD OS - One connected system for fashion design and fulfillment. | Shopify App Store
+meta description : KNKTD OS connects product development, inventory, and fulfillment for fashion brands — techpacks, multi-carrier shipping, and two-way Shopify sync.
+canonical URL    : https://apps.shopify.com/knktd-os
+<h1> tags ( 1)  : 'KNKTD OS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

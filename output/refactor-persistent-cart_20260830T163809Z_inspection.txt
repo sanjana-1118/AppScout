@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\refactor-persistent-cart_20260830T163809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\refactor-persistent-cart_20260830T163809Z.html
+Requested URL    : https://apps.shopify.com/refactor-persistent-cart
+Final URL        : https://apps.shopify.com/refactor-persistent-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,628 bytes / 215,536 chars
+Elapsed          : 0.786s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : R+ Persistent Cart | Cart sync - Unlimited sync carts across devices, API available  | Shopify App Store
+meta description : Reduce abandoned sales and increase cart retention through a cross-device API-based Persistent Cart Shopify application.
+canonical URL    : https://apps.shopify.com/refactor-persistent-cart
+<h1> tags ( 1)  : 'R+ Persistent Cart | Cart sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

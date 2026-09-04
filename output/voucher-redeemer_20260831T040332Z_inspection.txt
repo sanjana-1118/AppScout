@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voucher-redeemer_20260831T040332Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voucher-redeemer_20260831T040332Z.html
+Requested URL    : https://apps.shopify.com/voucher-redeemer
+Final URL        : https://apps.shopify.com/voucher-redeemer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,807 bytes / 169,700 chars
+Elapsed          : 0.984s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dealstub ‑ Voucher Redemption - Self-serve redemption for Groupon and deal-site vouchers | Shopify App Store
+meta description : Let customers redeem Groupon, LivingSocial, and other deal-site vouchers on your store. Automatic discounts, duplicate prevention, redemption tracking.
+canonical URL    : https://apps.shopify.com/voucher-redeemer
+<h1> tags ( 1)  : 'Dealstub ‑ Voucher Redemption'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

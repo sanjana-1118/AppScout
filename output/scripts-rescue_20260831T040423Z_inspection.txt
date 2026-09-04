@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scripts-rescue_20260831T040423Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scripts-rescue_20260831T040423Z.html
+Requested URL    : https://apps.shopify.com/scripts-rescue
+Final URL        : https://apps.shopify.com/scripts-rescue
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,813 bytes / 166,702 chars
+Elapsed          : 0.587s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scripts Rescue: Discount Logic - Rebuild retired Scripts logic as native checkout discount | Shopify App Store
+meta description : Bring back tiered discounts, quantity breaks, BOGO, and free shipping after Shopify Scripts retired — as native functions, configured visually with no code.
+canonical URL    : https://apps.shopify.com/scripts-rescue
+<h1> tags ( 1)  : 'Scripts Rescue: Discount Logic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

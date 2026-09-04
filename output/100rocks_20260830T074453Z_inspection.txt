@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\100rocks_20260830T074453Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\100rocks_20260830T074453Z.html
+Requested URL    : https://apps.shopify.com/100rocks
+Final URL        : https://apps.shopify.com/100rocks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,641 bytes / 178,552 chars
+Elapsed          : 0.656s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 100 Rocks - Personalize product pages for every customer with AI | Shopify App Store
+meta description : Personalize product pages for every customer. Generate page versions with AI, identify audiences, and automatically run experiments.
+canonical URL    : https://apps.shopify.com/100rocks
+<h1> tags ( 1)  : '100 Rocks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

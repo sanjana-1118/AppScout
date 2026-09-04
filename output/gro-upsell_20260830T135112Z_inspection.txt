@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gro-upsell_20260830T135112Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gro-upsell_20260830T135112Z.html
+Requested URL    : https://apps.shopify.com/gro-upsell
+Final URL        : https://apps.shopify.com/gro-upsell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,179 bytes / 202,084 chars
+Elapsed          : 0.668s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gro One Click Upsell Funnels - Lift AOV with Super Easy post purchase upsell funnels | Shopify App Store
+meta description : Give a smart, risk-free boost to your revenues at no extra marketing cost. Offer post checkout one click upsells and downsells on your Shopify Store.
+canonical URL    : https://apps.shopify.com/gro-upsell
+<h1> tags ( 1)  : 'Gro One Click Upsell Funnels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

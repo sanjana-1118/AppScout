@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\collection-resort_20260831T024701Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\collection-resort_20260831T024701Z.html
+Requested URL    : https://apps.shopify.com/collection-resort
+Final URL        : https://apps.shopify.com/collection-resort
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,918 bytes / 189,825 chars
+Elapsed          : 0.829s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Collection Resort - Avoid lost sales by pushing sold-out products to the bottom | Shopify App Store
+meta description : Automatically sort collections by revenue, best-sellers or stock. Push sold-out products down and pin your best to the top. Free plan available.
+canonical URL    : https://apps.shopify.com/collection-resort
+<h1> tags ( 1)  : 'Collection Resort'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

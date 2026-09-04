@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storefundamentals_20260830T150022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storefundamentals_20260830T150022Z.html
+Requested URL    : https://apps.shopify.com/storefundamentals
+Final URL        : https://apps.shopify.com/storefundamentals
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,283 bytes / 175,193 chars
+Elapsed          : 0.691s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Store Fundamentals - Fundamental Tools to help shops give enterprise value | Shopify App Store
+meta description : Store Fundamentals is built for merchants who want to run their stores with the efficiency and quality of enterprise companies. 
+
+Store Fundamental...
+canonical URL    : https://apps.shopify.com/storefundamentals
+<h1> tags ( 1)  : 'Store Fundamentals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

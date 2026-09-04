@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-personalized-product_20260831T024204Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\milople-personalized-product_20260831T024204Z.html
+Requested URL    : https://apps.shopify.com/milople-personalized-product
+Final URL        : https://apps.shopify.com/milople-personalized-product
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,473 bytes / 189,384 chars
+Elapsed          : 0.552s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Milople Personalized Product - Design products with text, images & real-time previews. | Shopify App Store
+meta description : Let customers personalize products with text, images, clip art, names, templates, and real-time previews using the Milople Personalized Product App.
+canonical URL    : https://apps.shopify.com/milople-personalized-product
+<h1> tags ( 1)  : 'Milople Personalized Product'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

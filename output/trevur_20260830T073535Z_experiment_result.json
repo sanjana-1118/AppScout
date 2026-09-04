@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/trevur",
+  "fetch_timestamp": "2026-08-30T07:35:35.776621+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trevur_20260830T073535Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trevur_20260830T073535Z.html",
+    "url": "https://apps.shopify.com/trevur",
+    "final_url": "https://apps.shopify.com/trevur",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 196336,
+    "body_text_length": 196239,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.915664,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Trevur: AI Profit Analytics - Your personal AI Data Analyst. Chat with your store data. | Shopify App Store",
+    "meta_description": "The AI Growth OS for Shopify. Replace your agency with Forensic Attribution, Profit Analytics, and Auto-Generated Ad Copy. Stop guessing. Execute.",
+    "canonical_url": "https://apps.shopify.com/trevur",
+    "h1_tags": [
+      "Trevur: AI Profit Analytics"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Trevur: AI Profit Analytics",
+    "app_slug": "trevur",
+    "app_url": "https://apps.shopify.com/trevur",
+    "developer_name": "Trevur",
+    "description": "The AI Growth OS for Shopify. Replace your agency with Forensic Attribution, Profit Analytics, and Auto-Generated Ad Copy. Stop guessing. Execute.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Analytics"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trevur_20260830T073535Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\trevur_20260830T073535Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Trevur: AI Profit Analytics",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "trevur",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/trevur",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Trevur",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "The AI Growth OS for Shopify. Replace your agency with Forensic Attribution, Profit Analytics, and Auto-Generated Ad Copy. Stop guessing. Execute.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Analytics",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

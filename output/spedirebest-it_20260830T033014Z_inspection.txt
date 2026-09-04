@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spedirebest-it_20260830T033014Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spedirebest-it_20260830T033014Z.html
+Requested URL    : https://apps.shopify.com/spedirebest-it
+Final URL        : https://apps.shopify.com/spedirebest-it
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,991 bytes / 151,896 chars
+Elapsed          : 0.731s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SpedireBest - Sync your orders to SpedireBest and start shipping | Shopify App Store
+meta description : Spedirebest allows you to automatically synchronize the orders received with the shipping platform, create and manage shipments and entrust them to...
+canonical URL    : https://apps.shopify.com/spedirebest-it
+<h1> tags ( 1)  : 'SpedireBest'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

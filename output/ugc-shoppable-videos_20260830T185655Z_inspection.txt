@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ugc-shoppable-videos_20260830T185655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ugc-shoppable-videos_20260830T185655Z.html
+Requested URL    : https://apps.shopify.com/ugc-shoppable-videos
+Final URL        : https://apps.shopify.com/ugc-shoppable-videos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,004 bytes / 201,911 chars
+Elapsed          : 0.919s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Reelcart: Shoppable Video - Shoppable videos & reels — add to cart while watching | Shopify App Store
+meta description : dd shoppable videos and reels to your store. Tag products to videos so shoppers add to cart while watching. Import from TikTok and Instagram, no code.
+canonical URL    : https://apps.shopify.com/ugc-shoppable-videos
+<h1> tags ( 1)  : 'Reelcart: Shoppable Video'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

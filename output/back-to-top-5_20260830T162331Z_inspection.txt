@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-to-top-5_20260830T162331Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\back-to-top-5_20260830T162331Z.html
+Requested URL    : https://apps.shopify.com/back-to-top-5
+Final URL        : https://apps.shopify.com/back-to-top-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,749 bytes / 157,658 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : weedit Back To Top - Adds a subtle, customizable scroll-up arrow to long pages | Shopify App Store
+meta description : The Back to Top button is a vital accessibility and navigation tool for modern, content-heavy websites. It automatically appears after a set scroll...
+canonical URL    : https://apps.shopify.com/back-to-top-5
+<h1> tags ( 1)  : 'weedit Back To Top'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

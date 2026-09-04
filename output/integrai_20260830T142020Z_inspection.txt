@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\integrai_20260830T142020Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\integrai_20260830T142020Z.html
+Requested URL    : https://apps.shopify.com/integrai
+Final URL        : https://apps.shopify.com/integrai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,161 bytes / 176,989 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Integrai - Integre sua loja com diversas ferramentas do mercado | Shopify App Store
+meta description : Facilitamos a integração da sua loja com diversos plataformas do merdado, como ERP, logística, CRM, com suporte a Multi-CD.
+canonical URL    : https://apps.shopify.com/integrai?locale=pt-BR
+<h1> tags ( 1)  : 'Integrai'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

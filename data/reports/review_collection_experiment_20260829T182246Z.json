@@ -1,0 +1,47 @@
+{
+  "experiment_timestamp": "2026-08-29T18:22:46.049207+00:00",
+  "apps_tested": 5,
+  "total_reviews_collected": 100,
+  "total_pages_scraped": 10,
+  "total_reviews_in_database": 100,
+  "average_review_rating": 4.39,
+  "app_results": [
+    {
+      "app_slug": "judgeme",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "klaviyo-email-marketing",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "pagefly",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "printful",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    },
+    {
+      "app_slug": "dsers",
+      "reviews_collected": 20,
+      "pages_scraped": 2,
+      "status": "success"
+    }
+  ],
+  "scale_and_feasibility_analysis": {
+    "reviews_per_page": 10,
+    "publicly_accessible": true,
+    "rate_limit_risk": "Low with polite delays (1.5-2.0s)",
+    "estimated_total_store_reviews": "> 1,500,000 across all 25,633 apps",
+    "mvp_collection_strategy": "For MVP intelligence, collect up to 5-10 latest pages (50-100 reviews) per app or prioritize top 1,000 high-growth/high-review apps for full review sentiment analysis."
+  }
+}

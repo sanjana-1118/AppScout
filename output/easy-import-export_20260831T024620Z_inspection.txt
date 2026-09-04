@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-import-export_20260831T024620Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-import-export_20260831T024620Z.html
+Requested URL    : https://apps.shopify.com/easy-import-export
+Final URL        : https://apps.shopify.com/easy-import-export
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,073 bytes / 177,984 chars
+Elapsed          : 0.781s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Import and Export | MigrateGo - Import & Export Data with Excel or CSV & Matrixify... | Shopify App Store
+meta description : Import, export, and migrate Shopify data with ease. Supports Excel, CSV, Google Sheets, FTP/SFTP, and Matrixify-compatible files for fast, secure bulk data
+canonical URL    : https://apps.shopify.com/easy-import-export
+<h1> tags ( 1)  : 'Import and Export | MigrateGo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

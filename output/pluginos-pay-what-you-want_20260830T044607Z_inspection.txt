@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pluginos-pay-what-you-want_20260830T044607Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pluginos-pay-what-you-want_20260830T044607Z.html
+Requested URL    : https://apps.shopify.com/pluginos-pay-what-you-want
+Final URL        : https://apps.shopify.com/pluginos-pay-what-you-want
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,558 bytes / 188,469 chars
+Elapsed          : 0.766s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pluginos Pay What You Want - Pay What You Want, Name Your Price & Make an... | Shopify App Store
+meta description : Pay What You Want app lets customers name their price, choose custom or preset amounts, or make an offer. Set min, suggested & max prices.
+canonical URL    : https://apps.shopify.com/pluginos-pay-what-you-want
+<h1> tags ( 1)  : 'Pluginos Pay What You Want'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeboost_20260830T045056Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chargeboost_20260830T045056Z.html
+Requested URL    : https://apps.shopify.com/chargeboost
+Final URL        : https://apps.shopify.com/chargeboost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,646 bytes / 161,543 chars
+Elapsed          : 0.970s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ChargeBoost Extra Fees Charges - Smart fees, surcharges & add-ons for every order | Shopify App Store
+meta description : Add custom fees, surcharges, and optional add-ons to products, cart, and checkout. Flexible rules, no-code setup, and full control for merchants.
+canonical URL    : https://apps.shopify.com/chargeboost
+<h1> tags ( 1)  : 'ChargeBoost Extra Fees Charges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

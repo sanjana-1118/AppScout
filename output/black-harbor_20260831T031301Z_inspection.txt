@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\black-harbor_20260831T031301Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\black-harbor_20260831T031301Z.html
+Requested URL    : https://apps.shopify.com/black-harbor
+Final URL        : https://apps.shopify.com/black-harbor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,674 bytes / 176,585 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Black Harbor - Product sourcing, optimization & publishing in one workspace | Shopify App Store
+meta description : Source products, optimize listings, prepare images and SEO content, review store opportunities, and publish products with Black Harbor.
+canonical URL    : https://apps.shopify.com/black-harbor
+<h1> tags ( 1)  : 'Black Harbor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

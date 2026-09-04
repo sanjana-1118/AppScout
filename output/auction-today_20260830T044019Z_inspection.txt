@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auction-today_20260830T044019Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auction-today_20260830T044019Z.html
+Requested URL    : https://apps.shopify.com/auction-today
+Final URL        : https://apps.shopify.com/auction-today
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,627 bytes / 220,532 chars
+Elapsed          : 0.889s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Auction Today - Everything you need to run professional product auctions | Shopify App Store
+meta description : Increase sales and engagement by adding real-time auctions to your store. Auction Today automates bidding, notifies winners, and enhances your  store's revenue
+canonical URL    : https://apps.shopify.com/auction-today
+<h1> tags ( 1)  : 'Auction Today'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

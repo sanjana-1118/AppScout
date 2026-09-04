@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mise-en-place-pixel_20260830T073140Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mise-en-place-pixel_20260830T073140Z.html
+Requested URL    : https://apps.shopify.com/mise-en-place-pixel
+Final URL        : https://apps.shopify.com/mise-en-place-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,302 bytes / 167,213 chars
+Elapsed          : 0.665s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mise en Place - Data Solution for Your Traffic Data | Shopify App Store
+meta description : With the issues around GA4, it's the perfect time to install Mise en Place to create your own website analytics. We use the Shopify Pixel to store ...
+canonical URL    : https://apps.shopify.com/mise-en-place-pixel
+<h1> tags ( 1)  : 'Mise en Place'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

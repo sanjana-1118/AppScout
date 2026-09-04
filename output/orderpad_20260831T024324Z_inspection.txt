@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderpad_20260831T024324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderpad_20260831T024324Z.html
+Requested URL    : https://apps.shopify.com/orderpad
+Final URL        : https://apps.shopify.com/orderpad
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,046 bytes / 181,951 chars
+Elapsed          : 0.768s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OrderPad - Fast manual orders in admin, quick buying on your storefront | Shopify App Store
+meta description : OrderPad convierte llamadas en pedidos en segundos y lleva el panel a tu tienda online: tus agentes venden desde el admin y tus clientes compran desde la web.
+canonical URL    : https://apps.shopify.com/orderpad
+<h1> tags ( 1)  : 'OrderPad'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\neuralens-ai_20260830T145656Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\neuralens-ai_20260830T145656Z.html
+Requested URL    : https://apps.shopify.com/neuralens-ai
+Final URL        : https://apps.shopify.com/neuralens-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,270 bytes / 210,177 chars
+Elapsed          : 0.487s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Neuralens AI Sales Chatbot - AI Sales Chatbot to convert visitors to buyers this BFCM | Shopify App Store
+meta description : Neuralens AI chatbots help your customers find the right products, answer their questions, resolve FAQs, manage their orders and hands off to Live Chat per need
+canonical URL    : https://apps.shopify.com/neuralens-ai
+<h1> tags ( 1)  : 'Neuralens AI Sales Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

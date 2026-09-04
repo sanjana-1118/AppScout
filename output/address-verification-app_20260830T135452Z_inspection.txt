@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\address-verification-app_20260830T135452Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\address-verification-app_20260830T135452Z.html
+Requested URL    : https://apps.shopify.com/address-verification-app
+Final URL        : https://apps.shopify.com/address-verification-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 149,930 bytes / 149,841 chars
+Elapsed          : 0.605s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flexiti Address Verification - Displays the address verification score for orders | Shopify App Store
+meta description : Displays the address verification score for orders processed with Flexiti prior to shipping.
+canonical URL    : https://apps.shopify.com/address-verification-app
+<h1> tags ( 1)  : 'Flexiti Address Verification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

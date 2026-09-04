@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\birthday-reminder_20260830T140815Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\birthday-reminder_20260830T140815Z.html
+Requested URL    : https://apps.shopify.com/birthday-reminder
+Final URL        : https://apps.shopify.com/birthday-reminder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,849 bytes / 182,754 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Birthday Discount  - Send Special Birthday Offers to the Customers via Email | Shopify App Store
+meta description : Being a store owner, it is important to build up a strong relationship with the customers. It helps you maintain customer loyalty and ultimately pr...
+canonical URL    : https://apps.shopify.com/birthday-reminder
+<h1> tags ( 1)  : 'Webkul Birthday Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quantity-buffer_20260831T025256Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quantity-buffer_20260831T025256Z.html
+Requested URL    : https://apps.shopify.com/quantity-buffer
+Final URL        : https://apps.shopify.com/quantity-buffer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,409 bytes / 174,320 chars
+Elapsed          : 0.740s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AvailControl by WichVision - Control online availability without changing inventory | Shopify App Store
+meta description : Control online availability with quantity buffers, Store Only rules, and scheduled releases. Protect stock for other sales needs without changing inventory.
+canonical URL    : https://apps.shopify.com/quantity-buffer
+<h1> tags ( 1)  : 'AvailControl by WichVision'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

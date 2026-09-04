@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalogfix_20260830T171138Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalogfix_20260830T171138Z.html
+Requested URL    : https://apps.shopify.com/catalogfix
+Final URL        : https://apps.shopify.com/catalogfix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,772 bytes / 178,669 chars
+Elapsed          : 0.817s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CatalogFix - Scan your catalog and generate AI descriptions, SEO & alt... | Shopify App Store
+meta description : Generate AI product descriptions, SEO meta titles, tags, and image alt text for your Shopify store. Scan your catalog, fix content gaps & publish in one click.
+canonical URL    : https://apps.shopify.com/catalogfix
+<h1> tags ( 1)  : 'CatalogFix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

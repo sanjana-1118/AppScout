@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recently_20260830T075113Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recently_20260830T075113Z.html
+Requested URL    : https://apps.shopify.com/recently
+Final URL        : https://apps.shopify.com/recently
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,556 bytes / 202,459 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Recently 3 - Boost conversion with Recently purchased popup notifications. | Shopify App Store
+meta description : Recently is an advanced and comprehensive recent order app for Shopify, offering enterprise-level features as standard.
+
+It is fully customizable, ...
+canonical URL    : https://apps.shopify.com/recently
+<h1> tags ( 1)  : 'Recently 3'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

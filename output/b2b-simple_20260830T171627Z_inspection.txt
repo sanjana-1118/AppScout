@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-simple_20260830T171627Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\b2b-simple_20260830T171627Z.html
+Requested URL    : https://apps.shopify.com/b2b-simple
+Final URL        : https://apps.shopify.com/b2b-simple
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,439 bytes / 173,304 chars
+Elapsed          : 0.499s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Simple - B2B-Preise, Kundengruppen und Mindestmengen einfach einrichten | Shopify App Store
+meta description : B2B-Preise, Kundengruppen und Mindestbestellmengen einfach verwalten. Die Shopify-App für Großhändler und Wholesale-Shops im DACH-Markt.
+canonical URL    : https://apps.shopify.com/b2b-simple?locale=de
+<h1> tags ( 1)  : 'B2B Simple'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

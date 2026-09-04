@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/chatgpt-1",
+  "fetch_timestamp": "2026-08-30T07:13:23.347343+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatgpt-1_20260830T071323Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatgpt-1_20260830T071323Z.html",
+    "url": "https://apps.shopify.com/chatgpt-1",
+    "final_url": "https://apps.shopify.com/chatgpt-1",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 167154,
+    "body_text_length": 167065,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.478297,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Chatgpt: Ai Universal chatbot - ChatGPT chatbot with Grok DeepSeek and web search inside app | Shopify App Store",
+    "meta_description": "ChatGPT powered chatbot AI for writing, planning, research, and daily store operations in one workspace. Chat with ChatGPT, Grok, LLaMA, and DeepSe...",
+    "canonical_url": "https://apps.shopify.com/chatgpt-1",
+    "h1_tags": [
+      "Chatgpt: Ai Universal chatbot"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Chatgpt: Ai Universal chatbot",
+    "app_slug": "chatgpt-1",
+    "app_url": "https://apps.shopify.com/chatgpt-1",
+    "developer_name": "SAGE Apps",
+    "description": "ChatGPT powered chatbot AI for writing, planning, research, and daily store operations in one workspace. Chat with ChatGPT, Grok, LLaMA, and DeepSe...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Workflow automation"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatgpt-1_20260830T071323Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\chatgpt-1_20260830T071323Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Chatgpt: Ai Universal chatbot",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "chatgpt-1",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/chatgpt-1",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "SAGE Apps",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "ChatGPT powered chatbot AI for writing, planning, research, and daily store operations in one workspace. Chat with ChatGPT, Grok, LLaMA, and DeepSe...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Workflow automation",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

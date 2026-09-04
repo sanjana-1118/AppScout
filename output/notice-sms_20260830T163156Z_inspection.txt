@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notice-sms_20260830T163156Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\notice-sms_20260830T163156Z.html
+Requested URL    : https://apps.shopify.com/notice-sms
+Final URL        : https://apps.shopify.com/notice-sms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,939 bytes / 176,839 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NoticeApp - notifications that matter | Shopify App Store
+meta description : Notice: Send automated customer notifications for orders, fulfillment, drafts, and abandoned carts. Recover sales and boost engagement effortlessly.
+canonical URL    : https://apps.shopify.com/notice-sms
+<h1> tags ( 1)  : 'NoticeApp'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

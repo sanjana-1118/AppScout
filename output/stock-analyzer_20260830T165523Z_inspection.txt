@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-analyzer_20260830T165523Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-analyzer_20260830T165523Z.html
+Requested URL    : https://apps.shopify.com/stock-analyzer
+Final URL        : https://apps.shopify.com/stock-analyzer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,744 bytes / 193,653 chars
+Elapsed          : 0.528s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockAI: Inventory Planner - Inventory planner, forecast stockouts and automate reorders | Shopify App Store
+meta description : StockAI predicts stockouts, sends smart alerts, and automates purchase orders. ABC analysis, revenue impact tracking, and supplier portal for Shopify stores.
+canonical URL    : https://apps.shopify.com/stock-analyzer
+<h1> tags ( 1)  : 'StockAI: Inventory Planner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\die-logistikkoenner_20260830T134220Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\die-logistikkoenner_20260830T134220Z.html
+Requested URL    : https://apps.shopify.com/die-logistikkoenner
+Final URL        : https://apps.shopify.com/die-logistikkoenner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 148,719 bytes / 148,618 chars
+Elapsed          : 0.775s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Die Logistikkönner - Logistics and Fulfillment for Switzerland and Liechtenstein  | Shopify App Store
+meta description : Regardless if you are a start-up or traditional business, distance selling comes with its own challenges. Customer expectations are growing. Custom...
+canonical URL    : https://apps.shopify.com/die-logistikkoenner
+<h1> tags ( 1)  : 'Die Logistikkönner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

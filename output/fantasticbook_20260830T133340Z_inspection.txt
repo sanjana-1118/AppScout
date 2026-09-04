@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fantasticbook_20260830T133340Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fantasticbook_20260830T133340Z.html
+Requested URL    : https://apps.shopify.com/fantasticbook
+Final URL        : https://apps.shopify.com/fantasticbook
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,501 bytes / 169,386 chars
+Elapsed          : 0.879s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : fantasticbook. - Automatisez votre logistique avec fantasticbook. | Shopify App Store
+meta description : Automatisez complètement votre logistique avec fantasticbook. Confiez-nous vos stocks de marchandises et laissez nous gérer vos commandes, sans eff...
+canonical URL    : https://apps.shopify.com/fantasticbook?locale=fr
+<h1> tags ( 1)  : 'fantasticbook.'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prodispatch_20260829T192009Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\prodispatch_20260829T192009Z.html
+Requested URL    : https://apps.shopify.com/prodispatch
+Final URL        : https://apps.shopify.com/prodispatch
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,517 bytes / 176,428 chars
+Elapsed          : 0.785s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProDispatch - Sync orders and track shipments from one platform. | Shopify App Store
+meta description : Pro Dispatch simplifies shipping operations with automated order sync, shipment creation, and real-time delivery tracking.
+canonical URL    : https://apps.shopify.com/prodispatch
+<h1> tags ( 1)  : 'ProDispatch'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

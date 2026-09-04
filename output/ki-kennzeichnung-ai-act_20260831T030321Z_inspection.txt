@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ki-kennzeichnung-ai-act_20260831T030321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ki-kennzeichnung-ai-act_20260831T030321Z.html
+Requested URL    : https://apps.shopify.com/ki-kennzeichnung-ai-act
+Final URL        : https://apps.shopify.com/ki-kennzeichnung-ai-act
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,981 bytes / 178,825 chars
+Elapsed          : 0.719s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KI‑Kennzeichnung: AI Act - KI-Badges für Produktbilder & Chatbot-Hinweis nach Art. 50 | Shopify App Store
+meta description : Die EU-KI-Verordnung verlangt ab August 2026 Transparenz bei KI-Inhalten: Echt wirkende KI-Bilder müssen gekennzeichnet werden, und Kunden müssen e ...
+canonical URL    : https://apps.shopify.com/ki-kennzeichnung-ai-act?locale=de
+<h1> tags ( 1)  : 'KI‑Kennzeichnung: AI Act'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

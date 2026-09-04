@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jp-1_20260830T154956Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\jp-1_20260830T154956Z.html
+Requested URL    : https://apps.shopify.com/jp-1
+Final URL        : https://apps.shopify.com/jp-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,859 bytes / 199,026 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : メールフォーム.JP | 顧客データを外部に残さないフォーム - 完全無料！主要国内サーバー対応、独自ドメインメール送信、デザイン制限が無くファイルも添付可能なメールフォーム作成 | Shopify App Store
+meta description : 日本でShopifyを使うならメールフォーム.JP！お問い合わせフォームアプリの決定版。独自ドメインからの自動返信やファイル添付送信、スパム対策、複数フォーム管理、HTML/CSS/JS編集など豊富な機能を搭載。外部に個人情報を残さず安全に運用でき、国内EC事業者に最適。　国産アプリだから安心・安全、日本語で対応。
+canonical URL    : https://apps.shopify.com/jp-1?locale=ja
+<h1> tags ( 1)  : 'メールフォーム.JP | 顧客データを外部に残さないフォーム'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gst-invoicing-by-wlbs_20260830T153312Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gst-invoicing-by-wlbs_20260830T153312Z.html
+Requested URL    : https://apps.shopify.com/gst-invoicing-by-wlbs
+Final URL        : https://apps.shopify.com/gst-invoicing-by-wlbs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,649 bytes / 181,556 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GST Invoicing by WLBS - Simple GST Invoicing Solution built with CAs for ecommerce | Shopify App Store
+meta description : Simple GST Invoicing Solution for Indian Shopify Store's Tax Requirements
+canonical URL    : https://apps.shopify.com/gst-invoicing-by-wlbs
+<h1> tags ( 1)  : 'GST Invoicing by WLBS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

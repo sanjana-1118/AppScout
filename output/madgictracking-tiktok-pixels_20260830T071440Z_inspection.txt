@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\madgictracking-tiktok-pixels_20260830T071440Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\madgictracking-tiktok-pixels_20260830T071440Z.html
+Requested URL    : https://apps.shopify.com/madgictracking-tiktok-pixels
+Final URL        : https://apps.shopify.com/madgictracking-tiktok-pixels
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,811 bytes / 213,676 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MG TikTok Pixels ‑ TikTok Shop - Setup multi TikTok Pixel with Events API & connect TikTok... | Shopify App Store
+meta description : Easily install multiple pixels in your online store with just 1 click and without technical knowledge
+canonical URL    : https://apps.shopify.com/madgictracking-tiktok-pixels
+<h1> tags ( 1)  : 'MG TikTok Pixels ‑ TikTok Shop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

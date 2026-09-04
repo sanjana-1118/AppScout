@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snelstart_20260830T065940Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\snelstart_20260830T065940Z.html
+Requested URL    : https://apps.shopify.com/snelstart
+Final URL        : https://apps.shopify.com/snelstart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,121 bytes / 193,012 chars
+Elapsed          : 0.557s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Snelstart - Your webshop orders effortlessly in Snelstart | Shopify App Store
+meta description : This app connects your Shopify webshop to your Snelstart administration. That’s why you don’t have to manually type out data, since the orders are ...
+canonical URL    : https://apps.shopify.com/snelstart
+<h1> tags ( 1)  : 'Snelstart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

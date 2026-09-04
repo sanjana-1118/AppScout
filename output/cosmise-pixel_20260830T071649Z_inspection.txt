@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cosmise-pixel_20260830T071649Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cosmise-pixel_20260830T071649Z.html
+Requested URL    : https://apps.shopify.com/cosmise-pixel
+Final URL        : https://apps.shopify.com/cosmise-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,439 bytes / 176,324 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cosmise Tracking - Track product interest, user journeys, and conversion behavior | Shopify App Store
+meta description : Cosmise Pixel helps merchants analyze customer journeys, track marketing attribution & uncover product-level insights to improve performance and retention.
+canonical URL    : https://apps.shopify.com/cosmise-pixel
+<h1> tags ( 1)  : 'Cosmise Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

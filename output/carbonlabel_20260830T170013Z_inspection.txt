@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carbonlabel_20260830T170013Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\carbonlabel_20260830T170013Z.html
+Requested URL    : https://apps.shopify.com/carbonlabel
+Final URL        : https://apps.shopify.com/carbonlabel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,005 bytes / 164,854 chars
+Elapsed          : 0.857s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CarbonLabel - Calculate product carbon footprints and click to add eco-label | Shopify App Store
+meta description : Automatic Carbon Footprint Calculation Uses product data to compute accurate footprints—no manual entry.
+Click-to-Generate Carbon Badge Image One c...
+canonical URL    : https://apps.shopify.com/carbonlabel
+<h1> tags ( 1)  : 'CarbonLabel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

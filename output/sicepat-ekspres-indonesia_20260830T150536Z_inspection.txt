@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sicepat-ekspres-indonesia_20260830T150536Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sicepat-ekspres-indonesia_20260830T150536Z.html
+Requested URL    : https://apps.shopify.com/sicepat-ekspres-indonesia
+Final URL        : https://apps.shopify.com/sicepat-ekspres-indonesia
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,059 bytes / 170,934 chars
+Elapsed          : 0.506s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SiCepat Ekspres Indonesia - Kirim Paket Jadi Mudah dengan SiCepat Ekspres | Shopify App Store
+meta description : Nikmati layanan pengiriman terbaik SiCepat Ekspres yang membuat bisnis semakin mudah. Kamu bisa merasakan pengalaman request pick up dan drop off p...
+canonical URL    : https://apps.shopify.com/sicepat-ekspres-indonesia
+<h1> tags ( 1)  : 'SiCepat Ekspres Indonesia'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

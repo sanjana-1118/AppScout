@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asva-ai-search-optimizer_20260830T170421Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asva-ai-search-optimizer_20260830T170421Z.html
+Requested URL    : https://apps.shopify.com/asva-ai-search-optimizer
+Final URL        : https://apps.shopify.com/asva-ai-search-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 158,002 bytes / 157,913 chars
+Elapsed          : 0.815s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Asva: AI Search Optimizer - See which products AI engines skip and become more visible | Shopify App Store
+meta description : Score every Shopify product for AI search readiness across ChatGPT, Claude, Perplexity, Gemini. Find what AI agents skip and fix it in one click. Free.
+canonical URL    : https://apps.shopify.com/asva-ai-search-optimizer
+<h1> tags ( 1)  : 'Asva: AI Search Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

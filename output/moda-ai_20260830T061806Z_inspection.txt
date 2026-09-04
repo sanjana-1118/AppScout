@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\moda-ai_20260830T061806Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\moda-ai_20260830T061806Z.html
+Requested URL    : https://apps.shopify.com/moda-ai
+Final URL        : https://apps.shopify.com/moda-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,976 bytes / 206,847 chars
+Elapsed          : 0.568s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MODA: AI Model Photos+Video - AI fashion models. 10 angles from 1 input. No subscription. | Shopify App Store
+meta description : Turn flat lays, mannequin shots and packshots into on-model fashion photos with AI. Generate 10 angles + product videos per SKU. No subscription, pay as you go.
+canonical URL    : https://apps.shopify.com/moda-ai
+<h1> tags ( 1)  : 'MODA: AI Model Photos+Video'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\routerescue-io_20260829T190433Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\routerescue-io_20260829T190433Z.html
+Requested URL    : https://apps.shopify.com/routerescue-io
+Final URL        : https://apps.shopify.com/routerescue-io
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,208 bytes / 195,117 chars
+Elapsed          : 0.742s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RouteRescue: Fix Broken Links - Auto-heal broken links and shield active storefront traffic. | Shopify App Store
+meta description : Auto-heal broken links and manage 301 redirects in real-time. Monitor storefront 404 errors, shield routing limits from bots, and protect organic SEO.
+canonical URL    : https://apps.shopify.com/routerescue-io
+<h1> tags ( 1)  : 'RouteRescue: Fix Broken Links'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

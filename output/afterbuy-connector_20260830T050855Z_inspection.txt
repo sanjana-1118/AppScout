@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\afterbuy-connector_20260830T050855Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\afterbuy-connector_20260830T050855Z.html
+Requested URL    : https://apps.shopify.com/afterbuy-connector
+Final URL        : https://apps.shopify.com/afterbuy-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,208 bytes / 198,078 chars
+Elapsed          : 0.709s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Afterbuy Connector - Verbinden Sie Ihren Shop über Afterbuy mit vielen Marktplätzen | Shopify App Store
+meta description : 1. Exportiere Deine Produkte 
+Verbinde Deine Artikel, die Du in Shopify pflegst, mit den Multichannel-Funktionen Deines Afterbuy Accounts. Somit ka ...
+canonical URL    : https://apps.shopify.com/afterbuy-connector?locale=de
+<h1> tags ( 1)  : 'Afterbuy Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\squadded_20260830T035024Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\squadded_20260830T035024Z.html
+Requested URL    : https://apps.shopify.com/squadded
+Final URL        : https://apps.shopify.com/squadded
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,185 bytes / 218,086 chars
+Elapsed          : 0.571s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Squadded Affiliate & Video UGC - Affiliate marketing using UGC & Videos to grow referral sales | Shopify App Store
+meta description : Squadded is a social commerce platform designed to help you drive traffic to your Shopify through UGC collection and affiliates & ambassador collabs programs.
+canonical URL    : https://apps.shopify.com/squadded
+<h1> tags ( 1)  : 'Squadded Affiliate & Video UGC'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

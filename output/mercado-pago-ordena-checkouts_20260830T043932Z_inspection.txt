@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mercado-pago-ordena-checkouts_20260830T043932Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mercado-pago-ordena-checkouts_20260830T043932Z.html
+Requested URL    : https://apps.shopify.com/mercado-pago-ordena-checkouts
+Final URL        : https://apps.shopify.com/mercado-pago-ordena-checkouts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,264 bytes / 195,154 chars
+Elapsed          : 0.834s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mercado Pago Ordena checkouts - This app sorts the position of your payment providers. | Shopify App Store
+meta description : Many customers are paying with Mercado Pago right now!
+Access your Shopify admin panel, enable Mercado Pago as a payment method and add this app to...
+canonical URL    : https://apps.shopify.com/mercado-pago-ordena-checkouts
+<h1> tags ( 1)  : 'Mercado Pago Ordena checkouts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

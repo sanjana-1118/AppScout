@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imursif_20260830T133810Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imursif_20260830T133810Z.html
+Requested URL    : https://apps.shopify.com/imursif
+Final URL        : https://apps.shopify.com/imursif
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,601 bytes / 177,506 chars
+Elapsed          : 0.522s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : imursif - Add product collections into videos to buy from your store | Shopify App Store
+meta description : Promote products in your videos and encourage purchases from your website store.
+
+You can use videos and easily add products inside them, and enabl...
+canonical URL    : https://apps.shopify.com/imursif
+<h1> tags ( 1)  : 'imursif'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

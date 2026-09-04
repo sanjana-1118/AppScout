@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mhi-out-of-home_20260830T164340Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mhi-out-of-home_20260830T164340Z.html
+Requested URL    : https://apps.shopify.com/mhi-out-of-home
+Final URL        : https://apps.shopify.com/mhi-out-of-home
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,399 bytes / 176,306 chars
+Elapsed          : 0.835s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MHI OOH delivery - Offer Worldwide Out-of-Home delivery | Shopify App Store
+meta description : MHI360 is a global out-of-home (OOH) delivery solution for modern retailers. With one account, one integration, and one collection flow, you gain a...
+canonical URL    : https://apps.shopify.com/mhi-out-of-home
+<h1> tags ( 1)  : 'MHI OOH delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

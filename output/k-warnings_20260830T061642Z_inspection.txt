@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-warnings_20260830T061642Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-warnings_20260830T061642Z.html
+Requested URL    : https://apps.shopify.com/k-warnings
+Final URL        : https://apps.shopify.com/k-warnings
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,680 bytes / 202,587 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Warning Popups & Alerts - Add product warning popup or alert message to inform customers | Shopify App Store
+meta description : Warnings helps merchants display important messages during the customer journey. Alert shoppers about product restrictions, pre-orders, shipping de...
+canonical URL    : https://apps.shopify.com/k-warnings
+<h1> tags ( 1)  : 'K: Warning Popups & Alerts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

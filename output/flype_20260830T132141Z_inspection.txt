@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flype_20260830T132141Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flype_20260830T132141Z.html
+Requested URL    : https://apps.shopify.com/flype
+Final URL        : https://apps.shopify.com/flype
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,535 bytes / 180,446 chars
+Elapsed          : 0.436s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Flype - Add affordable same-next day delivery to your checkout.  | Shopify App Store
+meta description : Flype makes it easy to implement a great delivery experience for your customers. With the Flype app, your customers can choose how they want their ...
+canonical URL    : https://apps.shopify.com/flype
+<h1> tags ( 1)  : 'Flype'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

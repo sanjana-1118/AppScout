@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\llea-ai_20260830T073032Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\llea-ai_20260830T073032Z.html
+Requested URL    : https://apps.shopify.com/llea-ai
+Final URL        : https://apps.shopify.com/llea-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,883 bytes / 187,794 chars
+Elapsed          : 0.824s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : llea.ai Customer Intelligence - The customer intelligence platform for Ecommerce brands. | Shopify App Store
+meta description : llea.ai turns your Shopify data into a live profile for every customer. Know who they are, what they will buy next, and the right channel and time to reach them
+canonical URL    : https://apps.shopify.com/llea-ai
+<h1> tags ( 1)  : 'llea.ai Customer Intelligence'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

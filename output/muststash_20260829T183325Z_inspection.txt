@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\muststash_20260829T183325Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\muststash_20260829T183325Z.html
+Requested URL    : https://apps.shopify.com/muststash
+Final URL        : https://apps.shopify.com/muststash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,293 bytes / 159,204 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MustStash - Sync your products to MustStash and enhance product discovery. | Shopify App Store
+meta description : MustStash integrates seamlessly with your Shopify store, providing a complete solution for crafters to manage their stash. By adding your products ...
+canonical URL    : https://apps.shopify.com/muststash
+<h1> tags ( 1)  : 'MustStash'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

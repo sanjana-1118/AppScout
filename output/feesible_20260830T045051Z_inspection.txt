@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feesible_20260830T045051Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feesible_20260830T045051Z.html
+Requested URL    : https://apps.shopify.com/feesible
+Final URL        : https://apps.shopify.com/feesible
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,782 bytes / 179,661 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Feesible – Fees & Deposits - Create and manage clear product fees, deposits and surcharges | Shopify App Store
+meta description : Feesible lets merchants add clear product fees, deposits, and surcharges without editing theme code. 
+Create fixed or percentage rules, apply them ...
+canonical URL    : https://apps.shopify.com/feesible
+<h1> tags ( 1)  : 'Feesible – Fees & Deposits'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

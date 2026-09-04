@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-b2b-shipping_20260830T064343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-b2b-shipping_20260830T064343Z.html
+Requested URL    : https://apps.shopify.com/better-b2b-shipping
+Final URL        : https://apps.shopify.com/better-b2b-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,228 bytes / 188,138 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Shipping Rules Pro - Tailor checkout shipping options by segment or company | Shopify App Store
+meta description : Customize shipping options for B2B and DTC customers or per B2B company with B2B Shipping Rules Pro. Enhance checkout with personalized shipping options.
+canonical URL    : https://apps.shopify.com/better-b2b-shipping
+<h1> tags ( 1)  : 'B2B Shipping Rules Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

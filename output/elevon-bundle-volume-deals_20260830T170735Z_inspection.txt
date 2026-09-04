@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elevon-bundle-volume-deals_20260830T170735Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elevon-bundle-volume-deals_20260830T170735Z.html
+Requested URL    : https://apps.shopify.com/elevon-bundle-volume-deals
+Final URL        : https://apps.shopify.com/elevon-bundle-volume-deals
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,823 bytes / 180,734 chars
+Elapsed          : 0.849s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Elevon Bundle Volume Deals - Create bundles with volume and quantity discounts | Shopify App Store
+meta description : This app helps merchants create product bundles and quantity-based discounts directly within their store. It allows flexible configuration of bundl...
+canonical URL    : https://apps.shopify.com/elevon-bundle-volume-deals
+<h1> tags ( 1)  : 'Elevon Bundle Volume Deals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

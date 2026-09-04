@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\awe-color-swatches_20260830T043326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\awe-color-swatches_20260830T043326Z.html
+Requested URL    : https://apps.shopify.com/awe-color-swatches
+Final URL        : https://apps.shopify.com/awe-color-swatches
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,493 bytes / 193,398 chars
+Elapsed          : 1.154s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AWE Combined Listings Swatch - Group products as image swatches and beautify variants display | Shopify App Store
+meta description : Show color and image swatches wherever variants appear—product, collection, and quick view pages. Group products and customize swatch style without code.
+canonical URL    : https://apps.shopify.com/awe-color-swatches
+<h1> tags ( 1)  : 'AWE Combined Listings Swatch'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

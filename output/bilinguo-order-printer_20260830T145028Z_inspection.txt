@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bilinguo-order-printer_20260830T145028Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bilinguo-order-printer_20260830T145028Z.html
+Requested URL    : https://apps.shopify.com/bilinguo-order-printer
+Final URL        : https://apps.shopify.com/bilinguo-order-printer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,538 bytes / 182,437 chars
+Elapsed          : 0.482s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bilinguo Order Printer Invoice - Print Arabic/English Orders, Packing Slips, Refunds & more! | Shopify App Store
+meta description : Generate and send automated invoices that are beautifully customized with your store’s logo, and more. Set up quickly by adding your logo to our pr...
+canonical URL    : https://apps.shopify.com/bilinguo-order-printer
+<h1> tags ( 1)  : 'Bilinguo Order Printer Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

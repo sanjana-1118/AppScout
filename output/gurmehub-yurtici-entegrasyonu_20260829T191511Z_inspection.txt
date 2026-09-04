@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gurmehub-yurtici-entegrasyonu_20260829T191511Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gurmehub-yurtici-entegrasyonu_20260829T191511Z.html
+Requested URL    : https://apps.shopify.com/gurmehub-yurtici-entegrasyonu
+Final URL        : https://apps.shopify.com/gurmehub-yurtici-entegrasyonu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,983 bytes / 235,605 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kargo Entegratör: Tüm Kargolar - Kargo Entegratör: Tüm Kargo Firmalarıyla Entegrasyon | Shopify App Store
+meta description : Easy, Fast Integrable Shipping Plugin compatible with over 10 carriers.
+canonical URL    : https://apps.shopify.com/gurmehub-yurtici-entegrasyonu?locale=tr
+<h1> tags ( 1)  : 'Kargo Entegratör: Tüm Kargolar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

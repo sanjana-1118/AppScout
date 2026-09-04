@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-14_20260830T141551Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\faq-14_20260830T141551Z.html
+Requested URL    : https://apps.shopify.com/faq-14
+Final URL        : https://apps.shopify.com/faq-14
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,760 bytes / 196,669 chars
+Elapsed          : 0.713s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ET Help Center & FAQ Page - Create fully customizable FAQ page & product page FAQ sections | Shopify App Store
+meta description : Ecom Trend Accordions helps you create a FAQ page and FAQ sections in accordion format without any coding skills in a few minutes.
+canonical URL    : https://apps.shopify.com/faq-14
+<h1> tags ( 1)  : 'ET Help Center & FAQ Page'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

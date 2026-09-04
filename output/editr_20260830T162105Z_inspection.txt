@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\editr_20260830T162105Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\editr_20260830T162105Z.html
+Requested URL    : https://apps.shopify.com/editr
+Final URL        : https://apps.shopify.com/editr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,218 bytes / 170,105 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Editr ‑ Order Editing - Let customers edit orders, update, or cancel their own orders. | Shopify App Store
+meta description : Let customers edit, cancel, and manage their orders without contacting support. Editr adds self-serve order control to your Order Status and Thank You pages.
+canonical URL    : https://apps.shopify.com/editr
+<h1> tags ( 1)  : 'Editr ‑ Order Editing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

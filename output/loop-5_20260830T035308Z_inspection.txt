@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loop-5_20260830T035308Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\loop-5_20260830T035308Z.html
+Requested URL    : https://apps.shopify.com/loop-5
+Final URL        : https://apps.shopify.com/loop-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,402 bytes / 167,302 chars
+Elapsed          : 0.957s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loop  - Influencer sales and commissions, tracked automatically | Shopify App Store
+meta description : Loop is an influencer marketing platform that connects merchants with content creators. Brands generate unique discount codes for selected influenc...
+canonical URL    : https://apps.shopify.com/loop-5
+<h1> tags ( 1)  : 'Loop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

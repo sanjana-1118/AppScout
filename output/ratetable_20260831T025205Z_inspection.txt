@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ratetable_20260831T025205Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ratetable_20260831T025205Z.html
+Requested URL    : https://apps.shopify.com/ratetable
+Final URL        : https://apps.shopify.com/ratetable
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,737 bytes / 170,630 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RateTable ‑ Shipping Rates - Unlimited weight-based rates - no Carrier Service API needed | Shopify App Store
+meta description : Set weight-based shipping rates in a spreadsheet-style table. Compiles into Shopify's own native rates - no Carrier Service API, no coding.
+canonical URL    : https://apps.shopify.com/ratetable
+<h1> tags ( 1)  : 'RateTable ‑ Shipping Rates'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

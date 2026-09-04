@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-courier-guy_20260829T191614Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-courier-guy_20260829T191614Z.html
+Requested URL    : https://apps.shopify.com/the-courier-guy
+Final URL        : https://apps.shopify.com/the-courier-guy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,535 bytes / 201,440 chars
+Elapsed          : 0.566s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : The Courier Guy - Show live rates and print shipping labels with The Courier... | Shopify App Store
+meta description : The Courier Guy bypasses manual shipment detail capturing and allows for waybill printing within the website orders page. It has built a strong rep...
+canonical URL    : https://apps.shopify.com/the-courier-guy
+<h1> tags ( 1)  : 'The Courier Guy'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tewatashi_production_20260830T064039Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tewatashi_production_20260830T064039Z.html
+Requested URL    : https://apps.shopify.com/tewatashi_production
+Final URL        : https://apps.shopify.com/tewatashi_production
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,363 bytes / 186,276 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : テワタシ‑店舗受け取り&ローカルデリバリー - 日本の事業者に合わせた店舗受け取り&ローカルデリバリーアプリ。受け取りや配達地域の検索、受け渡しのオーダー受付が可能に！ | Shopify App Store
+meta description : テワタシは店頭受け取りやローカルデリバリーをするために必要な機能を提供します。 オンライン・オフライン共に柔軟な購入体験を提供したいストアにおすすめです。
+
+店舗の位置情報や配達の対応エリアはWebサイトの上部（ヘッダーエリア）に設置されたボタンからいつでも検索することができ、カート画面へ移動...
+canonical URL    : https://apps.shopify.com/tewatashi_production?locale=ja
+<h1> tags ( 1)  : 'テワタシ‑店舗受け取り&ローカルデリバリー'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

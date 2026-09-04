@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qorlo-fulfillment_20260830T180703Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qorlo-fulfillment_20260830T180703Z.html
+Requested URL    : https://apps.shopify.com/qorlo-fulfillment
+Final URL        : https://apps.shopify.com/qorlo-fulfillment
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,636 bytes / 164,547 chars
+Elapsed          : 0.980s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qorlo Fulfillment - Review orders, shipping readiness and tracking in one place | Shopify App Store
+meta description : Review Shopify orders, shipping readiness, dispatch workflows and tracking in Qorlo. Keep fulfillment organised across connected stores.
+canonical URL    : https://apps.shopify.com/qorlo-fulfillment
+<h1> tags ( 1)  : 'Qorlo Fulfillment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

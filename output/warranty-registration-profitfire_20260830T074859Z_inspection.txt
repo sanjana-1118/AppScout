@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warranty-registration-profitfire_20260830T074859Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\warranty-registration-profitfire_20260830T074859Z.html
+Requested URL    : https://apps.shopify.com/warranty-registration-profitfire
+Final URL        : https://apps.shopify.com/warranty-registration-profitfire
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,991 bytes / 194,898 chars
+Elapsed          : 1.361s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Warranty Registration | Profit - Warranty registration for your store | Shopify App Store
+meta description : Create a warranty registration page for your Shopify store
+canonical URL    : https://apps.shopify.com/warranty-registration-profitfire
+<h1> tags ( 1)  : 'Warranty Registration | Profit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blumacawtech_20260830T035453Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blumacawtech_20260830T035453Z.html
+Requested URL    : https://apps.shopify.com/blumacawtech
+Final URL        : https://apps.shopify.com/blumacawtech
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 249,714 bytes / 249,593 chars
+Elapsed          : 0.550s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BMT B2B Wholesale Pricing - Setup B2B wholesale pricing, form, hide price and many more | Shopify App Store
+meta description : Selling wholesale? Set up B2B wholesale pricing, store lock hide price, custom registration form, order limits and payment terms Net 30, Net 60 — all in one app
+canonical URL    : https://apps.shopify.com/blumacawtech
+<h1> tags ( 1)  : 'BMT B2B Wholesale Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coweasy_20260830T135037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\coweasy_20260830T135037Z.html
+Requested URL    : https://apps.shopify.com/coweasy
+Final URL        : https://apps.shopify.com/coweasy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,931 bytes / 174,318 chars
+Elapsed          : 1.024s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CowEasy ERP ‑ Records Plugin - Sales Records Instantly Transfer Into CowEasy Accounting | Shopify App Store
+meta description : 隨時隨地，發票/採購/會計，自動產生 IR56 表格，合各業，免費註册，數據加密，簡單易用，遙距管理公司運作、實時監控工作狀況、各員工異地同步工作
+你的 bookkeeping 助手 | ERP 必備工具 | POS 全港首選，$149
+canonical URL    : https://apps.shopify.com/coweasy
+<h1> tags ( 1)  : 'CowEasy ERP ‑ Records Plugin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

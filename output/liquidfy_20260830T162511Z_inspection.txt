@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\liquidfy_20260830T162511Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\liquidfy_20260830T162511Z.html
+Requested URL    : https://apps.shopify.com/liquidfy
+Final URL        : https://apps.shopify.com/liquidfy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,272 bytes / 200,137 chars
+Elapsed          : 0.882s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Liquidfy ‑ Add‑ons & Sections - Customize your store with 200+ conversion-focused elements | Shopify App Store
+meta description : Add 180+ premium modules and sections to your Shopify store instantly. Visual editor, no coding needed. One-click sync. Perfect for high-converting stores.
+canonical URL    : https://apps.shopify.com/liquidfy
+<h1> tags ( 1)  : 'Liquidfy ‑ Add‑ons & Sections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

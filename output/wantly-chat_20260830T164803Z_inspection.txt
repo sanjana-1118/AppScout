@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wantly-chat_20260830T164803Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wantly-chat_20260830T164803Z.html
+Requested URL    : https://apps.shopify.com/wantly-chat
+Final URL        : https://apps.shopify.com/wantly-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,315 bytes / 190,195 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wantly ‑ AI Sales Assistant - AI that turns visitors into buyers — and completes the... | Shopify App Store
+meta description : Wantly is an AI sales assistant and chatbot that boosts revenue with personalized product recommendations, smart upsells, and real-time shopper support.
+canonical URL    : https://apps.shopify.com/wantly-chat
+<h1> tags ( 1)  : 'Wantly ‑ AI Sales Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

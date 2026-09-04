@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-favicon-badge_20260830T165737Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-favicon-badge_20260830T165737Z.html
+Requested URL    : https://apps.shopify.com/cart-favicon-badge
+Final URL        : https://apps.shopify.com/cart-favicon-badge
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,123 bytes / 157,029 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TabBadge: Cart Favicon Counter - Remind customers about their cart — show item count as... | Shopify App Store
+meta description : Free app that shows cart item count as a badge on the browser tab favicon. Real-time updates, blink reminders, customizable colors and position.
+canonical URL    : https://apps.shopify.com/cart-favicon-badge
+<h1> tags ( 1)  : 'TabBadge: Cart Favicon Counter'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

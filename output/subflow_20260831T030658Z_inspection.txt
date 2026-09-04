@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\subflow_20260831T030658Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\subflow_20260831T030658Z.html
+Requested URL    : https://apps.shopify.com/subflow
+Final URL        : https://apps.shopify.com/subflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,580 bytes / 190,487 chars
+Elapsed          : 0.953s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Subflow Subscriptions - Subscriptions with a customer portal and working migration | Shopify App Store
+meta description : Add subscribe & save plans to any Shopify product. Customers skip, pause and reschedule in your own storefront portal. Import from Recharge, Appstle or Seal.
+canonical URL    : https://apps.shopify.com/subflow
+<h1> tags ( 1)  : 'Subflow Subscriptions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

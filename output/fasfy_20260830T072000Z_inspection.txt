@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fasfy_20260830T072000Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fasfy_20260830T072000Z.html
+Requested URL    : https://apps.shopify.com/fasfy
+Final URL        : https://apps.shopify.com/fasfy
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,312 bytes / 191,201 chars
+Elapsed          : 0.552s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FA ‑ Privacy First Analytics - Integrate with Fathom Analytics, track conversions and events | Shopify App Store
+meta description : Fathom Analytics integration with Shopify via Pixel approach. Track conversions, checkout and cart events. Privacy first, GDPR compliant and GA alternative.
+canonical URL    : https://apps.shopify.com/fasfy
+<h1> tags ( 1)  : 'FA ‑ Privacy First Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

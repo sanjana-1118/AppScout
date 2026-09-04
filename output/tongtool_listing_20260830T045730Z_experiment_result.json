@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/tongtool_listing",
+  "fetch_timestamp": "2026-08-30T04:57:30.729020+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tongtool_listing_20260830T045730Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tongtool_listing_20260830T045730Z.html",
+    "url": "https://apps.shopify.com/tongtool_listing",
+    "final_url": "https://apps.shopify.com/tongtool_listing",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 169131,
+    "body_text_length": 166964,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.878891,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "通途刊登 - 专业的跨境电商刊登ERP,快速高效 | Shopify App Store",
+    "meta_description": "数据采集\n支持60+平台站点采集，采集内容直接上架，省时省力省人工\n\n产品资料中心\n产品资料中心化管理，一键上架\n\n迁移搬家\n支持同平台、跨平台产品资料迁移搬家，助力买家快速开拓新站点、新店铺\n\n自动防超卖\n同产品多Listing共享库存，库存变动自动同步到线上Listing，防超卖不再是难事...",
+    "canonical_url": "https://apps.shopify.com/tongtool_listing?locale=zh-CN",
+    "h1_tags": [
+      "通途刊登"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "通途刊登",
+    "app_slug": "tongtool_listing",
+    "app_url": "https://apps.shopify.com/tongtool_listing?locale=zh-CN",
+    "developer_name": "Tongtool 通途",
+    "description": "数据采集\n支持60+平台站点采集，采集内容直接上架，省时省力省人工\n\n产品资料中心\n产品资料中心化管理，一键上架\n\n迁移搬家\n支持同平台、跨平台产品资料迁移搬家，助力买家快速开拓新站点、新店铺\n\n自动防超卖\n同产品多Listing共享库存，库存变动自动同步到线上Listing，防超卖不再是难事...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Inventory sync"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tongtool_listing_20260830T045730Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\tongtool_listing_20260830T045730Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "通途刊登",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "tongtool_listing",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/tongtool_listing?locale=zh-CN",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Tongtool 通途",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "数据采集\n支持60+平台站点采集，采集内容直接上架，省时省力省人工\n\n产品资料中心\n产品资料中心化管理，一键上架\n\n迁移搬家\n支持同平台、跨平台产品资料迁移搬家，助力买家快速开拓新站点、新店铺\n\n自动防超卖\n同产品多Listing共享库存，库存变动自动同步到线上Listing，防超卖不再是难事...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Inventory sync",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

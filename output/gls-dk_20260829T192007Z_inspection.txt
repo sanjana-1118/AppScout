@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gls-dk_20260829T192007Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gls-dk_20260829T192007Z.html
+Requested URL    : https://apps.shopify.com/gls-dk
+Final URL        : https://apps.shopify.com/gls-dk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,350 bytes / 171,228 chars
+Elapsed          : 0.976s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GLS Clik&Ship (Denmark) - GLS Click&Ship - automatiser din labelgenerering | Shopify App Store
+meta description : GLS Click&Ship – Et plugin til automatisk import af ordrer/forsendelser og labelgenerering fra din Shopify konto.
+
+Med Click&Ship er det nemt og hu...
+canonical URL    : https://apps.shopify.com/gls-dk?locale=da
+<h1> tags ( 1)  : 'GLS Clik&Ship (Denmark)'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

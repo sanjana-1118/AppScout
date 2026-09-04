@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mixtable-exporter_20260830T071203Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mixtable-exporter_20260830T071203Z.html
+Requested URL    : https://apps.shopify.com/mixtable-exporter
+Final URL        : https://apps.shopify.com/mixtable-exporter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,765 bytes / 183,615 chars
+Elapsed          : 0.532s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mixtable ‑ Explore & Export - Spreadsheet to work with your data; Export to Excel &... | Shopify App Store
+meta description : Mixtable is an online spreadsheet for Shopify, built to keep your store data always up to date. It looks, feels, and works like Excel or Google She...
+canonical URL    : https://apps.shopify.com/mixtable-exporter
+<h1> tags ( 1)  : 'Mixtable ‑ Explore & Export'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

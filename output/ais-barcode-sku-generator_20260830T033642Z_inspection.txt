@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ais-barcode-sku-generator_20260830T033642Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ais-barcode-sku-generator_20260830T033642Z.html
+Requested URL    : https://apps.shopify.com/ais-barcode-sku-generator
+Final URL        : https://apps.shopify.com/ais-barcode-sku-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,919 bytes / 229,821 chars
+Elapsed          : 0.632s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SGT: SKU and Barcode Generator - Auto-generate SKUs & barcodes in bulk and print labels | Shopify App Store
+meta description : Generate SKUs and barcodes in bulk for Shopify products. Auto-generate codes, create custom formats, and print labels easily. Try now to save time.
+canonical URL    : https://apps.shopify.com/ais-barcode-sku-generator
+<h1> tags ( 1)  : 'SGT: SKU and Barcode Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

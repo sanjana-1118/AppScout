@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostify-size-charts_20260830T043209Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boostify-size-charts_20260830T043209Z.html
+Requested URL    : https://apps.shopify.com/boostify-size-charts
+Final URL        : https://apps.shopify.com/boostify-size-charts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,950 bytes / 167,853 chars
+Elapsed          : 0.544s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boostify Size Charts - Effortlessly add clear size and fit guides that shopper needs | Shopify App Store
+meta description : Easily build tailored size charts and fit guides for your Shopify store. Preview, integrate via theme extensions, and update directly in the admin console
+canonical URL    : https://apps.shopify.com/boostify-size-charts
+<h1> tags ( 1)  : 'Boostify Size Charts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

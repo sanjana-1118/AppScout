@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\primestories-app_20260830T180041Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\primestories-app_20260830T180041Z.html
+Requested URL    : https://apps.shopify.com/primestories-app
+Final URL        : https://apps.shopify.com/primestories-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,687 bytes / 182,572 chars
+Elapsed          : 0.894s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PrimeStory - Add Instagram-style stories & highlights to your store | Shopify App Store
+meta description : Add Instagram-style story highlights to your Shopify store. Engage customers with shoppable stories, countdowns, polls and emoji sliders.
+canonical URL    : https://apps.shopify.com/primestories-app
+<h1> tags ( 1)  : 'PrimeStory'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

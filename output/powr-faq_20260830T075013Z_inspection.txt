@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\powr-faq_20260830T075013Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\powr-faq_20260830T075013Z.html
+Requested URL    : https://apps.shopify.com/powr-faq
+Final URL        : https://apps.shopify.com/powr-faq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,605 bytes / 223,512 chars
+Elapsed          : 0.860s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POWR: FAQ Page | Help Center  - Build an SEO-friendly FAQ and reduce support calls & emails | Shopify App Store
+meta description : Improve your eCommerce store with the POWR Product FAQ page app. The easy way to provide answers to customers' top questions. No coding required.
+canonical URL    : https://apps.shopify.com/powr-faq
+<h1> tags ( 1)  : 'POWR: FAQ Page | Help Center'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-omnibus-price-tracker_20260830T172954Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eu-omnibus-price-tracker_20260830T172954Z.html
+Requested URL    : https://apps.shopify.com/eu-omnibus-price-tracker
+Final URL        : https://apps.shopify.com/eu-omnibus-price-tracker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,467 bytes / 178,372 chars
+Elapsed          : 1.372s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EU Omnibus Price Tracker - Display the lowest price in last 30 days on product... | Shopify App Store
+meta description : Comply with EU Directive 98/6/EC. Track 30-day price history, display lowest price badges, and generate tamper-proof compliance reports for your Shopify store.
+canonical URL    : https://apps.shopify.com/eu-omnibus-price-tracker
+<h1> tags ( 1)  : 'EU Omnibus Price Tracker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

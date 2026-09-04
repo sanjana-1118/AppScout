@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-announcement-bar-6_20260830T184551Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-announcement-bar-6_20260830T184551Z.html
+Requested URL    : https://apps.shopify.com/smart-announcement-bar-6
+Final URL        : https://apps.shopify.com/smart-announcement-bar-6
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,985 bytes / 175,896 chars
+Elapsed          : 0.572s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Free Announcement Bar - Promo bars for your storefront, cart page, and cart drawer. | Shopify App Store
+meta description : Smart Announcement Bar helps Shopify merchants share store promotions without editing theme code. Create simple, running, or rotating announcement ...
+canonical URL    : https://apps.shopify.com/smart-announcement-bar-6
+<h1> tags ( 1)  : 'Free Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

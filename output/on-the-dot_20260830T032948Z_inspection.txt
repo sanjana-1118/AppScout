@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\on-the-dot_20260830T032948Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\on-the-dot_20260830T032948Z.html
+Requested URL    : https://apps.shopify.com/on-the-dot
+Final URL        : https://apps.shopify.com/on-the-dot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,218 bytes / 173,129 chars
+Elapsed          : 0.798s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : On the Dot - Use On the Dot to ship your parcels with ease | Shopify App Store
+meta description : On the Dot automates your shipping workflow with real-time rates and instant label generation. Connect your account, set your shipping preferences,...
+canonical URL    : https://apps.shopify.com/on-the-dot
+<h1> tags ( 1)  : 'On the Dot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

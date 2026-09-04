@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/novat-tax-exempt",
+  "fetch_timestamp": "2026-08-30T07:01:18.033764+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\novat-tax-exempt_20260830T070117Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\novat-tax-exempt_20260830T070117Z.html",
+    "url": "https://apps.shopify.com/novat-tax-exempt",
+    "final_url": "https://apps.shopify.com/novat-tax-exempt",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 197930,
+    "body_text_length": 197811,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.943028,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Novat ‑ Tax Exempt - Allow customers to claim tax exemption. | Shopify App Store",
+    "meta_description": "Easily manage tax and VAT exemptions on your store with our Shopify Tax Exempt App. Simplify checkout for tax-exempt and B2B customers.",
+    "canonical_url": "https://apps.shopify.com/novat-tax-exempt",
+    "h1_tags": [
+      "Novat ‑ Tax Exempt"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Novat ‑ Tax Exempt",
+    "app_slug": "novat-tax-exempt",
+    "app_url": "https://apps.shopify.com/novat-tax-exempt",
+    "developer_name": "Addify",
+    "description": "Easily manage tax and VAT exemptions on your store with our Shopify Tax Exempt App. Simplify checkout for tax-exempt and B2B customers.",
+    "average_rating": 3.0,
+    "review_count": 2,
+    "category": "Taxes"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\novat-tax-exempt_20260830T070117Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\novat-tax-exempt_20260830T070117Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Novat ‑ Tax Exempt",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "novat-tax-exempt",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/novat-tax-exempt",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Addify",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Easily manage tax and VAT exemptions on your store with our Shopify Tax Exempt App. Simplify checkout for tax-exempt and B2B customers.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 3.0,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 2,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Taxes",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flow-action-extensions_20260830T070851Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\flow-action-extensions_20260830T070851Z.html
+Requested URL    : https://apps.shopify.com/flow-action-extensions
+Final URL        : https://apps.shopify.com/flow-action-extensions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,085 bytes / 225,994 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Workflow Transactional Email - Transactional emails in Flow via Microsoft 365, Google or SMTP | Shopify App Store
+meta description : Send transactional emails via Microsoft 365, Google, or your own SMTP - plus HTTP requests to any external API - straight from your Shopify Flow workflows.
+canonical URL    : https://apps.shopify.com/flow-action-extensions
+<h1> tags ( 1)  : 'Workflow Transactional Email'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

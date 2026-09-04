@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gluedin_20260830T134746Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gluedin_20260830T134746Z.html
+Requested URL    : https://apps.shopify.com/gluedin
+Final URL        : https://apps.shopify.com/gluedin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,443 bytes / 167,326 chars
+Elapsed          : 0.573s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GluedIn‑ Shoppable Videos - In-App community plugin, video shopping, influencer profiles | Shopify App Store
+meta description : Increase conversions with a short video led shopping experience and promoting brand influencers
+canonical URL    : https://apps.shopify.com/gluedin
+<h1> tags ( 1)  : 'GluedIn‑ Shoppable Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

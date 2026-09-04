@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autopilot-conversions_20260830T164146Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\autopilot-conversions_20260830T164146Z.html
+Requested URL    : https://apps.shopify.com/autopilot-conversions
+Final URL        : https://apps.shopify.com/autopilot-conversions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,478 bytes / 196,385 chars
+Elapsed          : 0.452s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Autopilot Conversions - Increase sales with A/B testing & conversion optimization | Shopify App Store
+meta description : Test Add to Cart button variations using controlled experiments. Review results and apply changes without automatic storefront updates.
+canonical URL    : https://apps.shopify.com/autopilot-conversions
+<h1> tags ( 1)  : 'Autopilot Conversions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gst-invoice-pro_20260830T051258Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gst-invoice-pro_20260830T051258Z.html
+Requested URL    : https://apps.shopify.com/gst-invoice-pro
+Final URL        : https://apps.shopify.com/gst-invoice-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 254,480 bytes / 254,387 chars
+Elapsed          : 0.881s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GST Pro: GST Invoice India - Easy GST invoices for India. Reports, credit notes and filings | Shopify App Store
+meta description : Everything you need to navigate GST in India. GST Invoice + Reports can be added to any store and in a few minutes you can start generating GST Inv...
+canonical URL    : https://apps.shopify.com/gst-invoice-pro
+<h1> tags ( 1)  : 'GST Pro: GST Invoice India'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

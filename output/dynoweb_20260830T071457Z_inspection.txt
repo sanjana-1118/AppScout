@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dynoweb_20260830T071457Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dynoweb_20260830T071457Z.html
+Requested URL    : https://apps.shopify.com/dynoweb
+Final URL        : https://apps.shopify.com/dynoweb
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,732 bytes / 250,627 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DynoWeb Popup, Heatmap, Replay - Finds what's costing you sales, then applies the fix. | Shopify App Store
+meta description : See why shoppers leave your Shopify store — heatmaps, session replays and exit popups in one app. DynoWeb ranks what to fix, then applies it once you approve.
+canonical URL    : https://apps.shopify.com/dynoweb
+<h1> tags ( 1)  : 'DynoWeb Popup, Heatmap, Replay'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

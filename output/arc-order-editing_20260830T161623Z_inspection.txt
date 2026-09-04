@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arc-order-editing_20260830T161623Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arc-order-editing_20260830T161623Z.html
+Requested URL    : https://apps.shopify.com/arc-order-editing
+Final URL        : https://apps.shopify.com/arc-order-editing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,768 bytes / 184,679 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Arc: Order Editing & Upsell - Edit orders, change address, cancel orders & checkout upsells | Shopify App Store
+meta description : Let customers edit orders, change address & cancel - self-service. Boost AOV with checkout upsells. $29/mo flat, no revenue sharing.
+canonical URL    : https://apps.shopify.com/arc-order-editing
+<h1> tags ( 1)  : 'Arc: Order Editing & Upsell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

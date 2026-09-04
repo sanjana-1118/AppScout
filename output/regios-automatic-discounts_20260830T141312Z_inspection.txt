@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\regios-automatic-discounts_20260830T141312Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\regios-automatic-discounts_20260830T141312Z.html
+Requested URL    : https://apps.shopify.com/regios-automatic-discounts
+Final URL        : https://apps.shopify.com/regios-automatic-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 250,304 bytes / 250,211 chars
+Elapsed          : 0.865s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Regios Automatic Discounts - Boost sales with volume discounts, pricing tiers, and offers | Shopify App Store
+meta description : Build complex nested discount logic without conflicts. Regios flags rule errors before launch with its Logic Analyzer, built on Shopify Functions.
+canonical URL    : https://apps.shopify.com/regios-automatic-discounts
+<h1> tags ( 1)  : 'Regios Automatic Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

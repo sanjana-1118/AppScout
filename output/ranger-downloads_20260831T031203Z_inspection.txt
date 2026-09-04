@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ranger-downloads_20260831T031203Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ranger-downloads_20260831T031203Z.html
+Requested URL    : https://apps.shopify.com/ranger-downloads
+Final URL        : https://apps.shopify.com/ranger-downloads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,658 bytes / 186,571 chars
+Elapsed          : 0.960s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ranger Downloads - Secure digital delivery with emails from your own domain | Shopify App Store
+meta description : Sell files, ebooks, and game PDFs with secure download links, branded delivery emails from your own domain, and download limits that stop link sharing.
+canonical URL    : https://apps.shopify.com/ranger-downloads
+<h1> tags ( 1)  : 'Ranger Downloads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

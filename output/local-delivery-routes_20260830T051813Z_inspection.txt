@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\local-delivery-routes_20260830T051813Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\local-delivery-routes_20260830T051813Z.html
+Requested URL    : https://apps.shopify.com/local-delivery-routes
+Final URL        : https://apps.shopify.com/local-delivery-routes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,687 bytes / 239,574 chars
+Elapsed          : 0.608s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Super Local Delivery & Pickup - Complete delivery and pickup solution for local businesses | Shopify App Store
+meta description : Shopify app to manage local delivery and pickup for grocery, florist, bakery, meals, pharmacy, butchery, and many other local businesses.
+canonical URL    : https://apps.shopify.com/local-delivery-routes
+<h1> tags ( 1)  : 'Super Local Delivery & Pickup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

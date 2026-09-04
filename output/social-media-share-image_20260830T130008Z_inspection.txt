@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-media-share-image_20260830T130008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-media-share-image_20260830T130008Z.html
+Requested URL    : https://apps.shopify.com/social-media-share-image
+Final URL        : https://apps.shopify.com/social-media-share-image
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,998 bytes / 186,881 chars
+Elapsed          : 1.010s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yuhu ‑Social Media Share Image - Custom social media share images | Shopify App Store
+meta description : Create and customize social media share images for each of your products, collections and pages so you can share your content on Facebook, Twitter,...
+canonical URL    : https://apps.shopify.com/social-media-share-image
+<h1> tags ( 1)  : 'Yuhu ‑Social Media Share Image'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

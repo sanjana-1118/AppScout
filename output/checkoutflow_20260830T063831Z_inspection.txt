@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkoutflow_20260830T063831Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\checkoutflow_20260830T063831Z.html
+Requested URL    : https://apps.shopify.com/checkoutflow
+Final URL        : https://apps.shopify.com/checkoutflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,755 bytes / 220,642 chars
+Elapsed          : 0.808s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CheckoutFlow‑Hide Sort Rename - Hide, sort, and rename payment and shipping methods easily | Shopify App Store
+meta description : Customize Shopify checkout with smart rules to hide, sort, and rename payment and shipping methods. Improve customer experience and streamline your flow.
+canonical URL    : https://apps.shopify.com/checkoutflow
+<h1> tags ( 1)  : 'CheckoutFlow‑Hide Sort Rename'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

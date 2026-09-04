@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\widerruf-manager-de_20260830T163517Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\widerruf-manager-de_20260830T163517Z.html
+Requested URL    : https://apps.shopify.com/widerruf-manager-de
+Final URL        : https://apps.shopify.com/widerruf-manager-de
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,985 bytes / 201,847 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Widerruf Manager - Kunden-Widerrufe einfach erfassen und rechtssicher bearbeiten. | Shopify App Store
+meta description : Widerruf Manager ermöglicht Ihren Kunden, Widerrufe direkt über Ihren Shop einzureichen - konform mit dem EU-Widerrufsrecht.
+canonical URL    : https://apps.shopify.com/widerruf-manager-de?locale=de
+<h1> tags ( 1)  : 'Widerruf Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

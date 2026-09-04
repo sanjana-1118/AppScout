@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\humind-ai-shopping-assistant_20260830T145214Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\humind-ai-shopping-assistant_20260830T145214Z.html
+Requested URL    : https://apps.shopify.com/humind-ai-shopping-assistant
+Final URL        : https://apps.shopify.com/humind-ai-shopping-assistant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 255,145 bytes / 254,979 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Humind ‑ AI Shopping Assistant - Boost sales with an AI shopping experience & smart upsells. | Shopify App Store
+meta description : Humind is an AI Sales assistant embedded in e-commerce websites, streamlining the customer journey and converting visitors into loyal customers.
+canonical URL    : https://apps.shopify.com/humind-ai-shopping-assistant
+<h1> tags ( 1)  : 'Humind ‑ AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

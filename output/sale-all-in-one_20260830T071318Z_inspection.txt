@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sale-all-in-one_20260830T071318Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sale-all-in-one_20260830T071318Z.html
+Requested URL    : https://apps.shopify.com/sale-all-in-one
+Final URL        : https://apps.shopify.com/sale-all-in-one
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 242,280 bytes / 242,173 chars
+Elapsed          : 0.776s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Saio: Sale ‑ All in one - Make sales easier by providing a variety of discount methods... | Shopify App Store
+meta description : Run sales campaigns with zero hassle. Saio: Sale - All-in-one allows you to apply discounts on bulk products. Display sales and original prices as ...
+canonical URL    : https://apps.shopify.com/sale-all-in-one
+<h1> tags ( 1)  : 'Saio: Sale ‑ All in one'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

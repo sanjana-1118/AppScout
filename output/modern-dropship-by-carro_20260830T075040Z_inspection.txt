@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modern-dropship-by-carro_20260830T075040Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\modern-dropship-by-carro_20260830T075040Z.html
+Requested URL    : https://apps.shopify.com/modern-dropship-by-carro
+Final URL        : https://apps.shopify.com/modern-dropship-by-carro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,219 bytes / 199,122 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Carro x Modern Dropship  - Dropship and Marketplace Automation Platform for Retailers | Shopify App Store
+meta description : Modernize your Dropship Program - Carro supports retailers streamlining marketplace management and drive more sales.
+canonical URL    : https://apps.shopify.com/modern-dropship-by-carro
+<h1> tags ( 1)  : 'Carro x Modern Dropship'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

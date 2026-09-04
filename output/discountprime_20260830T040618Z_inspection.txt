@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discountprime_20260830T040618Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discountprime_20260830T040618Z.html
+Requested URL    : https://apps.shopify.com/discountprime
+Final URL        : https://apps.shopify.com/discountprime
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 270,543 bytes / 270,417 chars
+Elapsed          : 0.947s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount Prime - Volume discounts, quantity breaks & BOGO, never below cost | Shopify App Store
+meta description : Ten discount types, metafield targeting, and margin-safe B2B and DTC pricing, all with a profit floor that never dips below cost and Dropshipping pricing.
+canonical URL    : https://apps.shopify.com/discountprime
+<h1> tags ( 1)  : 'Discount Prime'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

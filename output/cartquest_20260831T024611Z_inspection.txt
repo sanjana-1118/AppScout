@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartquest_20260831T024611Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartquest_20260831T024611Z.html
+Requested URL    : https://apps.shopify.com/cartquest
+Final URL        : https://apps.shopify.com/cartquest
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,922 bytes / 168,833 chars
+Elapsed          : 0.814s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartQuest - Unlock checkout discounts when cart spend hits your tiers. | Shopify App Store
+meta description : Set spend-based cart reward tiers, unlock automatic checkout discounts, and show optional cart progress toward the next reward.
+canonical URL    : https://apps.shopify.com/cartquest
+<h1> tags ( 1)  : 'CartQuest'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

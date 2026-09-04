@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\refundledger_20260830T074448Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\refundledger_20260830T074448Z.html
+Requested URL    : https://apps.shopify.com/refundledger
+Final URL        : https://apps.shopify.com/refundledger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,463 bytes / 168,374 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Refund Ledger - Find the SKUs quietly leaking your refund margins | Shopify App Store
+meta description : RefundLedger turns Shopify order and refund data into SKU-level refund-leakage analytics. See which products lose the most margin and export finance-ready repor
+canonical URL    : https://apps.shopify.com/refundledger
+<h1> tags ( 1)  : 'Refund Ledger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

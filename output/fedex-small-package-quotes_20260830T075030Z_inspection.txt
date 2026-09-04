@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fedex-small-package-quotes_20260830T075030Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fedex-small-package-quotes_20260830T075030Z.html
+Requested URL    : https://apps.shopify.com/fedex-small-package-quotes
+Final URL        : https://apps.shopify.com/fedex-small-package-quotes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,190 bytes / 218,087 chars
+Elapsed          : 0.679s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Eniture's Small Package Quotes - Quote your negotiated parcel rates during checkout. | Shopify App Store
+meta description : Connect your FedEx account and use your negotiated rates to offer accurate real-time options for parcel services during checkout.
+canonical URL    : https://apps.shopify.com/fedex-small-package-quotes
+<h1> tags ( 1)  : "Eniture's Small Package Quotes"
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

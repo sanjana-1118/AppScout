@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-shopping-feed-pro_20260829T175723Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\google-shopping-feed-pro_20260829T175723Z.html
+Requested URL    : https://apps.shopify.com/google-shopping-feed-pro
+Final URL        : https://apps.shopify.com/google-shopping-feed-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 254,463 bytes / 254,314 chars
+Elapsed          : 0.911s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Omega Google & Facebook Feed - Sync multi-feed to Google Feed, Facebook Catalog & boost sales | Shopify App Store
+meta description : Boost sales with optimized Google Shopping feeds and Facebook ads. Sync products with GTIN, fix errors, and expand across multiple marketplaces with XML feeds.
+canonical URL    : https://apps.shopify.com/google-shopping-feed-pro
+<h1> tags ( 1)  : 'Omega Google & Facebook Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

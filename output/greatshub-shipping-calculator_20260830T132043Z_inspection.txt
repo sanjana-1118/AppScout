@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\greatshub-shipping-calculator_20260830T132043Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\greatshub-shipping-calculator_20260830T132043Z.html
+Requested URL    : https://apps.shopify.com/greatshub-shipping-calculator
+Final URL        : https://apps.shopify.com/greatshub-shipping-calculator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,873 bytes / 183,784 chars
+Elapsed          : 0.842s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Greatshub Announcement Bar - Easily Add Custom Alerts and Updates to Your Site | Shopify App Store
+meta description : Informing clients of your business's advancements, promotions, and events is a vital part of managing relationships with customers. Because Attract...
+canonical URL    : https://apps.shopify.com/greatshub-shipping-calculator
+<h1> tags ( 1)  : 'Greatshub Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cycle-product-intelligence_20260830T073318Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cycle-product-intelligence_20260830T073318Z.html
+Requested URL    : https://apps.shopify.com/cycle-product-intelligence
+Final URL        : https://apps.shopify.com/cycle-product-intelligence
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,946 bytes / 164,857 chars
+Elapsed          : 0.571s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cycle Product Intelligence - AI product copilot for inventory, margins and reorders. | Shopify App Store
+meta description : Ask your catalogue what to reorder, what is slowing sales and where margins leak. Cycle turns products, inventory and orders into clear actions.
+canonical URL    : https://apps.shopify.com/cycle-product-intelligence
+<h1> tags ( 1)  : 'Cycle Product Intelligence'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

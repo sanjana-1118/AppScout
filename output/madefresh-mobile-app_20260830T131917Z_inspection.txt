@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\madefresh-mobile-app_20260830T131917Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\madefresh-mobile-app_20260830T131917Z.html
+Requested URL    : https://apps.shopify.com/madefresh-mobile-app
+Final URL        : https://apps.shopify.com/madefresh-mobile-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,701 bytes / 182,604 chars
+Elapsed          : 0.822s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Highstreet: Mobile App Builder - Launch your store in the HighStreet market app | Shopify App Store
+meta description : Simply design your store and HighStreet instantly shows your shop in the app. You can take advantage of everything a mobile app offers, e.g. reach ...
+canonical URL    : https://apps.shopify.com/madefresh-mobile-app
+<h1> tags ( 1)  : 'Highstreet: Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

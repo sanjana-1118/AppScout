@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-455_20260830T151218Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-455_20260830T151218Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-455
+Final URL        : https://apps.shopify.com/shopify-application-455
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,015 bytes / 181,460 chars
+Elapsed          : 0.934s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 配送日時指定くん | 配送日時指定 | 商品別で配送便の指定 - 配送日指定、時間指定を可能にする配送日指定アプリ。カスタム配送先、カスタム配送時間、商品別配送会社指定が可能です | Shopify App Store
+meta description : このアプリは、商品購入時に必要な配送日設定を柔軟にカスタマイズできる機能を提供します。主な機能として、配送日や配送時間の設定が可能です。
+
+最短および最長の配送希望日を自由に設定でき、購入者が適切な配送日を選択できるように調整できます。また、店舗の休業日を事前に登録することで、出荷や配送が行え...
+canonical URL    : https://apps.shopify.com/shopify-application-455?locale=ja
+<h1> tags ( 1)  : '配送日時指定くん | 配送日時指定 | 商品別で配送便の指定'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

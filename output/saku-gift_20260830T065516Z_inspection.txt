@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saku-gift_20260830T065516Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saku-gift_20260830T065516Z.html
+Requested URL    : https://apps.shopify.com/saku-gift
+Final URL        : https://apps.shopify.com/saku-gift
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,109 bytes / 178,240 chars
+Elapsed          : 0.811s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SAKU Gift wrapping  - Let customers choose gift wrapping on your product pages. | Shopify App Store
+meta description : 商品ページにギフトオプションを追加、オプションには追加料金の設定が可能。オプションを選択する時には、追加情報として「リボンの色」「ギフトメッセージの文章」などの取得も可能。小規模ストアでも導入しやすい低価格✕シンプル設計。安くて導入しやすい！
+canonical URL    : https://apps.shopify.com/saku-gift
+<h1> tags ( 1)  : 'SAKU Gift wrapping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

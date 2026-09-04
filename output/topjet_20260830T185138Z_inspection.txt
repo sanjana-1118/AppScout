@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\topjet_20260830T185138Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\topjet_20260830T185138Z.html
+Requested URL    : https://apps.shopify.com/topjet
+Final URL        : https://apps.shopify.com/topjet
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,032 bytes / 186,937 chars
+Elapsed          : 0.932s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Top Jet -  Smooth, customizable scroll-to-top button for your store | Shopify App Store
+meta description : TopJet adds a sleek, floating scroll-to-top button to your storefront, giving shoppers a smooth
+  one-tap way back to the top of any page. No codin...
+canonical URL    : https://apps.shopify.com/topjet
+<h1> tags ( 1)  : 'Top Jet'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

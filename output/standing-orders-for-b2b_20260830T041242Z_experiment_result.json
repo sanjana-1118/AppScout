@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/standing-orders-for-b2b",
+  "fetch_timestamp": "2026-08-30T04:12:43.025189+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\standing-orders-for-b2b_20260830T041242Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\standing-orders-for-b2b_20260830T041242Z.html",
+    "url": "https://apps.shopify.com/standing-orders-for-b2b",
+    "final_url": "https://apps.shopify.com/standing-orders-for-b2b",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 167993,
+    "body_text_length": 167886,
+    "encoding": "utf-8",
+    "elapsed_seconds": 2.277065,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Orumio — Standing Orders - Recurring B2B orders drafted on schedule, ready for review | Shopify App Store",
+    "meta_description": "Schedule recurring B2B draft orders for company locations. Each run follows the catalog and payment terms already set there, and you review every draft.",
+    "canonical_url": "https://apps.shopify.com/standing-orders-for-b2b",
+    "h1_tags": [
+      "Orumio — Standing Orders"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Orumio — Standing Orders",
+    "app_slug": "standing-orders-for-b2b",
+    "app_url": "https://apps.shopify.com/standing-orders-for-b2b",
+    "developer_name": "Orumio",
+    "description": "Schedule recurring B2B draft orders for company locations. Each run follows the catalog and payment terms already set there, and you review every draft.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Wholesale"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\standing-orders-for-b2b_20260830T041242Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\standing-orders-for-b2b_20260830T041242Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Orumio — Standing Orders",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "standing-orders-for-b2b",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/standing-orders-for-b2b",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Orumio",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Schedule recurring B2B draft orders for company locations. Each run follows the catalog and payment terms already set there, and you review every draft.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Wholesale",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

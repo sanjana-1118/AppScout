@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rewards-loyalty-program-referrals_20260830T064754Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rewards-loyalty-program-referrals_20260830T064754Z.html
+Requested URL    : https://apps.shopify.com/rewards-loyalty-program-referrals
+Final URL        : https://apps.shopify.com/rewards-loyalty-program-referrals
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,356 bytes / 189,256 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Delight: Rewards & Loyalty - Boost customer loyalty with our app's reward & loyalty program | Shopify App Store
+meta description : Increase your eCommerce growth by building a valuable loyalty program with your brand. Open real insights to increase your customers.
+canonical URL    : https://apps.shopify.com/rewards-loyalty-program-referrals
+<h1> tags ( 1)  : 'Delight: Rewards & Loyalty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

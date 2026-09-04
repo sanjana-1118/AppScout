@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-gate_20260830T161628Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discount-gate_20260830T161628Z.html
+Requested URL    : https://apps.shopify.com/discount-gate
+Final URL        : https://apps.shopify.com/discount-gate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,038 bytes / 178,941 chars
+Elapsed          : 0.870s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Discount Gate - Create discount codes limited to specific payment gateways. | Shopify App Store
+meta description : Create smart discount codes limited to specific payment gateways. Boost sales, lower fees, and reward customers for paying your way with Discount Gate!
+canonical URL    : https://apps.shopify.com/discount-gate
+<h1> tags ( 1)  : 'Discount Gate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

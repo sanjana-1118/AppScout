@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\best-sellers-tagger_20260830T071357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\best-sellers-tagger_20260830T071357Z.html
+Requested URL    : https://apps.shopify.com/best-sellers-tagger
+Final URL        : https://apps.shopify.com/best-sellers-tagger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,281 bytes / 181,192 chars
+Elapsed          : 0.619s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Beast Best Sellers - Set up proper best seller collections with automation and more | Shopify App Store
+meta description : In Shopify, the items are considered bestsellers based on the number of times they were ordered, but the quantities sold are not taken into account...
+canonical URL    : https://apps.shopify.com/best-sellers-tagger
+<h1> tags ( 1)  : 'Beast Best Sellers'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

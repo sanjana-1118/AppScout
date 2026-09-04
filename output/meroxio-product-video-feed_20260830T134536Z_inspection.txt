@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meroxio-product-video-feed_20260830T134536Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meroxio-product-video-feed_20260830T134536Z.html
+Requested URL    : https://apps.shopify.com/meroxio-product-video-feed
+Final URL        : https://apps.shopify.com/meroxio-product-video-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,032 bytes / 223,941 chars
+Elapsed          : 0.886s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PVF : Shoppable Reels Videos - Shoppable Autoplay Reels & TikTok Videos with Video gallery | Shopify App Store
+meta description : MeroxIO Product video is a great way to showcase products in an interactive short video feed. You can integrate your TikTok. Reels or Shorts videos in this feed
+canonical URL    : https://apps.shopify.com/meroxio-product-video-feed
+<h1> tags ( 1)  : 'PVF : Shoppable Reels Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

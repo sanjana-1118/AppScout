@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\banify-ip-bot-country-blocker_20260830T175830Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\banify-ip-bot-country-blocker_20260830T175830Z.html
+Requested URL    : https://apps.shopify.com/banify-ip-bot-country-blocker
+Final URL        : https://apps.shopify.com/banify-ip-bot-country-blocker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,192 bytes / 177,074 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Banify IP Bot Country Blocker - Block IPs & countries to protect your store | Shopify App Store
+meta description : Banify lets merchants block specific IP addresses and entire countries from accessing their storefront. Add individual IPs or bulk-import lists, bl...
+canonical URL    : https://apps.shopify.com/banify-ip-bot-country-blocker
+<h1> tags ( 1)  : 'Banify IP Bot Country Blocker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

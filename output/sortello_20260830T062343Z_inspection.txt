@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sortello_20260830T062343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sortello_20260830T062343Z.html
+Requested URL    : https://apps.shopify.com/sortello
+Final URL        : https://apps.shopify.com/sortello
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,897 bytes / 203,780 chars
+Elapsed          : 0.476s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sortello ‑ Collection Sorting - Auto-sort collections and push sold-out products to the bottom | Shopify App Store
+meta description : Sort Shopify collections by best sellers, push out-of-stock products to the bottom, and pin your top items - manually or automatically. Free plan available.
+canonical URL    : https://apps.shopify.com/sortello
+<h1> tags ( 1)  : 'Sortello ‑ Collection Sorting'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

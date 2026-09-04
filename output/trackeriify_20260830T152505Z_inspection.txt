@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackeriify_20260830T152505Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackeriify_20260830T152505Z.html
+Requested URL    : https://apps.shopify.com/trackeriify
+Final URL        : https://apps.shopify.com/trackeriify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,480 bytes / 162,387 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trackeriify - Tracking orders made easy | Shopify App Store
+meta description : Simplify order tracking with Trackeriify. Automatically provide delivery estimates, real-time updates, and a customizable tracking page
+canonical URL    : https://apps.shopify.com/trackeriify
+<h1> tags ( 1)  : 'Trackeriify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

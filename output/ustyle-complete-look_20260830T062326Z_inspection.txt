@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ustyle-complete-look_20260830T062326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ustyle-complete-look_20260830T062326Z.html
+Requested URL    : https://apps.shopify.com/ustyle-complete-look
+Final URL        : https://apps.shopify.com/ustyle-complete-look
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,875 bytes / 174,762 chars
+Elapsed          : 0.450s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ustyle ‑ Complete Look - Turn every product page into an AI-powered outfit upsell | Shopify App Store
+meta description : Ustyle adds AI-matched outfit recommendations to every product page. Improving AOV with styled looks, match scores, and one-click Add to Cart.
+canonical URL    : https://apps.shopify.com/ustyle-complete-look
+<h1> tags ( 1)  : 'Ustyle ‑ Complete Look'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

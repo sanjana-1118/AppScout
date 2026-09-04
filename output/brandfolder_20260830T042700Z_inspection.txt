@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandfolder_20260830T042700Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brandfolder_20260830T042700Z.html
+Requested URL    : https://apps.shopify.com/brandfolder
+Final URL        : https://apps.shopify.com/brandfolder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,539 bytes / 156,430 chars
+Elapsed          : 0.654s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Brandfolder ‑ Asset Management - Deliver impactful e-commerce experiences using on-brand assets | Shopify App Store
+meta description : Streamline e-commerce and marketing efforts with Brandfolder.  Brandfolder's integration for Shopify allows users to quickly search, find, and leve...
+canonical URL    : https://apps.shopify.com/brandfolder
+<h1> tags ( 1)  : 'Brandfolder ‑ Asset Management'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

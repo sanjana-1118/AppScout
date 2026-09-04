@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\glood-ai-search-with-image_20260830T063018Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\glood-ai-search-with-image_20260830T063018Z.html
+Requested URL    : https://apps.shopify.com/glood-ai-search-with-image
+Final URL        : https://apps.shopify.com/glood-ai-search-with-image
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,744 bytes / 200,649 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Glood AI Search And Discovery - Instant AI search with images, filters, and market support | Shopify App Store
+meta description : Deliver AI-powered image search that boosts discovery and conversions. Let shoppers find products by photo, text, or filters in milliseconds.
+canonical URL    : https://apps.shopify.com/glood-ai-search-with-image
+<h1> tags ( 1)  : 'Glood AI Search And Discovery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

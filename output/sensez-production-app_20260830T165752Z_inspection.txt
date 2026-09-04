@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensez-production-app_20260830T165752Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensez-production-app_20260830T165752Z.html
+Requested URL    : https://apps.shopify.com/sensez-production-app
+Final URL        : https://apps.shopify.com/sensez-production-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,247 bytes / 224,149 chars
+Elapsed          : 0.539s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sensez: product quiz builder - Personalized product quizzes that turn browsers into buyers | Shopify App Store
+meta description : Turn a big product catalog into one clear recommendation your shopper can buy on the spot. Quiz answers sync to Klaviyo as zero-party data for segments & flows.
+canonical URL    : https://apps.shopify.com/sensez-production-app
+<h1> tags ( 1)  : 'Sensez: product quiz builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

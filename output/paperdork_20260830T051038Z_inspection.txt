@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paperdork_20260830T051038Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\paperdork_20260830T051038Z.html
+Requested URL    : https://apps.shopify.com/paperdork
+Final URL        : https://apps.shopify.com/paperdork
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,845 bytes / 152,754 chars
+Elapsed          : 0.584s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Paperdork - Met de Paperdork koppelingen automatiseer jij je boekhouding | Shopify App Store
+meta description : Wil je jouw webshop gegevens graag automatisch in je administratie verwerken? Dat kan super makkelijk met onze Shopify koppeling! Met onze plugin k...
+canonical URL    : https://apps.shopify.com/paperdork?locale=nl
+<h1> tags ( 1)  : 'Paperdork'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

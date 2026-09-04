@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fbl-dimensional-shipping-rates_20260830T134518Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fbl-dimensional-shipping-rates_20260830T134518Z.html
+Requested URL    : https://apps.shopify.com/fbl-dimensional-shipping-rates
+Final URL        : https://apps.shopify.com/fbl-dimensional-shipping-rates
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,291 bytes / 176,108 chars
+Elapsed          : 0.660s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FBL DIMENSIONAL SHIPPING RATES - Dimensional shipping rates calculator. | Shopify App Store
+meta description : Enables shipping fee calculation by dimensional weigh.
+
+At customer checkout, shipping rates are estimated from DHL based on the product and contai...
+canonical URL    : https://apps.shopify.com/fbl-dimensional-shipping-rates
+<h1> tags ( 1)  : 'FBL DIMENSIONAL SHIPPING RATES'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

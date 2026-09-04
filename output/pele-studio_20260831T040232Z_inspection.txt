@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pele-studio_20260831T040232Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pele-studio_20260831T040232Z.html
+Requested URL    : https://apps.shopify.com/pele-studio
+Final URL        : https://apps.shopify.com/pele-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,197 bytes / 194,104 chars
+Elapsed          : 0.991s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vibe AI Studio Lab & Try On - Create AI product images and model lookbooks in bulk | Shopify App Store
+meta description : Create AI product images, clean packshots, model lookbooks and lifestyle visuals in bulk for Shopify product pages and complete fashion collections.
+canonical URL    : https://apps.shopify.com/pele-studio
+<h1> tags ( 1)  : 'Vibe AI Studio Lab & Try On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

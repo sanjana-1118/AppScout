@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hide-price-and-add-to-cart-1_20260830T044927Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hide-price-and-add-to-cart-1_20260830T044927Z.html
+Requested URL    : https://apps.shopify.com/hide-price-and-add-to-cart-1
+Final URL        : https://apps.shopify.com/hide-price-and-add-to-cart-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,987 bytes / 178,896 chars
+Elapsed          : 0.642s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HIDR: Hide Price & Add to Cart - Hide price and Add to Cart for selected products and... | Shopify App Store
+meta description : Hide price and remove add to cart with ease. Hide add to cart button, disable add to cart, and hide price on specific products to control who can view prices
+canonical URL    : https://apps.shopify.com/hide-price-and-add-to-cart-1
+<h1> tags ( 1)  : 'HIDR: Hide Price & Add to Cart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

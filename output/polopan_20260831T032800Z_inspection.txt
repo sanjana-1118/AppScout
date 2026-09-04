@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\polopan_20260831T032800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\polopan_20260831T032800Z.html
+Requested URL    : https://apps.shopify.com/polopan
+Final URL        : https://apps.shopify.com/polopan
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,595 bytes / 170,502 chars
+Elapsed          : 0.899s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PoloPan: AI Curated Outfits - Get free sales for your fashion store from our outfit... | Shopify App Store
+meta description : Sync your Shopify store with PoloPan to feature your products in AI-curated outfits. Automate inventory, track conversions, and pay only for successful sales.
+canonical URL    : https://apps.shopify.com/polopan
+<h1> tags ( 1)  : 'PoloPan: AI Curated Outfits'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

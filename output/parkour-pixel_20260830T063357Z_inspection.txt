@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parkour-pixel_20260830T063357Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parkour-pixel_20260830T063357Z.html
+Requested URL    : https://apps.shopify.com/parkour-pixel
+Final URL        : https://apps.shopify.com/parkour-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,592 bytes / 226,499 chars
+Elapsed          : 0.628s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Parkour: Facebook Pixel & Feed - Facebook Pixel & Meta Pixel (CAPI) with Feed & Catalog | Shopify App Store
+meta description : Our advanced system ensures accurate data collection across Facebook/Meta Platforms giving you actionable insights to optimize campaigns.
+canonical URL    : https://apps.shopify.com/parkour-pixel
+<h1> tags ( 1)  : 'Parkour: Facebook Pixel & Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

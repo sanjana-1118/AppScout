@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-google-reviews_20260830T154726Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ez-google-reviews_20260830T154726Z.html
+Requested URL    : https://apps.shopify.com/ez-google-reviews
+Final URL        : https://apps.shopify.com/ez-google-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,424 bytes / 176,327 chars
+Elapsed          : 0.663s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EZ Google Reviews by WebSqr - EZ Google Reviews: Google Reviews & Ratings via API | Shopify App Store
+meta description : Add Google reviews to Shopify with hourly sync, star filters, and SEO schema. Choose from multiple widgets, no layout shifts, and easy styling via Theme Editor.
+canonical URL    : https://apps.shopify.com/ez-google-reviews
+<h1> tags ( 1)  : 'EZ Google Reviews by WebSqr'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

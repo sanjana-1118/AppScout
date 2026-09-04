@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/blog-cta-promo-code-insert-mp",
+  "fetch_timestamp": "2026-08-30T05:56:44.585613+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blog-cta-promo-code-insert-mp_20260830T055644Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blog-cta-promo-code-insert-mp_20260830T055644Z.html",
+    "url": "https://apps.shopify.com/blog-cta-promo-code-insert-mp",
+    "final_url": "https://apps.shopify.com/blog-cta-promo-code-insert-mp",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 191878,
+    "body_text_length": 191789,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.445262,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Blog Post Page CTA Button MP - CTA button for blog, dynamically add to blog posts with... | Shopify App Store",
+    "meta_description": "[No coding] Easy way to create beautiful banners with CTAs, and dynamically insert them into all Shopify blog posts based on blog tags",
+    "canonical_url": "https://apps.shopify.com/blog-cta-promo-code-insert-mp",
+    "h1_tags": [
+      "Blog Post Page CTA Button MP"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Blog Post Page CTA Button MP",
+    "app_slug": "blog-cta-promo-code-insert-mp",
+    "app_url": "https://apps.shopify.com/blog-cta-promo-code-insert-mp",
+    "developer_name": "Siggify",
+    "description": "[No coding] Easy way to create beautiful banners with CTAs, and dynamically insert them into all Shopify blog posts based on blog tags",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Blogs"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blog-cta-promo-code-insert-mp_20260830T055644Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\blog-cta-promo-code-insert-mp_20260830T055644Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Blog Post Page CTA Button MP",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "blog-cta-promo-code-insert-mp",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/blog-cta-promo-code-insert-mp",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Siggify",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "[No coding] Easy way to create beautiful banners with CTAs, and dynamically insert them into all Shopify blog posts based on blog tags",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Blogs",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

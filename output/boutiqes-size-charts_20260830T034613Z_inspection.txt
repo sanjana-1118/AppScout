@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boutiqes-size-charts_20260830T034613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boutiqes-size-charts_20260830T034613Z.html
+Requested URL    : https://apps.shopify.com/boutiqes-size-charts
+Final URL        : https://apps.shopify.com/boutiqes-size-charts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,741 bytes / 206,637 chars
+Elapsed          : 0.771s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boutiqfy Size Chart Size Guide - Help your customers find the right size with size charts. | Shopify App Store
+meta description : Stop copying and pasting size charts when dropship clothing. Easily import Aliexpress asian size to US, UK, EU for your dropshipping clothing store.
+canonical URL    : https://apps.shopify.com/boutiqes-size-charts
+<h1> tags ( 1)  : 'Boutiqfy Size Chart Size Guide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

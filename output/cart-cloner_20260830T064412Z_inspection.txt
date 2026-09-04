@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-cloner_20260830T064412Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-cloner_20260830T064412Z.html
+Requested URL    : https://apps.shopify.com/cart-cloner
+Final URL        : https://apps.shopify.com/cart-cloner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,858 bytes / 179,763 chars
+Elapsed          : 0.703s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cart Cloner - Sell more with multiple add to cart button on product... | Shopify App Store
+meta description : The installation and setup can be done quickly for the button setting.
+The button set will display below the product description which has to be pr...
+canonical URL    : https://apps.shopify.com/cart-cloner
+<h1> tags ( 1)  : 'Cart Cloner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

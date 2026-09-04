@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-guard-1_20260831T030607Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-guard-1_20260831T030607Z.html
+Requested URL    : https://apps.shopify.com/cod-guard-1
+Final URL        : https://apps.shopify.com/cod-guard-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,832 bytes / 171,742 chars
+Elapsed          : 1.008s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : COD Guard - Stop COD fraud before it ships to a fake address | Shopify App Store
+meta description : COD Guard scores every cash-on-delivery order for fraud before you fulfil it. It checks phone, email, and address details, then tags risky orders for review.
+canonical URL    : https://apps.shopify.com/cod-guard-1
+<h1> tags ( 1)  : 'COD Guard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

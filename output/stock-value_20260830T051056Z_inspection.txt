@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-value_20260830T051056Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-value_20260830T051056Z.html
+Requested URL    : https://apps.shopify.com/stock-value
+Final URL        : https://apps.shopify.com/stock-value
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,818 bytes / 187,729 chars
+Elapsed          : 0.862s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stock Value - Monitor the cost value of all your products quickly and... | Shopify App Store
+meta description : Need to track how much value you currently have held in stock? Welcome to Stock Value
+
+Stock Value has one focus, to help you report and track the ...
+canonical URL    : https://apps.shopify.com/stock-value
+<h1> tags ( 1)  : 'Stock Value'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-187-ur-product-slider_20260830T062623Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-187-ur-product-slider_20260830T062623Z.html
+Requested URL    : https://apps.shopify.com/sa-187-ur-product-slider
+Final URL        : https://apps.shopify.com/sa-187-ur-product-slider
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,134 bytes / 172,000 chars
+Elapsed          : 0.884s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR:Product Slider＆Carousel - Display products in a slider to feature collections and deals | Shopify App Store
+meta description : Add a product slider to your Shopify store. Show any collection on any page with quick view, add-to-cart, and customizable card styles.
+canonical URL    : https://apps.shopify.com/sa-187-ur-product-slider
+<h1> tags ( 1)  : 'UR:Product Slider＆Carousel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

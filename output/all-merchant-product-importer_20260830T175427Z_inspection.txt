@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\all-merchant-product-importer_20260830T175427Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\all-merchant-product-importer_20260830T175427Z.html
+Requested URL    : https://apps.shopify.com/all-merchant-product-importer
+Final URL        : https://apps.shopify.com/all-merchant-product-importer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,915 bytes / 174,816 chars
+Elapsed          : 0.540s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : All Merchant Product Importer - Import and update products in bulk from CSV and Excel... | Shopify App Store
+meta description : Import products from Excel, CSV, XML, and marketplace files into Shopify. Map fields, variants, images, stock, and pricing in seconds.
+canonical URL    : https://apps.shopify.com/all-merchant-product-importer
+<h1> tags ( 1)  : 'All Merchant Product Importer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

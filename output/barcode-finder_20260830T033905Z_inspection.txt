@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\barcode-finder_20260830T033905Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\barcode-finder_20260830T033905Z.html
+Requested URL    : https://apps.shopify.com/barcode-finder
+Final URL        : https://apps.shopify.com/barcode-finder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,576 bytes / 179,487 chars
+Elapsed          : 0.741s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Barcode Finder - Find UPC or EAN Barcodes associated with your products | Shopify App Store
+meta description : Barcode Finder uses AI to locate UPC and EAN barcodes associated with products and variants in your Shopify store. The app analyzes product titles,...
+canonical URL    : https://apps.shopify.com/barcode-finder
+<h1> tags ( 1)  : 'Barcode Finder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

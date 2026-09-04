@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-customizer-by-lantera_20260830T045533Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-customizer-by-lantera_20260830T045533Z.html
+Requested URL    : https://apps.shopify.com/product-customizer-by-lantera
+Final URL        : https://apps.shopify.com/product-customizer-by-lantera
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,734 bytes / 184,645 chars
+Elapsed          : 0.681s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lantera's Product Customizer - Real-time product customization with live previews | Shopify App Store
+meta description : Create customizable products with text, images, and live previews. Let customers personalize items and upload files in real time.
+canonical URL    : https://apps.shopify.com/product-customizer-by-lantera
+<h1> tags ( 1)  : "Lantera's Product Customizer"
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

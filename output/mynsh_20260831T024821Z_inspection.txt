@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mynsh_20260831T024821Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mynsh_20260831T024821Z.html
+Requested URL    : https://apps.shopify.com/mynsh
+Final URL        : https://apps.shopify.com/mynsh
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,532 bytes / 171,443 chars
+Elapsed          : 0.869s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mynsh  - Connect your store to Mynsh for order and inventory sync | Shopify App Store
+meta description : MYNSH simplifies eCommerce fulfillment by bringing order management, shipping, and logistics into a single platform. Merchants can manage orders, a...
+canonical URL    : https://apps.shopify.com/mynsh
+<h1> tags ( 1)  : 'Mynsh'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

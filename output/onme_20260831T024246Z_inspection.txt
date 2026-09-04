@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onme_20260831T024246Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onme_20260831T024246Z.html
+Requested URL    : https://apps.shopify.com/onme
+Final URL        : https://apps.shopify.com/onme
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,506 bytes / 173,367 chars
+Elapsed          : 0.581s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnMe ‑ AI Virtual Try‑On - AI try-on: shoppers see your clothes on their own body | Shopify App Store
+meta description : AI virtual try-on for your Shopify apparel store. Shoppers upload one photo, see the garment on themselves, and buy with confidence. Code-free, privacy-first.
+canonical URL    : https://apps.shopify.com/onme
+<h1> tags ( 1)  : 'OnMe ‑ AI Virtual Try‑On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

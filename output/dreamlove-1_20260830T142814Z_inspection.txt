@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dreamlove-1_20260830T142814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dreamlove-1_20260830T142814Z.html
+Requested URL    : https://apps.shopify.com/dreamlove-1
+Final URL        : https://apps.shopify.com/dreamlove-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,721 bytes / 201,595 chars
+Elapsed          : 0.994s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dreamlove‑Dropshipping - Fast shipping of products and order management on Dreamlove.eu | Shopify App Store
+meta description : Discover and add products to your store to sell, avoiding the burdens of inventory management and fulfillment issues. Dreamlove is an all-in-one fa...
+canonical URL    : https://apps.shopify.com/dreamlove-1
+<h1> tags ( 1)  : 'Dreamlove‑Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

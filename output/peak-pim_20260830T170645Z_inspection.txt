@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peak-pim_20260830T170645Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peak-pim_20260830T170645Z.html
+Requested URL    : https://apps.shopify.com/peak-pim
+Final URL        : https://apps.shopify.com/peak-pim
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 243,473 bytes / 243,348 chars
+Elapsed          : 0.943s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Peak PIM ‑ Catalog Manager - Manage & bulk edit products, metafields & media across stores. | Shopify App Store
+meta description : Manage your product catalog across multiple stores. Bulk edit products, metafields, metaobjects, and media from one place. Simple setup, no enterprise pricing.
+canonical URL    : https://apps.shopify.com/peak-pim
+<h1> tags ( 1)  : 'Peak PIM ‑ Catalog Manager'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

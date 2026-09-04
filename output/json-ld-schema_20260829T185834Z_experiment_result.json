@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/json-ld-schema",
+  "fetch_timestamp": "2026-08-29T18:58:34.065931+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\json-ld-schema_20260829T185834Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\json-ld-schema_20260829T185834Z.html",
+    "url": "https://apps.shopify.com/json-ld-schema",
+    "final_url": "https://apps.shopify.com/json-ld-schema",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 219702,
+    "body_text_length": 219611,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.84067,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Easy Rich Snippets for SEO - Increase your SEO traffic through Rich Snippets with JSON-LD | Shopify App Store",
+    "meta_description": "Increase your store traffic with outstanding search results. You don't need technical SEO knowledge to benefit from Easy Rich Snippets for SEO. Just install it.",
+    "canonical_url": "https://apps.shopify.com/json-ld-schema",
+    "h1_tags": [
+      "Easy Rich Snippets for SEO"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Easy Rich Snippets for SEO",
+    "app_slug": "json-ld-schema",
+    "app_url": "https://apps.shopify.com/json-ld-schema",
+    "developer_name": "Ahoi Apps",
+    "description": "Increase your store traffic with outstanding search results. You don't need technical SEO knowledge to benefit from Easy Rich Snippets for SEO. Just install it.",
+    "average_rating": 5.0,
+    "review_count": 9,
+    "category": "SEO"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\json-ld-schema_20260829T185834Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\json-ld-schema_20260829T185834Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Easy Rich Snippets for SEO",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "json-ld-schema",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/json-ld-schema",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Ahoi Apps",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Increase your store traffic with outstanding search results. You don't need technical SEO knowledge to benefit from Easy Rich Snippets for SEO. Just install it.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 9,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "SEO",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

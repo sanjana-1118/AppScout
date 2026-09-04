@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-40_20260830T064905Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-40_20260830T064905Z.html
+Requested URL    : https://apps.shopify.com/wishlist-40
+Final URL        : https://apps.shopify.com/wishlist-40
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,861 bytes / 205,730 chars
+Elapsed          : 0.692s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wonder Wishlist - Shareable and crowd-fundable wishlists | Shopify App Store
+meta description : Boost your sales with shareable and crowd-fundable wishlists. Integrate with Klaviyo, track in real-time, and enjoy seamless Shopify integration.
+canonical URL    : https://apps.shopify.com/wishlist-40
+<h1> tags ( 1)  : 'Wonder Wishlist'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

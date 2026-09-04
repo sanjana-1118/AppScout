@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-545_20260831T024557Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-545_20260831T024557Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-545
+Final URL        : https://apps.shopify.com/shopify-application-545
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,331 bytes / 157,424 chars
+Elapsed          : 0.748s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : シンプル離島配送サポート - 郵便番号から離島を自動判定し、離島用と通常の送料を出し分け。送料の請求漏れを防ぎます | Shopify App Store
+meta description : 配送先の郵便番号から離島を自動判定し、離島用と通常の送料をチェックアウトで出し分け。送料の請求漏れや配送トラブルを防ぎます。全国の離島 約1,600郵便番号を収録し、Basicプランでも利用可能です。
+canonical URL    : https://apps.shopify.com/shopify-application-545?locale=ja
+<h1> tags ( 1)  : 'シンプル離島配送サポート'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

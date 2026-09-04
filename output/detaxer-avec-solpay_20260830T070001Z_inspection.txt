@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\detaxer-avec-solpay_20260830T070001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\detaxer-avec-solpay_20260830T070001Z.html
+Requested URL    : https://apps.shopify.com/detaxer-avec-solpay
+Final URL        : https://apps.shopify.com/detaxer-avec-solpay
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,547 bytes / 191,351 chars
+Elapsed          : 0.561s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Détaxez avec SolPay - Réalisez vos détaxes en 30 secondes, sans double saisie | Shopify App Store
+meta description : Générez vos bordereaux de détaxe en 30 secondes. SolPay automatise la détaxe pour les commerçants français, sans saisie manuelle.
+canonical URL    : https://apps.shopify.com/detaxer-avec-solpay?locale=fr
+<h1> tags ( 1)  : 'Détaxez avec SolPay'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

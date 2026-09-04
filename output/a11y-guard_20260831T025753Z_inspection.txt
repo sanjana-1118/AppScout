@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\a11y-guard_20260831T025753Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\a11y-guard_20260831T025753Z.html
+Requested URL    : https://apps.shopify.com/a11y-guard
+Final URL        : https://apps.shopify.com/a11y-guard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,399 bytes / 181,286 chars
+Elapsed          : 0.682s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : a11y‑guard - Find accessibility issues and keep a record you can act... | Shopify App Store
+meta description : Scan your storefront for accessibility issues mapped to WCAG 2.1 AA and EN 301 549, with an exportable audit log. Built for the EU Accessibility Act.
+canonical URL    : https://apps.shopify.com/a11y-guard
+<h1> tags ( 1)  : 'a11y‑guard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

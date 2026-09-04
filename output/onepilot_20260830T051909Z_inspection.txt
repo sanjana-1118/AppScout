@@ -1,0 +1,33 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onepilot_20260830T051909Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onepilot_20260830T051909Z.html
+Requested URL    : https://apps.shopify.com/onepilot
+Final URL        : https://apps.shopify.com/onepilot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,424 bytes / 159,335 chars
+Elapsed          : 0.815s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Onepilot - Enhance Agent Productivity with Instant Access to Order Detail | Shopify App Store
+meta description : Onepilot makes Customer Care Outsourcing simple and flexible. We provide a 100% human, instant and 24/7 answer.
+
+
+
+With this application, we will b...
+canonical URL    : https://apps.shopify.com/onepilot
+<h1> tags ( 1)  : 'Onepilot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

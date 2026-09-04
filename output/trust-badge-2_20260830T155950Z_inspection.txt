@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badge-2_20260830T155950Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trust-badge-2_20260830T155950Z.html
+Requested URL    : https://apps.shopify.com/trust-badge-2
+Final URL        : https://apps.shopify.com/trust-badge-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,155 bytes / 176,062 chars
+Elapsed          : 1.068s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trustily: Trust Badges & Seals - Improve Store Sales by Display Trust Seals, Badges and Icons | Shopify App Store
+meta description : Trustily App equips any Shopify theme with 16 built-in SSL, payment and policy icons and lets merchants upload unlimited PNG, JPG or SVG badges to ...
+canonical URL    : https://apps.shopify.com/trust-badge-2
+<h1> tags ( 1)  : 'Trustily: Trust Badges & Seals'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

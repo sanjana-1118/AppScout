@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\teads-conversion-pixel_20260830T071139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\teads-conversion-pixel_20260830T071139Z.html
+Requested URL    : https://apps.shopify.com/teads-conversion-pixel
+Final URL        : https://apps.shopify.com/teads-conversion-pixel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,134 bytes / 180,045 chars
+Elapsed          : 0.714s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Teads Conversion Pixel - Simplified conversion tracking on your Amplify campaigns. | Shopify App Store
+meta description : Easily install your Amplify conversion pixel by simply connecting to your Amplify account
+canonical URL    : https://apps.shopify.com/teads-conversion-pixel
+<h1> tags ( 1)  : 'Teads Conversion Pixel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

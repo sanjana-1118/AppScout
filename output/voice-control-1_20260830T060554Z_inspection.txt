@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voice-control-1_20260830T060554Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voice-control-1_20260830T060554Z.html
+Requested URL    : https://apps.shopify.com/voice-control-1
+Final URL        : https://apps.shopify.com/voice-control-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,592 bytes / 163,503 chars
+Elapsed          : 0.725s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Qe: Speechify | Voice Search - Empower Your Store with Voice-Activated Shopping Experiences | Shopify App Store
+meta description : Boost store engagement with Speechify! Enable voice search, audio instructions, and custom widgets for a user-friendly, accessible shopping experience.
+canonical URL    : https://apps.shopify.com/voice-control-1
+<h1> tags ( 1)  : 'Qe: Speechify | Voice Search'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

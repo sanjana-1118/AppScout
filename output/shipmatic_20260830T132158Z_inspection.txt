@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipmatic_20260830T132158Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipmatic_20260830T132158Z.html
+Requested URL    : https://apps.shopify.com/shipmatic
+Final URL        : https://apps.shopify.com/shipmatic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 150,436 bytes / 150,341 chars
+Elapsed          : 0.481s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipmatic - Segui l'evasione dei tuoi ordini in tempo reale! | Shopify App Store
+meta description : Shipmatic fornisce una soluzione tecnologicamente avanzata a tutti quegli e-commerce che cercano una gestione operativa in outsourcing.
+Grazie ad u...
+canonical URL    : https://apps.shopify.com/shipmatic?locale=it
+<h1> tags ( 1)  : 'Shipmatic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

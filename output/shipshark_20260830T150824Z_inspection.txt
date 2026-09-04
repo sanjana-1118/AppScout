@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipshark_20260830T150824Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipshark_20260830T150824Z.html
+Requested URL    : https://apps.shopify.com/shipshark
+Final URL        : https://apps.shopify.com/shipshark
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,609 bytes / 165,500 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipshark ‑ Tech driven 3PL - European based 3PL Logistics for international webshops | Shopify App Store
+meta description : Simplify e-commerce logistics with Shipshark. Automate fulfillment, track inventory in real time, and offer fast shipping across Denmark and Europe.
+canonical URL    : https://apps.shopify.com/shipshark
+<h1> tags ( 1)  : 'Shipshark ‑ Tech driven 3PL'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sepette-fatura_20260830T070304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sepette-fatura_20260830T070304Z.html
+Requested URL    : https://apps.shopify.com/sepette-fatura
+Final URL        : https://apps.shopify.com/sepette-fatura
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,073 bytes / 179,951 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sepette Fatura - Cart-page invoice form for Turkish e-invoicing (e-Fatura) | Shopify App Store
+meta description : Müşterileriniz sepet sayfasında fatura bilgisini girmeden ödemeye geçemez. TC/Vergi No doğrulamalı, e-Fatura için hazır. Plus gerektirmez.
+canonical URL    : https://apps.shopify.com/sepette-fatura
+<h1> tags ( 1)  : 'Sepette Fatura'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

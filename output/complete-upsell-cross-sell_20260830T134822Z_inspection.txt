@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\complete-upsell-cross-sell_20260830T134822Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\complete-upsell-cross-sell_20260830T134822Z.html
+Requested URL    : https://apps.shopify.com/complete-upsell-cross-sell
+Final URL        : https://apps.shopify.com/complete-upsell-cross-sell
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,029 bytes / 212,922 chars
+Elapsed          : 0.795s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Compl∞te Upsell & Cross Sell - Automatic triggers, powerful insights, and built in A/B tests! | Shopify App Store
+meta description : Automatically trigger personalized upsells and cross sells on your product pages, cart pages, and thank you pages! Instantly increase AOV and store revenue!
+canonical URL    : https://apps.shopify.com/complete-upsell-cross-sell
+<h1> tags ( 1)  : 'Compl∞te Upsell & Cross Sell'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

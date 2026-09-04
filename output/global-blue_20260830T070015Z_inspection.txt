@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\global-blue_20260830T070015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\global-blue_20260830T070015Z.html
+Requested URL    : https://apps.shopify.com/global-blue
+Final URL        : https://apps.shopify.com/global-blue
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,172 bytes / 197,069 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Global Blue Tax Free by DT - Effortlessly handle VAT refund with Global Blue. | Shopify App Store
+meta description : Connect your online store with the Global Blue platform. To generate Tax Free tickets to those end clients who have an account with them....
+canonical URL    : https://apps.shopify.com/global-blue
+<h1> tags ( 1)  : 'Global Blue Tax Free by DT'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsurger_20260830T184531Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsurger_20260830T184531Z.html
+Requested URL    : https://apps.shopify.com/upsurger
+Final URL        : https://apps.shopify.com/upsurger
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,473 bytes / 163,384 chars
+Elapsed          : 1.038s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UpSurger - Create BOGO and bundle offers shown on product pages | Shopify App Store
+meta description : Upsurger helps merchants increase order value by creating BOGO and bundle offers that are displayed directly on product pages. Merchants can config...
+canonical URL    : https://apps.shopify.com/upsurger
+<h1> tags ( 1)  : 'UpSurger'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

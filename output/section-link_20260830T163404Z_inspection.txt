@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\section-link_20260830T163404Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\section-link_20260830T163404Z.html
+Requested URL    : https://apps.shopify.com/section-link
+Final URL        : https://apps.shopify.com/section-link
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,642 bytes / 185,545 chars
+Elapsed          : 0.796s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Section Link: Sync & Bulk Edit - Bulk update, sync and copy/paste theme sections across pages. | Shopify App Store
+meta description : Keep sections in sync across your Shopify store. Update banners, FAQs, and announcements once—changes apply to all linked pages automatically. No coding require
+canonical URL    : https://apps.shopify.com/section-link
+<h1> tags ( 1)  : 'Section Link: Sync & Bulk Edit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

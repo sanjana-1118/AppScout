@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\manage-comics-subscriptions_20260830T071200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\manage-comics-subscriptions_20260830T071200Z.html
+Requested URL    : https://apps.shopify.com/manage-comics-subscriptions
+Final URL        : https://apps.shopify.com/manage-comics-subscriptions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,559 bytes / 198,470 chars
+Elapsed          : 0.747s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Manage Comics 2 Subscriptions - Create recurring revenue and see ordering trends for comics. | Shopify App Store
+meta description : A comic subscription and product additions app for comic shops that helps them to order more accurately and confidently than ever before.
+canonical URL    : https://apps.shopify.com/manage-comics-subscriptions
+<h1> tags ( 1)  : 'Manage Comics 2 Subscriptions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

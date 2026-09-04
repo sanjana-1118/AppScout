@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shared-chargeback-block_20260830T181351Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shared-chargeback-block_20260830T181351Z.html
+Requested URL    : https://apps.shopify.com/shared-chargeback-block
+Final URL        : https://apps.shopify.com/shared-chargeback-block
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,202 bytes / 166,112 chars
+Elapsed          : 0.956s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Veritag Chargeback Sharedblock - Stop repeat fraud using a compliance-safe shared blocklist. | Shopify App Store
+meta description : Stop serial fraudsters before you ship. Veritag fires an instant alert the moment a high-risk shopper checks out, so you can pause or cancel before...
+canonical URL    : https://apps.shopify.com/shared-chargeback-block
+<h1> tags ( 1)  : 'Veritag Chargeback Sharedblock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

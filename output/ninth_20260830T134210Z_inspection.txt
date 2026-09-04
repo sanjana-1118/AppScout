@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ninth_20260830T134210Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ninth_20260830T134210Z.html
+Requested URL    : https://apps.shopify.com/ninth
+Final URL        : https://apps.shopify.com/ninth
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,512 bytes / 163,387 chars
+Elapsed          : 0.878s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mobile App Maker ‑ Jiviko - Get Android App for your store in just 2 clicks.... | Shopify App Store
+meta description : Get an android app for your store in 2 clicks.
+canonical URL    : https://apps.shopify.com/ninth
+<h1> tags ( 1)  : 'Mobile App Maker ‑ Jiviko'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

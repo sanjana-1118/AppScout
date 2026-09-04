@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vibewheel_20260830T164454Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vibewheel_20260830T164454Z.html
+Requested URL    : https://apps.shopify.com/vibewheel
+Final URL        : https://apps.shopify.com/vibewheel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,959 bytes / 182,838 chars
+Elapsed          : 0.541s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VibeWheel ‑ themed spin wheels - Stunning, themed spin wheels that match your brand's aesthetic | Shopify App Store
+meta description : Boost email signups with beautiful, themed spin wheels. Storybook, Neon & Fairy designs. Syncs natively with Shopify Customers.
+canonical URL    : https://apps.shopify.com/vibewheel
+<h1> tags ( 1)  : 'VibeWheel ‑ themed spin wheels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

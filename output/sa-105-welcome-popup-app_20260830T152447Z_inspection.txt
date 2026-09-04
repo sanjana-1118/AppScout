@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-105-welcome-popup-app_20260830T152447Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sa-105-welcome-popup-app_20260830T152447Z.html
+Requested URL    : https://apps.shopify.com/sa-105-welcome-popup-app
+Final URL        : https://apps.shopify.com/sa-105-welcome-popup-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,102 bytes / 170,992 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Welcome Popup App Banner - Instant welcome popup. Mobile-desktop images, no code. | Shopify App Store
+meta description : Add a welcome popup to your Shopify store. Customize images, links, and timing to guide shoppers from their first click.
+canonical URL    : https://apps.shopify.com/sa-105-welcome-popup-app
+<h1> tags ( 1)  : 'UR: Welcome Popup App Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

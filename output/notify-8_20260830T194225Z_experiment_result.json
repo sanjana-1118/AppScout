@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/notify-8",
+  "fetch_timestamp": "2026-08-30T19:42:25.321167+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\notify-8_20260830T194225Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\notify-8_20260830T194225Z.html",
+    "url": "https://apps.shopify.com/notify-8",
+    "final_url": "https://apps.shopify.com/notify-8",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 209071,
+    "body_text_length": 208954,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.704139,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Dibs ‑ Back In Stock Notifier - Back-in-stock alerts, stock-verified before every send. | Shopify App Store",
+    "meta_description": "Dibs adds a Notify me button to sold-out products and alerts shoppers by email or SMS when you restock — stock-verified and multi-location accurate.",
+    "canonical_url": "https://apps.shopify.com/notify-8",
+    "h1_tags": [
+      "Dibs ‑ Back In Stock Notifier"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Dibs ‑ Back In Stock Notifier",
+    "app_slug": "notify-8",
+    "app_url": "https://apps.shopify.com/notify-8",
+    "developer_name": "AskMario",
+    "description": "Dibs adds a Notify me button to sold-out products and alerts shoppers by email or SMS when you restock — stock-verified and multi-location accurate.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Stock alerts"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\notify-8_20260830T194225Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\notify-8_20260830T194225Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Dibs ‑ Back In Stock Notifier",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "notify-8",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/notify-8",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "AskMario",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Dibs adds a Notify me button to sold-out products and alerts shoppers by email or SMS when you restock — stock-verified and multi-location accurate.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Stock alerts",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

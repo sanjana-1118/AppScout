@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nova-page-builder_20260830T180938Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nova-page-builder_20260830T180938Z.html
+Requested URL    : https://apps.shopify.com/nova-page-builder
+Final URL        : https://apps.shopify.com/nova-page-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,183 bytes / 175,090 chars
+Elapsed          : 0.866s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nova AI Theme Page Builder - make shopping seamless | Shopify App Store
+meta description : Struggling to build premium, premium, modern product pages? With Nova AI Theme Page Builder, you can launch beautiful landing pages in seconds with...
+canonical URL    : https://apps.shopify.com/nova-page-builder
+<h1> tags ( 1)  : 'Nova AI Theme Page Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

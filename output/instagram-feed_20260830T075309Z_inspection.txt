@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-feed_20260830T075309Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instagram-feed_20260830T075309Z.html
+Requested URL    : https://apps.shopify.com/instagram-feed
+Final URL        : https://apps.shopify.com/instagram-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,692 bytes / 205,579 chars
+Elapsed          : 0.447s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EVM Instagram Feed ‑ Instafeed - Instagram Feed to show nice Insta images in collage and... | Shopify App Store
+meta description : Use EVM instagram gallery app to add Instagram photos on your Shopify store. Best Shopify app for a social gallery, Instagram feed and Instagram gallery.
+canonical URL    : https://apps.shopify.com/instagram-feed
+<h1> tags ( 1)  : 'EVM Instagram Feed ‑ Instafeed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

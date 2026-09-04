@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\draft-profit-margins_20260830T071351Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\draft-profit-margins_20260830T071351Z.html
+Requested URL    : https://apps.shopify.com/draft-profit-margins
+Final URL        : https://apps.shopify.com/draft-profit-margins
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,242 bytes / 203,141 chars
+Elapsed          : 0.631s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuoteMate Draft Profit Margins - Calculate profit margins and minimum product & order prices. | Shopify App Store
+meta description : With Draft Profit Margins you have your draft order profits at a glance. Play around with virtual order contents and product costs, and see how the...
+canonical URL    : https://apps.shopify.com/draft-profit-margins
+<h1> tags ( 1)  : 'QuoteMate Draft Profit Margins'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

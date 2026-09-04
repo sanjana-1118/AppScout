@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stores-2_20260830T064711Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stores-2_20260830T064711Z.html
+Requested URL    : https://apps.shopify.com/stores-2
+Final URL        : https://apps.shopify.com/stores-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,780 bytes / 213,995 chars
+Elapsed          : 0.871s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 会員プログラム・ポイント・POSレジ連携・モバイルアプリ - オンラインストアを、簡単にモバイルアプリに。ストアと実店舗の購入履歴・ポイントを1つに束ね、特別なユーザー体験を提供。 | Shopify App Store
+meta description : ネットショップ・店舗を横断したブランド独自の会員プログラムを提供します。購入金額や期間・購入店舗に応じたポイント倍率の設定や、購入金額に応じた会員ランクの設定ができます。加えて、POS上でのオーダー情報をShopifyに連携することで、顧客の購入履歴・情報をShopify上で一元管理することも...
+canonical URL    : https://apps.shopify.com/stores-2?locale=ja
+<h1> tags ( 1)  : '会員プログラム・ポイント・POSレジ連携・モバイルアプリ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

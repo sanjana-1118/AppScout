@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ds-delivery-pickup-shipping_20260829T191408Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ds-delivery-pickup-shipping_20260829T191408Z.html
+Requested URL    : https://apps.shopify.com/ds-delivery-pickup-shipping
+Final URL        : https://apps.shopify.com/ds-delivery-pickup-shipping
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 269,462 bytes / 269,342 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DS Pickup Delivery Date & Time - Delivery solutions for store pickup, local delivery, shipping. | Shopify App Store
+meta description : Block holidays, schedule local delivery or pickup, set time slots, date ranges, and use Google Maps for store pickup with advanced delivery solutions.
+canonical URL    : https://apps.shopify.com/ds-delivery-pickup-shipping
+<h1> tags ( 1)  : 'DS Pickup Delivery Date & Time'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

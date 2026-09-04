@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easydiscount-bulk-edit_20260831T030714Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easydiscount-bulk-edit_20260831T030714Z.html
+Requested URL    : https://apps.shopify.com/easydiscount-bulk-edit
+Final URL        : https://apps.shopify.com/easydiscount-bulk-edit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,904 bytes / 185,812 chars
+Elapsed          : 0.870s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasyDiscounts - Run multi discounts and influencer campaigns from one app. | Shopify App Store
+meta description : EasyDiscounts helps Shopify stores build multi discounts, run influencer codes with tracking, bulk create codes, and schedule sales. Live support 24/7.
+canonical URL    : https://apps.shopify.com/easydiscount-bulk-edit
+<h1> tags ( 1)  : 'EasyDiscounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

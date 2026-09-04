@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartsnap-bulk-order_20260830T165544Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cartsnap-bulk-order_20260830T165544Z.html
+Requested URL    : https://apps.shopify.com/cartsnap-bulk-order
+Final URL        : https://apps.shopify.com/cartsnap-bulk-order
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,284 bytes / 185,167 chars
+Elapsed          : 0.784s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CartSnap ‑ B2B Bulk Order  - Bulk ordering with CSV uploads, templates, and reorders | Shopify App Store
+meta description : CartSnap helps Shopify wholesale stores place bulk orders via CSV, saved templates, advanced search, and smart reorder suggestions.
+canonical URL    : https://apps.shopify.com/cartsnap-bulk-order
+<h1> tags ( 1)  : 'CartSnap ‑ B2B Bulk Order'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/zalify",
+  "fetch_timestamp": "2026-08-30T13:42:23.550111+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\zalify_20260830T134223Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\zalify_20260830T134223Z.html",
+    "url": "https://apps.shopify.com/zalify",
+    "final_url": "https://apps.shopify.com/zalify",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 216724,
+    "body_text_length": 216627,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.823821,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Zalify Pixels, Popups & Emails - Drive sales with abandoned carts emails, ad pixels & pop-ups | Shopify App Store",
+    "meta_description": "Try Zalify today and see how it can transform your Shopify store with its advanced data analytics and content creation tools.",
+    "canonical_url": "https://apps.shopify.com/zalify",
+    "h1_tags": [
+      "Zalify Pixels, Popups & Emails"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Zalify Pixels, Popups & Emails",
+    "app_slug": "zalify",
+    "app_url": "https://apps.shopify.com/zalify",
+    "developer_name": "Zalify",
+    "description": "Try Zalify today and see how it can transform your Shopify store with its advanced data analytics and content creation tools.",
+    "average_rating": 4.7,
+    "review_count": 68,
+    "category": "Abandoned cart"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\zalify_20260830T134223Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\zalify_20260830T134223Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Zalify Pixels, Popups & Emails",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "zalify",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/zalify",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Zalify",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Try Zalify today and see how it can transform your Shopify store with its advanced data analytics and content creation tools.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.7,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 68,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Abandoned cart",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

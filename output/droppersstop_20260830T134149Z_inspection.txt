@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\droppersstop_20260830T134149Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\droppersstop_20260830T134149Z.html
+Requested URL    : https://apps.shopify.com/droppersstop
+Final URL        : https://apps.shopify.com/droppersstop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,395 bytes / 169,306 chars
+Elapsed          : 0.959s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Droppersstop - One stop for all your  e-commerce & dropshipping needs | Shopify App Store
+meta description : Import thousands of products with just one click.
+Bulk edit existing products information like title, description, price, tags, category, images an...
+canonical URL    : https://apps.shopify.com/droppersstop
+<h1> tags ( 1)  : 'Droppersstop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

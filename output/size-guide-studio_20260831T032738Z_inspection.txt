@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-guide-studio_20260831T032738Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\size-guide-studio_20260831T032738Z.html
+Requested URL    : https://apps.shopify.com/size-guide-studio
+Final URL        : https://apps.shopify.com/size-guide-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,936 bytes / 168,841 chars
+Elapsed          : 0.825s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Size Guide Studio - Recommend the right size and cut sizing returns | Shopify App Store
+meta description : Recommend the right size and add clear size guides to your Shopify product pages. Auto-build from descriptions, bulk-apply across your catalog, and cut returns.
+canonical URL    : https://apps.shopify.com/size-guide-studio
+<h1> tags ( 1)  : 'Size Guide Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

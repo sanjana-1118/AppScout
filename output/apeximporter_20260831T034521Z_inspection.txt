@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apeximporter_20260831T034521Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apeximporter_20260831T034521Z.html
+Requested URL    : https://apps.shopify.com/apeximporter
+Final URL        : https://apps.shopify.com/apeximporter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,492 bytes / 200,385 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Loorx ‑ All in One App - Import products, add reviews & 10+ store tools to any... | Shopify App Store
+meta description : Import product reviews with photos from AliExpress, Amazon, Shein and Shopee, then add trust badges, size charts and stock countdowns to any theme, no code.
+canonical URL    : https://apps.shopify.com/apeximporter
+<h1> tags ( 1)  : 'Loorx ‑ All in One App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

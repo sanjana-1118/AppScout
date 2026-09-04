@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retail-ready-photos-by-pixc_20260830T140356Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retail-ready-photos-by-pixc_20260830T140356Z.html
+Requested URL    : https://apps.shopify.com/retail-ready-photos-by-pixc
+Final URL        : https://apps.shopify.com/retail-ready-photos-by-pixc
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,860 bytes / 213,753 chars
+Elapsed          : 0.476s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pixc: AI Image Editing - Instant AI background removal for product photos.  | Shopify App Store
+meta description : Give your store a consistent, professional look that builds trust and turns browsers into buyers. 
+
+Pixc uses AI background removal to remove the b...
+canonical URL    : https://apps.shopify.com/retail-ready-photos-by-pixc
+<h1> tags ( 1)  : 'Pixc: AI Image Editing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

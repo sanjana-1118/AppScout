@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zs-storesync_20260830T185338Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zs-storesync_20260830T185338Z.html
+Requested URL    : https://apps.shopify.com/zs-storesync
+Final URL        : https://apps.shopify.com/zs-storesync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,830 bytes / 229,722 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ZS StoreSync - Migrate your store's content to another store, no CSVs | Shopify App Store
+meta description : Move products & content store-to-store on Shopify. Direct migration, automatic duplicate skipping, and change syncing. Nothing stored on our servers. Try free.
+canonical URL    : https://apps.shopify.com/zs-storesync
+<h1> tags ( 1)  : 'ZS StoreSync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

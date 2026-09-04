@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-shipping-margin_20260830T171557Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\order-shipping-margin_20260830T171557Z.html
+Requested URL    : https://apps.shopify.com/order-shipping-margin
+Final URL        : https://apps.shopify.com/order-shipping-margin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,564 bytes / 164,475 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MarginFlow - See your real shipping margin on every order | Shopify App Store
+meta description : Track charged shipping, enter actual shipping costs, and see shipping margin per order inside Shopify admin.
+canonical URL    : https://apps.shopify.com/order-shipping-margin
+<h1> tags ( 1)  : 'MarginFlow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

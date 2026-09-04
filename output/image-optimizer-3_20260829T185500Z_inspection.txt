@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-optimizer-3_20260829T185500Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-optimizer-3_20260829T185500Z.html
+Requested URL    : https://apps.shopify.com/image-optimizer-3
+Final URL        : https://apps.shopify.com/image-optimizer-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,950 bytes / 188,857 chars
+Elapsed          : 0.909s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ALT AI Image Optimizer - Boost store speed and SEO with AI-powered image optimization  | Shopify App Store
+meta description : ALT SEO AI Alt Text tackles a common Shopify challenge: missing or poor image alt text that hurts SEO performance. Our AI technology creates descri...
+canonical URL    : https://apps.shopify.com/image-optimizer-3
+<h1> tags ( 1)  : 'ALT AI Image Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

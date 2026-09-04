@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\userway-accessibility_20260830T134216Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\userway-accessibility_20260830T134216Z.html
+Requested URL    : https://apps.shopify.com/userway-accessibility
+Final URL        : https://apps.shopify.com/userway-accessibility
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,448 bytes / 232,349 chars
+Elapsed          : 0.508s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UserWay Website Accessibility - Start your accessibility journey to ADA and WCAG compliance | Shopify App Store
+meta description : UserWay's AI-powered accessibility widget helps Shopify stores provide equal access rights, boost conversions, and protect against the risk of ADA lawsuits
+canonical URL    : https://apps.shopify.com/userway-accessibility
+<h1> tags ( 1)  : 'UserWay Website Accessibility'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

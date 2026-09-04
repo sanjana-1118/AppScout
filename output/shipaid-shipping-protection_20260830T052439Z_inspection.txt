@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipaid-shipping-protection_20260830T052439Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipaid-shipping-protection_20260830T052439Z.html
+Requested URL    : https://apps.shopify.com/shipaid-shipping-protection
+Final URL        : https://apps.shopify.com/shipaid-shipping-protection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 249,534 bytes / 249,405 chars
+Elapsed          : 0.875s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SHIPAID ‑ Shipping Guarantee - Boost Revenue & Customer Satisfaction—Order Guarantee Manager | Shopify App Store
+meta description : ShipAid boosts revenue and customer satisfaction with customizable shipping guarantee. Easily manage lost or damaged orders with a user friendly portal.
+canonical URL    : https://apps.shopify.com/shipaid-shipping-protection
+<h1> tags ( 1)  : 'SHIPAID ‑ Shipping Guarantee'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

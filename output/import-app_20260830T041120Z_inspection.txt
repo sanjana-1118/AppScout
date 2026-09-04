@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\import-app_20260830T041120Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\import-app_20260830T041120Z.html
+Requested URL    : https://apps.shopify.com/import-app
+Final URL        : https://apps.shopify.com/import-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,978 bytes / 175,889 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : B2B Bulk Quote & Catalog - Bulk order via CSV. Match by SKU or any product... | Shopify App Store
+meta description : Tired of manually adding B2B orders item by item? This app solves that.
+
+It adds a "CSV Import" button to your cart. Customers just upload a file w...
+canonical URL    : https://apps.shopify.com/import-app
+<h1> tags ( 1)  : 'B2B Bulk Quote & Catalog'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

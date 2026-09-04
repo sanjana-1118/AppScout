@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arccart-product-bundler_20260830T165756Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arccart-product-bundler_20260830T165756Z.html
+Requested URL    : https://apps.shopify.com/arccart-product-bundler
+Final URL        : https://apps.shopify.com/arccart-product-bundler
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,660 bytes / 196,541 chars
+Elapsed          : 0.921s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ArcCart ‑ Product Bundler - Multiple bundle types with tiered discounts for your store | Shopify App Store
+meta description : Create mix-and-match product bundles and curated kits with tiered volume discounts. Embedded storefront widget with real-time pricing and variant selection.
+canonical URL    : https://apps.shopify.com/arccart-product-bundler
+<h1> tags ( 1)  : 'ArcCart ‑ Product Bundler'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

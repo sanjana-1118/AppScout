@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goldie-chat_20260830T044913Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goldie-chat_20260830T044913Z.html
+Requested URL    : https://apps.shopify.com/goldie-chat
+Final URL        : https://apps.shopify.com/goldie-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,207 bytes / 166,104 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Goldie Chat - AI chat that sells and negotiates deals on any product | Shopify App Store
+meta description : Goldie turns browsing into conversations and conversations into orders. Shoppers ask questions, compare products, and haggle — like in a real store...
+canonical URL    : https://apps.shopify.com/goldie-chat
+<h1> tags ( 1)  : 'Goldie Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

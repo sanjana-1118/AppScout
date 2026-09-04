@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saport-ai-chatbot_20260830T165355Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\saport-ai-chatbot_20260830T165355Z.html
+Requested URL    : https://apps.shopify.com/saport-ai-chatbot
+Final URL        : https://apps.shopify.com/saport-ai-chatbot
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,827 bytes / 198,738 chars
+Elapsed          : 0.781s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Saport: AI Assistant & Chatbot - Automate sales, support & FAQs with an AI chatbot assistant. | Shopify App Store
+meta description : Turn visitors into buyers with Saport, your 24/7 AI sales assistant that automates FAQs, recommends products, and tracks orders in any language.
+canonical URL    : https://apps.shopify.com/saport-ai-chatbot
+<h1> tags ( 1)  : 'Saport: AI Assistant & Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

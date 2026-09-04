@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-toolbar_20260830T063309Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sticky-toolbar_20260830T063309Z.html
+Requested URL    : https://apps.shopify.com/sticky-toolbar
+Final URL        : https://apps.shopify.com/sticky-toolbar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,742 bytes / 166,653 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sticky Toolbar - Get more conversions and sales | Shopify App Store
+meta description : With this app, you can create a custom toolbar that will always stay in view no matter how much you scroll through the page. 
+
+This means your cust...
+canonical URL    : https://apps.shopify.com/sticky-toolbar
+<h1> tags ( 1)  : 'Sticky Toolbar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

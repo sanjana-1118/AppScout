@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\green-feeback-suvery-form_20260830T153735Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\green-feeback-suvery-form_20260830T153735Z.html
+Requested URL    : https://apps.shopify.com/green-feeback-suvery-form
+Final URL        : https://apps.shopify.com/green-feeback-suvery-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,874 bytes / 194,773 chars
+Elapsed          : 0.803s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Green Survey & Feedback Form - Collect reviews and feedback with smart, automated forms. | Shopify App Store
+meta description : Collect reviews, feedback, and insights with Green Feedback – a smart Shopify form builder to create surveys, automate replies, and grow customer loyalty.
+canonical URL    : https://apps.shopify.com/green-feeback-suvery-form
+<h1> tags ( 1)  : 'Green Survey & Feedback Form'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

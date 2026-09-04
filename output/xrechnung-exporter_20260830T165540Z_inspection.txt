@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xrechnung-exporter_20260830T165540Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\xrechnung-exporter_20260830T165540Z.html
+Requested URL    : https://apps.shopify.com/xrechnung-exporter
+Final URL        : https://apps.shopify.com/xrechnung-exporter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,052 bytes / 171,902 chars
+Elapsed          : 0.511s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rechnora ‑ Rechnungen & DATEV - XRechnung, ZUGFeRD & DATEV-Export – automatisch, KoSIT-geprüft | Shopify App Store
+meta description : Jede Bestellung automatisch zur Rechnung: GoBD-archiviert, als DATEV-Buchungsstapel exportiert. Unbegrenzt für 9,99 €. XRechnung und ZUGFeRD inklusive.
+canonical URL    : https://apps.shopify.com/xrechnung-exporter?locale=de
+<h1> tags ( 1)  : 'Rechnora ‑ Rechnungen & DATEV'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

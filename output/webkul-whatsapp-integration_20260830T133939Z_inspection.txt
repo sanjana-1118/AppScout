@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webkul-whatsapp-integration_20260830T133939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webkul-whatsapp-integration_20260830T133939Z.html
+Requested URL    : https://apps.shopify.com/webkul-whatsapp-integration
+Final URL        : https://apps.shopify.com/webkul-whatsapp-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,238 bytes / 176,148 chars
+Elapsed          : 1.096s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webkul Whatsapp Integration - Offer real time human support| live chat| Customer support| | Shopify App Store
+meta description : Whatsapp instant Chat Widget + Dedicated Team Instant Chat + Attractive Share Button for Product and Collection Pages +  Cart Abandoned Feature.
+
+L...
+canonical URL    : https://apps.shopify.com/webkul-whatsapp-integration
+<h1> tags ( 1)  : 'Webkul Whatsapp Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

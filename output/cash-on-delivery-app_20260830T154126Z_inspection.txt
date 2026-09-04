@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cash-on-delivery-app_20260830T154126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cash-on-delivery-app_20260830T154126Z.html
+Requested URL    : https://apps.shopify.com/cash-on-delivery-app
+Final URL        : https://apps.shopify.com/cash-on-delivery-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,961 bytes / 202,868 chars
+Elapsed          : 1.127s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cash On Delivery Finance - Seamlessly automate marking orders as paid for COD | Shopify App Store
+meta description : Upload your delivery invoices for COD businesses and automatically mark your orders as paid. Eliminate manual fulfillment of orders.
+canonical URL    : https://apps.shopify.com/cash-on-delivery-app
+<h1> tags ( 1)  : 'Cash On Delivery Finance'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

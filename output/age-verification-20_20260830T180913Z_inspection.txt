@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\age-verification-20_20260830T180913Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\age-verification-20_20260830T180913Z.html
+Requested URL    : https://apps.shopify.com/age-verification-20
+Final URL        : https://apps.shopify.com/age-verification-20
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,385 bytes / 188,272 chars
+Elapsed          : 0.609s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AGV ‑ Age Verification - Add 18+ popup to protect and verify access securely | Shopify App Store
+meta description : Easily add an 18+ age verification popup to your store. Protect restricted products, ensure compliance, and provide a simple, customizable age gate experience.
+canonical URL    : https://apps.shopify.com/age-verification-20
+<h1> tags ( 1)  : 'AGV ‑ Age Verification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

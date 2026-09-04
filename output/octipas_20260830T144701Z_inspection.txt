@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\octipas_20260830T144701Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\octipas_20260830T144701Z.html
+Requested URL    : https://apps.shopify.com/octipas
+Final URL        : https://apps.shopify.com/octipas
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,176 bytes / 171,085 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Octipas OMS Connector - Connect with octipas order management system | Shopify App Store
+meta description : Our app enhances your Shopify store's order management and customer experience. It seamlessly connects with our systems to streamline order process...
+canonical URL    : https://apps.shopify.com/octipas
+<h1> tags ( 1)  : 'Octipas OMS Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

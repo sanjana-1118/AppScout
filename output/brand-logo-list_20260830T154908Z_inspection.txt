@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brand-logo-list_20260830T154908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\brand-logo-list_20260830T154908Z.html
+Requested URL    : https://apps.shopify.com/brand-logo-list
+Final URL        : https://apps.shopify.com/brand-logo-list
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,217 bytes / 160,106 chars
+Elapsed          : 0.867s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Brand Logo List - Easily display a list of brand logos | Shopify App Store
+meta description : You can set up to eight logos in one block, and you can set up multiple blocks.
+Settings can be configured separately for PCs and smartphones.
+canonical URL    : https://apps.shopify.com/brand-logo-list
+<h1> tags ( 1)  : 'Brand Logo List'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

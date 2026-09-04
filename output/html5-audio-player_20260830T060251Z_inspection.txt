@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\html5-audio-player_20260830T060251Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\html5-audio-player_20260830T060251Z.html
+Requested URL    : https://apps.shopify.com/html5-audio-player
+Final URL        : https://apps.shopify.com/html5-audio-player
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,031 bytes / 225,934 chars
+Elapsed          : 0.529s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Audio Player by bPlugins - Engage customers with customizable audio players | Shopify App Store
+meta description : Integrating audio into your online store can significantly enhance the shopping experience. You can easily add an audio player to any page.
+canonical URL    : https://apps.shopify.com/html5-audio-player
+<h1> tags ( 1)  : 'Audio Player by bPlugins'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

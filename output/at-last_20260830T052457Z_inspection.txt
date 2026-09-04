@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\at-last_20260830T052457Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\at-last_20260830T052457Z.html
+Requested URL    : https://apps.shopify.com/at-last
+Final URL        : https://apps.shopify.com/at-last
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,010 bytes / 229,863 chars
+Elapsed          : 0.626s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : At Last — Returns & Exchanges - Free returns & exchanges — turn refunds into retained revenue | Shopify App Store
+meta description : Free returns, exchanges & shipping  across Shopify and your marketplaces. UK & global, exchanges, store credit and real-time analytics dashboard
+canonical URL    : https://apps.shopify.com/at-last
+<h1> tags ( 1)  : 'At Last — Returns & Exchanges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

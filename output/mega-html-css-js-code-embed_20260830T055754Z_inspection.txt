@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mega-html-css-js-code-embed_20260830T055754Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mega-html-css-js-code-embed_20260830T055754Z.html
+Requested URL    : https://apps.shopify.com/mega-html-css-js-code-embed
+Final URL        : https://apps.shopify.com/mega-html-css-js-code-embed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,091 bytes / 167,996 chars
+Elapsed          : 0.689s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mega HTML/CSS/JS Code Embed - Easily add custom HTML, CSS, JS, and Liquid code to... | Shopify App Store
+meta description : Easily add custom HTML, CSS, JavaScript, and Liquid code to your Shopify store. Live preview in theme editor. Enhance your store
+canonical URL    : https://apps.shopify.com/mega-html-css-js-code-embed
+<h1> tags ( 1)  : 'Mega HTML/CSS/JS Code Embed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

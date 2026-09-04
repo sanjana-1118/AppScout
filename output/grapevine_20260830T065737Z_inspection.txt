@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\grapevine_20260830T065737Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\grapevine_20260830T065737Z.html
+Requested URL    : https://apps.shopify.com/grapevine
+Final URL        : https://apps.shopify.com/grapevine
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,326 bytes / 239,235 chars
+Elapsed          : 0.675s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Grapevine Post Purchase Survey - Post purchase, NPS & attribution surveys, unlimited responses | Shopify App Store
+meta description : Run post purchase, NPS, CSAT and attribution surveys on Shopify with unlimited responses on every plan. See which marketing channels really drive sales.
+canonical URL    : https://apps.shopify.com/grapevine
+<h1> tags ( 1)  : 'Grapevine Post Purchase Survey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

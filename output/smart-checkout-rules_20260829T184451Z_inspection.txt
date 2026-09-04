@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-checkout-rules_20260829T184451Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-checkout-rules_20260829T184451Z.html
+Requested URL    : https://apps.shopify.com/smart-checkout-rules
+Final URL        : https://apps.shopify.com/smart-checkout-rules
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,931 bytes / 225,841 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SMART Checkout Rules & Upsells - Checkout upsell app, rules & post purchase upsells to grow... | Shopify App Store
+meta description : SMART Checkout Rules helps merchants control the checkout experience using flexible conditions. Validate checkout or hide, block, sort, or rename p...
+canonical URL    : https://apps.shopify.com/smart-checkout-rules
+<h1> tags ( 1)  : 'SMART Checkout Rules & Upsells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\csv-14_20260830T032545Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\csv-14_20260830T032545Z.html
+Requested URL    : https://apps.shopify.com/csv-14
+Final URL        : https://apps.shopify.com/csv-14
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,861 bytes / 187,026 chars
+Elapsed          : 0.500s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 送り状CSV一括出力 - ヤマトB2・e飛伝Ⅲ・ゆうプリR・クリックポスト・エコ配の送り状CSV出力。追跡番号の一括登録や領収書・納品書PDFも。 | Shopify App Store
+meta description : Shopifyの注文からヤマトB2クラウド・佐川e飛伝III・ゆうプリR・クリックポストの取込用CSVをワンクリックで作成。+81電話の変換や旧字体の整形、上限超過の警告、ファイル自動分割まで自動で行います。14日間無料。
+canonical URL    : https://apps.shopify.com/csv-14?locale=ja
+<h1> tags ( 1)  : '送り状CSV一括出力'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

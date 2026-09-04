@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\altprice_20260830T045119Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\altprice_20260830T045119Z.html
+Requested URL    : https://apps.shopify.com/altprice
+Final URL        : https://apps.shopify.com/altprice
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,637 bytes / 194,515 chars
+Elapsed          : 0.729s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AltPrice ‑ VIP, Tiered Pricing - VIP, member & wholesale pricing — live on your store | Shopify App Store
+meta description : Show VIP, member and wholesale customers their own price live on your storefront, not just a checkout discount. Add volume and tiered pricing by campaign.
+canonical URL    : https://apps.shopify.com/altprice
+<h1> tags ( 1)  : 'AltPrice ‑ VIP, Tiered Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

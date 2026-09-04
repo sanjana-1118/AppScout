@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avarda-extension_20260830T161721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avarda-extension_20260830T161721Z.html
+Requested URL    : https://apps.shopify.com/avarda-extension
+Final URL        : https://apps.shopify.com/avarda-extension
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,451 bytes / 164,343 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avarda Extension - Enrich Avarda settlement and invoicing data | Shopify App Store
+meta description : This optional application sends detailed order data — including product rows, order reference — to Avarda. This enables merchants to match settleme...
+canonical URL    : https://apps.shopify.com/avarda-extension
+<h1> tags ( 1)  : 'Avarda Extension'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

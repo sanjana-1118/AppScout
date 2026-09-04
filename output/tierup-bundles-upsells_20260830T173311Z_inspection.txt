@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tierup-bundles-upsells_20260830T173311Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tierup-bundles-upsells_20260830T173311Z.html
+Requested URL    : https://apps.shopify.com/tierup-bundles-upsells
+Final URL        : https://apps.shopify.com/tierup-bundles-upsells
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 220,364 bytes / 220,265 chars
+Elapsed          : 0.955s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TierUp Bundles Quantity Breaks - Boost your AOV with beautiful bundles, BOGOS and free gifts! | Shopify App Store
+meta description : Increase average order value with high-converting bundles and upsell offers. 
+Run quantity discounts, BOGO (Buy One Get One Free), volume tiers, and more!
+canonical URL    : https://apps.shopify.com/tierup-bundles-upsells
+<h1> tags ( 1)  : 'TierUp Bundles Quantity Breaks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

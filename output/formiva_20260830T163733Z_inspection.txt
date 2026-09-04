@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\formiva_20260830T163733Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\formiva_20260830T163733Z.html
+Requested URL    : https://apps.shopify.com/formiva
+Final URL        : https://apps.shopify.com/formiva
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,431 bytes / 202,340 chars
+Elapsed          : 1.004s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Formiva AI Custom Form Builder - Easy AI form builder for contact and custom forms | Shopify App Store
+meta description : Formiva is an AI Shopify form builder for creating conversational contact forms, custom forms, surveys, registration forms, wholesale forms, produc...
+canonical URL    : https://apps.shopify.com/formiva
+<h1> tags ( 1)  : 'Formiva AI Custom Form Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

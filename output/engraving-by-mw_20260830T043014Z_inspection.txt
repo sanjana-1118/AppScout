@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\engraving-by-mw_20260830T043014Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\engraving-by-mw_20260830T043014Z.html
+Requested URL    : https://apps.shopify.com/engraving-by-mw
+Final URL        : https://apps.shopify.com/engraving-by-mw
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,542 bytes / 187,443 chars
+Elapsed          : 1.134s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Miracle Product Engraving - Paid product engraving with auto charges | Shopify App Store
+meta description : Custom Product Engraving App for Shopify Stores by MW. Add custom text engraving, charge extra fees, and sell personalized products easily.
+canonical URL    : https://apps.shopify.com/engraving-by-mw
+<h1> tags ( 1)  : 'Miracle Product Engraving'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

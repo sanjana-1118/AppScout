@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ucp-feed_20260830T181702Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ucp-feed_20260830T181702Z.html
+Requested URL    : https://apps.shopify.com/ucp-feed
+Final URL        : https://apps.shopify.com/ucp-feed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,068 bytes / 161,979 chars
+Elapsed          : 0.908s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UCP Feed - Publish a UCP feed for ChatGPT, Google AI, and Perplexity. | Shopify App Store
+meta description : ChatGPT, Google AI Mode, and Perplexity answer shopping questions using structured product feeds, not your storefront HTML. UCP (Universal Commerce...
+canonical URL    : https://apps.shopify.com/ucp-feed
+<h1> tags ( 1)  : 'UCP Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

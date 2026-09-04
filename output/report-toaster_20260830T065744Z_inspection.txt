@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\report-toaster_20260830T065744Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\report-toaster_20260830T065744Z.html
+Requested URL    : https://apps.shopify.com/report-toaster
+Final URL        : https://apps.shopify.com/report-toaster
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 276,942 bytes / 276,853 chars
+Elapsed          : 0.734s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Report Toaster: Custom Reports - Custom reports & analytics for sales, inventory, orders & more | Shopify App Store
+meta description : Powerful reporting and analytics app available for Shopify merchants. Use real-time data from your store to create, schedule and export custom reports.
+canonical URL    : https://apps.shopify.com/report-toaster
+<h1> tags ( 1)  : 'Report Toaster: Custom Reports'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

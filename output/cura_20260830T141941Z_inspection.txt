@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cura_20260830T141941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cura_20260830T141941Z.html
+Requested URL    : https://apps.shopify.com/cura
+Final URL        : https://apps.shopify.com/cura
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,282 bytes / 151,193 chars
+Elapsed          : 0.477s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Create With Cura - Create and Sell Food and Beverage Products. We Handle The... | Shopify App Store
+meta description : Build your own hot sauce, snack, or beverage without the hassle of finding formulators, copackers, food scientists, and fulfillment centers.
+canonical URL    : https://apps.shopify.com/cura
+<h1> tags ( 1)  : 'Create With Cura'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zonvi-cart-progress-bar_20260830T155053Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zonvi-cart-progress-bar_20260830T155053Z.html
+Requested URL    : https://apps.shopify.com/zonvi-cart-progress-bar
+Final URL        : https://apps.shopify.com/zonvi-cart-progress-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,516 bytes / 208,427 chars
+Elapsed          : 0.998s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Zonvi: Cart Progress Bar - Increase AOV with cart progress bar: discounts & free shipping | Shopify App Store
+meta description : Increase average order value with engaging cart progress bar! Set up multiple automatic discounts and tiered discount goals. Create combined fixed ...
+canonical URL    : https://apps.shopify.com/zonvi-cart-progress-bar
+<h1> tags ( 1)  : 'Zonvi: Cart Progress Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

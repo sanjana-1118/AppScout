@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crstl-b2b-commerce-network_20260830T050818Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crstl-b2b-commerce-network_20260830T050818Z.html
+Requested URL    : https://apps.shopify.com/crstl-b2b-commerce-network
+Final URL        : https://apps.shopify.com/crstl-b2b-commerce-network
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,610 bytes / 200,500 chars
+Elapsed          : 0.634s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Crstl: No‑code EDI for Brands - No-code EDI platform for Dropship or Wholesale | Shopify App Store
+meta description : Seamlessly transact with your retail trading partners in full compliance with all of their EDI requirements.
+canonical URL    : https://apps.shopify.com/crstl-b2b-commerce-network
+<h1> tags ( 1)  : 'Crstl: No‑code EDI for Brands'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

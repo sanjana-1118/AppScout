@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deliveri_20260830T032955Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deliveri_20260830T032955Z.html
+Requested URL    : https://apps.shopify.com/deliveri
+Final URL        : https://apps.shopify.com/deliveri
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,205 bytes / 190,092 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Deliveri ‑ Modern Shipping - Enterprise shipping capabilities, for early stage brands | Shopify App Store
+meta description : Automate Shopify shipping with 90% savings on USPS, UPS, DHL & FedEx. Enterprise tools for early stage brands - no technical expertise required.
+canonical URL    : https://apps.shopify.com/deliveri
+<h1> tags ( 1)  : 'Deliveri ‑ Modern Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

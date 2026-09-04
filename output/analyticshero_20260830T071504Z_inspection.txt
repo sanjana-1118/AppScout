@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\analyticshero_20260830T071504Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\analyticshero_20260830T071504Z.html
+Requested URL    : https://apps.shopify.com/analyticshero
+Final URL        : https://apps.shopify.com/analyticshero
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,567 bytes / 197,465 chars
+Elapsed          : 1.300s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blog Analytics and Performance - Blog analytics to track performance and improve your SEO | Shopify App Store
+meta description : Analyze the performance of your blog through a dashboard of key performance metrics & data. Easy plug & play setup done in 3 min. No Google Analytics required.
+canonical URL    : https://apps.shopify.com/analyticshero
+<h1> tags ( 1)  : 'Blog Analytics and Performance'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

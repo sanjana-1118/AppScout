@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helpcenter_20260830T065720Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\helpcenter_20260830T065720Z.html
+Requested URL    : https://apps.shopify.com/helpcenter
+Final URL        : https://apps.shopify.com/helpcenter
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 252,560 bytes / 252,461 chars
+Elapsed          : 0.703s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SB: Helpdesk, Live Chat & FAQs - Improve customer service with Helpcenter ticketing & AI FAQs | Shopify App Store
+meta description : Deliver fast & accurate customer support service with FAQ page builder, all-in-one help desk ticketing, live chat, and product tabs for Shopify stores.
+canonical URL    : https://apps.shopify.com/helpcenter
+<h1> tags ( 1)  : 'SB: Helpdesk, Live Chat & FAQs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

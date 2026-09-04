@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imagineart_20260831T030124Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\imagineart_20260831T030124Z.html
+Requested URL    : https://apps.shopify.com/imagineart
+Final URL        : https://apps.shopify.com/imagineart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,773 bytes / 167,682 chars
+Elapsed          : 0.857s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ImagineArt - AI product photos, videos, and edits for your catalog. | Shopify App Store
+meta description : Generate AI product images, videos, and edits in your Shopify admin, then publish them to your products. Free to install with your own ImagineArt account.
+canonical URL    : https://apps.shopify.com/imagineart
+<h1> tags ( 1)  : 'ImagineArt'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

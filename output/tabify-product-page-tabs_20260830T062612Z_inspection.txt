@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tabify-product-page-tabs_20260830T062612Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tabify-product-page-tabs_20260830T062612Z.html
+Requested URL    : https://apps.shopify.com/tabify-product-page-tabs
+Final URL        : https://apps.shopify.com/tabify-product-page-tabs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,612 bytes / 165,523 chars
+Elapsed          : 0.548s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tabify: Product Page Tabs - Organize product details into clean tabs to answer questions | Shopify App Store
+meta description : Stop losing customers to long, confusing product descriptions. Tabify helps you present essential information in a clean, professional tabbed layou...
+canonical URL    : https://apps.shopify.com/tabify-product-page-tabs
+<h1> tags ( 1)  : 'Tabify: Product Page Tabs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

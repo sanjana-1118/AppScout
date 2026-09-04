@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pointdrop-loyalty-rewards_20260830T181417Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pointdrop-loyalty-rewards_20260830T181417Z.html
+Requested URL    : https://apps.shopify.com/pointdrop-loyalty-rewards
+Final URL        : https://apps.shopify.com/pointdrop-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,215 bytes / 185,106 chars
+Elapsed          : 0.873s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PointDrop — Loyalty & Rewards - Turn one-time buyers into loyal regulars with points. | Shopify App Store
+meta description : Reward customers with points for every purchase and turn one-time buyers into loyal regulars. Rewards redeem at checkout to boost retention and repeat sales.
+canonical URL    : https://apps.shopify.com/pointdrop-loyalty-rewards
+<h1> tags ( 1)  : 'PointDrop — Loyalty & Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

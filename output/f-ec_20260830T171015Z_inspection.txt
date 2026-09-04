@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\f-ec_20260830T171015Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\f-ec_20260830T171015Z.html
+Requested URL    : https://apps.shopify.com/f-ec
+Final URL        : https://apps.shopify.com/f-ec
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,936 bytes / 164,793 chars
+Elapsed          : 0.749s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fラベル｜EC用の食品表示 - 日本の食品EC向け。食品表示を正しく管理・表示し、コピペ運用を減らす | Shopify App Store
+meta description : 食品ECでは、原材料やアレルゲン、栄養成分などを正しく表示したい一方で、商品説明欄へのコピペやHTML直書きで運用しているケースが少なくありません。これでは更新漏れや表記ゆれが起きやすく、運用負荷も高くなります。
+
+Fラベルは、日本の食品EC向けに、食品表示をShopify上で管理・表示しやす...
+canonical URL    : https://apps.shopify.com/f-ec?locale=ja
+<h1> tags ( 1)  : 'Fラベル｜EC用の食品表示'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

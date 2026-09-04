@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yfs-logistics_20260830T032133Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yfs-logistics_20260830T032133Z.html
+Requested URL    : https://apps.shopify.com/yfs-logistics
+Final URL        : https://apps.shopify.com/yfs-logistics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,136 bytes / 178,041 chars
+Elapsed          : 0.662s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : YFS Delivery - Reliable and Quick deliveries across Egypt for your store | Shopify App Store
+meta description : Fast last-mile delivery services for Shopify stores across Egypt. Deliver orders with reliable drivers, same-day delivery, and real-time tracking with YFS.
+canonical URL    : https://apps.shopify.com/yfs-logistics
+<h1> tags ( 1)  : 'YFS Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

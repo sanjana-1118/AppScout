@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bumper_20260830T142321Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bumper_20260830T142321Z.html
+Requested URL    : https://apps.shopify.com/bumper
+Final URL        : https://apps.shopify.com/bumper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,866 bytes / 167,773 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : bumper - Leverage your pre-purchase sales activity with bump sequences | Shopify App Store
+meta description : Bumper offers a seamless sequence of product bumps, akin to an upsell sales funnel, streamlining the experience for customers. Create bump records ...
+canonical URL    : https://apps.shopify.com/bumper
+<h1> tags ( 1)  : 'bumper'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

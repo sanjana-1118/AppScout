@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\origin-cert_20260830T032945Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\origin-cert_20260830T032945Z.html
+Requested URL    : https://apps.shopify.com/origin-cert
+Final URL        : https://apps.shopify.com/origin-cert
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,812 bytes / 168,723 chars
+Elapsed          : 0.756s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OriginCert: USMCA & CUSMA - Generate USMCA & CUSMA certificates of origin per order | Shopify App Store
+meta description : Generate compliant USMCA and CUSMA certificates of origin from your Shopify orders in one click. Avoid tariffs at the border and keep every certificate on file.
+canonical URL    : https://apps.shopify.com/origin-cert
+<h1> tags ( 1)  : 'OriginCert: USMCA & CUSMA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

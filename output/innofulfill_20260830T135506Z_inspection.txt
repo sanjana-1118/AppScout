@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\innofulfill_20260830T135506Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\innofulfill_20260830T135506Z.html
+Requested URL    : https://apps.shopify.com/innofulfill
+Final URL        : https://apps.shopify.com/innofulfill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,397 bytes / 193,308 chars
+Elapsed          : 0.811s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Innofulfill - Streamlined delivery for e-commerce & hyperlocal | Shopify App Store
+meta description : At Innofulfill, we offer a tailor-made 3PL platform for Hyperlocal and e-commerce companies. Seamlessly connect your store using our user-friendly ...
+canonical URL    : https://apps.shopify.com/innofulfill
+<h1> tags ( 1)  : 'Innofulfill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nope_20260830T171455Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nope_20260830T171455Z.html
+Requested URL    : https://apps.shopify.com/nope
+Final URL        : https://apps.shopify.com/nope
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,811 bytes / 171,722 chars
+Elapsed          : 0.850s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NOPE - AI spam filter that analyzes content, not just blocks bots | Shopify App Store
+meta description : Stop contact form spam that CAPTCHAs can't catch. NOPE uses AI to analyze submissions against your store context, filtering spam before it reaches your inbox.
+canonical URL    : https://apps.shopify.com/nope
+<h1> tags ( 1)  : 'NOPE'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\europarcel_20260829T192339Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\europarcel_20260829T192339Z.html
+Requested URL    : https://apps.shopify.com/europarcel
+Final URL        : https://apps.shopify.com/europarcel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,643 bytes / 171,554 chars
+Elapsed          : 0.906s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Europarcel - Ship smarter with AI-powered courier marketplace | Shopify App Store
+meta description : AI-driven courier marketplace for Shopify merchants. Manage all shipments in one place, save time, and deliver with confidence.
+canonical URL    : https://apps.shopify.com/europarcel
+<h1> tags ( 1)  : 'Europarcel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

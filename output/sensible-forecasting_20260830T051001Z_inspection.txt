@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensible-forecasting_20260830T051001Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sensible-forecasting_20260830T051001Z.html
+Requested URL    : https://apps.shopify.com/sensible-forecasting
+Final URL        : https://apps.shopify.com/sensible-forecasting
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,753 bytes / 221,656 chars
+Elapsed          : 0.653s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sensible Inventory Forecasting - Plan purchase orders, forecast inventory and prevent stockout. | Shopify App Store
+meta description : Inventory forecasting tool to avoid products running out of stock, know when to reorder products and helps you decide on purchase quantity based on sales.
+canonical URL    : https://apps.shopify.com/sensible-forecasting
+<h1> tags ( 1)  : 'Sensible Inventory Forecasting'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

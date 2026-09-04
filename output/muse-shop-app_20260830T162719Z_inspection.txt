@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\muse-shop-app_20260830T162719Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\muse-shop-app_20260830T162719Z.html
+Requested URL    : https://apps.shopify.com/muse-shop-app
+Final URL        : https://apps.shopify.com/muse-shop-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,556 bytes / 164,467 chars
+Elapsed          : 1.026s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Skulens Connect - One-click integration to Skulens for store analytics. | Shopify App Store
+meta description : Skulens Connect is an analytics app for Shopify that helps merchants manage stock, reduce stockouts, and optimize inventory.
+canonical URL    : https://apps.shopify.com/muse-shop-app
+<h1> tags ( 1)  : 'Skulens Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

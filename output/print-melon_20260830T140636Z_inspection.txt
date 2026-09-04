@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\print-melon_20260830T140636Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\print-melon_20260830T140636Z.html
+Requested URL    : https://apps.shopify.com/print-melon
+Final URL        : https://apps.shopify.com/print-melon
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,233 bytes / 203,126 chars
+Elapsed          : 0.905s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Print Melon ‑ Print on Demand - Easy product customization and seamless order fulfillment | Shopify App Store
+meta description : Seamlessly integrate Print Melon with Shopify to sell DTF, DTG & UV-printed products. Fast fulfillment, quality printing & wide product variety.
+canonical URL    : https://apps.shopify.com/print-melon
+<h1> tags ( 1)  : 'Print Melon ‑ Print on Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

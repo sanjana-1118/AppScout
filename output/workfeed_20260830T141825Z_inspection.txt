@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\workfeed_20260830T141825Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\workfeed_20260830T141825Z.html
+Requested URL    : https://apps.shopify.com/workfeed
+Final URL        : https://apps.shopify.com/workfeed
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,629 bytes / 180,534 chars
+Elapsed          : 0.696s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Workfeed - Schedule, manage, and engage your staff with one app | Shopify App Store
+meta description : Workfeed simplifies employee scheduling, time tracking, communication, and HR – allowing you to spend less time on admin and more time growing your...
+canonical URL    : https://apps.shopify.com/workfeed
+<h1> tags ( 1)  : 'Workfeed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

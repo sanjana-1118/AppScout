@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipaware_20260830T134943Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipaware_20260830T134943Z.html
+Requested URL    : https://apps.shopify.com/shipaware
+Final URL        : https://apps.shopify.com/shipaware
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,806 bytes / 189,713 chars
+Elapsed          : 0.984s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipAware - Know about shipping issues before customers do | Shopify App Store
+meta description : Receive alerts for late shipments. Know about shipping issues before customers do. Automate customer emails based on shipment status.
+canonical URL    : https://apps.shopify.com/shipaware
+<h1> tags ( 1)  : 'ShipAware'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

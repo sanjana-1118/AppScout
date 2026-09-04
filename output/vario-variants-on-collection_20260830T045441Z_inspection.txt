@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vario-variants-on-collection_20260830T045441Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vario-variants-on-collection_20260830T045441Z.html
+Requested URL    : https://apps.shopify.com/vario-variants-on-collection
+Final URL        : https://apps.shopify.com/vario-variants-on-collection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,587 bytes / 165,490 chars
+Elapsed          : 0.891s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vario: Variants on Collections - Show variants on product lists and cards for quick Add... | Shopify App Store
+meta description : Let customers buy products directly from the homepage, collection, search, and listing pages. Add to Cart on homepage, collection, search, and listing pages.
+canonical URL    : https://apps.shopify.com/vario-variants-on-collection
+<h1> tags ( 1)  : 'Vario: Variants on Collections'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

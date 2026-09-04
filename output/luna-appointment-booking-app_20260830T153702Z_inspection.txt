@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luna-appointment-booking-app_20260830T153702Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luna-appointment-booking-app_20260830T153702Z.html
+Requested URL    : https://apps.shopify.com/luna-appointment-booking-app
+Final URL        : https://apps.shopify.com/luna-appointment-booking-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,042 bytes / 220,949 chars
+Elapsed          : 0.944s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avada Appointments Booking - Appointment booking app to schedule services & events calendar | Shopify App Store
+meta description : LUNA Appointment Booking is a powerful and easy-to-use app that lets you add a customizable booking calendar directly to your Shopify store. LUNA h...
+canonical URL    : https://apps.shopify.com/luna-appointment-booking-app
+<h1> tags ( 1)  : 'Avada Appointments Booking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

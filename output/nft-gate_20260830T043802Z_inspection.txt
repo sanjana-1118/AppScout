@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nft-gate_20260830T043802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nft-gate_20260830T043802Z.html
+Requested URL    : https://apps.shopify.com/nft-gate
+Final URL        : https://apps.shopify.com/nft-gate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 219,528 bytes / 219,431 chars
+Elapsed          : 0.678s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : NFT Gate: Tokengated Discounts - Reward NFT holders with exclusive discounts, enhancing loyalty | Shopify App Store
+meta description : Offer exclusive discounts for NFT holders with NFT Gate. Seamlessly integrate tokengated discounts into your Shopify store and boost customer loyalty and sales.
+canonical URL    : https://apps.shopify.com/nft-gate
+<h1> tags ( 1)  : 'NFT Gate: Tokengated Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

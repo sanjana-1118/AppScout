@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-verification_20260830T135833Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-verification_20260830T135833Z.html
+Requested URL    : https://apps.shopify.com/customer-account-verification
+Final URL        : https://apps.shopify.com/customer-account-verification
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,161 bytes / 192,044 chars
+Elapsed          : 0.881s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Store Security ‑ Nojiro - Block spam, protect content,and restrict countries with Nojiro | Shopify App Store
+meta description : Protect your Shopify store from spam, fraud, and bots. Use Nojiro’s email verification, country blocker, and content protection to keep your store safe.
+canonical URL    : https://apps.shopify.com/customer-account-verification
+<h1> tags ( 1)  : 'Store Security ‑ Nojiro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

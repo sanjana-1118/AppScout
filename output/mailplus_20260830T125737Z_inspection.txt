@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mailplus_20260830T125737Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mailplus_20260830T125737Z.html
+Requested URL    : https://apps.shopify.com/mailplus
+Final URL        : https://apps.shopify.com/mailplus
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,080 bytes / 175,987 chars
+Elapsed          : 0.588s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipMate powered by MailPlus - Fast, reliable, Australia-wide shipping for less. | Shopify App Store
+meta description : ShipMate streamlines shipping for Aussie businesses. This platform offers competitive rates and efficient order management tools. With multi-carrie...
+canonical URL    : https://apps.shopify.com/mailplus
+<h1> tags ( 1)  : 'ShipMate powered by MailPlus'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

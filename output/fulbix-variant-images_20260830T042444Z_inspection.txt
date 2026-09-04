@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulbix-variant-images_20260830T042444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulbix-variant-images_20260830T042444Z.html
+Requested URL    : https://apps.shopify.com/fulbix-variant-images
+Final URL        : https://apps.shopify.com/fulbix-variant-images
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,815 bytes / 200,722 chars
+Elapsed          : 0.529s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FB Variant Image, Color Swatch - Organize multiple variant image gallery & Combined listings | Shopify App Store
+meta description : Create cleaner, conversion-focused product galleries by showing only the images related to the selected variant. Organize multiple images per varia...
+canonical URL    : https://apps.shopify.com/fulbix-variant-images
+<h1> tags ( 1)  : 'FB Variant Image, Color Swatch'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

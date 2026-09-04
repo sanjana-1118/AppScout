@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pickupbird-pickup-delivery_20260829T191428Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pickupbird-pickup-delivery_20260829T191428Z.html
+Requested URL    : https://apps.shopify.com/pickupbird-pickup-delivery
+Final URL        : https://apps.shopify.com/pickupbird-pickup-delivery
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 265,387 bytes / 265,174 chars
+Elapsed          : 0.553s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PickupBird by Digiloop - Add multiple pickup points to store & Print shipping labels | Shopify App Store
+meta description : Unlock a multi-carrier pickup point network with international delivery & built-in label printing.
+canonical URL    : https://apps.shopify.com/pickupbird-pickup-delivery
+<h1> tags ( 1)  : 'PickupBird by Digiloop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

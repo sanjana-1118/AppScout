@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipwave_20260830T032651Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipwave_20260830T032651Z.html
+Requested URL    : https://apps.shopify.com/shipwave
+Final URL        : https://apps.shopify.com/shipwave
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,681 bytes / 198,574 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shipwave - Free multi-carrier shipping. Add only the modules you need | Shopify App Store
+meta description : Discounted USPS, UPS, FedEx & DHL labels, branded returns portal, Amazon/eBay/Walmart/Etsy/TikTok sync, LTL freight, and automatic carrier claim recovery.
+canonical URL    : https://apps.shopify.com/shipwave
+<h1> tags ( 1)  : 'Shipwave'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

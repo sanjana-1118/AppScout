@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\partykit-uploads_20260830T043343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\partykit-uploads_20260830T043343Z.html
+Requested URL    : https://apps.shopify.com/partykit-uploads
+Final URL        : https://apps.shopify.com/partykit-uploads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,779 bytes / 200,662 chars
+Elapsed          : 0.601s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : File Upload by PartyKit - Customer artwork uploads, AI moderation, upload fees | Shopify App Store
+meta description : File upload for any Shopify product page. Customers add artwork to their order with AI moderation, print-quality checks, per-file fees and BYO storage.
+canonical URL    : https://apps.shopify.com/partykit-uploads
+<h1> tags ( 1)  : 'File Upload by PartyKit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

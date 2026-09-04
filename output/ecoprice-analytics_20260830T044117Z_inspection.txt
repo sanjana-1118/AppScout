@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecoprice-analytics_20260830T044117Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecoprice-analytics_20260830T044117Z.html
+Requested URL    : https://apps.shopify.com/ecoprice-analytics
+Final URL        : https://apps.shopify.com/ecoprice-analytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,443 bytes / 227,338 chars
+Elapsed          : 0.766s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Dynamic Pricing by Intelis  - Match & Monitor Competitor's Prices & Automate Pricing with AI | Shopify App Store
+meta description : Optimize prices and outperform competitors on Google Shopping with AI dynamic pricing.
+Monitor and track competitors' prices to maximize your profits and sales.
+canonical URL    : https://apps.shopify.com/ecoprice-analytics
+<h1> tags ( 1)  : 'AI Dynamic Pricing by Intelis'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

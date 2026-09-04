@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magefan-persistent-cart_20260830T164807Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\magefan-persistent-cart_20260830T164807Z.html
+Requested URL    : https://apps.shopify.com/magefan-persistent-cart
+Final URL        : https://apps.shopify.com/magefan-persistent-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,272 bytes / 166,182 chars
+Elapsed          : 0.600s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Persistent Cart Recovery - Automatically sync carts across devices and browsers | Shopify App Store
+meta description : Sync cart in your store across devices and browsers to reduce cart abandonment, improve retention and boost sales with Magefan Persistent Cart Recovery app!
+canonical URL    : https://apps.shopify.com/magefan-persistent-cart
+<h1> tags ( 1)  : 'Persistent Cart Recovery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

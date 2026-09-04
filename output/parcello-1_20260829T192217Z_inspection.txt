@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parcello-1_20260829T192217Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\parcello-1_20260829T192217Z.html
+Requested URL    : https://apps.shopify.com/parcello-1
+Final URL        : https://apps.shopify.com/parcello-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,352 bytes / 213,259 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Parcello - Multi-package shipping, split origins, live checkout rates | Shopify App Store
+meta description : Create multi-package shipping labels from Shopify orders. Show live carrier rates at checkout, parcel and freight. Configure boxes and carriers per product.
+canonical URL    : https://apps.shopify.com/parcello-1
+<h1> tags ( 1)  : 'Parcello'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

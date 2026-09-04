@@ -1,0 +1,31 @@
+{
+  "report_generated_at": "2026-08-29T18:19:05.411810+00:00",
+  "final_frontier_file": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\frontier\\final_verified_master_frontier_20260829T181905Z.json",
+  "total_canonical_unique_apps": 25633,
+  "discovery_breakdown": {
+    "category_crawl_unique": 11203,
+    "official_sitemap_unique": 25608,
+    "both_sources_verified": 11178,
+    "sitemap_only_unlisted_niche": 14430,
+    "category_crawl_only": 25
+  },
+  "pagination_verification": {
+    "categories_verified": 45,
+    "pages_verified": 572,
+    "unresolved_pagination_gaps": 0,
+    "stopped_reasons": {
+      "no_next_page": 45
+    }
+  },
+  "coverage_confidence": {
+    "level": "HIGH",
+    "justification": "100% of all 45 public category taxonomies were dynamically traversed across 572 pages with zero pagination gaps, and cross-verified with the complete official Shopify sitemap index (sitemap_apps_en.xml) capturing all active published canonical listings."
+  },
+  "the_22k_question_reconciliation": {
+    "canonical_app_detail_pages": 25633,
+    "sitemap_english_app_urls": 25608,
+    "category_paginated_pages": 572,
+    "multilingual_localized_urls_estimate": "> 500,000 across 24 language prefixes (e.g. /de/, /fr/, /ja/)",
+    "explanation": "Claims of 22k+ pages correspond to the total indexed app detail URLs in the official Shopify sitemap (which contains ~25,608 unique application endpoints). The 45-category crawl captures the 11,203 categorized and curated apps, while the sitemap index provides the exhaustive universe of 25,608 apps."
+  }
+}

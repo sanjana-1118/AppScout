@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nemprint-print-on-demand_20260830T140720Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nemprint-print-on-demand_20260830T140720Z.html
+Requested URL    : https://apps.shopify.com/nemprint-print-on-demand
+Final URL        : https://apps.shopify.com/nemprint-print-on-demand
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 154,694 bytes / 154,560 chars
+Elapsed          : 1.090s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nemprint: Print‑on‑demand - Danish print-on-demand and dropshipping service | Shopify App Store
+meta description : The Print-on-demand app where your products are shipped locally from Denmark and sent directly to your customers. Sell clothing, posters, mugs and much more.
+canonical URL    : https://apps.shopify.com/nemprint-print-on-demand?locale=da
+<h1> tags ( 1)  : 'Nemprint: Print‑on‑demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

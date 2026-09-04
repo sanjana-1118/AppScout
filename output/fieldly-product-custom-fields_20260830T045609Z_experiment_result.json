@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/fieldly-product-custom-fields",
+  "fetch_timestamp": "2026-08-30T04:56:09.224158+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fieldly-product-custom-fields_20260830T045609Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fieldly-product-custom-fields_20260830T045609Z.html",
+    "url": "https://apps.shopify.com/fieldly-product-custom-fields",
+    "final_url": "https://apps.shopify.com/fieldly-product-custom-fields",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 199275,
+    "body_text_length": 199176,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.192981,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Fieldly: Product Custom Fields - Enhance products with custom product fields for personalize | Shopify App Store",
+    "meta_description": "Fieldly adds custom fields like text, dropdowns, checkboxes, and date pickers to Shopify product pages. Collect personalized details and special requests.",
+    "canonical_url": "https://apps.shopify.com/fieldly-product-custom-fields",
+    "h1_tags": [
+      "Fieldly: Product Custom Fields"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Fieldly: Product Custom Fields",
+    "app_slug": "fieldly-product-custom-fields",
+    "app_url": "https://apps.shopify.com/fieldly-product-custom-fields",
+    "developer_name": "Velmatrix",
+    "description": "Fieldly adds custom fields like text, dropdowns, checkboxes, and date pickers to Shopify product pages. Collect personalized details and special requests.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Product variants"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fieldly-product-custom-fields_20260830T045609Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\fieldly-product-custom-fields_20260830T045609Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Fieldly: Product Custom Fields",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "fieldly-product-custom-fields",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/fieldly-product-custom-fields",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Velmatrix",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Fieldly adds custom fields like text, dropdowns, checkboxes, and date pickers to Shopify product pages. Collect personalized details and special requests.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Product variants",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

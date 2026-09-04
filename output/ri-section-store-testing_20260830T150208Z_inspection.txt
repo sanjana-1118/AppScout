@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ri-section-store-testing_20260830T150208Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ri-section-store-testing_20260830T150208Z.html
+Requested URL    : https://apps.shopify.com/ri-section-store-testing
+Final URL        : https://apps.shopify.com/ri-section-store-testing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,884 bytes / 189,795 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RI Section Store - Create dynamic, customizable sections for your storefront. | Shopify App Store
+meta description : Discover premium pre-built Shopify section store templates. Use Shopify section presets to easily enhance your store with stylish, ready-made layouts.
+canonical URL    : https://apps.shopify.com/ri-section-store-testing
+<h1> tags ( 1)  : 'RI Section Store'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

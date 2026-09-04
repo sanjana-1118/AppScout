@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/findable-store-content",
+  "fetch_timestamp": "2026-08-30T17:13:59.470414+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\findable-store-content_20260830T171359Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\findable-store-content_20260830T171359Z.html",
+    "url": "https://apps.shopify.com/findable-store-content",
+    "final_url": "https://apps.shopify.com/findable-store-content",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 182063,
+    "body_text_length": 181970,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.905429,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Findable: Store Content - Be visible where your competitors and customers are. | Shopify App Store",
+    "meta_description": "While you're reading this, someone searched for exactly what you sell. They didn't find you. They found a store that publishes content every week -...",
+    "canonical_url": "https://apps.shopify.com/findable-store-content",
+    "h1_tags": [
+      "Findable: Store Content"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Findable: Store Content",
+    "app_slug": "findable-store-content",
+    "app_url": "https://apps.shopify.com/findable-store-content",
+    "developer_name": "Findable",
+    "description": "While you're reading this, someone searched for exactly what you sell. They didn't find you. They found a store that publishes content every week -...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Blogs"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\findable-store-content_20260830T171359Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\findable-store-content_20260830T171359Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Findable: Store Content",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "findable-store-content",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/findable-store-content",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Findable",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "While you're reading this, someone searched for exactly what you sell. They didn't find you. They found a store that publishes content every week -...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Blogs",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

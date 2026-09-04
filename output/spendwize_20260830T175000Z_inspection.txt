@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spendwize_20260830T175000Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spendwize_20260830T175000Z.html
+Requested URL    : https://apps.shopify.com/spendwize
+Final URL        : https://apps.shopify.com/spendwize
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,356 bytes / 160,267 chars
+Elapsed          : 0.553s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SpendWize - Detect refunded & cancelled orders to prevent commission loss | Shopify App Store
+meta description : Protect your affiliate commission with SpendWize. Validate sales, detect refunds and cancellations, and stop overpaying across all networks.
+canonical URL    : https://apps.shopify.com/spendwize
+<h1> tags ( 1)  : 'SpendWize'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

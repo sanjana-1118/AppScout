@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\left-side-menu_20260830T063111Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\left-side-menu_20260830T063111Z.html
+Requested URL    : https://apps.shopify.com/left-side-menu
+Final URL        : https://apps.shopify.com/left-side-menu
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,618 bytes / 170,519 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Left side menu - Show a left-side menu with all your store collections. | Shopify App Store
+meta description : This app makes it easy for customers to browse collections with a vertical menu placed on the left side of your store. Unlike traditional dropdowns...
+canonical URL    : https://apps.shopify.com/left-side-menu
+<h1> tags ( 1)  : 'Left side menu'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

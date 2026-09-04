@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\correos-ecommerce_20260829T192008Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\correos-ecommerce_20260829T192008Z.html
+Requested URL    : https://apps.shopify.com/correos-ecommerce
+Final URL        : https://apps.shopify.com/correos-ecommerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,804 bytes / 213,694 chars
+Elapsed          : 0.777s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Correos Ecommerce - Ship with Correos and Correos Express | Shopify App Store
+meta description : This app helps merchants use Correos and Correos Express shipping methods by using their previously signed contract with Correos.
+
+It allows genera...
+canonical URL    : https://apps.shopify.com/correos-ecommerce
+<h1> tags ( 1)  : 'Correos Ecommerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

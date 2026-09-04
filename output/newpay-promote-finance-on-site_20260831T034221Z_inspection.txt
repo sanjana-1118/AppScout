@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\newpay-promote-finance-on-site_20260831T034221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\newpay-promote-finance-on-site_20260831T034221Z.html
+Requested URL    : https://apps.shopify.com/newpay-promote-finance-on-site
+Final URL        : https://apps.shopify.com/newpay-promote-finance-on-site
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 159,769 bytes / 159,658 chars
+Elapsed          : 0.671s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Newpay promote finance on‑site - Showcase Newpay finance and control Newpay checkout | Shopify App Store
+meta description : This app supports your sales performance by promoting Newpay finance across your store with static banners that can be included on every page.
+
+It ...
+canonical URL    : https://apps.shopify.com/newpay-promote-finance-on-site
+<h1> tags ( 1)  : 'Newpay promote finance on‑site'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

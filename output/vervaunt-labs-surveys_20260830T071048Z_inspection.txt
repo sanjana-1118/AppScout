@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vervaunt-labs-surveys_20260830T071048Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vervaunt-labs-surveys_20260830T071048Z.html
+Requested URL    : https://apps.shopify.com/vervaunt-labs-surveys
+Final URL        : https://apps.shopify.com/vervaunt-labs-surveys
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,776 bytes / 217,675 chars
+Elapsed          : 0.534s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Census: Customer Surveys - Onsite & Post-Purchase Surveys for Attribution, Insight & More | Shopify App Store
+meta description : Capture actionable insights and valuable first party data through personalised, rule-based surveys.
+canonical URL    : https://apps.shopify.com/vervaunt-labs-surveys
+<h1> tags ( 1)  : 'Census: Customer Surveys'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

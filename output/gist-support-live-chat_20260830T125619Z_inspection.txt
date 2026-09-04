@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gist-support-live-chat_20260830T125619Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gist-support-live-chat_20260830T125619Z.html
+Requested URL    : https://apps.shopify.com/gist-support-live-chat
+Final URL        : https://apps.shopify.com/gist-support-live-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,351 bytes / 196,232 chars
+Elapsed          : 0.649s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gist ‑ Pop Ups, Email & Chat - Build loyalty and drive sales with intuitive automation tools. | Shopify App Store
+meta description : 1. Setup live chat and a chat prompt on key pages to start conversations with potential buyers.
+2. Create the email marketing funnel using either b...
+canonical URL    : https://apps.shopify.com/gist-support-live-chat
+<h1> tags ( 1)  : 'Gist ‑ Pop Ups, Email & Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

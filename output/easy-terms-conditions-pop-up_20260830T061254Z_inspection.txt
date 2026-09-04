@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-terms-conditions-pop-up_20260830T061254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-terms-conditions-pop-up_20260830T061254Z.html
+Requested URL    : https://apps.shopify.com/easy-terms-conditions-pop-up
+Final URL        : https://apps.shopify.com/easy-terms-conditions-pop-up
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,394 bytes / 226,296 chars
+Elapsed          : 0.859s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Terms and Conditions Terms:Pro - Terms and Conditions checkbox with consent popup Agree to T&C. | Shopify App Store
+meta description : Easily collect customer consent for Terms and Conditions and store the consent date and time in order details. Improve Legal Compliance by requirin...
+canonical URL    : https://apps.shopify.com/easy-terms-conditions-pop-up
+<h1> tags ( 1)  : 'Terms and Conditions Terms:Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-gallery-by-enormapps_20260830T074906Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\image-gallery-by-enormapps_20260830T074906Z.html
+Requested URL    : https://apps.shopify.com/image-gallery-by-enormapps
+Final URL        : https://apps.shopify.com/image-gallery-by-enormapps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,841 bytes / 236,750 chars
+Elapsed          : 0.957s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Enorm Image gallery + Video  - Create a beautiful gallery to make your store stand out | Shopify App Store
+meta description : Create beautiful image galleries, video galleries, lookbooks, and portfolio layouts for your Shopify store. Easy to customize, mobile friendly, and no coding
+canonical URL    : https://apps.shopify.com/image-gallery-by-enormapps
+<h1> tags ( 1)  : 'Enorm Image gallery + Video'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

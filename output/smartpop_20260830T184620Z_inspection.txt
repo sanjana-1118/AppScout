@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartpop_20260830T184620Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smartpop_20260830T184620Z.html
+Requested URL    : https://apps.shopify.com/smartpop
+Final URL        : https://apps.shopify.com/smartpop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,103 bytes / 207,996 chars
+Elapsed          : 0.802s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SmartPop - Stay compliant and grow sales with smart pop-ups | Shopify App Store
+meta description : Compliant age gate, promo pop-ups, and back-in-stock email capture. 10 branded layouts, smart targeting, translations & analytics — no code.
+canonical URL    : https://apps.shopify.com/smartpop
+<h1> tags ( 1)  : 'SmartPop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

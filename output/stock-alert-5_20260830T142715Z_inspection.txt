@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-alert-5_20260830T142715Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stock-alert-5_20260830T142715Z.html
+Requested URL    : https://apps.shopify.com/stock-alert-5
+Final URL        : https://apps.shopify.com/stock-alert-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,388 bytes / 174,295 chars
+Elapsed          : 1.100s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockCheck: Inventory Monitor - Display low-stock products based on the threshold  | Shopify App Store
+meta description : Our app helps merchants easily track the low-stock products in their stores. Our app is a quick and simple solution to help you always restock your...
+canonical URL    : https://apps.shopify.com/stock-alert-5
+<h1> tags ( 1)  : 'StockCheck: Inventory Monitor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

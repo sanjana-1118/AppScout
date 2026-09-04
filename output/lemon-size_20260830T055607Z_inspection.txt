@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lemon-size_20260830T055607Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lemon-size_20260830T055607Z.html
+Requested URL    : https://apps.shopify.com/lemon-size
+Final URL        : https://apps.shopify.com/lemon-size
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,961 bytes / 169,869 chars
+Elapsed          : 0.482s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lemon Size - Show the correct size guide on the chosen product | Shopify App Store
+meta description : Create reusable size charts, assign them to products and collections, and show clear fit information to shoppers with Lemon Size.
+canonical URL    : https://apps.shopify.com/lemon-size
+<h1> tags ( 1)  : 'Lemon Size'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

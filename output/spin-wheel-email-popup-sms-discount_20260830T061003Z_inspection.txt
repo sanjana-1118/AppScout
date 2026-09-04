@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spin-wheel-email-popup-sms-discount_20260830T061003Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\spin-wheel-email-popup-sms-discount_20260830T061003Z.html
+Requested URL    : https://apps.shopify.com/spin-wheel-email-popup-sms-discount
+Final URL        : https://apps.shopify.com/spin-wheel-email-popup-sms-discount
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 279,204 bytes / 279,089 chars
+Elapsed          : 0.521s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EA • Email Popup & Spin Wheel - Grow via email pop up, spin the wheel pop up... | Shopify App Store
+meta description : Spin Wheel Shopify App: Collect email & SMS for marketing, offer automatic discount codes & coupons. Exit intent, popup delay, countdown timer, and email codes.
+canonical URL    : https://apps.shopify.com/spin-wheel-email-popup-sms-discount
+<h1> tags ( 1)  : 'EA • Email Popup & Spin Wheel'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

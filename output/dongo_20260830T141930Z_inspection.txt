@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dongo_20260830T141930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dongo_20260830T141930Z.html
+Requested URL    : https://apps.shopify.com/dongo
+Final URL        : https://apps.shopify.com/dongo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,374 bytes / 193,280 chars
+Elapsed          : 0.877s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DONGO: Exit Tab Icon Animation - Grab customers attention with browser tab title animation | Shopify App Store
+meta description : DONGO Shopify App help re-engage visitors leaving your store & reduce cart abandonment with tab favicon + title animations.
+canonical URL    : https://apps.shopify.com/dongo
+<h1> tags ( 1)  : 'DONGO: Exit Tab Icon Animation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

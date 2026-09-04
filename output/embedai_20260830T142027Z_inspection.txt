@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\embedai_20260830T142027Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\embedai_20260830T142027Z.html
+Requested URL    : https://apps.shopify.com/embedai
+Final URL        : https://apps.shopify.com/embedai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,753 bytes / 184,655 chars
+Elapsed          : 0.812s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EmbedAI Live Chat & AI Chatbot - Custom ChatGPT for your store to automate customer support | Shopify App Store
+meta description : The ultimate AI chatbot designed to redefine customer service and engagement in e-commerce
+canonical URL    : https://apps.shopify.com/embedai
+<h1> tags ( 1)  : 'EmbedAI Live Chat & AI Chatbot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

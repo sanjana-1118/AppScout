@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trubuild_20260830T042837Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trubuild_20260830T042837Z.html
+Requested URL    : https://apps.shopify.com/trubuild
+Final URL        : https://apps.shopify.com/trubuild
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 242,688 bytes / 242,591 chars
+Elapsed          : 0.653s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Trubuild: AI Product Options - AI product configurator, customizer and custom product builder | Shopify App Store
+meta description : Trubuild adds unlimited custom options, color swatches, text inputs, and file uploads to your store. Bypass Shopify variant limits with an easy builder.
+canonical URL    : https://apps.shopify.com/trubuild
+<h1> tags ( 1)  : 'Trubuild: AI Product Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

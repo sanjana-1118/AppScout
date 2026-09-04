@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pluspage_20260831T034116Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pluspage_20260831T034116Z.html
+Requested URL    : https://apps.shopify.com/pluspage
+Final URL        : https://apps.shopify.com/pluspage
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,837 bytes / 199,744 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PlusPage - Create Advanced Pages and Add Home Page Section in Other... | Shopify App Store
+meta description : - It lets you create enhanced pages beyond regular pages by using Shopify native customizer thus eliminating extra learning curve required in other...
+canonical URL    : https://apps.shopify.com/pluspage
+<h1> tags ( 1)  : 'PlusPage'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

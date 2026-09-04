@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fic-food-info-guard_20260830T184558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fic-food-info-guard_20260830T184558Z.html
+Requested URL    : https://apps.shopify.com/fic-food-info-guard
+Final URL        : https://apps.shopify.com/fic-food-info-guard
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,166 bytes / 171,039 chars
+Elapsed          : 1.130s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EU Food Info Guard - EU origin rules changed Jun 2026 - show info pre-purchase. | Shopify App Store
+meta description : Review allergen, ingredient, nutrition, net quantity, origin, operator, and storage gaps before food product display.
+canonical URL    : https://apps.shopify.com/fic-food-info-guard
+<h1> tags ( 1)  : 'EU Food Info Guard'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

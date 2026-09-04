@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doordash_20260829T175657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\doordash_20260829T175657Z.html
+Requested URL    : https://apps.shopify.com/doordash
+Final URL        : https://apps.shopify.com/doordash
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,752 bytes / 204,657 chars
+Elapsed          : 0.516s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DoorDash - Reach local customers with fast delivery on DoorDash | Shopify App Store
+meta description : Reach 42M+ local shoppers with DoorDash. Auto-sync your Shopify catalog, offer same-day delivery, and launch in days - not weeks.
+canonical URL    : https://apps.shopify.com/doordash
+<h1> tags ( 1)  : 'DoorDash'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

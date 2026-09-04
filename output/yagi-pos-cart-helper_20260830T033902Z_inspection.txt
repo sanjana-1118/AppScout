@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yagi-pos-cart-helper_20260830T033902Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yagi-pos-cart-helper_20260830T033902Z.html
+Requested URL    : https://apps.shopify.com/yagi-pos-cart-helper
+Final URL        : https://apps.shopify.com/yagi-pos-cart-helper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,163 bytes / 207,074 chars
+Elapsed          : 0.619s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yagi POS Cart Helper - Save current POS cart and retrieve it later on easily | Shopify App Store
+meta description : This app allows merchant to save current cart data from the POS, and retrieve the cart data later on, so that merchant can continue to serve the cu...
+canonical URL    : https://apps.shopify.com/yagi-pos-cart-helper
+<h1> tags ( 1)  : 'Yagi POS Cart Helper'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

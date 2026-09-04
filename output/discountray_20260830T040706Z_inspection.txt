@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discountray_20260830T040706Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\discountray_20260830T040706Z.html
+Requested URL    : https://apps.shopify.com/discountray
+Final URL        : https://apps.shopify.com/discountray
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 263,908 bytes / 263,791 chars
+Elapsed          : 0.895s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DiscountRay‑Custom Price - Personalized B2B offers with automatic discounts and free gift | Shopify App Store
+meta description : Elevate your eCommerce store with our dynamic discount app! Create custom, variant-specific discounts, volume pricing, and tiered offers to drive sales growth.
+canonical URL    : https://apps.shopify.com/discountray
+<h1> tags ( 1)  : 'DiscountRay‑Custom Price'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

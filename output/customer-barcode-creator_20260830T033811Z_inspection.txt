@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-barcode-creator_20260830T033811Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-barcode-creator_20260830T033811Z.html
+Requested URL    : https://apps.shopify.com/customer-barcode-creator
+Final URL        : https://apps.shopify.com/customer-barcode-creator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,462 bytes / 223,377 chars
+Elapsed          : 0.494s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Barcodeator ‑ Customer QR Code - Create customer-exclusive barcodes/QR codes for easy in-store | Shopify App Store
+meta description : Barcodeator - Customer QR Codeはお客様専用のQRコードを簡単に生成し、作成されたQRコードを店頭のPoint of Sale(POS)と組み合わせて、注文をお客様と簡単に紐づけることができるアプリです。個人情報不要でスムーズな顧客識別を実現し、プライバシー保護と業務効率化をサポートします。
+canonical URL    : https://apps.shopify.com/customer-barcode-creator
+<h1> tags ( 1)  : 'Barcodeator ‑ Customer QR Code'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

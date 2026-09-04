@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\navi-1_20260830T181012Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\navi-1_20260830T181012Z.html
+Requested URL    : https://apps.shopify.com/navi-1
+Final URL        : https://apps.shopify.com/navi-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,967 bytes / 189,836 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Navi - It advises, sells and tracks orders while you sleep. | Shopify App Store
+meta description : Assistant Shopify qui répond aux questions produit, suit les commandes et traite le SAV avec le ton de votre marque. Essai gratuit 14 jours sans CB.
+canonical URL    : https://apps.shopify.com/navi-1
+<h1> tags ( 1)  : 'Navi'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

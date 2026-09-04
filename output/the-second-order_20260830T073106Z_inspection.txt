@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-second-order_20260830T073106Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-second-order_20260830T073106Z.html
+Requested URL    : https://apps.shopify.com/the-second-order
+Final URL        : https://apps.shopify.com/the-second-order
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,103 bytes / 170,014 chars
+Elapsed          : 0.926s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : The Second Order Diagnosis - Diagnoses why your customers buy once and never come back. | Shopify App Store
+meta description : Find out why customers don't come back. The Second Order analyses your Shopify order data and diagnoses the exact retention condition blocking your second purch
+canonical URL    : https://apps.shopify.com/the-second-order
+<h1> tags ( 1)  : 'The Second Order Diagnosis'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

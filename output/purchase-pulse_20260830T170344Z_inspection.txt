@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\purchase-pulse_20260830T170344Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\purchase-pulse_20260830T170344Z.html
+Requested URL    : https://apps.shopify.com/purchase-pulse
+Final URL        : https://apps.shopify.com/purchase-pulse
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,233 bytes / 169,136 chars
+Elapsed          : 0.830s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DQ Reorder & Favorites - Show customers the products they’ve bought before and let them | Shopify App Store
+meta description : Show customers products they have bought before and make it easy to buy again directly from the product page.
+canonical URL    : https://apps.shopify.com/purchase-pulse
+<h1> tags ( 1)  : 'DQ Reorder & Favorites'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

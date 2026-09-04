@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/partnerships-vendors",
+  "fetch_timestamp": "2026-08-30T07:01:20.045816+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\partnerships-vendors_20260830T070119Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\partnerships-vendors_20260830T070119Z.html",
+    "url": "https://apps.shopify.com/partnerships-vendors",
+    "final_url": "https://apps.shopify.com/partnerships-vendors",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 187092,
+    "body_text_length": 187003,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.084919,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Vendors, Revenue & Commissions - Split your sales. Divide revenue with multi-vendors & partners | Shopify App Store",
+    "meta_description": "The app manages your vendors & partners, calculate their share of revenue/profit and which you can payouts to them. The app is also useful for calc...",
+    "canonical_url": "https://apps.shopify.com/partnerships-vendors",
+    "h1_tags": [
+      "Vendors, Revenue & Commissions"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Vendors, Revenue & Commissions",
+    "app_slug": "partnerships-vendors",
+    "app_url": "https://apps.shopify.com/partnerships-vendors",
+    "developer_name": "Affilo",
+    "description": "The app manages your vendors & partners, calculate their share of revenue/profit and which you can payouts to them. The app is also useful for calc...",
+    "average_rating": 5.0,
+    "review_count": 3,
+    "category": "Finances - Other"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\partnerships-vendors_20260830T070119Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\partnerships-vendors_20260830T070119Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Vendors, Revenue & Commissions",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "partnerships-vendors",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/partnerships-vendors",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Affilo",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "The app manages your vendors & partners, calculate their share of revenue/profit and which you can payouts to them. The app is also useful for calc...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 3,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Finances - Other",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

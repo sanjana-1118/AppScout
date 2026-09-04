@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-of-locations_20260830T135647Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\inventory-of-locations_20260830T135647Z.html
+Requested URL    : https://apps.shopify.com/inventory-of-locations
+Final URL        : https://apps.shopify.com/inventory-of-locations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,927 bytes / 167,836 chars
+Elapsed          : 0.971s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wise Availability Chart - Show availability of products in your stores/locations | Shopify App Store
+meta description : Empower your customers with real-time inventory insights! Our app seamlessly integrates with your Shopify store, displaying live inventory levels a...
+canonical URL    : https://apps.shopify.com/inventory-of-locations
+<h1> tags ( 1)  : 'Wise Availability Chart'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

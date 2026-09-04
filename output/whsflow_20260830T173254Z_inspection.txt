@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whsflow_20260830T173254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whsflow_20260830T173254Z.html
+Requested URL    : https://apps.shopify.com/whsflow
+Final URL        : https://apps.shopify.com/whsflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,036 bytes / 190,905 chars
+Elapsed          : 1.165s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WHSFLOW - Venta B2B, crédito, vendedores y bodega en un solo flujo | Shopify App Store
+meta description : Manage B2B sales, credit, sales reps, warehouse workers, inventory and loyalty workflows from one connected app.
+canonical URL    : https://apps.shopify.com/whsflow?locale=es
+<h1> tags ( 1)  : 'WHSFLOW'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

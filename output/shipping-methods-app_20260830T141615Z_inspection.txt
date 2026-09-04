@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-methods-app_20260830T141615Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipping-methods-app_20260830T141615Z.html
+Requested URL    : https://apps.shopify.com/shipping-methods-app
+Final URL        : https://apps.shopify.com/shipping-methods-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,522 bytes / 164,433 chars
+Elapsed          : 0.810s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ripple Shipping - Hide shipping rates by title, postcodes and order weight | Shopify App Store
+meta description : Hide certain shipping options by order weight, and full or partial postcodes. You will be able to target the shipping options that you want to hide...
+canonical URL    : https://apps.shopify.com/shipping-methods-app
+<h1> tags ( 1)  : 'Ripple Shipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

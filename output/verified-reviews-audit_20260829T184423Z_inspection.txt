@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\verified-reviews-audit_20260829T184423Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\verified-reviews-audit_20260829T184423Z.html
+Requested URL    : https://apps.shopify.com/verified-reviews-audit
+Final URL        : https://apps.shopify.com/verified-reviews-audit
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,347 bytes / 179,254 chars
+Elapsed          : 0.616s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TallySeal Reviews Audit - See how many of your reviews come from real, verified... | Shopify App Store
+meta description : Audit your product reviews against real order history. See your verified buyer match rate and publish it as a storefront trust badge.
+canonical URL    : https://apps.shopify.com/verified-reviews-audit
+<h1> tags ( 1)  : 'TallySeal Reviews Audit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

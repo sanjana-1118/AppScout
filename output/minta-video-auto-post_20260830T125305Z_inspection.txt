@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\minta-video-auto-post_20260830T125305Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\minta-video-auto-post_20260830T125305Z.html
+Requested URL    : https://apps.shopify.com/minta-video-auto-post
+Final URL        : https://apps.shopify.com/minta-video-auto-post
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 230,251 bytes / 230,152 chars
+Elapsed          : 0.782s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Minta Social Videos Auto Post - Auto Post Social Media Video Ads, & Promo Product Video... | Shopify App Store
+meta description : Create AI product video ads with Minta's video maker. Automate the social media promo video production process + auto post on: TikTok, Facebook, Instagram.
+canonical URL    : https://apps.shopify.com/minta-video-auto-post
+<h1> tags ( 1)  : 'Minta Social Videos Auto Post'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

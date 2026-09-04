@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\drophawk_20260830T071838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\drophawk_20260830T071838Z.html
+Requested URL    : https://apps.shopify.com/drophawk
+Final URL        : https://apps.shopify.com/drophawk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,822 bytes / 168,733 chars
+Elapsed          : 0.587s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DropHawk - Track real net profit and ad attribution in real time. | Shopify App Store
+meta description : See your store's true net profit in real time. Track orders, COGS, shipping, fees, and ad spend, and attribute every sale to the campaign that drove it.
+canonical URL    : https://apps.shopify.com/drophawk
+<h1> tags ( 1)  : 'DropHawk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

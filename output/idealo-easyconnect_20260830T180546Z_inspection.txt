@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\idealo-easyconnect_20260830T180546Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\idealo-easyconnect_20260830T180546Z.html
+Requested URL    : https://apps.shopify.com/idealo-easyconnect
+Final URL        : https://apps.shopify.com/idealo-easyconnect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,586 bytes / 207,476 chars
+Elapsed          : 1.054s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : idealo EasyConnect - Erstelle idealo-Produktfeeds direkt aus deinem Shop. | Shopify App Store
+meta description : Erstelle idealo-Produktfeeds aus deinem Shop, mappe Produktdaten flexibel und prüfe Sync-Status sowie Feed-Fehler direkt in einer App.
+canonical URL    : https://apps.shopify.com/idealo-easyconnect?locale=de
+<h1> tags ( 1)  : 'idealo EasyConnect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

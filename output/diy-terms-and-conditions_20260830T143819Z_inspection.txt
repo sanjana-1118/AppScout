@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\diy-terms-and-conditions_20260830T143819Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\diy-terms-and-conditions_20260830T143819Z.html
+Requested URL    : https://apps.shopify.com/diy-terms-and-conditions
+Final URL        : https://apps.shopify.com/diy-terms-and-conditions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,479 bytes / 192,384 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : DIY Terms & Conditions - Affordable and easy to implement and use for many use... | Shopify App Store
+meta description : Prompt shoppers to accept your terms and conditions or acknowledge product restrictions, and record their consent with their order.
+canonical URL    : https://apps.shopify.com/diy-terms-and-conditions
+<h1> tags ( 1)  : 'DIY Terms & Conditions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

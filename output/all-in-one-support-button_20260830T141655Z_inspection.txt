@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\all-in-one-support-button_20260830T141655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\all-in-one-support-button_20260830T141655Z.html
+Requested URL    : https://apps.shopify.com/all-in-one-support-button
+Final URL        : https://apps.shopify.com/all-in-one-support-button
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,125 bytes / 167,031 chars
+Elapsed          : 0.914s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : All In One Support Button - One-click customer support via social media | Shopify App Store
+meta description : Social media widget is a Shopify app that makes it easy for customers to connect with the customer support team. With just one click, customers can...
+canonical URL    : https://apps.shopify.com/all-in-one-support-button
+<h1> tags ( 1)  : 'All In One Support Button'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

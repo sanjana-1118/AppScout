@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pulse-countdown-timer-bar_20260831T034808Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pulse-countdown-timer-bar_20260831T034808Z.html
+Requested URL    : https://apps.shopify.com/pulse-countdown-timer-bar
+Final URL        : https://apps.shopify.com/pulse-countdown-timer-bar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 268,989 bytes / 268,900 chars
+Elapsed          : 0.592s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PX schedule sale, Discount app - Run flash sale, buy X get Y discount + countdown... | Shopify App Store
+meta description : Run flash sales with a countdown timer and auto-applied discounts: percentage, BOGO, Buy X Get Y, volume tiers & free shipping. No code, free plan.
+canonical URL    : https://apps.shopify.com/pulse-countdown-timer-bar
+<h1> tags ( 1)  : 'PX schedule sale, Discount app'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-website-translator_20260830T033543Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-website-translator_20260830T033543Z.html
+Requested URL    : https://apps.shopify.com/k-website-translator
+Final URL        : https://apps.shopify.com/k-website-translator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,593 bytes / 179,498 chars
+Elapsed          : 0.488s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Website Translator - Translate your store into multiple languages automatically. | Shopify App Store
+meta description : AI Website Translator helps you make your store understandable to customers in multiple languages. Add a language switcher so visitors can browse p...
+canonical URL    : https://apps.shopify.com/k-website-translator
+<h1> tags ( 1)  : 'K: Website Translator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

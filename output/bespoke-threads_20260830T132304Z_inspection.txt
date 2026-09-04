@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bespoke-threads_20260830T132304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bespoke-threads_20260830T132304Z.html
+Requested URL    : https://apps.shopify.com/bespoke-threads
+Final URL        : https://apps.shopify.com/bespoke-threads
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 156,292 bytes / 156,203 chars
+Elapsed          : 0.845s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bespoke Threads - Your Sustainable Print On Demand Partner | Shopify App Store
+meta description : Connect your Shopify store to Bespoke Threads in seconds to create & sell your customized products to customers across the world. No upfront costs ...
+canonical URL    : https://apps.shopify.com/bespoke-threads
+<h1> tags ( 1)  : 'Bespoke Threads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

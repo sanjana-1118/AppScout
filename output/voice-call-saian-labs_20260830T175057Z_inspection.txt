@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voice-call-saian-labs_20260830T175057Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\voice-call-saian-labs_20260830T175057Z.html
+Requested URL    : https://apps.shopify.com/voice-call-saian-labs
+Final URL        : https://apps.shopify.com/voice-call-saian-labs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,232 bytes / 189,124 chars
+Elapsed          : 0.941s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VoiceConvert ‑ Saian Labs - Automated voice calls for carts and order follow-ups | Shopify App Store
+meta description : VoiceConvert automates phone calls to customers based on store events such as abandoned carts and order activity. Merchants can trigger personalize...
+canonical URL    : https://apps.shopify.com/voice-call-saian-labs
+<h1> tags ( 1)  : 'VoiceConvert ‑ Saian Labs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

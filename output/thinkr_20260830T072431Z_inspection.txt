@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thinkr_20260830T072431Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\thinkr_20260830T072431Z.html
+Requested URL    : https://apps.shopify.com/thinkr
+Final URL        : https://apps.shopify.com/thinkr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,979 bytes / 214,871 chars
+Elapsed          : 0.958s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : thinkr - Let AI automate growing your store with automations. | Shopify App Store
+meta description : Let AI take actions on your behalf using data and automate Shopify operations to save you time and optimize your performance.
+canonical URL    : https://apps.shopify.com/thinkr
+<h1> tags ( 1)  : 'thinkr'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

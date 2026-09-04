@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\essential-product-feeds_20260830T034704Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\essential-product-feeds_20260830T034704Z.html
+Requested URL    : https://apps.shopify.com/essential-product-feeds
+Final URL        : https://apps.shopify.com/essential-product-feeds
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,411 bytes / 213,297 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EcomEssentials: Product Feeds - An affordable and easy-to-use CSV/XML products feed generator! | Shopify App Store
+meta description : Stop managing data files manually. Create CSV or advanced Nested XML feeds using standard product attributes and metafields!
+Why EcomEssentials:
+Se...
+canonical URL    : https://apps.shopify.com/essential-product-feeds
+<h1> tags ( 1)  : 'EcomEssentials: Product Feeds'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

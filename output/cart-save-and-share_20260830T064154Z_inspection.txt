@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-save-and-share_20260830T064154Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cart-save-and-share_20260830T064154Z.html
+Requested URL    : https://apps.shopify.com/cart-save-and-share
+Final URL        : https://apps.shopify.com/cart-save-and-share
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,684 bytes / 195,571 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CSS: Cart Save and Share - Allow your customers to save carts & share with their... | Shopify App Store
+meta description : With the Cart Save and Share app, let customers save carts for future purchases & share carts with others for them to pay.
+canonical URL    : https://apps.shopify.com/cart-save-and-share
+<h1> tags ( 1)  : 'CSS: Cart Save and Share'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

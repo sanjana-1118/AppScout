@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/attentive",
+  "fetch_timestamp": "2026-08-30T06:56:38.371329+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\attentive_20260830T065638Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\attentive_20260830T065638Z.html",
+    "url": "https://apps.shopify.com/attentive",
+    "final_url": "https://apps.shopify.com/attentive",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 213127,
+    "body_text_length": 213012,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.835775,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Attentive: AI‑led Email &SMS - SMS & Email helping brands increase ROI | Shopify App Store",
+    "meta_description": "Email and SMS personalization at scale. Reaching and engaging customers in a truly personalized way.",
+    "canonical_url": "https://apps.shopify.com/attentive",
+    "h1_tags": [
+      "Attentive: AI‑led Email &SMS"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Attentive: AI‑led Email &SMS",
+    "app_slug": "attentive",
+    "app_url": "https://apps.shopify.com/attentive",
+    "developer_name": "Attentive",
+    "description": "Email and SMS personalization at scale. Reaching and engaging customers in a truly personalized way. ",
+    "average_rating": 4.8,
+    "review_count": 106,
+    "category": "Email marketing"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\attentive_20260830T065638Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\attentive_20260830T065638Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Attentive: AI‑led Email &SMS",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "attentive",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/attentive",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Attentive",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Email and SMS personalization at scale. Reaching and engaging customers in a truly personalized way. ",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.8,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 106,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Email marketing",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

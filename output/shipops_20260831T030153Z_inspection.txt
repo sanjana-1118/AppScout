@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipops_20260831T030153Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipops_20260831T030153Z.html
+Requested URL    : https://apps.shopify.com/shipops
+Final URL        : https://apps.shopify.com/shipops
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,453 bytes / 223,354 chars
+Elapsed          : 0.946s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShipOps - Reconcile COD payouts, rescue failed deliveries, skip portals. | Shopify App Store
+meta description : Find the COD money your courier hasn't paid. ShipOps tracks every
+parcel, reconciles payouts against your orders, and rescues
+deliveries before they return.
+canonical URL    : https://apps.shopify.com/shipops
+<h1> tags ( 1)  : 'ShipOps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

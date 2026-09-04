@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customizable-dynamic-fields_20260830T055534Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customizable-dynamic-fields_20260830T055534Z.html
+Requested URL    : https://apps.shopify.com/customizable-dynamic-fields
+Final URL        : https://apps.shopify.com/customizable-dynamic-fields
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,667 bytes / 182,556 chars
+Elapsed          : 0.607s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Metaflow ‑ Dynamic Metafields - Add custom fields anywhere and save responses to metafields. | Shopify App Store
+meta description : Collect custom fields and personalized inputs across your store and save everything directly to Shopify metafields.
+Metaflow helps you easily add c...
+canonical URL    : https://apps.shopify.com/customizable-dynamic-fields
+<h1> tags ( 1)  : 'Metaflow ‑ Dynamic Metafields'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feng-cart_20260830T145210Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feng-cart_20260830T145210Z.html
+Requested URL    : https://apps.shopify.com/feng-cart
+Final URL        : https://apps.shopify.com/feng-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,539 bytes / 212,400 chars
+Elapsed          : 1.191s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Feng Cart ‑ Mobile App Builder - Launch your app in minutes—stunning design, no code, 35+blocks | Shopify App Store
+meta description : Launch a no-code mobile app for Shopify in minutes. 35+ customizable blocks, drag & drop builder, real-time sync, push notifications, and sales-boosting tools.
+canonical URL    : https://apps.shopify.com/feng-cart
+<h1> tags ( 1)  : 'Feng Cart ‑ Mobile App Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

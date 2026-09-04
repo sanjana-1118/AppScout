@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profitflow-aov-bundle_20260831T025226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profitflow-aov-bundle_20260831T025226Z.html
+Requested URL    : https://apps.shopify.com/profitflow-aov-bundle
+Final URL        : https://apps.shopify.com/profitflow-aov-bundle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,851 bytes / 192,733 chars
+Elapsed          : 0.591s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProfitFlow: AOV Bundle - Lift AOV with checkout-safe bundles, quantity breaks & gifts | Shopify App Store
+meta description : Bundles, quantity breaks, BOGO and a checkout-safe free gift, enforced at checkout so shoppers pay exactly what they see. Works on any theme, no code.
+canonical URL    : https://apps.shopify.com/profitflow-aov-bundle
+<h1> tags ( 1)  : 'ProfitFlow: AOV Bundle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

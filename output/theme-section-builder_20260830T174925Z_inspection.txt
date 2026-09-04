@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\theme-section-builder_20260830T174925Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\theme-section-builder_20260830T174925Z.html
+Requested URL    : https://apps.shopify.com/theme-section-builder
+Final URL        : https://apps.shopify.com/theme-section-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,539 bytes / 170,438 chars
+Elapsed          : 0.806s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Theme Section Builder - 150+ plug-n-play customisable sections. Bundles and Upsells | Shopify App Store
+meta description : Add testimonials, countdowns, footers, and more to your theme. Install pre-built sections in one click and edit them in the theme editor.
+canonical URL    : https://apps.shopify.com/theme-section-builder
+<h1> tags ( 1)  : 'Theme Section Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

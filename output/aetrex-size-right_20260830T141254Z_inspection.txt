@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aetrex-size-right_20260830T141254Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\aetrex-size-right_20260830T141254Z.html
+Requested URL    : https://apps.shopify.com/aetrex-size-right
+Final URL        : https://apps.shopify.com/aetrex-size-right
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,864 bytes / 153,773 chars
+Elapsed          : 0.782s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Aetrex Achilles - Achilles Widget | Shopify App Store
+meta description : The Achilles widget utilizes the device camera to offer size recommendations to customers. By leveraging the device's camera functionality, the wid...
+canonical URL    : https://apps.shopify.com/aetrex-size-right
+<h1> tags ( 1)  : 'Aetrex Achilles'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

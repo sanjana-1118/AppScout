@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gifty-gift-wrap_20260830T065414Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gifty-gift-wrap_20260830T065414Z.html
+Requested URL    : https://apps.shopify.com/gifty-gift-wrap
+Final URL        : https://apps.shopify.com/gifty-gift-wrap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,575 bytes / 218,460 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Gifty ‑ Gift Wrap & Options - The ultimate all in one gift options solution for your... | Shopify App Store
+meta description : Gifty - Gift Wrap & Options helps you to offer gift wraps, messages & upsell addon products on your storefront and on checkout pages.
+
+Gifty is tot...
+canonical URL    : https://apps.shopify.com/gifty-gift-wrap
+<h1> tags ( 1)  : 'Gifty ‑ Gift Wrap & Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

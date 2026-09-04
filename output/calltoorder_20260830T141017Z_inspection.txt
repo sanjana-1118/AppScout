@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\calltoorder_20260830T141017Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\calltoorder_20260830T141017Z.html
+Requested URL    : https://apps.shopify.com/calltoorder
+Final URL        : https://apps.shopify.com/calltoorder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,190 bytes / 188,079 chars
+Elapsed          : 0.579s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ESTS ‑ RMA Call Desk - This app is very useful for those who like to... | Shopify App Store
+meta description : Add a call button on product pages or all pages, collect callback requests, manage phone orders, and convert more Shopify visitors into sales.
+canonical URL    : https://apps.shopify.com/calltoorder
+<h1> tags ( 1)  : 'ESTS ‑ RMA Call Desk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

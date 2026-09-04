@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-deluxe_20260830T064514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-account-deluxe_20260830T064514Z.html
+Requested URL    : https://apps.shopify.com/customer-account-deluxe
+Final URL        : https://apps.shopify.com/customer-account-deluxe
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,636 bytes / 232,507 chars
+Elapsed          : 0.916s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Customer Accounts Deluxe - Grow retention & repeat sales with a modern customer portal | Shopify App Store
+meta description : Deluxe Customer Accounts turns Shopify accounts into a branded portal with activity insights, analytics & custom fields for retention and repeat sales.
+canonical URL    : https://apps.shopify.com/customer-account-deluxe
+<h1> tags ( 1)  : 'Customer Accounts Deluxe'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalognow_20260830T171306Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\catalognow_20260830T171306Z.html
+Requested URL    : https://apps.shopify.com/catalognow
+Final URL        : https://apps.shopify.com/catalognow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,493 bytes / 174,402 chars
+Elapsed          : 0.797s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CatalogNow - Enrich your product catalog with AI-generated content and SEO | Shopify App Store
+meta description : CatalogNow uses AI to enrich your product catalog automatically. It generates compelling product descriptions from your existing product data, crea...
+canonical URL    : https://apps.shopify.com/catalognow
+<h1> tags ( 1)  : 'CatalogNow'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

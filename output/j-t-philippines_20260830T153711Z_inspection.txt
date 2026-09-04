@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\j-t-philippines_20260830T153711Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\j-t-philippines_20260830T153711Z.html
+Requested URL    : https://apps.shopify.com/j-t-philippines
+Final URL        : https://apps.shopify.com/j-t-philippines
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,076 bytes / 206,955 chars
+Elapsed          : 0.989s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : J&T Philippines -  J&T Express VIPs get priority shipping and delivery services! | Shopify App Store
+meta description : With just a few clicks, VIP Dashboard can automate the entire shipping process with real time online scheduling of pick-ups, online waybill creatio...
+canonical URL    : https://apps.shopify.com/j-t-philippines
+<h1> tags ( 1)  : 'J&T Philippines'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

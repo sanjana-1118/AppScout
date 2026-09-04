@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conditional-block_20260830T163819Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\conditional-block_20260830T163819Z.html
+Requested URL    : https://apps.shopify.com/conditional-block
+Final URL        : https://apps.shopify.com/conditional-block
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,002 bytes / 177,897 chars
+Elapsed          : 0.976s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Conditional Blocks - Show or hide store content automatically based on conditions | Shopify App Store
+meta description : Show or hide Shopify content based on products, variants, stock, tags, and schedules. Control exactly when content appears—no code needed. Conditional Content
+canonical URL    : https://apps.shopify.com/conditional-block
+<h1> tags ( 1)  : 'Conditional Blocks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

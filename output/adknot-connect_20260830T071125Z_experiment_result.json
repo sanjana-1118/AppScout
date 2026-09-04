@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/adknot-connect",
+  "fetch_timestamp": "2026-08-30T07:11:25.230650+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\adknot-connect_20260830T071125Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\adknot-connect_20260830T071125Z.html",
+    "url": "https://apps.shopify.com/adknot-connect",
+    "final_url": "https://apps.shopify.com/adknot-connect",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 168847,
+    "body_text_length": 168758,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.665141,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "AdKnot Connect - Real-time AI insights for Google Ads and store performance | Shopify App Store",
+    "meta_description": "Adknot AI connects your Shopify store with Google Ads to deliver real-time performance insights. Track ad spend, ROAS, conversions, AOV, and produc...",
+    "canonical_url": "https://apps.shopify.com/adknot-connect",
+    "h1_tags": [
+      "AdKnot Connect"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "AdKnot Connect",
+    "app_slug": "adknot-connect",
+    "app_url": "https://apps.shopify.com/adknot-connect",
+    "developer_name": "Adon Technologies",
+    "description": "Adknot AI connects your Shopify store with Google Ads to deliver real-time performance insights. Track ad spend, ROAS, conversions, AOV, and produc...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Analytics"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\adknot-connect_20260830T071125Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\adknot-connect_20260830T071125Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "AdKnot Connect",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "adknot-connect",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/adknot-connect",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Adon Technologies",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Adknot AI connects your Shopify store with Google Ads to deliver real-time performance insights. Track ad spend, ROAS, conversions, AOV, and produc...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Analytics",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

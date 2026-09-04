@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sprint-logistics_20260830T032823Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sprint-logistics_20260830T032823Z.html
+Requested URL    : https://apps.shopify.com/sprint-logistics
+Final URL        : https://apps.shopify.com/sprint-logistics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,720 bytes / 151,629 chars
+Elapsed          : 0.467s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sprint Logistics - Delivering Smiles | Shopify App Store
+meta description : Sprint app is available on this platform for all registered customers of Sprint Logistics. Save time spent on data formatting and conversion work a...
+canonical URL    : https://apps.shopify.com/sprint-logistics
+<h1> tags ( 1)  : 'Sprint Logistics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

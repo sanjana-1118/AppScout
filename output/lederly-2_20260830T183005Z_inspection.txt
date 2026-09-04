@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lederly-2_20260830T183005Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\lederly-2_20260830T183005Z.html
+Requested URL    : https://apps.shopify.com/lederly-2
+Final URL        : https://apps.shopify.com/lederly-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,081 bytes / 182,992 chars
+Elapsed          : 0.918s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Lederly: Bulk Edit & Schedule - Bulk edit products & schedule sales with auto-revert | Shopify App Store
+meta description : Lederly helps Shopify merchants manage catalog changes faster and with fewer mistakes.
+
+Edit hundreds of products from a spreadsheet-like interface...
+canonical URL    : https://apps.shopify.com/lederly-2
+<h1> tags ( 1)  : 'Lederly: Bulk Edit & Schedule'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

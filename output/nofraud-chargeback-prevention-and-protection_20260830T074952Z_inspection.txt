@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nofraud-chargeback-prevention-and-protection_20260830T074952Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nofraud-chargeback-prevention-and-protection_20260830T074952Z.html
+Requested URL    : https://apps.shopify.com/nofraud-chargeback-prevention-and-protection
+Final URL        : https://apps.shopify.com/nofraud-chargeback-prevention-and-protection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,603 bytes / 227,487 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wyllo - Prevent fraud & abuse, protect revenue, & automate operations. | Shopify App Store
+meta description : Wyllo is the CX-first risk intelligence platform for Shopify brands, preventing fraud before purchase & reducing post-purchase refund, dispute, & policy abuse .
+canonical URL    : https://apps.shopify.com/nofraud-chargeback-prevention-and-protection
+<h1> tags ( 1)  : 'Wyllo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retune_20260830T180243Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retune_20260830T180243Z.html
+Requested URL    : https://apps.shopify.com/retune
+Final URL        : https://apps.shopify.com/retune
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,581 bytes / 160,468 chars
+Elapsed          : 0.715s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Order Editing — Retune - Let buyers edit address, email, phone to reduce cancellations | Shopify App Store
+meta description : Let shoppers update shipping address, email, and phone after ordering. Reduce support tickets and cancellations with self-serve order editing.
+canonical URL    : https://apps.shopify.com/retune
+<h1> tags ( 1)  : 'Order Editing — Retune'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

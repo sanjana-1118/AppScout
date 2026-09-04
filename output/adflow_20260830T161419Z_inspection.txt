@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adflow_20260830T161419Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adflow_20260830T161419Z.html
+Requested URL    : https://apps.shopify.com/adflow
+Final URL        : https://apps.shopify.com/adflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 203,361 bytes / 203,268 chars
+Elapsed          : 0.856s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AdFlow Google Shopping Feed - AI-powered google product feed optimization and custom labels. | Shopify App Store
+meta description : Optimize product feeds and automate custom labels with AI. Enhanced listings, dynamic performance-based labeling, and Google Shopping integration.
+canonical URL    : https://apps.shopify.com/adflow
+<h1> tags ( 1)  : 'AdFlow Google Shopping Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-alerts_20260830T173111Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-alerts_20260830T173111Z.html
+Requested URL    : https://apps.shopify.com/easy-alerts
+Final URL        : https://apps.shopify.com/easy-alerts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,639 bytes / 205,548 chars
+Elapsed          : 0.997s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Alerts: Slack, Email, SMS - Real-time alerts in Slack, Email, SMS, and more. 120 templates | Shopify App Store
+meta description : Easy Alerts consolidates every event in your Shopify store into real-time notifications that reach your team wherever they work: Slack, Email, SMS,...
+canonical URL    : https://apps.shopify.com/easy-alerts
+<h1> tags ( 1)  : 'Easy Alerts: Slack, Email, SMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

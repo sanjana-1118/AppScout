@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatleaf_20260830T184527Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chatleaf_20260830T184527Z.html
+Requested URL    : https://apps.shopify.com/chatleaf
+Final URL        : https://apps.shopify.com/chatleaf
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,111 bytes / 161,011 chars
+Elapsed          : 1.130s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Chatleaf - WhatsApp chat button for instant customer conversations | Shopify App Store
+meta description : Chatleaf adds a floating WhatsApp chat button to your store so
+  shoppers can reach you in one tap. When they click, WhatsApp
+  opens with your num...
+canonical URL    : https://apps.shopify.com/chatleaf
+<h1> tags ( 1)  : 'Chatleaf'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adyogi-remarketing_20260830T090240Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adyogi-remarketing_20260830T090240Z.html
+Requested URL    : https://apps.shopify.com/adyogi-remarketing
+Final URL        : https://apps.shopify.com/adyogi-remarketing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,806 bytes / 202,717 chars
+Elapsed          : 0.554s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Adyogi Facebook & Insta Ads - Automate Meta Ads for Higher Returns | Shopify App Store
+meta description : Automate your Meta marketing with a strategy devised by professionals in the field to deliver the optimum returns and increase sales.
+
+AdYogi Marke...
+canonical URL    : https://apps.shopify.com/adyogi-remarketing
+<h1> tags ( 1)  : 'Adyogi Facebook & Insta Ads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

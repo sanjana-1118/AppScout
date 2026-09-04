@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\panda-tab-notifications_20260830T075706Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\panda-tab-notifications_20260830T075706Z.html
+Requested URL    : https://apps.shopify.com/panda-tab-notifications
+Final URL        : https://apps.shopify.com/panda-tab-notifications
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,366 bytes / 164,277 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Panda TAB Notifications - Recover sale using TAB notification & Mobile address bar color | Shopify App Store
+meta description : Recover sales using TAB notifications and change the mobile address bar color to match your brand color.
+canonical URL    : https://apps.shopify.com/panda-tab-notifications
+<h1> tags ( 1)  : 'Panda TAB Notifications'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

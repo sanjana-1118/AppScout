@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luchuang-reviews_20260829T184114Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\luchuang-reviews_20260829T184114Z.html
+Requested URL    : https://apps.shopify.com/luchuang-reviews
+Final URL        : https://apps.shopify.com/luchuang-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,124 bytes / 167,819 chars
+Elapsed          : 0.678s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LuChuang Reviews - 做中国人自己的 应用，长期免费提供核心功能 | Shopify App Store
+meta description : LuChuang Reviews 是一款面向中国卖家的免费 Shopify 评论应用，帮助商家快速搭建“评价采集 + 审核 + 展示”闭环。
+应用支持商品评论、星级评分、图片/视频上传，并提供清晰的评论管理后台，商家可进行审核、发布与状态管理。
+前台可通过评论组件展示真实用户反馈，增强社交信任...
+canonical URL    : https://apps.shopify.com/luchuang-reviews?locale=zh-CN
+<h1> tags ( 1)  : 'LuChuang Reviews'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

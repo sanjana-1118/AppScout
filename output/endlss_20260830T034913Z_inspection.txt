@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\endlss_20260830T034913Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\endlss_20260830T034913Z.html
+Requested URL    : https://apps.shopify.com/endlss
+Final URL        : https://apps.shopify.com/endlss
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,728 bytes / 216,606 chars
+Elapsed          : 0.600s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Endlss - Ambassador program software: recruit, manage & reward at scale | Shopify App Store
+meta description : Run your full ambassador program from Shopify. Recruit ambassadors, build missions, track sales, send gifts, and pay commissions — all in one place.
+canonical URL    : https://apps.shopify.com/endlss
+<h1> tags ( 1)  : 'Endlss'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

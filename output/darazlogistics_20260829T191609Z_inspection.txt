@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\darazlogistics_20260829T191609Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\darazlogistics_20260829T191609Z.html
+Requested URL    : https://apps.shopify.com/darazlogistics
+Final URL        : https://apps.shopify.com/darazlogistics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 210,423 bytes / 210,328 chars
+Elapsed          : 0.466s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Daraz Logistics - Ship orders efficiently and reliably with Daraz Express | Shopify App Store
+meta description : Manage all orders in one view with filers for date, fulfilment status and more. Book Daraz Express shipping service, get tracking numbers and print...
+canonical URL    : https://apps.shopify.com/darazlogistics
+<h1> tags ( 1)  : 'Daraz Logistics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

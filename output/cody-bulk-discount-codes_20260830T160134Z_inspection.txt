@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cody-bulk-discount-codes_20260830T160134Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cody-bulk-discount-codes_20260830T160134Z.html
+Requested URL    : https://apps.shopify.com/cody-bulk-discount-codes
+Final URL        : https://apps.shopify.com/cody-bulk-discount-codes
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,163 bytes / 188,052 chars
+Elapsed          : 1.070s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cody → Bulk Discount Codes - Generate and manage bulk discount codes for campaigns, loyalty | Shopify App Store
+meta description : Cody Bulk Code Generator makes it simple to create and manage large sets of discount codes for any Shopify discount. Generate unique codes in bulk ...
+canonical URL    : https://apps.shopify.com/cody-bulk-discount-codes
+<h1> tags ( 1)  : 'Cody → Bulk Discount Codes'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

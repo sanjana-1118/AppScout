@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webpay_20260830T155757Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\webpay_20260830T155757Z.html
+Requested URL    : https://apps.shopify.com/webpay
+Final URL        : https://apps.shopify.com/webpay
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,061 bytes / 181,935 chars
+Elapsed          : 0.921s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Webpay - Seguridad y confiabilidad de Transbank Webpay | Shopify App Store
+meta description : Integración de Webpay como pasarela de pago para los comercios Shopify en Chile.
+
+Solo los comercios que están en fase de piloto pueden activar est...
+canonical URL    : https://apps.shopify.com/webpay?locale=es
+<h1> tags ( 1)  : 'Webpay'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellshirts-1_20260830T164841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellshirts-1_20260830T164841Z.html
+Requested URL    : https://apps.shopify.com/sellshirts-1
+Final URL        : https://apps.shopify.com/sellshirts-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,113 bytes / 155,024 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : sellshirts - Print-on-demand t-shirt drop-shipping in under 24 hours. | Shopify App Store
+meta description : sellshirts allows you to start a t-shirt business without even seeing the t-shirts. No stock, simply low prices and 24 hour dispatch.
+canonical URL    : https://apps.shopify.com/sellshirts-1
+<h1> tags ( 1)  : 'sellshirts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

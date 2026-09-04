@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sales-vat-breakdown_20260830T172927Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sales-vat-breakdown_20260830T172927Z.html
+Requested URL    : https://apps.shopify.com/sales-vat-breakdown
+Final URL        : https://apps.shopify.com/sales-vat-breakdown
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,699 bytes / 179,605 chars
+Elapsed          : 0.990s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sales Tax Breakdown by Ceeglo - Break down every order by country, payment method, and VAT | Shopify App Store
+meta description : Generate accurate VAT and sales reports for Shopify. Break down orders by country, payment method, and tax rate. Export accountant-ready PDFs in seconds.
+canonical URL    : https://apps.shopify.com/sales-vat-breakdown
+<h1> tags ( 1)  : 'Sales Tax Breakdown by Ceeglo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

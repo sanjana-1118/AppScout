@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rushcart-cart-countdown-timer_20260830T163439Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rushcart-cart-countdown-timer_20260830T163439Z.html
+Requested URL    : https://apps.shopify.com/rushcart-cart-countdown-timer
+Final URL        : https://apps.shopify.com/rushcart-cart-countdown-timer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,970 bytes / 190,857 chars
+Elapsed          : 0.816s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RushCart: Cart Countdown Timer - Add urgency timers to shopping carts to reduce abandonment | Shopify App Store
+meta description : Add urgency to your Shopify cart with RushCart reservation timers. Show customers how long items are reserved to reduce abandonment and drive more sales.
+canonical URL    : https://apps.shopify.com/rushcart-cart-countdown-timer
+<h1> tags ( 1)  : 'RushCart: Cart Countdown Timer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

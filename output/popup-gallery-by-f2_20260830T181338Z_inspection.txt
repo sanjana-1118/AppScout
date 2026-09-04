@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-gallery-by-f2_20260830T181338Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-gallery-by-f2_20260830T181338Z.html
+Requested URL    : https://apps.shopify.com/popup-gallery-by-f2
+Final URL        : https://apps.shopify.com/popup-gallery-by-f2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,080 bytes / 173,991 chars
+Elapsed          : 0.896s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Popup Gallery By F2 - Create popups, collect emails, and promote store offers | Shopify App Store
+meta description : Create email signup popups, discount popups, announcement popups, and countdown timer bars for your Shopify store with easy customization.
+canonical URL    : https://apps.shopify.com/popup-gallery-by-f2
+<h1> tags ( 1)  : 'Popup Gallery By F2'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\groupmate_20260830T042353Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\groupmate_20260830T042353Z.html
+Requested URL    : https://apps.shopify.com/groupmate
+Final URL        : https://apps.shopify.com/groupmate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,668 bytes / 212,574 chars
+Elapsed          : 0.608s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : groupmate Combined Listings - Cross-Link similar Products and display them like Variants | Shopify App Store
+meta description : Do you need dedicated product pages for your variants? Want your customers to switch between them easily? groupmate can help with that.
+We simplify...
+canonical URL    : https://apps.shopify.com/groupmate
+<h1> tags ( 1)  : 'groupmate Combined Listings'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

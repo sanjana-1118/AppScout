@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ga-buttons_20260830T060625Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ga-buttons_20260830T060625Z.html
+Requested URL    : https://apps.shopify.com/ga-buttons
+Final URL        : https://apps.shopify.com/ga-buttons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,130 bytes / 163,037 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GA: Buttons - Add WhatsApp, Call & Social Buttons to Increase Sales | Shopify App Store
+meta description : Buttons gives full control over how your buttons look, feel, and behave. Whether you want to drive users to chat, follow your social media, share c...
+canonical URL    : https://apps.shopify.com/ga-buttons
+<h1> tags ( 1)  : 'GA: Buttons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

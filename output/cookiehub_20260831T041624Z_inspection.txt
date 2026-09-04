@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cookiehub_20260831T041624Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cookiehub_20260831T041624Z.html
+Requested URL    : https://apps.shopify.com/cookiehub
+Final URL        : https://apps.shopify.com/cookiehub
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,301 bytes / 200,211 chars
+Elapsed          : 0.877s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CookieHub - Easily manage and control the use of cookies on your... | Shopify App Store
+meta description : CookieHub is a fully featured cookie consent solution with automatic cookie scanning, providing everything you need to get consent from your web visitors.
+canonical URL    : https://apps.shopify.com/cookiehub
+<h1> tags ( 1)  : 'CookieHub'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

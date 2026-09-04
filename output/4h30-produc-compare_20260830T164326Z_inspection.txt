@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\4h30-produc-compare_20260830T164326Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\4h30-produc-compare_20260830T164326Z.html
+Requested URL    : https://apps.shopify.com/4h30-produc-compare
+Final URL        : https://apps.shopify.com/4h30-produc-compare
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,006 bytes / 175,899 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 2PM ‑ Product Compare - Help shoppers compare specs and choose the product | Shopify App Store
+meta description : Add product comparison to your Shopify store. Let customers compare specs side-by-side with customizable attributes, highlight differences, and SEO-friendly
+canonical URL    : https://apps.shopify.com/4h30-produc-compare
+<h1> tags ( 1)  : '2PM ‑ Product Compare'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hermessync_20260831T041759Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hermessync_20260831T041759Z.html
+Requested URL    : https://apps.shopify.com/hermessync
+Final URL        : https://apps.shopify.com/hermessync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,575 bytes / 179,480 chars
+Elapsed          : 0.801s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : HermesSync: Trend & Ad Radar - Detect TikTok Spikes & Meta Ad Saturation Before Launching Ads | Shopify App Store
+meta description : Spot untapped products before they saturate. HermesSync scans trends, labels market phase, and builds AI product pages for Shopify in minutes.
+canonical URL    : https://apps.shopify.com/hermessync
+<h1> tags ( 1)  : 'HermesSync: Trend & Ad Radar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

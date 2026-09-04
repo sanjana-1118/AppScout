@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoppingplus-loyalty-premi_20260830T180127Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shoppingplus-loyalty-premi_20260830T180127Z.html
+Requested URL    : https://apps.shopify.com/shoppingplus-loyalty-premi
+Final URL        : https://apps.shopify.com/shoppingplus-loyalty-premi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,212 bytes / 196,084 chars
+Elapsed          : 0.868s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShoppingPlus ‑ Loyalty & Premi - Fidelity Card, punti, premi e direct marketing per fidelizzare | Shopify App Store
+meta description : Shopping Plus è la piattaforma completa per la fidelizzazione dei clienti del tuo store Shopify e Shopify POS. Integra raccolta punti, sconti e dir...
+canonical URL    : https://apps.shopify.com/shoppingplus-loyalty-premi?locale=it
+<h1> tags ( 1)  : 'ShoppingPlus ‑ Loyalty & Premi'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

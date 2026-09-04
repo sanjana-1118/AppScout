@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/business-card-wepnp-editor",
+  "fetch_timestamp": "2026-08-30T14:13:30.236585+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\business-card-wepnp-editor_20260830T141330Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\business-card-wepnp-editor_20260830T141330Z.html",
+    "url": "https://apps.shopify.com/business-card-wepnp-editor",
+    "final_url": "https://apps.shopify.com/business-card-wepnp-editor",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 181447,
+    "body_text_length": 181290,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.75357,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Business Card WEPNP Editor - Empower your e-commerce customers to customize their products. | Shopify App Store",
+    "meta_description": "We utilize the editor within the web environment, allowing users to customize their products without the need for separate design tools. Our app en...",
+    "canonical_url": "https://apps.shopify.com/business-card-wepnp-editor",
+    "h1_tags": [
+      "Business Card WEPNP Editor"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Business Card WEPNP Editor",
+    "app_slug": "business-card-wepnp-editor",
+    "app_url": "https://apps.shopify.com/business-card-wepnp-editor",
+    "developer_name": "주식회사 위피엔피",
+    "description": "We utilize the editor within the web environment, allowing users to customize their products without the need for separate design tools. Our app en...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Custom file upload"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\business-card-wepnp-editor_20260830T141330Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\business-card-wepnp-editor_20260830T141330Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Business Card WEPNP Editor",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "business-card-wepnp-editor",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/business-card-wepnp-editor",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "주식회사 위피엔피",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "We utilize the editor within the web environment, allowing users to customize their products without the need for separate design tools. Our app en...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Custom file upload",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yering-bulk-media-upload_20260830T172444Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\yering-bulk-media-upload_20260830T172444Z.html
+Requested URL    : https://apps.shopify.com/yering-bulk-media-upload
+Final URL        : https://apps.shopify.com/yering-bulk-media-upload
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,254 bytes / 174,165 chars
+Elapsed          : 0.784s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yering Bulk Media Upload - Upload product media faster with Excel and SKU folders. | Shopify App Store
+meta description : Bulk upload local product images and videos from Excel and SKU folders, then assign media to the right products and variants automatically.
+canonical URL    : https://apps.shopify.com/yering-bulk-media-upload
+<h1> tags ( 1)  : 'Yering Bulk Media Upload'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

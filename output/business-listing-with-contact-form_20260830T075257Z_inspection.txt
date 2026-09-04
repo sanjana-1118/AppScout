@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\business-listing-with-contact-form_20260830T075257Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\business-listing-with-contact-form_20260830T075257Z.html
+Requested URL    : https://apps.shopify.com/business-listing-with-contact-form
+Final URL        : https://apps.shopify.com/business-listing-with-contact-form
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,752 bytes / 173,663 chars
+Elapsed          : 0.606s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TI: Business Listing - Let your customers find your all store locations in no... | Shopify App Store
+meta description : Business Listing with Contact Form provides you options to add multiple store address, Your Users can easily see the list of all your addresses of ...
+canonical URL    : https://apps.shopify.com/business-listing-with-contact-form
+<h1> tags ( 1)  : 'TI: Business Listing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

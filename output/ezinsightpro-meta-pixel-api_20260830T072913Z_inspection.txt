@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ezinsightpro-meta-pixel-api_20260830T072913Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ezinsightpro-meta-pixel-api_20260830T072913Z.html
+Requested URL    : https://apps.shopify.com/ezinsightpro-meta-pixel-api
+Final URL        : https://apps.shopify.com/ezinsightpro-meta-pixel-api
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,258 bytes / 194,121 chars
+Elapsed          : 0.550s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Facebook Pixel & API EZInsight - Get more out of your Meta Ads by connecting unlimited... | Shopify App Store
+meta description : Capture All major signals​ - Page Views​, Add to Cart​, Checkout Started​,Purchase Orders​
+Realtime sync with Face book!​
+canonical URL    : https://apps.shopify.com/ezinsightpro-meta-pixel-api
+<h1> tags ( 1)  : 'Facebook Pixel & API EZInsight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelly-ai-chatbot-faqs_20260830T154941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shelly-ai-chatbot-faqs_20260830T154941Z.html
+Requested URL    : https://apps.shopify.com/shelly-ai-chatbot-faqs
+Final URL        : https://apps.shopify.com/shelly-ai-chatbot-faqs
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,184 bytes / 226,055 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shelly: AI Chatbot & FAQs - Instant customer support, close sales – 24/7 AI chatbot &... | Shopify App Store
+meta description : Take all sales opportunities with Shelly AI’s 24/7 automation workflow – all time zones, all global markets. Shelly AI sales assistant instantly an...
+canonical URL    : https://apps.shopify.com/shelly-ai-chatbot-faqs
+<h1> tags ( 1)  : 'Shelly: AI Chatbot & FAQs'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

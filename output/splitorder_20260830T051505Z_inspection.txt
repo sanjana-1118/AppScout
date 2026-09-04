@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\splitorder_20260830T051505Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\splitorder_20260830T051505Z.html
+Requested URL    : https://apps.shopify.com/splitorder
+Final URL        : https://apps.shopify.com/splitorder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,419 bytes / 214,326 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SplitOrder - Create rules to split orders & automate fulfillment workflows! | Shopify App Store
+meta description : Split items in the same purchase as separate Shopify or ShipStation orders! Create powerful rules to split orders by product attribute e.g. overweight, custom!
+canonical URL    : https://apps.shopify.com/splitorder
+<h1> tags ( 1)  : 'SplitOrder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-image-cleaner-ai_20260830T175835Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-image-cleaner-ai_20260830T175835Z.html
+Requested URL    : https://apps.shopify.com/product-image-cleaner-ai
+Final URL        : https://apps.shopify.com/product-image-cleaner-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,952 bytes / 178,861 chars
+Elapsed          : 0.874s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Image Cleaner AI - Remove text from product images and save clean results. | Shopify App Store
+meta description : Remove unwanted text from product images, preview cleaned results, and add new product media to your store without replacing originals.
+canonical URL    : https://apps.shopify.com/product-image-cleaner-ai
+<h1> tags ( 1)  : 'Image Cleaner AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

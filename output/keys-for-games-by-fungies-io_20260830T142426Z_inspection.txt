@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keys-for-games-by-fungies-io_20260830T142426Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\keys-for-games-by-fungies-io_20260830T142426Z.html
+Requested URL    : https://apps.shopify.com/keys-for-games-by-fungies-io
+Final URL        : https://apps.shopify.com/keys-for-games-by-fungies-io
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,443 bytes / 162,346 chars
+Elapsed          : 0.852s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Keys for games by Fungies.io - Automatically send game keys to your customers after purchase | Shopify App Store
+meta description : Create games, create keys and send automatically it after buy product to clients.
+canonical URL    : https://apps.shopify.com/keys-for-games-by-fungies-io
+<h1> tags ( 1)  : 'Keys for games by Fungies.io'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

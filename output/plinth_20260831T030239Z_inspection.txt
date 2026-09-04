@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plinth_20260831T030239Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plinth_20260831T030239Z.html
+Requested URL    : https://apps.shopify.com/plinth
+Final URL        : https://apps.shopify.com/plinth
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,887 bytes / 178,776 chars
+Elapsed          : 0.848s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Plinth: AI Product Photos - Restage the photos you have into studio and lifestyle shots | Shopify App Store
+meta description : Plinth turns the product photos you already have into studio, flatlay and lifestyle scenes for your Shopify store. 19 looks or your own prompt. Free to try.
+canonical URL    : https://apps.shopify.com/plinth
+<h1> tags ( 1)  : 'Plinth: AI Product Photos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

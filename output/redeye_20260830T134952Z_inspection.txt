@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redeye_20260830T134952Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\redeye_20260830T134952Z.html
+Requested URL    : https://apps.shopify.com/redeye
+Final URL        : https://apps.shopify.com/redeye
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 154,889 bytes / 154,798 chars
+Elapsed          : 0.849s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RedEye - Automate your Store data into the RedEye platform | Shopify App Store
+meta description : The RedEye App is aimed at new or existing RedEye clients that utilise a Shopify Store. The app will allow automated loading of your store data for...
+canonical URL    : https://apps.shopify.com/redeye
+<h1> tags ( 1)  : 'RedEye'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\splitsmart_20260830T150126Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\splitsmart_20260830T150126Z.html
+Requested URL    : https://apps.shopify.com/splitsmart
+Final URL        : https://apps.shopify.com/splitsmart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,099 bytes / 186,006 chars
+Elapsed          : 0.641s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SplitSmart: A/B Testing & CRO - A/B test prices, product variants, and landing pages for CRO | Shopify App Store
+meta description : A/B test product prices, variants, and landing pages with SplitSmart. Built-in analytics, automatic traffic splitting, and real-time results for Shopify stores.
+canonical URL    : https://apps.shopify.com/splitsmart
+<h1> tags ( 1)  : 'SplitSmart: A/B Testing & CRO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

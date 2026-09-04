@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vinext-sale-notification_20260830T061551Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vinext-sale-notification_20260830T061551Z.html
+Requested URL    : https://apps.shopify.com/vinext-sale-notification
+Final URL        : https://apps.shopify.com/vinext-sale-notification
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,886 bytes / 171,791 chars
+Elapsed          : 0.535s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ViNext Sale Notification - Showcase real-time purchases, creating a bustling online store | Shopify App Store
+meta description : Generate sale notification popups to incentivize customers to make purchases
+canonical URL    : https://apps.shopify.com/vinext-sale-notification
+<h1> tags ( 1)  : 'ViNext Sale Notification'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

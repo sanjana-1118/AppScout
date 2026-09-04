@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\time-tracker_20260830T033704Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\time-tracker_20260830T033704Z.html
+Requested URL    : https://apps.shopify.com/time-tracker
+Final URL        : https://apps.shopify.com/time-tracker
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,357 bytes / 232,268 chars
+Elapsed          : 0.983s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : POS Time Tracker by ATeam Apps - Easily track staff time by having staff clock in at... | Shopify App Store
+meta description : POS Time Tracker is an easy-to-use time-tracking app built into Shopify POS and Shopify Admin. Staff can clock in and out directly from any Shopify POS device.
+canonical URL    : https://apps.shopify.com/time-tracker
+<h1> tags ( 1)  : 'POS Time Tracker by ATeam Apps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

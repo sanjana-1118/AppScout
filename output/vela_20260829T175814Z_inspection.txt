@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vela_20260829T175814Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vela_20260829T175814Z.html
+Requested URL    : https://apps.shopify.com/vela
+Final URL        : https://apps.shopify.com/vela
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,458 bytes / 236,337 chars
+Elapsed          : 0.570s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vela | AI, optimization & more - Optimize listing content and appearance to improve performance | Shopify App Store
+meta description : Vela allows you to connect and manage all of your shops from a single account. Optimize listings in bulk to save time and improve listing quality.
+canonical URL    : https://apps.shopify.com/vela
+<h1> tags ( 1)  : 'Vela | AI, optimization & more'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

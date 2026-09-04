@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-iq_20260830T073626Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bundle-iq_20260830T073626Z.html
+Requested URL    : https://apps.shopify.com/bundle-iq
+Final URL        : https://apps.shopify.com/bundle-iq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,717 bytes / 166,628 chars
+Elapsed          : 0.767s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BundleIQ - Bundle analytics: profitability, stockout risk & COGS | Shopify App Store
+meta description : BundleIQ auto-detects your Shopify bundles and gives you real-time profitability, stockout risk, COGS tracking, and cannibalization analytics.
+canonical URL    : https://apps.shopify.com/bundle-iq
+<h1> tags ( 1)  : 'BundleIQ'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

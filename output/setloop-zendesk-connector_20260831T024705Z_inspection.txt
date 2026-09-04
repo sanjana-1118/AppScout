@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\setloop-zendesk-connector_20260831T024705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\setloop-zendesk-connector_20260831T024705Z.html
+Requested URL    : https://apps.shopify.com/setloop-zendesk-connector
+Final URL        : https://apps.shopify.com/setloop-zendesk-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 149,953 bytes / 149,864 chars
+Elapsed          : 0.760s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Setloop Zendesk Connector - Refunds, reships, and order edits inside Zendesk tickets | Shopify App Store
+meta description : Support agents lose time switching between Zendesk and the Shopify admin. Setloop removes the switch: when a ticket opens, the requester's orders a...
+canonical URL    : https://apps.shopify.com/setloop-zendesk-connector
+<h1> tags ( 1)  : 'Setloop Zendesk Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

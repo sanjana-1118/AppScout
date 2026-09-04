@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\share-cart-3_20260830T064242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\share-cart-3_20260830T064242Z.html
+Requested URL    : https://apps.shopify.com/share-cart-3
+Final URL        : https://apps.shopify.com/share-cart-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,670 bytes / 211,581 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Share Cart: Share for Discount - Customers Share a Cart With a Friend & Both Get... | Shopify App Store
+meta description : Boost your sales with Share Cart. 
+Let customers share carts, earn referral rewards, and increase conversions with easy social sharing and cart discounts.
+canonical URL    : https://apps.shopify.com/share-cart-3
+<h1> tags ( 1)  : 'Share Cart: Share for Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

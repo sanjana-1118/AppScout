@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mit-ai-virtual-try-on_20260830T164856Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mit-ai-virtual-try-on_20260830T164856Z.html
+Requested URL    : https://apps.shopify.com/mit-ai-virtual-try-on
+Final URL        : https://apps.shopify.com/mit-ai-virtual-try-on
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,343 bytes / 188,254 chars
+Elapsed          : 0.785s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MIT AI Virtual Try On - AI-powered virtual fitting room. Visualize outfits instantly. | Shopify App Store
+meta description : Increase sales with MIT AI Virtual Try On. Let customers see how clothes fit on their own photos instantly using AI. Reduce returns and boost buyer confidence.
+canonical URL    : https://apps.shopify.com/mit-ai-virtual-try-on
+<h1> tags ( 1)  : 'MIT AI Virtual Try On'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

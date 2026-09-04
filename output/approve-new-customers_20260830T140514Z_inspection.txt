@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\approve-new-customers_20260830T140514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\approve-new-customers_20260830T140514Z.html
+Requested URL    : https://apps.shopify.com/approve-new-customers
+Final URL        : https://apps.shopify.com/approve-new-customers
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,529 bytes / 214,402 chars
+Elapsed          : 0.681s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Addify ‑ Approve New Customers - Manually approve new customer accounts or registrations. | Shopify App Store
+meta description : Manually review and approve new customer registrations on Shopify. Show dropdown tags on signups & validate new customer accounts by tags like B2B or Retailers.
+canonical URL    : https://apps.shopify.com/approve-new-customers
+<h1> tags ( 1)  : 'Addify ‑ Approve New Customers'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

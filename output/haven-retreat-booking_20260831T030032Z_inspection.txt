@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\haven-retreat-booking_20260831T030032Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\haven-retreat-booking_20260831T030032Z.html
+Requested URL    : https://apps.shopify.com/haven-retreat-booking
+Final URL        : https://apps.shopify.com/haven-retreat-booking
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,408 bytes / 194,313 chars
+Elapsed          : 1.082s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Haven: Retreat Booking - Sell and run multi-day retreats from your own store | Shopify App Store
+meta description : Haven lets hosts sell multi-day retreats on their store: build the page, take bookings as real orders, manage guests from one dashboard. No per-booking fee.
+canonical URL    : https://apps.shopify.com/haven-retreat-booking
+<h1> tags ( 1)  : 'Haven: Retreat Booking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

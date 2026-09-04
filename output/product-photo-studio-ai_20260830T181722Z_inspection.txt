@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-photo-studio-ai_20260830T181722Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-photo-studio-ai_20260830T181722Z.html
+Requested URL    : https://apps.shopify.com/product-photo-studio-ai
+Final URL        : https://apps.shopify.com/product-photo-studio-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,398 bytes / 172,307 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PandaPix - AI product photos for launches, pages, and ads | Shopify App Store
+meta description : Create polished AI product photos for launches, ads, and product pages. Generate studio, lifestyle, and white-background shots, then review and publish.
+canonical URL    : https://apps.shopify.com/product-photo-studio-ai
+<h1> tags ( 1)  : 'PandaPix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

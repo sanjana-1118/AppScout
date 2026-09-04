@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avantify-social-media-icons_20260830T055753Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avantify-social-media-icons_20260830T055753Z.html
+Requested URL    : https://apps.shopify.com/avantify-social-media-icons
+Final URL        : https://apps.shopify.com/avantify-social-media-icons
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,984 bytes / 236,891 chars
+Elapsed          : 0.464s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avantify: Social Media Icons - Nurture your social media platform with social sharing buttons | Shopify App Store
+meta description : Avantify - Social Media Icons allows you to add multiple social media icons (redes sociales) to your store and send customers to your social media ...
+canonical URL    : https://apps.shopify.com/avantify-social-media-icons
+<h1> tags ( 1)  : 'Avantify: Social Media Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

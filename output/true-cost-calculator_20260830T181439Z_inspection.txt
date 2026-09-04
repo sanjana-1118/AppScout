@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\true-cost-calculator_20260830T181439Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\true-cost-calculator_20260830T181439Z.html
+Requested URL    : https://apps.shopify.com/true-cost-calculator
+Final URL        : https://apps.shopify.com/true-cost-calculator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,599 bytes / 171,427 chars
+Elapsed          : 0.935s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : True Cost Calculator - Votre vraie marge nette sur chaque commande, alertes incluses. | Shopify App Store
+meta description : Arrêtez de vendre à perte. Surveillez votre marge nette réelle : douanes, TVA import, frais Shopify, retours, pub. Alerte dès qu'un produit décroche.
+canonical URL    : https://apps.shopify.com/true-cost-calculator?locale=fr
+<h1> tags ( 1)  : 'True Cost Calculator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

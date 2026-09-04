@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatflow_20260830T065716Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatflow_20260830T065716Z.html
+Requested URL    : https://apps.shopify.com/whatflow
+Final URL        : https://apps.shopify.com/whatflow
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 288,479 bytes / 288,389 chars
+Elapsed          : 0.517s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WhatFlow: Whatsapp Automation - Automate orders, recover carts, and send real-time updates | Shopify App Store
+meta description : WhatFlow helps Shopify merchants automate order confirmations, abandoned cart recovery, fulfillment updates, and cancellations via WhatsApp, improving sales.
+canonical URL    : https://apps.shopify.com/whatflow
+<h1> tags ( 1)  : 'WhatFlow: Whatsapp Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

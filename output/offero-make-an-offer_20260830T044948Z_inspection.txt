@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\offero-make-an-offer_20260830T044948Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\offero-make-an-offer_20260830T044948Z.html
+Requested URL    : https://apps.shopify.com/offero-make-an-offer
+Final URL        : https://apps.shopify.com/offero-make-an-offer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,346 bytes / 187,255 chars
+Elapsed          : 0.593s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Offero Make Offer & Best Offer - Make an offer button, best offer & pay what you... | Shopify App Store
+meta description : Add make an offer button & best offer widget. Let customers name their price, pay what you want & negotiate. Best alternative of Offerly & Magical.
+canonical URL    : https://apps.shopify.com/offero-make-an-offer
+<h1> tags ( 1)  : 'Offero Make Offer & Best Offer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

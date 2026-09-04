@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convobox_20260830T170911Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\convobox_20260830T170911Z.html
+Requested URL    : https://apps.shopify.com/convobox
+Final URL        : https://apps.shopify.com/convobox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,194 bytes / 173,101 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Convobox: WhatsApp Marketing - WhatsApp automations for orders, recovery & campaigns | Shopify App Store
+meta description : Automate WhatsApp messages for order confirmations, shipment tracking, abandoned cart recovery, and marketing campaigns for your Shopify store.
+canonical URL    : https://apps.shopify.com/convobox
+<h1> tags ( 1)  : 'Convobox: WhatsApp Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

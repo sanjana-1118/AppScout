@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shippr-1_20260830T032645Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shippr-1_20260830T032645Z.html
+Requested URL    : https://apps.shopify.com/shippr-1
+Final URL        : https://apps.shopify.com/shippr-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,872 bytes / 168,783 chars
+Elapsed          : 0.632s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Shippr - Integrate on-demand deliveries via Shippr | Shopify App Store
+meta description : This app allows you to send your store orders directly to the Shippr dashboard. Therefore, you do not need to re-encode all your customers' address...
+canonical URL    : https://apps.shopify.com/shippr-1
+<h1> tags ( 1)  : 'Shippr'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

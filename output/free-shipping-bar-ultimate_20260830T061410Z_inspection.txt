@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\free-shipping-bar-ultimate_20260830T061410Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\free-shipping-bar-ultimate_20260830T061410Z.html
+Requested URL    : https://apps.shopify.com/free-shipping-bar-ultimate
+Final URL        : https://apps.shopify.com/free-shipping-bar-ultimate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,792 bytes / 191,699 chars
+Elapsed          : 0.502s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : KILATECH Free Shipping Bar - Multi-currency supported dynamic free shipping bar banner | Shopify App Store
+meta description : Push your Shopify sales by offering an incentive above a set cart total. A floating banner showing the remaining amount to achieve the target would do the job.
+canonical URL    : https://apps.shopify.com/free-shipping-bar-ultimate
+<h1> tags ( 1)  : 'KILATECH Free Shipping Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

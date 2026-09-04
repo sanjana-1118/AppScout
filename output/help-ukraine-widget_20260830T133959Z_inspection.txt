@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\help-ukraine-widget_20260830T133959Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\help-ukraine-widget_20260830T133959Z.html
+Requested URL    : https://apps.shopify.com/help-ukraine-widget
+Final URL        : https://apps.shopify.com/help-ukraine-widget
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,030 bytes / 166,941 chars
+Elapsed          : 0.584s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Help Ukraine Widget - Your store can help stop cruel WAR! | Shopify App Store
+meta description : Shopify App Store: customize your online store and grow your business with Shopify-approved apps for marketing, store design, fulfillment, and more.
+canonical URL    : https://apps.shopify.com/help-ukraine-widget
+<h1> tags ( 1)  : 'Help Ukraine Widget'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

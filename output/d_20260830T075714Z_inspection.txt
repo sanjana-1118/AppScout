@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\d_20260830T075714Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\d_20260830T075714Z.html
+Requested URL    : https://apps.shopify.com/d
+Final URL        : https://apps.shopify.com/d
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 235,467 bytes / 228,455 chars
+Elapsed          : 0.529s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 配送日時指定 .amp | 配送日時指定 & 出荷伝票CSV - 配送希望日時の指定が可能に！簡単インストール。配送希望日時を取り込み、ヤマト運輸、佐川、日本郵便の出荷伝票作成もできます。 | Shopify App Store
+meta description : 配送日時指定.ampは、日本の各配送会社ごとの配送日時の設定、置き配、長期休暇時の設定、配送日時入りの配送伝票の一括CSVエクスポートなど配送業務を一元管理できるShopifyアプリです。配送日時指定amp.を導入することで、商品を購入したユーザーの予定に合わせた配達を可能にし、再配達の煩わしさを軽減します。
+canonical URL    : https://apps.shopify.com/d?locale=ja
+<h1> tags ( 1)  : '配送日時指定 .amp | 配送日時指定 & 出荷伝票CSV'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

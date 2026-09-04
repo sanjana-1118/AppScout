@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amaspace_20260830T154045Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\amaspace_20260830T154045Z.html
+Requested URL    : https://apps.shopify.com/amaspace
+Final URL        : https://apps.shopify.com/amaspace
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,909 bytes / 183,808 chars
+Elapsed          : 0.575s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amaspace - 3D product customizer with AR, Try-On, and currency logic | Shopify App Store
+meta description : Amaspace lets Shopify merchants add a 3D product configurator with AR, Try-On, custom options, pricing logic, and fast integration — no coding required.
+canonical URL    : https://apps.shopify.com/amaspace
+<h1> tags ( 1)  : 'Amaspace'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

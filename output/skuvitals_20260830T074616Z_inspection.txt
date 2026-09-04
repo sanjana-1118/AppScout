@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skuvitals_20260830T074616Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skuvitals_20260830T074616Z.html
+Requested URL    : https://apps.shopify.com/skuvitals
+Final URL        : https://apps.shopify.com/skuvitals
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,551 bytes / 197,452 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SkuVitals Dead Stock Analytics - Find dead stock, fix catalog data, and know what to... | Shopify App Store
+meta description : All-in-one inventory health: find dead stock, fix catalog data, and know what to reorder.
+canonical URL    : https://apps.shopify.com/skuvitals
+<h1> tags ( 1)  : 'SkuVitals Dead Stock Analytics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

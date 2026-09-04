@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\withly-inbox_20260830T175343Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\withly-inbox_20260830T175343Z.html
+Requested URL    : https://apps.shopify.com/withly-inbox
+Final URL        : https://apps.shopify.com/withly-inbox
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,121 bytes / 179,999 chars
+Elapsed          : 0.674s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Withly Inbox ‑ AI Chat Bot - AI Chat Bot that answers customer questions from your store... | Shopify App Store
+meta description : Withly Inbox is an AI Chat Bot for Shopify that auto-syncs your store content and answers customer questions instantly. Free plan with 200 messages/month. No kn
+canonical URL    : https://apps.shopify.com/withly-inbox
+<h1> tags ( 1)  : 'Withly Inbox ‑ AI Chat Bot'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

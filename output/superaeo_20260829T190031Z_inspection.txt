@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\superaeo_20260829T190031Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\superaeo_20260829T190031Z.html
+Requested URL    : https://apps.shopify.com/superaeo
+Final URL        : https://apps.shopify.com/superaeo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,184 bytes / 182,095 chars
+Elapsed          : 0.701s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SuperAEO - See where AI engines cite you, and fix what they... | Shopify App Store
+meta description : Be discovered by AI Engines. A comprehensive AEO - Answer Engine Optimization, and GEO app for Shopify.
+canonical URL    : https://apps.shopify.com/superaeo
+<h1> tags ( 1)  : 'SuperAEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

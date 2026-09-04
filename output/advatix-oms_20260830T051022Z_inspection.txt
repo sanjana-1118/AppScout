@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advatix-oms_20260830T051022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advatix-oms_20260830T051022Z.html
+Requested URL    : https://apps.shopify.com/advatix-oms
+Final URL        : https://apps.shopify.com/advatix-oms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,708 bytes / 155,599 chars
+Elapsed          : 0.669s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Advatix OMS ‑ WeShip - Syncs your products and orders with personalized Advatix OMS | Shopify App Store
+meta description : This app will use order details and pass it to our Advatix OMS for fulfilling the orders and print labels....
+canonical URL    : https://apps.shopify.com/advatix-oms
+<h1> tags ( 1)  : 'Advatix OMS ‑ WeShip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swatchify-color-swatches_20260830T042436Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\swatchify-color-swatches_20260830T042436Z.html
+Requested URL    : https://apps.shopify.com/swatchify-color-swatches
+Final URL        : https://apps.shopify.com/swatchify-color-swatches
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,626 bytes / 205,509 chars
+Elapsed          : 0.976s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Swatchify ‑ Color Swatch - Grow sale with Variant Swatch, Variant Images, Color Variants | Shopify App Store
+meta description : Show product color swatches, highlight out-of-stock variants & mix multi-tone styles. Enhance shopping experience & boost conversions with Swatchify.
+canonical URL    : https://apps.shopify.com/swatchify-color-swatches
+<h1> tags ( 1)  : 'Swatchify ‑ Color Swatch'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

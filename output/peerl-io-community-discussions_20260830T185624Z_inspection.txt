@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peerl-io-community-discussions_20260830T185624Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peerl-io-community-discussions_20260830T185624Z.html
+Requested URL    : https://apps.shopify.com/peerl-io-community-discussions
+Final URL        : https://apps.shopify.com/peerl-io-community-discussions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,895 bytes / 165,806 chars
+Elapsed          : 0.685s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Peerl.io Community Discussions - Add product-linked community discussions to your store | Shopify App Store
+meta description : Add product-linked community conversations to your storefront. Let shoppers ask questions, join discussions, and browse with more confidence.
+canonical URL    : https://apps.shopify.com/peerl-io-community-discussions
+<h1> tags ( 1)  : 'Peerl.io Community Discussions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

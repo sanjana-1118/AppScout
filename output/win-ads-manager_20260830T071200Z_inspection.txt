@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\win-ads-manager_20260830T071200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\win-ads-manager_20260830T071200Z.html
+Requested URL    : https://apps.shopify.com/win-ads-manager
+Final URL        : https://apps.shopify.com/win-ads-manager
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,663 bytes / 214,574 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WinAds : Facebook Pixels - Helps you Add, Track and Optimize Pixels across all platforms | Shopify App Store
+meta description : WinAds is an all-in-one Facebook, Instagram, TikTok, & Snapchat pixel manager in one place with capability of catalog and audience creation on all social media.
+canonical URL    : https://apps.shopify.com/win-ads-manager
+<h1> tags ( 1)  : 'WinAds : Facebook Pixels'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

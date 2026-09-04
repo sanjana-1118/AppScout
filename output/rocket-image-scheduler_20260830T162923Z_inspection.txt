@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rocket-image-scheduler_20260830T162923Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\rocket-image-scheduler_20260830T162923Z.html
+Requested URL    : https://apps.shopify.com/rocket-image-scheduler
+Final URL        : https://apps.shopify.com/rocket-image-scheduler
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,773 bytes / 163,678 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Rocket Image Scheduler - Automate your store visuals with timed image scheduling | Shopify App Store
+meta description : It makes visual scheduling effortless for Shopify merchants.
+Easily automate the display of homepage banners, slideshows, or promotional images so ...
+canonical URL    : https://apps.shopify.com/rocket-image-scheduler
+<h1> tags ( 1)  : 'Rocket Image Scheduler'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

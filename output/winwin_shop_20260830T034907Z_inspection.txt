@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\winwin_shop_20260830T034907Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\winwin_shop_20260830T034907Z.html
+Requested URL    : https://apps.shopify.com/winwin_shop
+Final URL        : https://apps.shopify.com/winwin_shop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,582 bytes / 169,421 chars
+Elapsed          : 0.773s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WinWin - Automated affiliate marketing with creator tracking and commis | Shopify App Store
+meta description : WinWin is an advanced creator partnership management platform for Shopify merchants, combining powerful automations, performance tracking, and comp...
+canonical URL    : https://apps.shopify.com/winwin_shop
+<h1> tags ( 1)  : 'WinWin'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

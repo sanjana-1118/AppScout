@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-notification-1_20260830T152303Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popup-notification-1_20260830T152303Z.html
+Requested URL    : https://apps.shopify.com/popup-notification-1
+Final URL        : https://apps.shopify.com/popup-notification-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 165,511 bytes / 165,398 chars
+Elapsed          : 0.839s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Instant Pop - Create instant popups for sales, updates, and announcements. | Shopify App Store
+meta description : Instant Pop lets Shopify merchants create instant popup notifications for any purpose — sales alerts, product updates, announcements, or custom mes...
+canonical URL    : https://apps.shopify.com/popup-notification-1
+<h1> tags ( 1)  : 'Instant Pop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

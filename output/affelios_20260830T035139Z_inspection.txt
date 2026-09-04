@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\affelios_20260830T035139Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\affelios_20260830T035139Z.html
+Requested URL    : https://apps.shopify.com/affelios
+Final URL        : https://apps.shopify.com/affelios
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,569 bytes / 157,476 chars
+Elapsed          : 0.787s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Affelios - An easy to use influencer, and affiliate marketing platform. | Shopify App Store
+meta description : An application to integrate Shopify with the Affelios platform.
+canonical URL    : https://apps.shopify.com/affelios
+<h1> tags ( 1)  : 'Affelios'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

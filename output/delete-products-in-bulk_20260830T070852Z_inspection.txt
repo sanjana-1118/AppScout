@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delete-products-in-bulk_20260830T070852Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delete-products-in-bulk_20260830T070852Z.html
+Requested URL    : https://apps.shopify.com/delete-products-in-bulk
+Final URL        : https://apps.shopify.com/delete-products-in-bulk
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,946 bytes / 184,857 chars
+Elapsed          : 0.684s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kacha Delete Products In Bulk - Effortlessly Bulk Delete Products By Collection | Shopify App Store
+meta description : Simple and easy to use, automatically delete products according to your conditions, no longer need to click one by one, safe and efficient!...
+canonical URL    : https://apps.shopify.com/delete-products-in-bulk
+<h1> tags ( 1)  : 'Kacha Delete Products In Bulk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/3peel",
+  "fetch_timestamp": "2026-08-30T15:29:51.865771+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\3peel_20260830T152951Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\3peel_20260830T152951Z.html",
+    "url": "https://apps.shopify.com/3peel",
+    "final_url": "https://apps.shopify.com/3peel",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 163694,
+    "body_text_length": 163575,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.040791,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "3PEEL ‑ 3PL Match + Optimize - Optimize your 3PL's location using your data and match to... | Shopify App Store",
+    "meta_description": "Use real customer data to find the best 3PL & warehouse location. Compare shipping quotes, map zones, and cut fulfillment costs with 3PEEL’s smart tool.",
+    "canonical_url": "https://apps.shopify.com/3peel",
+    "h1_tags": [
+      "3PEEL ‑ 3PL Match + Optimize"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "3PEEL ‑ 3PL Match + Optimize",
+    "app_slug": "3peel",
+    "app_url": "https://apps.shopify.com/3peel",
+    "developer_name": "3PEEL",
+    "description": "Use real customer data to find the best 3PL & warehouse location. Compare shipping quotes, map zones, and cut fulfillment costs with 3PEEL’s smart tool.",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Third-party logistics (3PL)"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\3peel_20260830T152951Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\3peel_20260830T152951Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "3PEEL ‑ 3PL Match + Optimize",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "3peel",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/3peel",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "3PEEL",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Use real customer data to find the best 3PL & warehouse location. Compare shipping quotes, map zones, and cut fulfillment costs with 3PEEL’s smart tool.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Third-party logistics (3PL)",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

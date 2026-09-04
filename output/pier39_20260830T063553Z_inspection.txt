@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pier39_20260830T063553Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pier39_20260830T063553Z.html
+Requested URL    : https://apps.shopify.com/pier39
+Final URL        : https://apps.shopify.com/pier39
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,294 bytes / 181,205 chars
+Elapsed          : 0.566s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pier39 AI Post Purchase Offers - Post purchase offer network for thank-you & order status pages | Shopify App Store
+meta description : Pier39 AI is a post purchase offer network for Shopify. Offers run on your thank-you & order status pages. Earn revenue on every engagement. Free to install.
+canonical URL    : https://apps.shopify.com/pier39
+<h1> tags ( 1)  : 'Pier39 AI Post Purchase Offers'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

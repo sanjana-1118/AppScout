@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storetwin_20260831T031102Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\storetwin_20260831T031102Z.html
+Requested URL    : https://apps.shopify.com/storetwin
+Final URL        : https://apps.shopify.com/storetwin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,796 bytes / 200,675 chars
+Elapsed          : 0.857s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StoreTwin ‑ Multi Store Sync - Sync your stores in real time, then prove the copies... | Shopify App Store
+meta description : Copy your catalog to a second Shopify store and keep it correct. Real-time sync of stock, variants and fields, with hourly checks and a daily full audit.
+canonical URL    : https://apps.shopify.com/storetwin
+<h1> tags ( 1)  : 'StoreTwin ‑ Multi Store Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

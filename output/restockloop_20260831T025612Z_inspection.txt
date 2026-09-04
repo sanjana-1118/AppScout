@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restockloop_20260831T025612Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\restockloop_20260831T025612Z.html
+Requested URL    : https://apps.shopify.com/restockloop
+Final URL        : https://apps.shopify.com/restockloop
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,370 bytes / 172,281 chars
+Elapsed          : 0.617s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RestockLoop - Reorder points from real sales, with purchase orders built in | Shopify App Store
+meta description : Turn real sales into urgency-ranked reorder suggestions and supplier purchase orders. Receive deliveries straight into stock. Flat $29/month, free trial.
+canonical URL    : https://apps.shopify.com/restockloop
+<h1> tags ( 1)  : 'RestockLoop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

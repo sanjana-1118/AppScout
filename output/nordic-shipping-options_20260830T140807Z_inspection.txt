@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nordic-shipping-options_20260830T140807Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nordic-shipping-options_20260830T140807Z.html
+Requested URL    : https://apps.shopify.com/nordic-shipping-options
+Final URL        : https://apps.shopify.com/nordic-shipping-options
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,016 bytes / 192,924 chars
+Elapsed          : 1.025s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nordic Shipping Options - Offer your customers GLS, PostNord, Dao and Bring shipping | Shopify App Store
+meta description : Parcelshops and pickup points are the most popular shipping option in several countries - and now you can easily offer it to your customers.
+canonical URL    : https://apps.shopify.com/nordic-shipping-options
+<h1> tags ( 1)  : 'Nordic Shipping Options'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

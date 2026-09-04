@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\generator-awb-curieri-romania_20260830T033309Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\generator-awb-curieri-romania_20260830T033309Z.html
+Requested URL    : https://apps.shopify.com/generator-awb-curieri-romania
+Final URL        : https://apps.shopify.com/generator-awb-curieri-romania
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,755 bytes / 172,666 chars
+Elapsed          : 0.809s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Awb Cadabra - Create AWBs, labels and track deliveries | Shopify App Store
+meta description : Create AWBs, print shipping labels, request courier pickups and track Shopify orders from one simple fulfillment app.
+canonical URL    : https://apps.shopify.com/generator-awb-curieri-romania
+<h1> tags ( 1)  : 'Awb Cadabra'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

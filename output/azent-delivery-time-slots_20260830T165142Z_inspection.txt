@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\azent-delivery-time-slots_20260830T165142Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\azent-delivery-time-slots_20260830T165142Z.html
+Requested URL    : https://apps.shopify.com/azent-delivery-time-slots
+Final URL        : https://apps.shopify.com/azent-delivery-time-slots
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,788 bytes / 207,681 chars
+Elapsed          : 0.831s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Azent – Delivery Time Slots - Delivery date picker for pickup, local delivery & time slots | Shopify App Store
+meta description : Let customers choose delivery or pickup dates and time slots. Set order limits, holidays, blackout dates, cutoff times, and delivery rules for local delivery.
+canonical URL    : https://apps.shopify.com/azent-delivery-time-slots
+<h1> tags ( 1)  : 'Azent – Delivery Time Slots'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

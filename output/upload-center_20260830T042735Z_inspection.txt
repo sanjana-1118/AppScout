@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upload-center_20260830T042735Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upload-center_20260830T042735Z.html
+Requested URL    : https://apps.shopify.com/upload-center
+Final URL        : https://apps.shopify.com/upload-center
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,613 bytes / 236,514 chars
+Elapsed          : 0.786s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Upload Center: File Upload - Break upload limitation - Calculate price based on custom unit | Shopify App Store
+meta description : Upload Center: automatically price products like t-shirts and phone cases with uploaded files. Speed up workflow with seamless uploads and dynamic pricing.
+canonical URL    : https://apps.shopify.com/upload-center
+<h1> tags ( 1)  : 'Upload Center: File Upload'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

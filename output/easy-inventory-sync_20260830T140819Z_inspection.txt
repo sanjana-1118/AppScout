@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-inventory-sync_20260830T140819Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-inventory-sync_20260830T140819Z.html
+Requested URL    : https://apps.shopify.com/easy-inventory-sync
+Final URL        : https://apps.shopify.com/easy-inventory-sync
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,307 bytes / 174,214 chars
+Elapsed          : 1.338s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wise Inventory Sync - Syncs inventory for multiple stores | Shopify App Store
+meta description : If you have more than one site and manage your inventory from a single point, this application will solve your inventory sharing problem.
+
+The prod...
+canonical URL    : https://apps.shopify.com/easy-inventory-sync
+<h1> tags ( 1)  : 'Wise Inventory Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

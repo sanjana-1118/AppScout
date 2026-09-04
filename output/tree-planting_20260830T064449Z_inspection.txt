@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tree-planting_20260830T064449Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tree-planting_20260830T064449Z.html
+Requested URL    : https://apps.shopify.com/tree-planting
+Final URL        : https://apps.shopify.com/tree-planting
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 240,276 bytes / 240,183 chars
+Elapsed          : 0.774s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GoodAPI: Donations and Trees - Plant trees, Remove plastic, Donate to 1.3 million non-profits | Shopify App Store
+meta description : #1 Shopify tree planting app. GoodAPI lets you embed tree planting and plastic removal in your Shopify store. Marketing badges tell your sustainability story
+canonical URL    : https://apps.shopify.com/tree-planting
+<h1> tags ( 1)  : 'GoodAPI: Donations and Trees'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

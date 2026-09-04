@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hidden-collections_20260830T061800Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hidden-collections_20260830T061800Z.html
+Requested URL    : https://apps.shopify.com/hidden-collections
+Final URL        : https://apps.shopify.com/hidden-collections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,664 bytes / 207,553 chars
+Elapsed          : 0.543s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hide Collection ‑ VIP Presales - Create secret collections for VIP's, or early access sales. | Shopify App Store
+meta description : After hiding a selected collection, it can only be accessed by a secret URL, which you can share with your selected audience. This feature is usefu...
+canonical URL    : https://apps.shopify.com/hidden-collections
+<h1> tags ( 1)  : 'Hide Collection ‑ VIP Presales'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body suggests an access-denied response.
+========================================================================

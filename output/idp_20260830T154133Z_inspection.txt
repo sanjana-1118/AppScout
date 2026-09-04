@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\idp_20260830T154133Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\idp_20260830T154133Z.html
+Requested URL    : https://apps.shopify.com/idp
+Final URL        : https://apps.shopify.com/idp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,723 bytes / 176,604 chars
+Elapsed          : 0.640s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : FastPass SMS - New account page login for Israeli customers using SMS codes | Shopify App Store
+meta description : This app gives your Israeli customers a faster, easier way to log in to the new account page on your Shopify store. Instead of verifying each login...
+canonical URL    : https://apps.shopify.com/idp
+<h1> tags ( 1)  : 'FastPass SMS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

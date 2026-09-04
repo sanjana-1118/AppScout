@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecommerce-one_20260830T152721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ecommerce-one_20260830T152721Z.html
+Requested URL    : https://apps.shopify.com/ecommerce-one
+Final URL        : https://apps.shopify.com/ecommerce-one
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,736 bytes / 195,619 chars
+Elapsed          : 0.853s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eCommerce One - Manage orders, invoices, shipping, profits and more in one app | Shopify App Store
+meta description : Verbinde und verwalte deine Online-Shops auf unterschiedlichen Marktplätzen wie Amazon, ETSY, eBay und vielen mehr mit eCommerce One an einem Ort.
+canonical URL    : https://apps.shopify.com/ecommerce-one
+<h1> tags ( 1)  : 'eCommerce One'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

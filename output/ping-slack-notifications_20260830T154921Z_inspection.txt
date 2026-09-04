@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ping-slack-notifications_20260830T154921Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ping-slack-notifications_20260830T154921Z.html
+Requested URL    : https://apps.shopify.com/ping-slack-notifications
+Final URL        : https://apps.shopify.com/ping-slack-notifications
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,345 bytes / 174,234 chars
+Elapsed          : 0.955s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ping ‑ Slack Notifications - Real-Time Slack Notifications to keep your team in sync | Shopify App Store
+meta description : Send real-time store alerts to Slack. Customize triggers, use templates, and keep your team updated on sales, orders, and events instantly.
+canonical URL    : https://apps.shopify.com/ping-slack-notifications
+<h1> tags ( 1)  : 'Ping ‑ Slack Notifications'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

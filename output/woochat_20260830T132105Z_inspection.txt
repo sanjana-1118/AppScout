@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woochat_20260830T132105Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\woochat_20260830T132105Z.html
+Requested URL    : https://apps.shopify.com/woochat
+Final URL        : https://apps.shopify.com/woochat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,049 bytes / 216,956 chars
+Elapsed          : 0.952s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WooChat WhatsApp Marketing - Boost Sales with Personalized WhatsApp Messages | Shopify App Store
+meta description : WooChat Marketing Automation to Boost Sales and Increase Retention with WhatsApp Marketing
+
+- Recover lost sales by retargeting abandoned carts and...
+canonical URL    : https://apps.shopify.com/woochat
+<h1> tags ( 1)  : 'WooChat WhatsApp Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

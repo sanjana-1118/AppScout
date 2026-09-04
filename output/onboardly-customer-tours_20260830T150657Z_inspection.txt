@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onboardly-customer-tours_20260830T150657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onboardly-customer-tours_20260830T150657Z.html
+Requested URL    : https://apps.shopify.com/onboardly-customer-tours
+Final URL        : https://apps.shopify.com/onboardly-customer-tours
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,857 bytes / 166,744 chars
+Elapsed          : 0.846s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnBoardly ‑ Customer Tours - Create engaging and informative onboarding tours for customers | Shopify App Store
+meta description : Interactive walkthroughs, key feature spotlights, in-app guidance, & additional resources to support users in navigating & understanding the product.
+canonical URL    : https://apps.shopify.com/onboardly-customer-tours
+<h1> tags ( 1)  : 'OnBoardly ‑ Customer Tours'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

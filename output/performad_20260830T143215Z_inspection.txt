@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\performad_20260830T143215Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\performad_20260830T143215Z.html
+Requested URL    : https://apps.shopify.com/performad
+Final URL        : https://apps.shopify.com/performad
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,065 bytes / 172,514 chars
+Elapsed          : 0.720s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GDPR Consent Banner - 自定义Cookie横幅，V2 高级模式更新隐私同意状态。 | Shopify App Store
+meta description : PerforMad Consent Mode Banner的实时数据看板，随时查看客户的隐私同意状态。
+AI 智能生成隐私政策页面，符合 欧盟GDPR、美国CCPA等不同地区隐私政策要求。
+提供多样化颜色选择，可设置横幅展示地区，满足不同网站定制化需求。
+开启 V2 高级实施模式，兼容 GTM...
+canonical URL    : https://apps.shopify.com/performad?locale=zh-CN
+<h1> tags ( 1)  : 'GDPR Consent Banner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

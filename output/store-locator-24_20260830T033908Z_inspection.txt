@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-locator-24_20260830T033908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-locator-24_20260830T033908Z.html
+Requested URL    : https://apps.shopify.com/store-locator-24
+Final URL        : https://apps.shopify.com/store-locator-24
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 198,120 bytes / 198,024 chars
+Elapsed          : 0.620s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Fynd Store Locator - Custom store locator with or without Google Maps integration. | Shopify App Store
+meta description : Fynd Store Locator helps customers find your stores, dealers, and business locations with an easy-to-use, mobile-friendly locator.
+
+Add multiple lo...
+canonical URL    : https://apps.shopify.com/store-locator-24
+<h1> tags ( 1)  : 'Fynd Store Locator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

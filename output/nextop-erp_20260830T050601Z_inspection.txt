@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nextop-erp_20260830T050601Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nextop-erp_20260830T050601Z.html
+Requested URL    : https://apps.shopify.com/nextop-erp
+Final URL        : https://apps.shopify.com/nextop-erp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,141 bytes / 148,998 chars
+Elapsed          : 0.537s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nextop ERP - 帮助全球跨境电商卖家提供多店铺管理、业财一体化的全链路管理服务 | Shopify App Store
+meta description : 1.联动库存归属，支持多平台备货、多维度的计算公式满足各种场景的备货计划，计算销量达成率反补备货计划并形成闭环。
+2.库存批次管理可追溯每一批货各节点流转、关联平台销售订单的成本及各批次库存的库龄等;库存归属完美解决同仓同货不同销售渠道或货物权属问题，自动划分各运营归属库存联动备货计算。
+3....
+canonical URL    : https://apps.shopify.com/nextop-erp?locale=zh-CN
+<h1> tags ( 1)  : 'Nextop ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

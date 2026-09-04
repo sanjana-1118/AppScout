@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pure-tasks_20260831T024352Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pure-tasks_20260831T024352Z.html
+Requested URL    : https://apps.shopify.com/pure-tasks
+Final URL        : https://apps.shopify.com/pure-tasks
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,670 bytes / 181,577 chars
+Elapsed          : 0.448s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pure Tasks - A simple kanban board, linked to products, orders & customers | Shopify App Store
+meta description : Create and manage tasks and notes linked to products, orders, customers and collections. Keep store follow-ups organized where the work happens.
+canonical URL    : https://apps.shopify.com/pure-tasks
+<h1> tags ( 1)  : 'Pure Tasks'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

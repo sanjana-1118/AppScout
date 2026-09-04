@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\signcontract-dev_20260831T034236Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\signcontract-dev_20260831T034236Z.html
+Requested URL    : https://apps.shopify.com/signcontract-dev
+Final URL        : https://apps.shopify.com/signcontract-dev
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,774 bytes / 184,679 chars
+Elapsed          : 0.548s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SignContract: Order Signing - Automated order-based document signing | Shopify App Store
+meta description : Request signed documents after checkout, assign contract templates to products or collections, and review signed PDFs and audit records from Shopify admin.
+canonical URL    : https://apps.shopify.com/signcontract-dev
+<h1> tags ( 1)  : 'SignContract: Order Signing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

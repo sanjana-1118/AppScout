@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profixo_20260830T073453Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profixo_20260830T073453Z.html
+Requested URL    : https://apps.shopify.com/profixo
+Final URL        : https://apps.shopify.com/profixo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,063 bytes / 187,970 chars
+Elapsed          : 0.477s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Profixo: Profit Leak Detector - AI alerts that find where your store loses profit. | Shopify App Store
+meta description : Profixo detects where your Shopify store bleeds money - fees, refunds, ad waste. AI-powered daily alerts tell you exactly what to fix and how much you save.
+canonical URL    : https://apps.shopify.com/profixo
+<h1> tags ( 1)  : 'Profixo: Profit Leak Detector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

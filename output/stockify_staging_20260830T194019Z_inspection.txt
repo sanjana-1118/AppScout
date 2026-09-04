@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockify_staging_20260830T194019Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockify_staging_20260830T194019Z.html
+Requested URL    : https://apps.shopify.com/stockify_staging
+Final URL        : https://apps.shopify.com/stockify_staging
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,870 bytes / 200,781 chars
+Elapsed          : 0.845s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Stockie by Section Kit - Inventory tracking, automated POs, and sales analytics. | Shopify App Store
+meta description : Stockie simplifies inventory management by providing centralized control over your entire stock lifecycle. Merchants struggle with fragmented data ...
+canonical URL    : https://apps.shopify.com/stockify_staging
+<h1> tags ( 1)  : 'Stockie by Section Kit'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

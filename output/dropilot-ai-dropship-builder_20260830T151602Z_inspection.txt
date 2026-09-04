@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropilot-ai-dropship-builder_20260830T151602Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropilot-ai-dropship-builder_20260830T151602Z.html
+Requested URL    : https://apps.shopify.com/dropilot-ai-dropship-builder
+Final URL        : https://apps.shopify.com/dropilot-ai-dropship-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,096 bytes / 210,978 chars
+Elapsed          : 0.840s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dropilot ‑ Bulk Import AI - Bulk import trending dropshipping products in one click by AI | Shopify App Store
+meta description : Dropilot helps Shopify merchants automate dropshipping. Bulk import products, sync inventory, auto-organize categories, currency with AI-generated content.
+canonical URL    : https://apps.shopify.com/dropilot-ai-dropship-builder
+<h1> tags ( 1)  : 'Dropilot ‑ Bulk Import AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

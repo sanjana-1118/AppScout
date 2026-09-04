@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supercycle_20260830T141811Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supercycle_20260830T141811Z.html
+Requested URL    : https://apps.shopify.com/supercycle
+Final URL        : https://apps.shopify.com/supercycle
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 217,759 bytes / 217,650 chars
+Elapsed          : 0.614s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supercycle - Rent, subscribe and resale with serialized items & charges.  | Shopify App Store
+meta description : Inventory management that understands individual items (serials), allowing you to track the items current location, it's past movements and it's ch...
+canonical URL    : https://apps.shopify.com/supercycle
+<h1> tags ( 1)  : 'Supercycle'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

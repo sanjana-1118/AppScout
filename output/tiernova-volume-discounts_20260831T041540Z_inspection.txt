@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tiernova-volume-discounts_20260831T041540Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tiernova-volume-discounts_20260831T041540Z.html
+Requested URL    : https://apps.shopify.com/tiernova-volume-discounts
+Final URL        : https://apps.shopify.com/tiernova-volume-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 236,616 bytes / 236,507 chars
+Elapsed          : 0.524s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TierNova ‑ Volume Discounts - Run volume, bundle, BOGO & wholesale discounts from one app | Shopify App Store
+meta description : Run volume discounts, quantity breaks, bundles, BOGO, free gifts, free shipping and wholesale B2B pricing from one app, applied automatically at checkout.
+canonical URL    : https://apps.shopify.com/tiernova-volume-discounts
+<h1> tags ( 1)  : 'TierNova ‑ Volume Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

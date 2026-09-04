@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\same-day-delivery-by-getcho_20260830T145942Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\same-day-delivery-by-getcho_20260830T145942Z.html
+Requested URL    : https://apps.shopify.com/same-day-delivery-by-getcho
+Final URL        : https://apps.shopify.com/same-day-delivery-by-getcho
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,898 bytes / 239,785 chars
+Elapsed          : 1.388s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Getcho ‑ Same Day Delivery Ops - Start offering same day delivery, we handle everything for you | Shopify App Store
+meta description : Same-day delivery on Shopify through Getcho. Inventory-aware routing, driver dispatch on fulfillment signals. Any payload, 100+ mile range. All US cities.
+canonical URL    : https://apps.shopify.com/same-day-delivery-by-getcho
+<h1> tags ( 1)  : 'Getcho ‑ Same Day Delivery Ops'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

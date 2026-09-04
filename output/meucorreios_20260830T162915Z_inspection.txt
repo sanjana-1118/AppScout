@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meucorreios_20260830T162915Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\meucorreios_20260830T162915Z.html
+Requested URL    : https://apps.shopify.com/meucorreios
+Final URL        : https://apps.shopify.com/meucorreios
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,152 bytes / 184,986 chars
+Elapsed          : 1.033s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MeuCorreios ‑ Frete e Rastreio - Cotação oficial Correios (PAC/SEDEX) direto no checkout. | Shopify App Store
+meta description : Integração nativa Correios para Shopify. Cálculo de frete (PAC/SEDEX) em tempo real no checkout usando seu contrato oficial. Evite erros e venda mais.
+canonical URL    : https://apps.shopify.com/meucorreios?locale=pt-BR
+<h1> tags ( 1)  : 'MeuCorreios ‑ Frete e Rastreio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pomatic_20260830T152721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pomatic_20260830T152721Z.html
+Requested URL    : https://apps.shopify.com/pomatic
+Final URL        : https://apps.shopify.com/pomatic
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,716 bytes / 178,627 chars
+Elapsed          : 0.937s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pomatic - AI-powered inventory planning to prevent stockouts | Shopify App Store
+meta description : Pomatic connects to your Shopify store and uses historical sales data to forecast demand with built-in seasonality detection. It projects inventory...
+canonical URL    : https://apps.shopify.com/pomatic
+<h1> tags ( 1)  : 'Pomatic'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

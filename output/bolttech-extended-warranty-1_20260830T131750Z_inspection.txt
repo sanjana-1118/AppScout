@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bolttech-extended-warranty-1_20260830T131750Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bolttech-extended-warranty-1_20260830T131750Z.html
+Requested URL    : https://apps.shopify.com/bolttech-extended-warranty-1
+Final URL        : https://apps.shopify.com/bolttech-extended-warranty-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 170,978 bytes / 170,873 chars
+Elapsed          : 1.833s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : bolttech Extended Warranty - Plug and play extended warranties to unlock additional revenue | Shopify App Store
+meta description : Additional service offering to your customers, additional revenue for your business:
+
+Flexibility to go“in and out” of extended warranty products u...
+canonical URL    : https://apps.shopify.com/bolttech-extended-warranty-1
+<h1> tags ( 1)  : 'bolttech Extended Warranty'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

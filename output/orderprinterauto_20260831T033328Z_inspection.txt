@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderprinterauto_20260831T033328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderprinterauto_20260831T033328Z.html
+Requested URL    : https://apps.shopify.com/orderprinterauto
+Final URL        : https://apps.shopify.com/orderprinterauto
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,877 bytes / 212,778 chars
+Elapsed          : 0.641s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OrderPrinterAuto Invoice - Branded invoices, packing slips & receipts—automate PDFs | Shopify App Store
+meta description : Create branded invoices, packing slips, and receipts. Automate PDF delivery and streamline fulfillment documents for Shopify orders.
+canonical URL    : https://apps.shopify.com/orderprinterauto
+<h1> tags ( 1)  : 'OrderPrinterAuto Invoice'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

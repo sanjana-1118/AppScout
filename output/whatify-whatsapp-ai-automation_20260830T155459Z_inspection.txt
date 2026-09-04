@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatify-whatsapp-ai-automation_20260830T155459Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatify-whatsapp-ai-automation_20260830T155459Z.html
+Requested URL    : https://apps.shopify.com/whatify-whatsapp-ai-automation
+Final URL        : https://apps.shopify.com/whatify-whatsapp-ai-automation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 221,392 bytes / 221,292 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Whatify Orders AI Automation - Send WhatsApp order confirmations and abandoned cart recovery. | Shopify App Store
+meta description : Connect your Shopify store to WhatsApp for automated order notifications and abandoned cart recovery. Increase sales and reduce returns with instant messaging.
+canonical URL    : https://apps.shopify.com/whatify-whatsapp-ai-automation
+<h1> tags ( 1)  : 'Whatify Orders AI Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

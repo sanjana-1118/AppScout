@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\timify_20260830T140409Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\timify_20260830T140409Z.html
+Requested URL    : https://apps.shopify.com/timify
+Final URL        : https://apps.shopify.com/timify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,289 bytes / 206,191 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Timlify: Booking & Appointment - Booking time slots for appointment/courses/rent/service/events | Shopify App Store
+meta description : Accept appointments and online bookings with a customizable scheduling calendar. Manage services, events and rentals from your Shopify store.
+canonical URL    : https://apps.shopify.com/timify
+<h1> tags ( 1)  : 'Timlify: Booking & Appointment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crispx_20260830T153405Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\crispx_20260830T153405Z.html
+Requested URL    : https://apps.shopify.com/crispx
+Final URL        : https://apps.shopify.com/crispx
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,785 bytes / 182,674 chars
+Elapsed          : 0.844s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CrispX: AI Product Description - Generate SEO-optimized product content with AI | Shopify App Store
+meta description : CrispX is your AI-powered solution for creating quality AI product descriptions that deliver results. Instantly generate SEO-friendly AI product pa...
+canonical URL    : https://apps.shopify.com/crispx
+<h1> tags ( 1)  : 'CrispX: AI Product Description'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

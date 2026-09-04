@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feather-gdpr-cookie-consent_20260830T194355Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feather-gdpr-cookie-consent_20260830T194355Z.html
+Requested URL    : https://apps.shopify.com/feather-gdpr-cookie-consent
+Final URL        : https://apps.shopify.com/feather-gdpr-cookie-consent
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 196,023 bytes / 195,934 chars
+Elapsed          : 0.940s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Heaps Good GDPR Cookie Consent - Show a consent banner and monitor the trackers on your... | Shopify App Store
+meta description : Feather adds a GDPR cookie-consent banner to your Shopify store, sets Google Consent Mode v2 correctly, and monitors the trackers on your storefront. Free.
+canonical URL    : https://apps.shopify.com/feather-gdpr-cookie-consent
+<h1> tags ( 1)  : 'Heaps Good GDPR Cookie Consent'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delight-merchant_20260830T134709Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\delight-merchant_20260830T134709Z.html
+Requested URL    : https://apps.shopify.com/delight-merchant
+Final URL        : https://apps.shopify.com/delight-merchant
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,921 bytes / 164,832 chars
+Elapsed          : 0.952s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Delight - Reward your customers with exclusive rewards at checkout | Shopify App Store
+meta description : With Delight you can instantly access hundreds of free gifts from the biggest brands in the World and presents these rewards to your customers at c...
+canonical URL    : https://apps.shopify.com/delight-merchant
+<h1> tags ( 1)  : 'Delight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

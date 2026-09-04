@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bonde-subscription-upsells_20260830T151242Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bonde-subscription-upsells_20260830T151242Z.html
+Requested URL    : https://apps.shopify.com/bonde-subscription-upsells
+Final URL        : https://apps.shopify.com/bonde-subscription-upsells
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,932 bytes / 218,835 chars
+Elapsed          : 0.875s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BONDE: Bundles, Loyalty & more - Bundles, loyalty, AI upsells and all-in-one super app. | Shopify App Store
+meta description : Shopify subscription app for recurring revenue. Features include flexible subscriptions, loyalty programs, build-a-box bundles, and store credit to stop churn.
+canonical URL    : https://apps.shopify.com/bonde-subscription-upsells
+<h1> tags ( 1)  : 'BONDE: Bundles, Loyalty & more'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

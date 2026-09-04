@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\piqxel_20260830T154641Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\piqxel_20260830T154641Z.html
+Requested URL    : https://apps.shopify.com/piqxel
+Final URL        : https://apps.shopify.com/piqxel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,159 bytes / 174,066 chars
+Elapsed          : 0.965s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Piqxel.ai: AI Product Videos - Add Product/PDP Videos with Easy AI Image to Video Generation | Shopify App Store
+meta description : Turn product images into stunning, fully on-brand animated product videos with AI. Prompt then publish to Shopify in one click to start increasing conversions.
+canonical URL    : https://apps.shopify.com/piqxel
+<h1> tags ( 1)  : 'Piqxel.ai: AI Product Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

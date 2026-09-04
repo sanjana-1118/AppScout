@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/myfulfillment",
+  "fetch_timestamp": "2026-08-30T05:22:55.099218+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\myfulfillment_20260830T052254Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\myfulfillment_20260830T052254Z.html",
+    "url": "https://apps.shopify.com/myfulfillment",
+    "final_url": "https://apps.shopify.com/myfulfillment",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 229632,
+    "body_text_length": 229518,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.640916,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Boostmyshop myFulfillment - Run orders, inventory, picking, and shipping in one system | Shopify App Store",
+    "meta_description": "Manage orders, inventory, picking, shipping labels, and replenishment from one operations system built for growing ecommerce teams.",
+    "canonical_url": "https://apps.shopify.com/myfulfillment",
+    "h1_tags": [
+      "Boostmyshop myFulfillment"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Boostmyshop myFulfillment",
+    "app_slug": "myfulfillment",
+    "app_url": "https://apps.shopify.com/myfulfillment",
+    "developer_name": "Boostmyshop",
+    "description": "Manage orders, inventory, picking, shipping labels, and replenishment from one operations system built for growing ecommerce teams.",
+    "average_rating": 5.0,
+    "review_count": 6,
+    "category": "Inventory optimization"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\myfulfillment_20260830T052254Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\myfulfillment_20260830T052254Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Boostmyshop myFulfillment",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "myfulfillment",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/myfulfillment",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Boostmyshop",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Manage orders, inventory, picking, shipping labels, and replenishment from one operations system built for growing ecommerce teams.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 6,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Inventory optimization",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

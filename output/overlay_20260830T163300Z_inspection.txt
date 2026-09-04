@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\overlay_20260830T163300Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\overlay_20260830T163300Z.html
+Requested URL    : https://apps.shopify.com/overlay
+Final URL        : https://apps.shopify.com/overlay
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,372 bytes / 211,271 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Overlay Product Image Or Text - Sale badges, trust badges & watermarks—no photo editing | Shopify App Store
+meta description : Add sale badges, trust badges & watermarks to product images instantly. Smart rules badge products automatically. Free plan, no design skills needed.
+canonical URL    : https://apps.shopify.com/overlay
+<h1> tags ( 1)  : 'Overlay Product Image Or Text'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-shipping-profile-shipr_20260830T071228Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-shipping-profile-shipr_20260830T071228Z.html
+Requested URL    : https://apps.shopify.com/auto-shipping-profile-shipr
+Final URL        : https://apps.shopify.com/auto-shipping-profile-shipr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 226,953 bytes / 226,862 chars
+Elapsed          : 1.027s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Auto Shipping Profile: Shipr - Automate & bulk assign products to shipping profiles | Shopify App Store
+meta description : Automate and bulk assign products to shipping profiles by creating custom rules on product tags, price, weight, etc. Save time and reduce manual errors.
+canonical URL    : https://apps.shopify.com/auto-shipping-profile-shipr
+<h1> tags ( 1)  : 'Auto Shipping Profile: Shipr'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\teqtoniq-ai_20260830T155231Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\teqtoniq-ai_20260830T155231Z.html
+Requested URL    : https://apps.shopify.com/teqtoniq-ai
+Final URL        : https://apps.shopify.com/teqtoniq-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,824 bytes / 193,723 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TeqToniQ AI - Generate consistent, branded product content with AI | Shopify App Store
+meta description : TeqToniQ AI helps entrepreneurs save time by generating consistent, high-quality product content with AI. Unlike generic plugins, it creates repeat...
+canonical URL    : https://apps.shopify.com/teqtoniq-ai
+<h1> tags ( 1)  : 'TeqToniQ AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

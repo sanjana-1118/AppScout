@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-dropper_20260830T155536Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-dropper_20260830T155536Z.html
+Requested URL    : https://apps.shopify.com/price-dropper
+Final URL        : https://apps.shopify.com/price-dropper
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,426 bytes / 171,336 chars
+Elapsed          : 0.528s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PrizDrop - Automate low-stock markdowns with dry-run controls | Shopify App Store
+meta description : Automate low-stock markdown rules, preview updates with dry runs, and restore original values after restock from Shopify admin.
+canonical URL    : https://apps.shopify.com/price-dropper
+<h1> tags ( 1)  : 'PrizDrop'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

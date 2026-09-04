@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\iweb-loyalty-rewards_20260830T064908Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\iweb-loyalty-rewards_20260830T064908Z.html
+Requested URL    : https://apps.shopify.com/iweb-loyalty-rewards
+Final URL        : https://apps.shopify.com/iweb-loyalty-rewards
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,710 bytes / 164,619 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : iWeb Loyalty Rewards - Build customer loyalty with loyalty program, points & rewards | Shopify App Store
+meta description : Create a loyalty program on Shopify & turn one-time buyers into customers by giving them loyalty points and rewards.
+canonical URL    : https://apps.shopify.com/iweb-loyalty-rewards
+<h1> tags ( 1)  : 'iWeb Loyalty Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

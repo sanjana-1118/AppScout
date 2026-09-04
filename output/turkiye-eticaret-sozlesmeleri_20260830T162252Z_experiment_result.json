@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/turkiye-eticaret-sozlesmeleri",
+  "fetch_timestamp": "2026-08-30T16:22:52.317531+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\turkiye-eticaret-sozlesmeleri_20260830T162252Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\turkiye-eticaret-sozlesmeleri_20260830T162252Z.html",
+    "url": "https://apps.shopify.com/turkiye-eticaret-sozlesmeleri",
+    "final_url": "https://apps.shopify.com/turkiye-eticaret-sozlesmeleri",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 201919,
+    "body_text_length": 201483,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.561489,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "E‑Ticaret Sözleşmeleri & Onay - Yasal sözleşme ve müşteri onaylarını otomatikleştirin. | Shopify App Store",
+    "meta_description": "Mesafeli satış sözleşmesi, KVKK, ön bilgilendirme formu ve açık rıza onaylarını Shopify mağazanızda otomatik oluşturun, yönetin ve kayıt altına alın.",
+    "canonical_url": "https://apps.shopify.com/turkiye-eticaret-sozlesmeleri?locale=tr",
+    "h1_tags": [
+      "E‑Ticaret Sözleşmeleri & Onay"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "E‑Ticaret Sözleşmeleri & Onay",
+    "app_slug": "turkiye-eticaret-sozlesmeleri",
+    "app_url": "https://apps.shopify.com/turkiye-eticaret-sozlesmeleri?locale=tr",
+    "developer_name": "Shopiexpert LLC",
+    "description": "Mesafeli satış sözleşmesi, KVKK, ön bilgilendirme formu ve açık rıza onaylarını Shopify mağazanızda otomatik oluşturun, yönetin ve kayıt altına alın.",
+    "average_rating": 5.0,
+    "review_count": 1,
+    "category": "Legal"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\turkiye-eticaret-sozlesmeleri_20260830T162252Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\turkiye-eticaret-sozlesmeleri_20260830T162252Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "E‑Ticaret Sözleşmeleri & Onay",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "turkiye-eticaret-sozlesmeleri",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/turkiye-eticaret-sozlesmeleri?locale=tr",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Shopiexpert LLC",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Mesafeli satış sözleşmesi, KVKK, ön bilgilendirme formu ve açık rıza onaylarını Shopify mağazanızda otomatik oluşturun, yönetin ve kayıt altına alın.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 1,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Legal",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

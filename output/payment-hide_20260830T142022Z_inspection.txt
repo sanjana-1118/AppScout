@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payment-hide_20260830T142022Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\payment-hide_20260830T142022Z.html
+Requested URL    : https://apps.shopify.com/payment-hide
+Final URL        : https://apps.shopify.com/payment-hide
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,012 bytes / 156,923 chars
+Elapsed          : 0.745s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dynamic PayHide - Add B2B capability by providing special payment terms options. | Shopify App Store
+meta description : Streamline B2B purchases with special payment options for wholesale customers.Create your own rules to configure payment option on checkout.
+canonical URL    : https://apps.shopify.com/payment-hide
+<h1> tags ( 1)  : 'Dynamic PayHide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

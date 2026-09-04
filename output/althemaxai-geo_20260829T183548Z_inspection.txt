@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\althemaxai-geo_20260829T183548Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\althemaxai-geo_20260829T183548Z.html
+Requested URL    : https://apps.shopify.com/althemaxai-geo
+Final URL        : https://apps.shopify.com/althemaxai-geo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,248 bytes / 180,151 chars
+Elapsed          : 0.815s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AlthemaxAI GEO - AI optimize your products for ChatGPT, Google AI & Perplexity | Shopify App Store
+meta description : Optimize your Shopify products for AI discovery. Get recommended by ChatGPT, Google AI & Perplexity with AI-written descriptions and Schema.org structured data.
+canonical URL    : https://apps.shopify.com/althemaxai-geo
+<h1> tags ( 1)  : 'AlthemaxAI GEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

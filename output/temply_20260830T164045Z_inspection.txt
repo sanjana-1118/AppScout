@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\temply_20260830T164045Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\temply_20260830T164045Z.html
+Requested URL    : https://apps.shopify.com/temply
+Final URL        : https://apps.shopify.com/temply
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,879 bytes / 176,790 chars
+Elapsed          : 0.736s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Temply - Delivery scheduling and management | Shopify App Store
+meta description : Take the guesswork out of fulfillment. Temply transforms your cart into a scheduling tool where customers select their preferred pickup, delivery, ...
+canonical URL    : https://apps.shopify.com/temply
+<h1> tags ( 1)  : 'Temply'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

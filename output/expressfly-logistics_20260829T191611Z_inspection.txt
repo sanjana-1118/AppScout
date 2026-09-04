@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\expressfly-logistics_20260829T191611Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\expressfly-logistics_20260829T191611Z.html
+Requested URL    : https://apps.shopify.com/expressfly-logistics
+Final URL        : https://apps.shopify.com/expressfly-logistics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,465 bytes / 188,372 chars
+Elapsed          : 0.557s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EXPRESSFLY LOGISTICS - EXPRESSFLY helps Indian businesses automate shipping operation | Shopify App Store
+meta description : Automate Shopify shipping with ExpressFly Logistics. Multi-courier support, real-time tracking, COD, NDR management & fast delivery across India.
+canonical URL    : https://apps.shopify.com/expressfly-logistics
+<h1> tags ( 1)  : 'EXPRESSFLY LOGISTICS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

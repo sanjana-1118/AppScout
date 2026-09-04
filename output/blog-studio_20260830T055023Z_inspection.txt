@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blog-studio_20260830T055023Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\blog-studio_20260830T055023Z.html
+Requested URL    : https://apps.shopify.com/blog-studio
+Final URL        : https://apps.shopify.com/blog-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,933 bytes / 202,840 chars
+Elapsed          : 0.595s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blog Studio - The brilliant drag-and-drop way to tell your story | Shopify App Store
+meta description : Blog Studio makes it easy to craft beautiful-looking blog articles that live right on your Shopify store. Spruce up your existing articles or creat...
+canonical URL    : https://apps.shopify.com/blog-studio
+<h1> tags ( 1)  : 'Blog Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asked_20260830T175300Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\asked_20260830T175300Z.html
+Requested URL    : https://apps.shopify.com/asked
+Final URL        : https://apps.shopify.com/asked
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,346 bytes / 167,237 chars
+Elapsed          : 0.843s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Asked: Post‑Purchase Survey - Ask one post-purchase question and see why customers buy. | Shopify App Store
+meta description : Ask one focused question after checkout and see what influenced each order. Simple Shopify Thank You page survey with answer breakdowns and no theme edits.
+canonical URL    : https://apps.shopify.com/asked
+<h1> tags ( 1)  : 'Asked: Post‑Purchase Survey'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gpsr-pro_20260830T180755Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gpsr-pro_20260830T180755Z.html
+Requested URL    : https://apps.shopify.com/gpsr-pro
+Final URL        : https://apps.shopify.com/gpsr-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,140 bytes / 184,980 chars
+Elapsed          : 0.881s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GPSR Pro - GPSR-konform per KI, in 24 Stunden statt 24 Wochen | Shopify App Store
+meta description : GPSR-Compliance für deinen Shopify-Shop. KI-Auto-Fill, 24 EU-Sprachen, gerichtsfester Audit-Trail. Free-Plan dauerhaft kostenlos.
+canonical URL    : https://apps.shopify.com/gpsr-pro?locale=de
+<h1> tags ( 1)  : 'GPSR Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

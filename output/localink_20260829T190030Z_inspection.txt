@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\localink_20260829T190030Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\localink_20260829T190030Z.html
+Requested URL    : https://apps.shopify.com/localink
+Final URL        : https://apps.shopify.com/localink
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,778 bytes / 180,672 chars
+Elapsed          : 1.002s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Localink - Fix broken links and redirects across your translated stores | Shopify App Store
+meta description : Fix broken links and redirects across your translated Shopify Markets store — redirect discontinued products across every market and repair internal links.
+canonical URL    : https://apps.shopify.com/localink
+<h1> tags ( 1)  : 'Localink'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

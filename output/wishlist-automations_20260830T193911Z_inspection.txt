@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-automations_20260830T193911Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wishlist-automations_20260830T193911Z.html
+Requested URL    : https://apps.shopify.com/wishlist-automations
+Final URL        : https://apps.shopify.com/wishlist-automations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,741 bytes / 201,634 chars
+Elapsed          : 0.945s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Edition ‑ Wishlist Automations - A wishlist on every touchpoint, with sale and restock alerts | Shopify App Store
+meta description : Let shoppers save products to multiple wishlists across your Shopify store, share them with a link, and bring them back with restock and sale alerts.
+canonical URL    : https://apps.shopify.com/wishlist-automations
+<h1> tags ( 1)  : 'Edition ‑ Wishlist Automations'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

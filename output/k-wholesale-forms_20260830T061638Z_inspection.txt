@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-wholesale-forms_20260830T061638Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\k-wholesale-forms_20260830T061638Z.html
+Requested URL    : https://apps.shopify.com/k-wholesale-forms
+Final URL        : https://apps.shopify.com/k-wholesale-forms
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,505 bytes / 202,416 chars
+Elapsed          : 0.802s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : K: Wholesale Form + B2B Signup - Simplify B2B registration & approval with AI Wholesale Forms. | Shopify App Store
+meta description : Wholesale Forms is a complete solution for managing B2B and wholesale processes and wholesale inquiry. Build custom multi-step registration forms t...
+canonical URL    : https://apps.shopify.com/k-wholesale-forms
+<h1> tags ( 1)  : 'K: Wholesale Form + B2B Signup'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

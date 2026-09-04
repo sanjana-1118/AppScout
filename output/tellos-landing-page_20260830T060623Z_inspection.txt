@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tellos-landing-page_20260830T060623Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\tellos-landing-page_20260830T060623Z.html
+Requested URL    : https://apps.shopify.com/tellos-landing-page
+Final URL        : https://apps.shopify.com/tellos-landing-page
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,731 bytes / 188,634 chars
+Elapsed          : 0.498s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UGC Video Landing Pages - One-click video landing pages | Shopify App Store
+meta description : Tellos makes creating high-converting video landing pages simple and effortless. Upload a video, tag your products, and generate a mobile-optimized...
+canonical URL    : https://apps.shopify.com/tellos-landing-page
+<h1> tags ( 1)  : 'UGC Video Landing Pages'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

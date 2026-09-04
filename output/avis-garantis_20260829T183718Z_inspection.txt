@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avis-garantis_20260829T183718Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\avis-garantis_20260829T183718Z.html
+Requested URL    : https://apps.shopify.com/avis-garantis
+Final URL        : https://apps.shopify.com/avis-garantis
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,567 bytes / 211,425 chars
+Elapsed          : 0.594s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Guaranteed Reviews Company - Reassure your customers and increase your conversion rate | Shopify App Store
+meta description : We collect your customer's reviews using an fully optimized channel, providing us the highest rate of reviews per order. 
+Then we provide you power...
+canonical URL    : https://apps.shopify.com/avis-garantis
+<h1> tags ( 1)  : 'Guaranteed Reviews Company'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

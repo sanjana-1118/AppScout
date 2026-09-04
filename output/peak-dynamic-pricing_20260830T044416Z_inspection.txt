@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peak-dynamic-pricing_20260830T044416Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\peak-dynamic-pricing_20260830T044416Z.html
+Requested URL    : https://apps.shopify.com/peak-dynamic-pricing
+Final URL        : https://apps.shopify.com/peak-dynamic-pricing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,073 bytes / 183,968 chars
+Elapsed          : 0.680s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Peak ‑ Dynamic Pricing - Create pricing flows that adjust over time | Shopify App Store
+meta description : Time-based pricing automation for Shopify. Set rules, schedule price changes, and manage products effortlessly.
+canonical URL    : https://apps.shopify.com/peak-dynamic-pricing
+<h1> tags ( 1)  : 'Peak ‑ Dynamic Pricing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

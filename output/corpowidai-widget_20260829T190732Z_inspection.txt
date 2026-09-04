@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corpowidai-widget_20260829T190732Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\corpowidai-widget_20260829T190732Z.html
+Requested URL    : https://apps.shopify.com/corpowidai-widget
+Final URL        : https://apps.shopify.com/corpowidai-widget
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,879 bytes / 192,728 chars
+Elapsed          : 0.865s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Corpowid ‑ 360° accessibility - 360° Accessibility Solution — WCAG, ADA & EAA Compliance  | Shopify App Store
+meta description : A 360° accessibility solution for Shopify that scans, fixes & monitors your store for WCAG, ADA & EAA compliance. Auto-write alt text, reduce legal risk
+canonical URL    : https://apps.shopify.com/corpowidai-widget
+<h1> tags ( 1)  : 'Corpowid ‑ 360° accessibility'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

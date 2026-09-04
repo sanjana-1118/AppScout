@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cleartill_20260830T074617Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cleartill_20260830T074617Z.html
+Requested URL    : https://apps.shopify.com/cleartill
+Final URL        : https://apps.shopify.com/cleartill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,859 bytes / 192,770 chars
+Elapsed          : 0.747s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Cleartill - Profit after COGS, fees, shipping, ads, not just revenue. | Shopify App Store
+meta description : See your Shopify profit after COGS, payment fees, shipping and ad spend. Missing product costs are estimated and labeled, so you get a number on day one.
+canonical URL    : https://apps.shopify.com/cleartill
+<h1> tags ( 1)  : 'Cleartill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

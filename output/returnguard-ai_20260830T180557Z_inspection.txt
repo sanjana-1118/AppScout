@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnguard-ai_20260830T180557Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\returnguard-ai_20260830T180557Z.html
+Requested URL    : https://apps.shopify.com/returnguard-ai
+Final URL        : https://apps.shopify.com/returnguard-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,318 bytes / 177,223 chars
+Elapsed          : 0.925s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ReturnGuard AI - Review  returns with risk scores and one-click approve review | Shopify App Store
+meta description : ReturnGuard AI helps merchants control refund risk before it hurts margin. Return requests from Shopify appear in one embedded queue with a clear r...
+canonical URL    : https://apps.shopify.com/returnguard-ai
+<h1> tags ( 1)  : 'ReturnGuard AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

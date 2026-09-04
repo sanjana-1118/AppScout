@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\preorder-back-in-stock_20260829T184447Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\preorder-back-in-stock_20260829T184447Z.html
+Requested URL    : https://apps.shopify.com/preorder-back-in-stock
+Final URL        : https://apps.shopify.com/preorder-back-in-stock
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 274,679 bytes / 274,524 chars
+Elapsed          : 0.966s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Notify Me! Back in Stock Alert - Waitlist, preorder, wishlist and low stock - all in one... | Shopify App Store
+meta description : Download the official Notify Me!™ app on Shopify. Shopify stores love our "Pre-order" and  "notify me when available", "Wishlist"  and "Only X Remaining" button
+canonical URL    : https://apps.shopify.com/preorder-back-in-stock
+<h1> tags ( 1)  : 'Notify Me! Back in Stock Alert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

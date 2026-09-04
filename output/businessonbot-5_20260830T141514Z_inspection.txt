@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\businessonbot-5_20260830T141514Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\businessonbot-5_20260830T141514Z.html
+Requested URL    : https://apps.shopify.com/businessonbot-5
+Final URL        : https://apps.shopify.com/businessonbot-5
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 227,993 bytes / 227,891 chars
+Elapsed          : 0.761s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : BOB: WhatsApp Marketing + AI - Abandoned cart recovery, AI-powered WhatsApp marketing & chat | Shopify App Store
+meta description : Recover abandoned carts, win-back customers & automate WhatsApp marketing with AI chatbot. Omnichannel inbox for WhatsApp, Instagram & Email. Trusted worldwide.
+canonical URL    : https://apps.shopify.com/businessonbot-5
+<h1> tags ( 1)  : 'BOB: WhatsApp Marketing + AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

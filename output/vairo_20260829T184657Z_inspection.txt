@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vairo_20260829T184657Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vairo_20260829T184657Z.html
+Requested URL    : https://apps.shopify.com/vairo
+Final URL        : https://apps.shopify.com/vairo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,629 bytes / 229,534 chars
+Elapsed          : 0.581s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VR Urgency Countdown Timer Bar - Create scarcity with low stock counter and sticky add to... | Shopify App Store
+meta description : Boost sales with Vairo’s countdown timers, stock alerts, and cart animations. Create urgency, reduce cart abandonment, and enhance shopping experience.
+canonical URL    : https://apps.shopify.com/vairo
+<h1> tags ( 1)  : 'VR Urgency Countdown Timer Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

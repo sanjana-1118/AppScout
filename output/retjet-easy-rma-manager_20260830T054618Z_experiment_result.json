@@ -1,0 +1,120 @@
+{
+  "target_url": "https://apps.shopify.com/retjet-easy-rma-manager",
+  "fetch_timestamp": "2026-08-30T05:46:18.965439+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\retjet-easy-rma-manager_20260830T054618Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\retjet-easy-rma-manager_20260830T054618Z.html",
+    "url": "https://apps.shopify.com/retjet-easy-rma-manager",
+    "final_url": "https://apps.shopify.com/retjet-easy-rma-manager",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 226358,
+    "body_text_length": 226206,
+    "encoding": "utf-8",
+    "elapsed_seconds": 1.013989,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "RetJet ‑ Returns & Exchanges - Easy RMA manager returns, exchanges, complains & warranty | Shopify App Store",
+    "meta_description": "RetJet simple and amazing application to manage returns complaints and exchanges. \nPowerful performance, team collaboration and data analysis.",
+    "canonical_url": "https://apps.shopify.com/retjet-easy-rma-manager",
+    "h1_tags": [
+      "RetJet ‑ Returns & Exchanges"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "RetJet ‑ Returns & Exchanges",
+    "app_slug": "retjet-easy-rma-manager",
+    "app_url": "https://apps.shopify.com/retjet-easy-rma-manager",
+    "developer_name": "RetJet sp. z o.o.",
+    "description": "RetJet simple and amazing application to manage returns complaints and exchanges. \nPowerful performance, team collaboration and data analysis.",
+    "average_rating": 5.0,
+    "review_count": 2,
+    "category": "Returns and exchanges"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\retjet-easy-rma-manager_20260830T054618Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\retjet-easy-rma-manager_20260830T054618Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "RetJet ‑ Returns & Exchanges",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "retjet-easy-rma-manager",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/retjet-easy-rma-manager",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "RetJet sp. z o.o.",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "RetJet simple and amazing application to manage returns complaints and exchanges. \nPowerful performance, team collaboration and data analysis.",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 5.0,
+        "status": "pass"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 2,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Returns and exchanges",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 1,
+      "failed_fields": 7,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hickory-brand-house_20260830T140555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\hickory-brand-house_20260830T140555Z.html
+Requested URL    : https://apps.shopify.com/hickory-brand-house
+Final URL        : https://apps.shopify.com/hickory-brand-house
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,607 bytes / 183,514 chars
+Elapsed          : 0.752s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Merch Monkies - We are a Knoxville POD fulfillment co. helping local bands | Shopify App Store
+meta description : We understand that businesses have a lot on their plates. The last thing you want to do as a band is manage your inventory and handle customer serv...
+canonical URL    : https://apps.shopify.com/hickory-brand-house
+<h1> tags ( 1)  : 'Merch Monkies'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

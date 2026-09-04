@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsellboost_20260830T181145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\upsellboost_20260830T181145Z.html
+Requested URL    : https://apps.shopify.com/upsellboost
+Final URL        : https://apps.shopify.com/upsellboost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,105 bytes / 195,002 chars
+Elapsed          : 0.974s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UpsellBoost - Zero-commission upsells. Flat fee. Keep 100% of your revenue. | Shopify App Store
+meta description : Boost AOV with smart cart upsells and post-purchase popups. Zero commission, no coding needed. Free plan available.
+canonical URL    : https://apps.shopify.com/upsellboost
+<h1> tags ( 1)  : 'UpsellBoost'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

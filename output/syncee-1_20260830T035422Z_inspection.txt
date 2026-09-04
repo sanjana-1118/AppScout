@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncee-1_20260830T035422Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncee-1_20260830T035422Z.html
+Requested URL    : https://apps.shopify.com/syncee-1
+Final URL        : https://apps.shopify.com/syncee-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 280,282 bytes / 280,166 chars
+Elapsed          : 1.109s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Syncee Premium AI Dropshipping - Dropship high-profit products. Trusted US, EU, UK+ suppliers. | Shopify App Store
+meta description : Syncee is a collective dropshipping and wholesale marketplace where retailers and suppliers connect in the US, CA, EU, UK, AU to sell more products together.
+canonical URL    : https://apps.shopify.com/syncee-1
+<h1> tags ( 1)  : 'Syncee Premium AI Dropshipping'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

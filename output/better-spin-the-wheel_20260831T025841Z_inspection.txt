@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-spin-the-wheel_20260831T025841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\better-spin-the-wheel_20260831T025841Z.html
+Requested URL    : https://apps.shopify.com/better-spin-the-wheel
+Final URL        : https://apps.shopify.com/better-spin-the-wheel
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 216,671 bytes / 216,540 chars
+Elapsed          : 0.692s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Profiter • Spins, Leads & Wins - Capture leads with a spin, reward them in 6 different... | Shopify App Store
+meta description : Add a spin to win popup to capture email and phone leads, engage leaving shoppers, control prize odds, and auto-apply discount codes at checkout.
+canonical URL    : https://apps.shopify.com/better-spin-the-wheel
+<h1> tags ( 1)  : 'Profiter • Spins, Leads & Wins'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

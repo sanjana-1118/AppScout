@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\writ-contract-gate_20260831T024416Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\writ-contract-gate_20260831T024416Z.html
+Requested URL    : https://apps.shopify.com/writ-contract-gate
+Final URL        : https://apps.shopify.com/writ-contract-gate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,204 bytes / 172,105 chars
+Elapsed          : 0.759s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WRIT Contract Gate - Enforce B2B trade-contract validity windows at checkout | Shopify App Store
+meta description : Block B2B checkout when a company's trade contract has expired or isn't active yet. Per-company contract windows, enforced at checkout. 0% commission.
+canonical URL    : https://apps.shopify.com/writ-contract-gate
+<h1> tags ( 1)  : 'WRIT Contract Gate'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

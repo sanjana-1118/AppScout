@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mailchimp_20260830T065637Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\mailchimp_20260830T065637Z.html
+Requested URL    : https://apps.shopify.com/mailchimp
+Final URL        : https://apps.shopify.com/mailchimp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 278,365 bytes / 278,274 chars
+Elapsed          : 0.930s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Mailchimp Email SMS Marketing - Drive sales with email marketing, SMS, forms, and automation | Shopify App Store
+meta description : Sync customers, products, and order data to grow customers with Mailchimp automated emails and SMS, retargeting, and customer win back automations.
+canonical URL    : https://apps.shopify.com/mailchimp
+<h1> tags ( 1)  : 'Mailchimp Email SMS Marketing'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

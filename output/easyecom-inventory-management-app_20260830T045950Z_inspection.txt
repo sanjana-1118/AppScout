@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyecom-inventory-management-app_20260830T045950Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easyecom-inventory-management-app_20260830T045950Z.html
+Requested URL    : https://apps.shopify.com/easyecom-inventory-management-app
+Final URL        : https://apps.shopify.com/easyecom-inventory-management-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 212,799 bytes / 212,706 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : EasyEcom Inventory Management - Multi Channel Inventory, Order & Shipping Management App | Shopify App Store
+meta description : EasyEcom centralizes omnichannel operations, syncing real-time inventory to prevent overselling. Our WMS streamlines fulfillment with shelf managem...
+canonical URL    : https://apps.shopify.com/easyecom-inventory-management-app
+<h1> tags ( 1)  : 'EasyEcom Inventory Management'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

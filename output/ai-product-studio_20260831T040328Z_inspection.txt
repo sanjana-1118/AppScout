@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-studio_20260831T040328Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-product-studio_20260831T040328Z.html
+Requested URL    : https://apps.shopify.com/ai-product-studio
+Final URL        : https://apps.shopify.com/ai-product-studio
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 189,461 bytes / 189,358 chars
+Elapsed          : 0.904s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : RVS: AI Product Studio - AI product images for fashion — try-ons, lifestyle, and bulk | Shopify App Store
+meta description : AI Product Studio helps fashion merchants create professional product images without expensive photoshoots. Select products from your store, choose...
+canonical URL    : https://apps.shopify.com/ai-product-studio
+<h1> tags ( 1)  : 'RVS: AI Product Studio'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

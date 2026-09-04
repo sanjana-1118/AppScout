@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\suppr-appointment-booking_20260830T043743Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\suppr-appointment-booking_20260830T043743Z.html
+Requested URL    : https://apps.shopify.com/suppr-appointment-booking
+Final URL        : https://apps.shopify.com/suppr-appointment-booking
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 241,268 bytes / 241,173 chars
+Elapsed          : 0.692s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hoppy Appointment Booking App - Schedule appointment agenda via calendly like calendar booking | Shopify App Store
+meta description : Take bookings, appointments events & service on your Outlook or Google calendar. Customizable booking app to sell services from your Shopify store or POS.
+canonical URL    : https://apps.shopify.com/suppr-appointment-booking
+<h1> tags ( 1)  : 'Hoppy Appointment Booking App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

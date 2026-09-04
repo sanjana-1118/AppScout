@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-zipcode-validator_20260830T075645Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-zipcode-validator_20260830T075645Z.html
+Requested URL    : https://apps.shopify.com/smart-zipcode-validator
+Final URL        : https://apps.shopify.com/smart-zipcode-validator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 214,244 bytes / 214,138 chars
+Elapsed          : 0.735s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smart Zipcode Validator - Check product availability for better shipping services | Shopify App Store
+meta description : Display zipcode checker form only zipcode applied products details page
+canonical URL    : https://apps.shopify.com/smart-zipcode-validator
+<h1> tags ( 1)  : 'Smart Zipcode Validator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

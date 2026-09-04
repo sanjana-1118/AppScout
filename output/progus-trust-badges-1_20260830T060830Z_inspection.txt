@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\progus-trust-badges-1_20260830T060830Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\progus-trust-badges-1_20260830T060830Z.html
+Requested URL    : https://apps.shopify.com/progus-trust-badges-1
+Final URL        : https://apps.shopify.com/progus-trust-badges-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,577 bytes / 185,484 chars
+Elapsed          : 0.583s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Progus Trust Badges & Icons - Add trust badges, payment icons & guarantees anywhere | Shopify App Store
+meta description : Trust Badges helps merchants build customer confidence by displaying professional trust icons on product pages, cart, and custom places. Easily add...
+canonical URL    : https://apps.shopify.com/progus-trust-badges-1
+<h1> tags ( 1)  : 'Progus Trust Badges & Icons'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

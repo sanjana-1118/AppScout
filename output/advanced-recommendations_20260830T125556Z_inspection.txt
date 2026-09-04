@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-recommendations_20260830T125556Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\advanced-recommendations_20260830T125556Z.html
+Requested URL    : https://apps.shopify.com/advanced-recommendations
+Final URL        : https://apps.shopify.com/advanced-recommendations
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,937 bytes / 174,804 chars
+Elapsed          : 1.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kea Labs: Recommendations - Recommendation system with custom-made algorithms | Shopify App Store
+meta description : Kea Labs Recommendations is an advanced platform of personalized product recommendations.
+Apart from common blocks like ‘You may like’, ‘Related’ o...
+canonical URL    : https://apps.shopify.com/advanced-recommendations
+<h1> tags ( 1)  : 'Kea Labs: Recommendations'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recometic-loyalty-reviews_20260829T183940Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\recometic-loyalty-reviews_20260829T183940Z.html
+Requested URL    : https://apps.shopify.com/recometic-loyalty-reviews
+Final URL        : https://apps.shopify.com/recometic-loyalty-reviews
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,390 bytes / 223,299 chars
+Elapsed          : 0.917s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Recometic Loyalty Review & Ref - Loyalty rewards, referrals & reviews built for checkout | Shopify App Store
+meta description : Boost repeat sales with checkout loyalty points, VIP tiers, referrals, and photo/video reviews. Natively syncs with Klaviyo, Mailchimp & Customer Segments
+canonical URL    : https://apps.shopify.com/recometic-loyalty-reviews
+<h1> tags ( 1)  : 'Recometic Loyalty Review & Ref'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

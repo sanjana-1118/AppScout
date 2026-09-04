@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elfsight-popup_20260830T061359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\elfsight-popup_20260830T061359Z.html
+Requested URL    : https://apps.shopify.com/elfsight-popup
+Final URL        : https://apps.shopify.com/elfsight-popup
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 185,724 bytes / 185,628 chars
+Elapsed          : 0.507s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Popup Builder by Elfsight - Drive Traffic and Sales with High-converting Popups | Shopify App Store
+meta description : Pop Up app will help you to option to Boost the number of sales attracting attention to your special offers on the homepage. Help reluctant and lea...
+canonical URL    : https://apps.shopify.com/elfsight-popup
+<h1> tags ( 1)  : 'Popup Builder by Elfsight'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

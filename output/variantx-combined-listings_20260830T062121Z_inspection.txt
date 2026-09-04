@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variantx-combined-listings_20260830T062121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variantx-combined-listings_20260830T062121Z.html
+Requested URL    : https://apps.shopify.com/variantx-combined-listings
+Final URL        : https://apps.shopify.com/variantx-combined-listings
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,583 bytes / 192,486 chars
+Elapsed          : 0.500s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : VariantX | Combined Listings - Link products visually with combined listings & auto-grouping. | Shopify App Store
+meta description : Selling the same product in multiple colors or sizes as separate listings splits your catalog and makes shoppers work harder to find what they want...
+canonical URL    : https://apps.shopify.com/variantx-combined-listings
+<h1> tags ( 1)  : 'VariantX | Combined Listings'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

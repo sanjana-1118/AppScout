@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickfiles_20260830T042446Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\quickfiles_20260830T042446Z.html
+Requested URL    : https://apps.shopify.com/quickfiles
+Final URL        : https://apps.shopify.com/quickfiles
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 222,530 bytes / 222,411 chars
+Elapsed          : 0.900s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QuickFiles — File Uploads - Add drag & drop file uploads to any product with... | Shopify App Store
+meta description : Add file upload fields to your Shopify products. Customers upload designs, documents, and images with drag & drop. Built-in image cropping. Files on every order
+canonical URL    : https://apps.shopify.com/quickfiles
+<h1> tags ( 1)  : 'QuickFiles — File Uploads'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

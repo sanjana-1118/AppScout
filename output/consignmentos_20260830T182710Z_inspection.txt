@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\consignmentos_20260830T182710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\consignmentos_20260830T182710Z.html
+Requested URL    : https://apps.shopify.com/consignmentos
+Final URL        : https://apps.shopify.com/consignmentos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,494 bytes / 161,403 chars
+Elapsed          : 0.522s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ConsignmentOS Connector - Import your products into ConsignmentOS. | Shopify App Store
+meta description : ConsignmentOS Connector imports product catalogue data from your shop into ConsignmentOS. Select products, bring across names, images and prices, t...
+canonical URL    : https://apps.shopify.com/consignmentos
+<h1> tags ( 1)  : 'ConsignmentOS Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

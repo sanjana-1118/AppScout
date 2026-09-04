@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\edara-connect_20260830T070049Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\edara-connect_20260830T070049Z.html
+Requested URL    : https://apps.shopify.com/edara-connect
+Final URL        : https://apps.shopify.com/edara-connect
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,452 bytes / 164,359 chars
+Elapsed          : 1.453s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Edara Connect - Keep products, orders, and stock accurate with edara sync | Shopify App Store
+meta description : Edara Connect keeps store and ERP data aligned, syncing products, orders, inventory, customers, and finances so you can manage operations in one place.
+canonical URL    : https://apps.shopify.com/edara-connect
+<h1> tags ( 1)  : 'Edara Connect'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

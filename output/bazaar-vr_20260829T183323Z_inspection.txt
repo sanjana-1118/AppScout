@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bazaar-vr_20260829T183323Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\bazaar-vr_20260829T183323Z.html
+Requested URL    : https://apps.shopify.com/bazaar-vr
+Final URL        : https://apps.shopify.com/bazaar-vr
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 177,421 bytes / 177,324 chars
+Elapsed          : 0.496s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Bazaar VR - Publish in 3D and Virtual Reality | Shopify App Store
+meta description : Transform your Shopify store with immersive 3D and VR shopping. Create interactive product displays, boosting conversion and reducing returns.
+canonical URL    : https://apps.shopify.com/bazaar-vr
+<h1> tags ( 1)  : 'Bazaar VR'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipsi_20260830T140812Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shipsi_20260830T140812Z.html
+Requested URL    : https://apps.shopify.com/shipsi
+Final URL        : https://apps.shopify.com/shipsi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,827 bytes / 209,734 chars
+Elapsed          : 1.041s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SHIPSI Instant Delivery - Same-Day, Next-Day, and On-Demand Local Delivery in the U.S. | Shopify App Store
+meta description : Same-day, next-day, and scheduled delivery directly from your Shopify and retail stores.
+canonical URL    : https://apps.shopify.com/shipsi
+<h1> tags ( 1)  : 'SHIPSI Instant Delivery'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

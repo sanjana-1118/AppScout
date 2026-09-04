@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kount_20260830T070939Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kount_20260830T070939Z.html
+Requested URL    : https://apps.shopify.com/kount
+Final URL        : https://apps.shopify.com/kount
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,387 bytes / 200,286 chars
+Elapsed          : 0.864s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kount - AI-powered digital fraud prevention for your transactions. | Shopify App Store
+meta description : Kount's simple Shopify app delivers the full power of Kount's AI-driven fraud prevention solution. Immediately gain built-in, comprehensive fraud prevention, ..
+canonical URL    : https://apps.shopify.com/kount
+<h1> tags ( 1)  : 'Kount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

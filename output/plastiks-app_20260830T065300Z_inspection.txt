@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plastiks-app_20260830T065300Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\plastiks-app_20260830T065300Z.html
+Requested URL    : https://apps.shopify.com/plastiks-app
+Final URL        : https://apps.shopify.com/plastiks-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,455 bytes / 175,358 chars
+Elapsed          : 1.020s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Plastiks: profit with purpose - Recover and recycle plastic with every sale. Profit & Purpose. | Shopify App Store
+meta description : Enable your customers to recover plastic with their purchases. Fight plastic pollution and boost customer loyalty. Show your impact data and profit with purpose
+canonical URL    : https://apps.shopify.com/plastiks-app
+<h1> tags ( 1)  : 'Plastiks: profit with purpose'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

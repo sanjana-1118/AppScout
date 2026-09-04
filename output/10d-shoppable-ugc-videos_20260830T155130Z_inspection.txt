@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\10d-shoppable-ugc-videos_20260830T155130Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\10d-shoppable-ugc-videos_20260830T155130Z.html
+Requested URL    : https://apps.shopify.com/10d-shoppable-ugc-videos
+Final URL        : https://apps.shopify.com/10d-shoppable-ugc-videos
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,920 bytes / 191,822 chars
+Elapsed          : 0.983s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 10D | Shoppable UGC Videos - UGC, Instagram Reels & TikToks turned into shoppable carousels | Shopify App Store
+meta description : Showcase authentic UGC, TikToks, and Reels in immersive video carousels that build trust, inspire purchases, and keep shoppers exploring your store...
+canonical URL    : https://apps.shopify.com/10d-shoppable-ugc-videos
+<h1> tags ( 1)  : '10D |\xa0Shoppable UGC Videos'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

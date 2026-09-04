@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kamli-ai_20260830T180917Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\kamli-ai_20260830T180917Z.html
+Requested URL    : https://apps.shopify.com/kamli-ai
+Final URL        : https://apps.shopify.com/kamli-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,023 bytes / 205,921 chars
+Elapsed          : 1.022s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Kamli: AI chatbot + Live Chat - AI chatbot trained on your store with live chat human... | Shopify App Store
+meta description : Kamli AI replies to shoppers 24/7, tracks orders, answers FAQs, and hands off to your team when needed. Train it on your products, pages, and documents.
+canonical URL    : https://apps.shopify.com/kamli-ai
+<h1> tags ( 1)  : 'Kamli: AI chatbot + Live Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

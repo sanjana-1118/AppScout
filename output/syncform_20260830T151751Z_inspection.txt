@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncform_20260830T151751Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\syncform_20260830T151751Z.html
+Requested URL    : https://apps.shopify.com/syncform
+Final URL        : https://apps.shopify.com/syncform
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 200,022 bytes / 199,933 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SyncForm - Build and integrate custom forms to collect customer data | Shopify App Store
+meta description : Simplify form creation with unlimited customization options. Collect and analyze data to generate more leads.
+canonical URL    : https://apps.shopify.com/syncform
+<h1> tags ( 1)  : 'SyncForm'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

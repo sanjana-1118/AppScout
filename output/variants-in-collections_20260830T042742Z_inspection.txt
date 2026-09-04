@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variants-in-collections_20260830T042742Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\variants-in-collections_20260830T042742Z.html
+Requested URL    : https://apps.shopify.com/variants-in-collections
+Final URL        : https://apps.shopify.com/variants-in-collections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 207,865 bytes / 207,770 chars
+Elapsed          : 0.772s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Singleton | Variants in List - Show products variants in collection with "Add to cart" button | Shopify App Store
+meta description : Customers can add their favourite product variant to the cart directly from your collections, without viewing the product page.
+canonical URL    : https://apps.shopify.com/variants-in-collections
+<h1> tags ( 1)  : 'Singleton | Variants in List'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

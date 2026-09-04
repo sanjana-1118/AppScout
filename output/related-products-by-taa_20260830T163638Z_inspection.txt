@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\related-products-by-taa_20260830T163638Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\related-products-by-taa_20260830T163638Z.html
+Requested URL    : https://apps.shopify.com/related-products-by-taa
+Final URL        : https://apps.shopify.com/related-products-by-taa
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 201,287 bytes / 201,194 chars
+Elapsed          : 0.926s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Related Products by TAA - AI-powered related & complementary product recommendations | Shopify App Store
+meta description : Related Products by TAA helps merchants display relevant product recommendations across their store. The app uses AI to analyze product titles, des...
+canonical URL    : https://apps.shopify.com/related-products-by-taa
+<h1> tags ( 1)  : 'Related Products by TAA'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

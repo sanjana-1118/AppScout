@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ibots_20260830T163312Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ibots_20260830T163312Z.html
+Requested URL    : https://apps.shopify.com/ibots
+Final URL        : https://apps.shopify.com/ibots
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,878 bytes / 208,782 chars
+Elapsed          : 0.858s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ibots - Omni-channel inbox with AI - Whatsapp - Messenger - web... | Shopify App Store
+meta description : iBots is an omni-channel messaging platform built for businesses that want to manage all their customer conversations and Shopify store events from...
+canonical URL    : https://apps.shopify.com/ibots
+<h1> tags ( 1)  : 'ibots'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

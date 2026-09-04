@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deri_20260830T144751Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\deri_20260830T144751Z.html
+Requested URL    : https://apps.shopify.com/deri
+Final URL        : https://apps.shopify.com/deri
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 152,214 bytes / 152,075 chars
+Elapsed          : 1.442s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Deri - Automatiza tu operación logística en tiempo real. | Shopify App Store
+meta description : Descubre Deri, la herramienta esencial para tu negocio. Información en tiempo real, procesos automatizados y gestión simplificada. Impulsa tu logística hoy.
+canonical URL    : https://apps.shopify.com/deri?locale=es
+<h1> tags ( 1)  : 'Deri'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

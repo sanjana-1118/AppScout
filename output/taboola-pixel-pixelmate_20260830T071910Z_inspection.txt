@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taboola-pixel-pixelmate_20260830T071910Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\taboola-pixel-pixelmate_20260830T071910Z.html
+Requested URL    : https://apps.shopify.com/taboola-pixel-pixelmate
+Final URL        : https://apps.shopify.com/taboola-pixel-pixelmate
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,523 bytes / 174,406 chars
+Elapsed          : 0.710s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Taboola Pixel ‑ Tracking - Track conversion actions in Taboola with our Taboola Pixel App | Shopify App Store
+meta description : Install the Taboola Pixel to effectively track conversions on Shopify in Taboola, including add to cart actions, product views, and checkouts.
+canonical URL    : https://apps.shopify.com/taboola-pixel-pixelmate
+<h1> tags ( 1)  : 'Taboola Pixel ‑ Tracking'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

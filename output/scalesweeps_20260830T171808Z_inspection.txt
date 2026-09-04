@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scalesweeps_20260830T171808Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\scalesweeps_20260830T171808Z.html
+Requested URL    : https://apps.shopify.com/scalesweeps
+Final URL        : https://apps.shopify.com/scalesweeps
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,148 bytes / 166,055 chars
+Elapsed          : 0.776s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Scale Sweeps - Scale Sweeps - Upsells for Sweepstakes! | Shopify App Store
+meta description : Our app specializes in post-purchase upsells, checkout upsells, and thank you page upsells. we've crafted an app that systematically improves order...
+canonical URL    : https://apps.shopify.com/scalesweeps
+<h1> tags ( 1)  : 'Scale Sweeps'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

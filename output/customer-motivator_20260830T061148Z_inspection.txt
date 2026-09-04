@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-motivator_20260830T061148Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-motivator_20260830T061148Z.html
+Requested URL    : https://apps.shopify.com/customer-motivator
+Final URL        : https://apps.shopify.com/customer-motivator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,403 bytes / 195,314 chars
+Elapsed          : 0.881s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Inciter: Shipping & Promo Bars - Free shipping, free gift and custom promo bars in 1... | Shopify App Store
+meta description : Add an announcement bar to motivate shoppers - tell what they'll get when completing a purchase. Increase the average order value by enticing custo...
+canonical URL    : https://apps.shopify.com/customer-motivator
+<h1> tags ( 1)  : 'Inciter: Shipping & Promo Bars'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

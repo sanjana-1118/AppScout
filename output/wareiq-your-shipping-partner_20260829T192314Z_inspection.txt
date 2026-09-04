@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wareiq-your-shipping-partner_20260829T192314Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wareiq-your-shipping-partner_20260829T192314Z.html
+Requested URL    : https://apps.shopify.com/wareiq-your-shipping-partner
+Final URL        : https://apps.shopify.com/wareiq-your-shipping-partner
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,994 bytes / 191,883 chars
+Elapsed          : 0.860s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WareIQ ‑ Your Shipping Partner - Multi-Courier Shipping Engine to Unlock Same/Next-day Delivery | Shopify App Store
+meta description : WareIQ Shipping is a multi-courier smart shipping engine that unlocks same/next-day deliveries across 24,000+ pin codes in India for Shopify brands.
+canonical URL    : https://apps.shopify.com/wareiq-your-shipping-partner
+<h1> tags ( 1)  : 'WareIQ ‑ Your Shipping Partner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

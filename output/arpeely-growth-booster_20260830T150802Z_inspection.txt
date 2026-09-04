@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arpeely-growth-booster_20260830T150802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\arpeely-growth-booster_20260830T150802Z.html
+Requested URL    : https://apps.shopify.com/arpeely-growth-booster
+Final URL        : https://apps.shopify.com/arpeely-growth-booster
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,106 bytes / 175,009 chars
+Elapsed          : 0.622s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Arpeely Growth Booster - Get Quality Traffic - Advertise on the largest ad exchanges | Shopify App Store
+meta description : Drive high-quality, targeted traffic to your Shopify store. Use your existing ads and content to retarget visitors, find new lookalike audiences & more.
+canonical URL    : https://apps.shopify.com/arpeely-growth-booster
+<h1> tags ( 1)  : 'Arpeely Growth Booster'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

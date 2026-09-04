@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\site-search-360_20260830T062756Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\site-search-360_20260830T062756Z.html
+Requested URL    : https://apps.shopify.com/site-search-360
+Final URL        : https://apps.shopify.com/site-search-360
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 215,444 bytes / 215,353 chars
+Elapsed          : 0.820s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 360 product search and filters - Boost conversion with smart instant search & product filters | Shopify App Store
+meta description : Keyword search is an outdated concept. Automatically sync and get relevant results from your catalog with our Shopify app. Brought to you by Site Search 360.
+canonical URL    : https://apps.shopify.com/site-search-360
+<h1> tags ( 1)  : '360 product search and filters'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

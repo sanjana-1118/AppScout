@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\urgencybar_20260831T040137Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\urgencybar_20260831T040137Z.html
+Requested URL    : https://apps.shopify.com/urgencybar
+Final URL        : https://apps.shopify.com/urgencybar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,199 bytes / 169,096 chars
+Elapsed          : 0.812s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Urgency Bar - Drive urgency with a countdown bar and custom messages | Shopify App Store
+meta description : Create urgency and boost conversions with Urgency Bar. Add countdown timers and scarcity alerts to increase sales and engagement.
+canonical URL    : https://apps.shopify.com/urgencybar
+<h1> tags ( 1)  : 'Urgency Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

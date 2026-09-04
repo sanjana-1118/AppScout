@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nitoriq-commerce_20260830T074714Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\nitoriq-commerce_20260830T074714Z.html
+Requested URL    : https://apps.shopify.com/nitoriq-commerce
+Final URL        : https://apps.shopify.com/nitoriq-commerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,217 bytes / 167,128 chars
+Elapsed          : 0.715s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Nitoriq Commerce - Connect orders to campaigns and uncover attribution gaps | Shopify App Store
+meta description : Connect Shopify orders to campaign traffic, measure attributed revenue by campaign and product, monitor tracking health, and audit order matches.
+canonical URL    : https://apps.shopify.com/nitoriq-commerce
+<h1> tags ( 1)  : 'Nitoriq Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

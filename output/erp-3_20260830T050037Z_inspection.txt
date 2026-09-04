@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\erp-3_20260830T050037Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\erp-3_20260830T050037Z.html
+Requested URL    : https://apps.shopify.com/erp-3
+Final URL        : https://apps.shopify.com/erp-3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,402 bytes / 172,813 chars
+Elapsed          : 0.901s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 赛狐ERP - 精细化ERP管理系统，让您的生意更高效 | Shopify App Store
+meta description : 赛狐ERP，精细化ERP管理系统，全面贴合跨境电商ERP卖家需求研发，为卖家提供运营、管理、进销存、财务全链路的数字化解决方案，助力企业降本增效。
+专注价值，顾问式服务，未来赛狐将继续深耕技术，深刻理解卖家需求，精准打磨产品功能，保持每天更新的产品迭代频率，助力卖家精细化高效运营。...
+canonical URL    : https://apps.shopify.com/erp-3?locale=zh-CN
+<h1> tags ( 1)  : '赛狐ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

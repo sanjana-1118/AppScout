@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smile_20260829T183850Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smile_20260829T183850Z.html
+Requested URL    : https://apps.shopify.com/smile
+Final URL        : https://apps.shopify.com/smile
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,580 bytes / 195,487 chars
+Elapsed          : 0.886s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Smile - A fun and effective way to get product reviews | Shopify App Store
+meta description : Give your customers a way to express their gratitude with emojis. It's the perfect marketing strategy for companies who want more positive feedback...
+canonical URL    : https://apps.shopify.com/smile
+<h1> tags ( 1)  : 'Smile'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

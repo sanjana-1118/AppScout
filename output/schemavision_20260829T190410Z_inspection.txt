@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\schemavision_20260829T190410Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\schemavision_20260829T190410Z.html
+Requested URL    : https://apps.shopify.com/schemavision
+Final URL        : https://apps.shopify.com/schemavision
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,695 bytes / 191,603 chars
+Elapsed          : 0.546s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SchemaVision: AI search data - Reads your product photos to fill in missing structured data. | Shopify App Store
+meta description : Generate complete Schema org structured data. SchemaVision reads product photos to fill in missing color, material, and pattern, with confidence scoring.
+canonical URL    : https://apps.shopify.com/schemavision
+<h1> tags ( 1)  : 'SchemaVision: AI search data'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

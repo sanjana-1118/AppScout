@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockkoala_20260830T172109Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\stockkoala_20260830T172109Z.html
+Requested URL    : https://apps.shopify.com/stockkoala
+Final URL        : https://apps.shopify.com/stockkoala
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,808 bytes / 192,719 chars
+Elapsed          : 0.815s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : StockKoala - Count inventory, forecast demand, create POs, track expiry | Shopify App Store
+meta description : Scan barcodes, count inventory, track batches and expiry dates, create purchase orders, and forecast demand. Free plan available.
+canonical URL    : https://apps.shopify.com/stockkoala
+<h1> tags ( 1)  : 'StockKoala'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

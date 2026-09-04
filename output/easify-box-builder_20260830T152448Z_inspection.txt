@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easify-box-builder_20260830T152448Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easify-box-builder_20260830T152448Z.html
+Requested URL    : https://apps.shopify.com/easify-box-builder
+Final URL        : https://apps.shopify.com/easify-box-builder
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 259,975 bytes / 259,880 chars
+Elapsed          : 0.893s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easify Box Bundle Builder BYOB - Mix and Match bundle app to Build Your Own Bundle... | Shopify App Store
+meta description : Build a box, gift box, custom bundle kit with this Shopify Bundle Builder app! Create single/ multi-step Box Builder BYOB page to mix and match bundle products.
+canonical URL    : https://apps.shopify.com/easify-box-builder
+<h1> tags ( 1)  : 'Easify Box Bundle Builder BYOB'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

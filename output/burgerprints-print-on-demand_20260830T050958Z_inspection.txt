@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\burgerprints-print-on-demand_20260830T050958Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\burgerprints-print-on-demand_20260830T050958Z.html
+Requested URL    : https://apps.shopify.com/burgerprints-print-on-demand
+Final URL        : https://apps.shopify.com/burgerprints-print-on-demand
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 164,935 bytes / 164,810 chars
+Elapsed          : 0.556s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Burgerprints: Print‑on‑Demand - Top quality for P.O.D and H.O.D | Fulfill worldwide | Shopify App Store
+meta description : We handle all tedious and hard work from printing, packing, and shipping, which allows you to fully focus on designing and growing.
+
+What we offers...
+canonical URL    : https://apps.shopify.com/burgerprints-print-on-demand
+<h1> tags ( 1)  : 'Burgerprints: Print‑on‑Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

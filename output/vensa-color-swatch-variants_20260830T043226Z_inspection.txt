@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vensa-color-swatch-variants_20260830T043226Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\vensa-color-swatch-variants_20260830T043226Z.html
+Requested URL    : https://apps.shopify.com/vensa-color-swatch-variants
+Final URL        : https://apps.shopify.com/vensa-color-swatch-variants
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 179,319 bytes / 179,230 chars
+Elapsed          : 0.590s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Vensa: Color Swatch & Variants - Color swatches & variant images on product & collection pages. | Shopify App Store
+meta description : Show variant options as color, image, and variant-photo swatches on product and collection pages. Style each option and auto-map colors with no code
+canonical URL    : https://apps.shopify.com/vensa-color-swatch-variants
+<h1> tags ( 1)  : 'Vensa: Color Swatch & Variants'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

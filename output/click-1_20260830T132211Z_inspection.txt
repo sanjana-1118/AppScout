@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\click-1_20260830T132211Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\click-1_20260830T132211Z.html
+Requested URL    : https://apps.shopify.com/click-1
+Final URL        : https://apps.shopify.com/click-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,017 bytes / 167,924 chars
+Elapsed          : 0.838s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Click 1 - Create and send customized carts at scale | Shopify App Store
+meta description : Click1 is designed to reduce the clicks needed to get a customer in your cart with a promo code added. When potential customers click on a Click1 l...
+canonical URL    : https://apps.shopify.com/click-1
+<h1> tags ( 1)  : 'Click 1'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

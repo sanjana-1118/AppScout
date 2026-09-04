@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-locator-w3_20260830T033721Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\store-locator-w3_20260830T033721Z.html
+Requested URL    : https://apps.shopify.com/store-locator-w3
+Final URL        : https://apps.shopify.com/store-locator-w3
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,615 bytes / 202,502 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Store Locator ‑ W3 - Easily add locations to a map for your customers to... | Shopify App Store
+meta description : W3trends is proud to bring you a super simple and easy to use store locator. It's as simple as adding your locations and letting your customers fin...
+canonical URL    : https://apps.shopify.com/store-locator-w3
+<h1> tags ( 1)  : 'Store Locator ‑ W3'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

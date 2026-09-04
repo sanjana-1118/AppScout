@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-new-black-ai_20260830T163408Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\the-new-black-ai_20260830T163408Z.html
+Requested URL    : https://apps.shopify.com/the-new-black-ai
+Final URL        : https://apps.shopify.com/the-new-black-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,663 bytes / 218,562 chars
+Elapsed          : 0.483s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : The New Black AI - AI fashion models and virtual try-on for fashion brands | Shopify App Store
+meta description : The New Black is the AI creative studio for fashion brands. Generate product images, try designs on virtual models, and publish straight to Shopify.
+canonical URL    : https://apps.shopify.com/the-new-black-ai
+<h1> tags ( 1)  : 'The New Black AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

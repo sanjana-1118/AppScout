@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-chatgpt-4o-seo-description_20260830T055452Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-chatgpt-4o-seo-description_20260830T055452Z.html
+Requested URL    : https://apps.shopify.com/ai-chatgpt-4o-seo-description
+Final URL        : https://apps.shopify.com/ai-chatgpt-4o-seo-description
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,563 bytes / 187,456 chars
+Elapsed          : 0.490s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Product Description GPT‑4o - Create Ai product descriptions effortlessly with ChatGPT AI | Shopify App Store
+meta description : Effortlessly create compelling AI Product Descriptions with our AI-powered Product Description Generator. Utilizing advanced ChatGPT technology, th...
+canonical URL    : https://apps.shopify.com/ai-chatgpt-4o-seo-description
+<h1> tags ( 1)  : 'AI Product Description GPT‑4o'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

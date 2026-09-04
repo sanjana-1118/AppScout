@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cryptocurrency-price-updater_20260830T033436Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cryptocurrency-price-updater_20260830T033436Z.html
+Requested URL    : https://apps.shopify.com/cryptocurrency-price-updater
+Final URL        : https://apps.shopify.com/cryptocurrency-price-updater
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,854 bytes / 174,758 chars
+Elapsed          : 0.851s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wise Crypto Price Updater - Update your Product Prices according to Crypto or Currency  | Shopify App Store
+meta description : With this application, you can base your product's price to any currency and update the price of the product accordingly.
+
+If you want, you can use...
+canonical URL    : https://apps.shopify.com/cryptocurrency-price-updater
+<h1> tags ( 1)  : 'Wise Crypto Price Updater'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

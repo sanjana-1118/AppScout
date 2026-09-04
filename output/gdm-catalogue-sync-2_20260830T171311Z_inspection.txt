@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gdm-catalogue-sync-2_20260830T171311Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\gdm-catalogue-sync-2_20260830T171311Z.html
+Requested URL    : https://apps.shopify.com/gdm-catalogue-sync-2
+Final URL        : https://apps.shopify.com/gdm-catalogue-sync-2
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,519 bytes / 178,428 chars
+Elapsed          : 0.508s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Catalog Sync - Product synchronization with automatic updates | Shopify App Store
+meta description : CatalogSync eliminates the manual work of sharing products between Shopify stores. Suppliers can share their catalog with resellers in a one-way sy...
+canonical URL    : https://apps.shopify.com/gdm-catalogue-sync-2
+<h1> tags ( 1)  : 'Catalog Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

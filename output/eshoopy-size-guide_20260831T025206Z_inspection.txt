@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eshoopy-size-guide_20260831T025206Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\eshoopy-size-guide_20260831T025206Z.html
+Requested URL    : https://apps.shopify.com/eshoopy-size-guide
+Final URL        : https://apps.shopify.com/eshoopy-size-guide
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,878 bytes / 180,789 chars
+Elapsed          : 0.986s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : eShoopy Size Guide - Size charts, fit finder & 28-language guides that cut returns | Shopify App Store
+meta description : Create accurate size charts with automatic international conversions, a 20-second fit finder and full translations in 28 languages. Free plan, free export.
+canonical URL    : https://apps.shopify.com/eshoopy-size-guide
+<h1> tags ( 1)  : 'eShoopy Size Guide'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

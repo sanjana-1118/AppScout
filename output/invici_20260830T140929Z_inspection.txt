@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invici_20260830T140929Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\invici_20260830T140929Z.html
+Requested URL    : https://apps.shopify.com/invici
+Final URL        : https://apps.shopify.com/invici
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,860 bytes / 168,767 chars
+Elapsed          : 0.791s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Invici - Upload Products to Your Store Directly From Invoices and POs | Shopify App Store
+meta description : Save time and effort by scanning and uploading products from invoices and POs. Invici leverages AI to simplify the inventory management workflow by...
+canonical URL    : https://apps.shopify.com/invici
+<h1> tags ( 1)  : 'Invici'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

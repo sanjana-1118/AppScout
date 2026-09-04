@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-fulfill_20260830T071142Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-fulfill_20260830T071142Z.html
+Requested URL    : https://apps.shopify.com/auto-fulfill
+Final URL        : https://apps.shopify.com/auto-fulfill
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,617 bytes / 205,526 chars
+Elapsed          : 0.534s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Auto Fulfill - Send orders to vendors, update tracking & dropship fulfillment | Shopify App Store
+meta description : Automate Shopify order fulfillment and tracking numbers. Manage your dropship vendors using vendor links.  Integrate custom packing slips with your suppliers.
+canonical URL    : https://apps.shopify.com/auto-fulfill
+<h1> tags ( 1)  : 'Auto Fulfill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

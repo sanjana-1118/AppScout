@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intelliconvert_20260830T162858Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\intelliconvert_20260830T162858Z.html
+Requested URL    : https://apps.shopify.com/intelliconvert
+Final URL        : https://apps.shopify.com/intelliconvert
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,915 bytes / 176,821 chars
+Elapsed          : 0.623s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Intelliconvert - AI Shopping Assistant - Chatbot, Upsell & Conversion Optimizer | Shopify App Store
+meta description : IntelliConvert is a 24/7 AI shopping assistant that provides personalized product recommendations & instant answers. No coding, auto-trained on your products.
+canonical URL    : https://apps.shopify.com/intelliconvert
+<h1> tags ( 1)  : 'Intelliconvert'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

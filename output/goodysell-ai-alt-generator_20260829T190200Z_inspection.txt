@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goodysell-ai-alt-generator_20260829T190200Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\goodysell-ai-alt-generator_20260829T190200Z.html
+Requested URL    : https://apps.shopify.com/goodysell-ai-alt-generator
+Final URL        : https://apps.shopify.com/goodysell-ai-alt-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,460 bytes / 195,352 chars
+Elapsed          : 0.903s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GoodySell: AI Alt Generator - AI Alt Text Generator – Automated Bulk SEO Tags from... | Shopify App Store
+meta description : Enhance your Shopify store’s SEO and accessibility with AI Alt Generator — an intelligent solution for automatic alt-text creation!
+canonical URL    : https://apps.shopify.com/goodysell-ai-alt-generator
+<h1> tags ( 1)  : 'GoodySell: AI Alt Generator'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

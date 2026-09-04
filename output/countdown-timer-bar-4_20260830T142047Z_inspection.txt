@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\countdown-timer-bar-4_20260830T142047Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\countdown-timer-bar-4_20260830T142047Z.html
+Requested URL    : https://apps.shopify.com/countdown-timer-bar-4
+Final URL        : https://apps.shopify.com/countdown-timer-bar-4
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,247 bytes / 181,154 chars
+Elapsed          : 0.697s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Meetanshi Countdown Timer Bar - Flash sales countdown timer. 15+ ready-to-use templates. | Shopify App Store
+meta description : Boost sales with the power of urgency. Countdown timer bar app to encourage customers to buy by showing urgency.
+canonical URL    : https://apps.shopify.com/countdown-timer-bar-4
+<h1> tags ( 1)  : 'Meetanshi Countdown Timer Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

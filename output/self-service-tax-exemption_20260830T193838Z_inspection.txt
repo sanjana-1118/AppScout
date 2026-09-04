@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\self-service-tax-exemption_20260830T193838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\self-service-tax-exemption_20260830T193838Z.html
+Requested URL    : https://apps.shopify.com/self-service-tax-exemption
+Final URL        : https://apps.shopify.com/self-service-tax-exemption
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,096 bytes / 175,989 chars
+Elapsed          : 0.527s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Self‑Service Tax Exemption - Self-service tax exemption, certificates, approvals, and holds | Shopify App Store
+meta description : Self-Service Tax Exemption Manager lets customers submit certificate details, upload exemption documents, and continue checkout without emailing su...
+canonical URL    : https://apps.shopify.com/self-service-tax-exemption
+<h1> tags ( 1)  : 'Self‑Service Tax Exemption'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

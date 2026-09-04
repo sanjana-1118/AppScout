@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-hide-unhide-products_20260830T061710Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-hide-unhide-products_20260830T061710Z.html
+Requested URL    : https://apps.shopify.com/auto-hide-unhide-products
+Final URL        : https://apps.shopify.com/auto-hide-unhide-products
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,421 bytes / 213,325 chars
+Elapsed          : 0.551s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Blink | Hide out of stock - Hide sold out or publish in-stock products automatically | Shopify App Store
+meta description : Improve buying experience for your customers by hiding Products they can't buy!
+
+The main challenge faced due to sold-out products is that customer...
+canonical URL    : https://apps.shopify.com/auto-hide-unhide-products
+<h1> tags ( 1)  : 'Blink | Hide out of stock'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

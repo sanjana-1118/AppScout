@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-varient-swatch_20260830T045538Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-varient-swatch_20260830T045538Z.html
+Requested URL    : https://apps.shopify.com/ai-varient-swatch
+Final URL        : https://apps.shopify.com/ai-varient-swatch
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 166,044 bytes / 165,919 chars
+Elapsed          : 0.761s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Swatch Maker‑ Powered By AI - AI variant swatches for better product discovery | Shopify App Store
+meta description : Stop mapping variants by hand. AI Swatcher instantly detects and groups your product variants — colors, sizes, styles, patterns — into polished swa...
+canonical URL    : https://apps.shopify.com/ai-varient-swatch
+<h1> tags ( 1)  : 'AI Swatch Maker‑ Powered By AI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

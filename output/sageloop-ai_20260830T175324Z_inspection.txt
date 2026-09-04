@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sageloop-ai_20260830T175324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sageloop-ai_20260830T175324Z.html
+Requested URL    : https://apps.shopify.com/sageloop-ai
+Final URL        : https://apps.shopify.com/sageloop-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 182,174 bytes / 182,076 chars
+Elapsed          : 0.832s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SageLoop AI: Orchestrated Chat - AI Chat That Learns From You. Expert Review + Live... | Shopify App Store
+meta description : SageLoop AI is an AI-powered chat assistant for online stores. It answers product questions, resolves support tickets, and drives sales automatically.
+canonical URL    : https://apps.shopify.com/sageloop-ai
+<h1> tags ( 1)  : 'SageLoop AI: Orchestrated Chat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revenue-leak-fixer_20260830T073848Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\revenue-leak-fixer_20260830T073848Z.html
+Requested URL    : https://apps.shopify.com/revenue-leak-fixer
+Final URL        : https://apps.shopify.com/revenue-leak-fixer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,216 bytes / 169,123 chars
+Elapsed          : 1.077s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Revix - Find and fix hidden revenue leaks with AI | Shopify App Store
+meta description : See how much revenue your store is losing. Find leaks, fix products with AI, and recover lost sales in minutes.
+canonical URL    : https://apps.shopify.com/revenue-leak-fixer
+<h1> tags ( 1)  : 'Revix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

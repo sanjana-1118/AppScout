@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/simple-email-change",
+  "fetch_timestamp": "2026-08-30T15:50:01.074667+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simple-email-change_20260830T155000Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simple-email-change_20260830T155000Z.html",
+    "url": "https://apps.shopify.com/simple-email-change",
+    "final_url": "https://apps.shopify.com/simple-email-change",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 171856,
+    "body_text_length": 170951,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.762486,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Simple Email Change - This is a simple app that allows customers to easily... | Shopify App Store",
+    "meta_description": "お客様自身でメールアドレスを簡単かつ安全に変更できるアプリです。マイページ等から新しいメールアドレスを入力し、確認メールを受信して変更を完了できます。ストアオーナーは変更履歴を確認でき、カスタムフォームやメールテンプレートの設定も可能です。",
+    "canonical_url": "https://apps.shopify.com/simple-email-change",
+    "h1_tags": [
+      "Simple Email Change"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Simple Email Change",
+    "app_slug": "simple-email-change",
+    "app_url": "https://apps.shopify.com/simple-email-change",
+    "developer_name": "Playbit Inc.（プレイビット）",
+    "description": "お客様自身でメールアドレスを簡単かつ安全に変更できるアプリです。マイページ等から新しいメールアドレスを入力し、確認メールを受信して変更を完了できます。ストアオーナーは変更履歴を確認でき、カスタムフォームやメールテンプレートの設定も可能です。",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Workflow automation"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simple-email-change_20260830T155000Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\simple-email-change_20260830T155000Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Simple Email Change",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "simple-email-change",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/simple-email-change",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Playbit Inc.（プレイビット）",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "お客様自身でメールアドレスを簡単かつ安全に変更できるアプリです。マイページ等から新しいメールアドレスを入力し、確認メールを受信して変更を完了できます。ストアオーナーは変更履歴を確認でき、カスタムフォームやメールテンプレートの設定も可能です。",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Workflow automation",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

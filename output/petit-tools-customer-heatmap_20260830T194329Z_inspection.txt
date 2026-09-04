@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\petit-tools-customer-heatmap_20260830T194329Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\petit-tools-customer-heatmap_20260830T194329Z.html
+Requested URL    : https://apps.shopify.com/petit-tools-customer-heatmap
+Final URL        : https://apps.shopify.com/petit-tools-customer-heatmap
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,570 bytes / 163,481 chars
+Elapsed          : 1.239s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Petit Tools: Customer Heatmap - Visualise & segment customer orders to make smarter decisions. | Shopify App Store
+meta description : See where your customers are. Map every Shopify order as a heatmap, drill into sales by country, region and city, and build geo-targeted customer segments.
+canonical URL    : https://apps.shopify.com/petit-tools-customer-heatmap
+<h1> tags ( 1)  : 'Petit Tools: Customer Heatmap'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

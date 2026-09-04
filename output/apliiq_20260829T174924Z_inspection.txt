@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apliiq_20260829T174924Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\apliiq_20260829T174924Z.html
+Requested URL    : https://apps.shopify.com/apliiq
+Final URL        : https://apps.shopify.com/apliiq
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,996 bytes / 224,873 chars
+Elapsed          : 0.869s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Apliiq ‑ Print On Demand  - Create retail ready clothing on demand with no minimums | Shopify App Store
+meta description : Sell custom apparel with no minimums. Apliiq helps Shopify brands add private labels, embroidery, premium products, and automated fulfillment.
+canonical URL    : https://apps.shopify.com/apliiq
+<h1> tags ( 1)  : 'Apliiq ‑ Print On Demand'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

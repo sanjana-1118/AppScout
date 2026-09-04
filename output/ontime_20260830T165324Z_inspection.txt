@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ontime_20260830T165324Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ontime_20260830T165324Z.html
+Requested URL    : https://apps.shopify.com/ontime
+Final URL        : https://apps.shopify.com/ontime
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,207 bytes / 195,100 chars
+Elapsed          : 0.612s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OnTime ‑ Booking & Appointment - Let customers book appointments directly on your store | Shopify App Store
+meta description : Add appointment and service booking to your store with OnTime. Let customers select time slots and manage availability directly in Shopify.
+canonical URL    : https://apps.shopify.com/ontime
+<h1> tags ( 1)  : 'OnTime ‑ Booking & Appointment'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

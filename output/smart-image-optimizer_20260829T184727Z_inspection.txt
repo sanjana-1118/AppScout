@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-image-optimizer_20260829T184727Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\smart-image-optimizer_20260829T184727Z.html
+Requested URL    : https://apps.shopify.com/smart-image-optimizer
+Final URL        : https://apps.shopify.com/smart-image-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 290,417 bytes / 290,292 chars
+Elapsed          : 0.957s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tiny SEO Speed Image Optimizer - Boost SEO traffic, AEO/AI search, page speed & minify images!↑ | Shopify App Store
+meta description : Shopify SEO app that helps store owners audit their store, identify and fix Speed & SEO issues, optimize pages to boost organic traffic, visibility and sales.
+canonical URL    : https://apps.shopify.com/smart-image-optimizer
+<h1> tags ( 1)  : 'Tiny SEO Speed Image Optimizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

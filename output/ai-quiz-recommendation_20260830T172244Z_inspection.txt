@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-quiz-recommendation_20260830T172244Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ai-quiz-recommendation_20260830T172244Z.html
+Requested URL    : https://apps.shopify.com/ai-quiz-recommendation
+Final URL        : https://apps.shopify.com/ai-quiz-recommendation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,818 bytes / 171,715 chars
+Elapsed          : 0.695s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AI Quiz By Aimbrill  - AI Quiz & recommendations for skincare, beauty & supplements | Shopify App Store
+meta description : Create AI-powered quizzes for skincare, beauty, and supplements. Recommend the right products, personalize shopping, and boost conversions automatically.
+canonical URL    : https://apps.shopify.com/ai-quiz-recommendation
+<h1> tags ( 1)  : 'AI Quiz By Aimbrill'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

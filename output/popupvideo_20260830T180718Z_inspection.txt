@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popupvideo_20260830T180718Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\popupvideo_20260830T180718Z.html
+Requested URL    : https://apps.shopify.com/popupvideo
+Final URL        : https://apps.shopify.com/popupvideo
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,265 bytes / 193,172 chars
+Elapsed          : 1.101s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PopupVideo: Video That Sells - Tappable video, GIF, and image popups for any storefront page. | Shopify App Store
+meta description : Boost sales with tappable Shopify video popups. Add videos, GIFs, or images to any page, trigger them at the right moment, and track conversions.
+canonical URL    : https://apps.shopify.com/popupvideo
+<h1> tags ( 1)  : 'PopupVideo: Video That Sells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customizer-8_20260830T143349Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customizer-8_20260830T143349Z.html
+Requested URL    : https://apps.shopify.com/customizer-8
+Final URL        : https://apps.shopify.com/customizer-8
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,115 bytes / 173,990 chars
+Elapsed          : 0.837s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Tap2Share – Social Share App - Boost reach with a 1-click social share button on products | Shopify App Store
+meta description : Add a social share button to your Shopify product pages. Let customers share products on Facebook, WhatsApp, and more. Boost traffic and grow reach instantly.
+canonical URL    : https://apps.shopify.com/customizer-8
+<h1> tags ( 1)  : 'Tap2Share – Social Share App'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

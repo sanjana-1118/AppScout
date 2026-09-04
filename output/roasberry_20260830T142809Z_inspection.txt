@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\roasberry_20260830T142809Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\roasberry_20260830T142809Z.html
+Requested URL    : https://apps.shopify.com/roasberry
+Final URL        : https://apps.shopify.com/roasberry
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 204,176 bytes / 204,079 chars
+Elapsed          : 0.762s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Grow Halo - Your Omnichannel Decision OS for Modern E-commerce Teams | Shopify App Store
+meta description : Grow Halo is your all-in-one decision OS for marketers, combining omnichannel data with AI insights so you can optimize spend, and improve ROAS.
+canonical URL    : https://apps.shopify.com/roasberry
+<h1> tags ( 1)  : 'Grow Halo'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\starty-erp_20260830T135631Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\starty-erp_20260830T135631Z.html
+Requested URL    : https://apps.shopify.com/starty-erp
+Final URL        : https://apps.shopify.com/starty-erp
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 157,611 bytes / 157,520 chars
+Elapsed          : 0.749s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Starty ERP - Sincronizzazione ordini con Starty ERP | Shopify App Store
+meta description : Starty ERP helps businesses manage their sales and inventory and accounting...
+canonical URL    : https://apps.shopify.com/starty-erp
+<h1> tags ( 1)  : 'Starty ERP'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

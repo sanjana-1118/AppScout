@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dynamics-365-business-central_20260830T133450Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dynamics-365-business-central_20260830T133450Z.html
+Requested URL    : https://apps.shopify.com/dynamics-365-business-central
+Final URL        : https://apps.shopify.com/dynamics-365-business-central
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 232,406 bytes / 232,307 chars
+Elapsed          : 0.726s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dynamics 365 Business Central - Get in control of your inventory, finances, and tax reporting | Shopify App Store
+meta description : Increase financial visibility: get overview of your profit and costs, be in control of your tax calculation and reporting.
+
+Optimize inventory: del...
+canonical URL    : https://apps.shopify.com/dynamics-365-business-central
+<h1> tags ( 1)  : 'Dynamics 365 Business Central'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

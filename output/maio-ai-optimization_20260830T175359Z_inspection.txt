@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\maio-ai-optimization_20260830T175359Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\maio-ai-optimization_20260830T175359Z.html
+Requested URL    : https://apps.shopify.com/maio-ai-optimization
+Final URL        : https://apps.shopify.com/maio-ai-optimization
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,274 bytes / 174,181 chars
+Elapsed          : 0.602s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MAIO: AI Search Optimization - Improve your store’s visibility in AI search | Shopify App Store
+meta description : Analyze your store, find AI visibility issues, and improve how AI search tools understand and surface your products.
+canonical URL    : https://apps.shopify.com/maio-ai-optimization
+<h1> tags ( 1)  : 'MAIO: AI Search Optimization'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

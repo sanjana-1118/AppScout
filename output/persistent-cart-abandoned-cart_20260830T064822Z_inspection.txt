@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\persistent-cart-abandoned-cart_20260830T064822Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\persistent-cart-abandoned-cart_20260830T064822Z.html
+Requested URL    : https://apps.shopify.com/persistent-cart-abandoned-cart
+Final URL        : https://apps.shopify.com/persistent-cart-abandoned-cart
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 173,532 bytes / 173,424 chars
+Elapsed          : 0.922s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Persistent Cart ‑ Sync Devices - Sync carts instantly across devices, enhancing sales | Shopify App Store
+meta description : Discover Persistent Cart Sync, the ultimate solution for seamless shopping across multiple devices, enhancing customer retention and cart management
+canonical URL    : https://apps.shopify.com/persistent-cart-abandoned-cart
+<h1> tags ( 1)  : 'Persistent Cart ‑ Sync Devices'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

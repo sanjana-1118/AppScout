@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\true2size_20260830T062434Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\true2size_20260830T062434Z.html
+Requested URL    : https://apps.shopify.com/true2size
+Final URL        : https://apps.shopify.com/true2size
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 202,007 bytes / 201,914 chars
+Elapsed          : 1.052s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : True2Size: Chart & Recommender - Size recommendation that reduces returns and builds confidence | Shopify App Store
+meta description : Give shoppers a size recommendation and a clean, customizable size chart on every product page. Works with any Shopify theme, no developer needed.
+canonical URL    : https://apps.shopify.com/true2size
+<h1> tags ( 1)  : 'True2Size: Chart & Recommender'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

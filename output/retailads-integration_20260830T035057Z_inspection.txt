@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retailads-integration_20260830T035057Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\retailads-integration_20260830T035057Z.html
+Requested URL    : https://apps.shopify.com/retailads-integration
+Final URL        : https://apps.shopify.com/retailads-integration
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 160,817 bytes / 160,723 chars
+Elapsed          : 0.542s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : retailAds Integration - Easily connect to the retailAds affiliate network. | Shopify App Store
+meta description : The retailAds app enables you to integrate with the retailAds performance and affiliate network. Our app provides a one-click installation for the ...
+canonical URL    : https://apps.shopify.com/retailads-integration
+<h1> tags ( 1)  : 'retailAds Integration'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

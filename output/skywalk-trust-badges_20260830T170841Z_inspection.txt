@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skywalk-trust-badges_20260830T170841Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\skywalk-trust-badges_20260830T170841Z.html
+Requested URL    : https://apps.shopify.com/skywalk-trust-badges
+Final URL        : https://apps.shopify.com/skywalk-trust-badges
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 188,197 bytes / 188,106 chars
+Elapsed          : 0.764s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Skywalk Trust Badges - Build Buyer Trust with Custom Trust Badges and Payment Icons | Shopify App Store
+meta description : Access a library of over 100 payment icons and trust badges including major credit cards, security seals, and shipping icons.Adjust icon size, color, alignment
+canonical URL    : https://apps.shopify.com/skywalk-trust-badges
+<h1> tags ( 1)  : 'Skywalk Trust Badges'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

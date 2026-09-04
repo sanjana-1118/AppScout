@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-questions-and-answers-by-appifycommerce_20260830T061202Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\product-questions-and-answers-by-appifycommerce_20260830T061202Z.html
+Requested URL    : https://apps.shopify.com/product-questions-and-answers-by-appifycommerce
+Final URL        : https://apps.shopify.com/product-questions-and-answers-by-appifycommerce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 247,163 bytes / 246,999 chars
+Elapsed          : 0.567s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : AC ‑ Questions & Answers - Showcase product questions and answers directly on product pag | Shopify App Store
+meta description : Enable customers to ask and answer questions directly on product pages with our Shopify app. Boost engagement and sales.
+canonical URL    : https://apps.shopify.com/product-questions-and-answers-by-appifycommerce
+<h1> tags ( 1)  : 'AC ‑ Questions & Answers'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+  • Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing.
+========================================================================

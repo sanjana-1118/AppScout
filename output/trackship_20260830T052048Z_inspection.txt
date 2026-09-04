@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackship_20260830T052048Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackship_20260830T052048Z.html
+Requested URL    : https://apps.shopify.com/trackship
+Final URL        : https://apps.shopify.com/trackship
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,818 bytes / 162,725 chars
+Elapsed          : 0.595s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TrackShip - Shipment Tracking & Customer Experience Platform | Shopify App Store
+meta description : TrackShip auto-tracks your shipped orders with 1000+ shipping carriers, takes care of all the touch points with your customers from shipping to del...
+canonical URL    : https://apps.shopify.com/trackship
+<h1> tags ( 1)  : 'TrackShip'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

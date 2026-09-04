@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-08-31T04:19:59.497211+00:00",
+  "frontier_file": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\frontier\\final_verified_master_frontier_20260829T181905Z.json",
+  "total_frontier_apps": 25633,
+  "apps_selected_in_batch": 25633,
+  "total_accounted_apps": 25633,
+  "unaccounted_apps": 0,
+  "metrics": {
+    "apps_succeeded_in_db": 21278,
+    "apps_skipped_fresh": 199,
+    "validation_failures": 2,
+    "not_found_or_delisted_404": 0,
+    "rate_limited_429": 0,
+    "network_failures": 0,
+    "other_failures": 4154,
+    "snapshots_reused": 9,
+    "new_http_requests": 25425,
+    "retries_attempted": 0
+  },
+  "performance": {
+    "workers": 6,
+    "global_delay": 1.0,
+    "total_runtime_seconds": 121524.55,
+    "average_throughput_apps_per_min": 12.66
+  }
+}

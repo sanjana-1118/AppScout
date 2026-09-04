@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\salify-bundles-upsells_20260830T150039Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\salify-bundles-upsells_20260830T150039Z.html
+Requested URL    : https://apps.shopify.com/salify-bundles-upsells
+Final URL        : https://apps.shopify.com/salify-bundles-upsells
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 218,514 bytes / 218,395 chars
+Elapsed          : 0.558s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Salify – Bundles & Upsells - Bundles, volume discounts, BOGO, free shipping & cart upsells | Shopify App Store
+meta description : Create volume discounts, BOGO offers, bundles and cart upsells on Shopify. Target offers by tag, collection or cart value. Free, no code needed.
+canonical URL    : https://apps.shopify.com/salify-bundles-upsells
+<h1> tags ( 1)  : 'Salify – Bundles & Upsells'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

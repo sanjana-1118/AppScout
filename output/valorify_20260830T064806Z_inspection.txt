@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\valorify_20260830T064806Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\valorify_20260830T064806Z.html
+Requested URL    : https://apps.shopify.com/valorify
+Final URL        : https://apps.shopify.com/valorify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 195,285 bytes / 195,186 chars
+Elapsed          : 0.597s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Valorify :  Loyalty Rewards - Loyalty Rewards with Real-World Redemption | Shopify App Store
+meta description : Offer flexible redemption that extends beyond your store — from top brands to travel and gift cards. A loyalty program built for how people actually shop
+canonical URL    : https://apps.shopify.com/valorify
+<h1> tags ( 1)  : 'Valorify :  Loyalty Rewards'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-customize-collections_20260830T062448Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\auto-customize-collections_20260830T062448Z.html
+Requested URL    : https://apps.shopify.com/auto-customize-collections
+Final URL        : https://apps.shopify.com/auto-customize-collections
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,758 bytes / 187,665 chars
+Elapsed          : 0.546s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Acuinsight Collection Tuner - Expand & Classify Collections Via Custom Attributes With XLXS. | Shopify App Store
+meta description : It is an app designed to create easy buyer-to-consumer collection pages allowing 
+store owners to organize their products into several collections ...
+canonical URL    : https://apps.shopify.com/auto-customize-collections
+<h1> tags ( 1)  : 'Acuinsight Collection Tuner'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

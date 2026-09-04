@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boxify_20260830T074930Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\boxify_20260830T074930Z.html
+Requested URL    : https://apps.shopify.com/boxify
+Final URL        : https://apps.shopify.com/boxify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,875 bytes / 208,778 chars
+Elapsed          : 0.705s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Boxify - Real-time shipping rates done right | Shopify App Store
+meta description : To quote accurate shipping rates, your shop needs to know the size of the box to be shipped. That's easy if you always use just one size box, but m...
+canonical URL    : https://apps.shopify.com/boxify
+<h1> tags ( 1)  : 'Boxify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

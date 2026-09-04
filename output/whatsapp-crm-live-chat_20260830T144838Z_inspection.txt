@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-crm-live-chat_20260830T144838Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\whatsapp-crm-live-chat_20260830T144838Z.html
+Requested URL    : https://apps.shopify.com/whatsapp-crm-live-chat
+Final URL        : https://apps.shopify.com/whatsapp-crm-live-chat
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 191,220 bytes / 191,125 chars
+Elapsed          : 0.864s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WACRM: WhatsApp CRM, LiveChat  - LiveChat and WhatsApp with Integrated CRM  | Shopify App Store
+meta description : Enhance your Shopify store with WhatsApp CRM – the ultimate tool for managing customer interactions.
+canonical URL    : https://apps.shopify.com/whatsapp-crm-live-chat
+<h1> tags ( 1)  : 'WACRM: WhatsApp CRM, LiveChat'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

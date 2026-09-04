@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adsify_20260831T041459Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\adsify_20260831T041459Z.html
+Requested URL    : https://apps.shopify.com/adsify
+Final URL        : https://apps.shopify.com/adsify
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 176,488 bytes / 176,399 chars
+Elapsed          : 0.789s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Adsify - AI-powered ad creative and campaign launcher for e-store | Shopify App Store
+meta description : Launch high-converting Facebook and Google ads from your Shopify store with AI. Generate creatives, copy, and campaigns in minutes. Try free.
+canonical URL    : https://apps.shopify.com/adsify
+<h1> tags ( 1)  : 'Adsify'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

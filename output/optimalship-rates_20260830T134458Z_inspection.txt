@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optimalship-rates_20260830T134458Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\optimalship-rates_20260830T134458Z.html
+Requested URL    : https://apps.shopify.com/optimalship-rates
+Final URL        : https://apps.shopify.com/optimalship-rates
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,527 bytes / 161,438 chars
+Elapsed          : 0.813s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : OptimalShip Rates - Drastically discounted international shipping for your store! | Shopify App Store
+meta description : OptimalShip is a United States logistics company that offers drastically reduced shipping rates on all shipment types, from small parcel to LTL or ...
+canonical URL    : https://apps.shopify.com/optimalship-rates
+<h1> tags ( 1)  : 'OptimalShip Rates'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

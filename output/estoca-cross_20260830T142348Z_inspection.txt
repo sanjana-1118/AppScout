@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\estoca-cross_20260830T142348Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\estoca-cross_20260830T142348Z.html
+Requested URL    : https://apps.shopify.com/estoca-cross
+Final URL        : https://apps.shopify.com/estoca-cross
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 151,692 bytes / 151,522 chars
+Elapsed          : 0.600s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : CROSS - Personalização total de frete | Shopify App Store
+meta description : O CROSS by Estoca na Shopify possibilita a personalização da experiência de frete em vendas realizadas pelo e-commerce. Essa personalização é feita...
+canonical URL    : https://apps.shopify.com/estoca-cross?locale=pt-BR
+<h1> tags ( 1)  : 'CROSS'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

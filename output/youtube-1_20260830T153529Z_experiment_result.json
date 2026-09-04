@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/youtube-1",
+  "fetch_timestamp": "2026-08-30T15:35:29.190349+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\youtube-1_20260830T153529Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\youtube-1_20260830T153529Z.html",
+    "url": "https://apps.shopify.com/youtube-1",
+    "final_url": "https://apps.shopify.com/youtube-1",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 164591,
+    "body_text_length": 162072,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.995209,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "YouTubeかんたん埋め込み - テーマにYouTube動画をかんたん埋め込み。URLを貼るだけでOK！ | Shopify App Store",
+    "meta_description": "ShopifyのテーマにYouTube動画を簡単に埋め込めるアプリ。アプリブロックでコーディング不要、URLを貼るだけで商品ページやホームページに動画を表示できます。動画のサイズ・余白・再生設定も柔軟にカスタマイズ可能。",
+    "canonical_url": "https://apps.shopify.com/youtube-1?locale=ja",
+    "h1_tags": [
+      "YouTubeかんたん埋め込み"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "YouTubeかんたん埋め込み",
+    "app_slug": "youtube-1",
+    "app_url": "https://apps.shopify.com/youtube-1?locale=ja",
+    "developer_name": "株式会社Riverb",
+    "description": "ShopifyのテーマにYouTube動画を簡単に埋め込めるアプリ。アプリブロックでコーディング不要、URLを貼るだけで商品ページやホームページに動画を表示できます。動画のサイズ・余白・再生設定も柔軟にカスタマイズ可能。\n",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Video and livestream"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\youtube-1_20260830T153529Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\youtube-1_20260830T153529Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "json_ld.description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "YouTubeかんたん埋め込み",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "youtube-1",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/youtube-1?locale=ja",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "株式会社Riverb",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "ShopifyのテーマにYouTube動画を簡単に埋め込めるアプリ。アプリブロックでコーディング不要、URLを貼るだけで商品ページやホームページに動画を表示できます。動画のサイズ・余白・再生設定も柔軟にカスタマイズ可能。\n",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Video and livestream",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

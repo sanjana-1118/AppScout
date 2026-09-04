@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sync-master_20260830T034315Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sync-master_20260830T034315Z.html
+Requested URL    : https://apps.shopify.com/sync-master
+Final URL        : https://apps.shopify.com/sync-master
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 254,703 bytes / 254,606 chars
+Elapsed          : 0.698s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Products Sync Master - Import & sync products, prices, metafields via CSV, Excel, XML | Shopify App Store
+meta description : Sync Master can easily import/export and update all necessary data in your product catalog, including collections, variants, meta fields, etc.
+canonical URL    : https://apps.shopify.com/sync-master
+<h1> tags ( 1)  : 'Products Sync Master'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

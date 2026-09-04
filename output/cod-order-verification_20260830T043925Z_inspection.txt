@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-order-verification_20260830T043925Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\cod-order-verification_20260830T043925Z.html
+Requested URL    : https://apps.shopify.com/cod-order-verification
+Final URL        : https://apps.shopify.com/cod-order-verification
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,515 bytes / 209,420 chars
+Elapsed          : 0.760s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Hillteck: Verify COD Orders - Verify customer number & confirm orders automatically | Shopify App Store
+meta description : Hillteck offers top-tier marketing automation solutions to boost conversions through WhatsApp Marketing and reduce RTO (Return to Origin).
+canonical URL    : https://apps.shopify.com/cod-order-verification
+<h1> tags ( 1)  : 'Hillteck: Verify COD Orders'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

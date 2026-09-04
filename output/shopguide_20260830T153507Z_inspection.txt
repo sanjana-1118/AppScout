@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopguide_20260830T153507Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopguide_20260830T153507Z.html
+Requested URL    : https://apps.shopify.com/shopguide
+Final URL        : https://apps.shopify.com/shopguide
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 223,955 bytes / 223,849 chars
+Elapsed          : 0.883s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShopGuide | Agentic Commerce - Agentic commerce. AI that can handle 100% of customer journey. | Shopify App Store
+meta description : Experience Agentic Commerce. AI that autonomously guides shoppers, answers questions, and completes checkout—delivering personalization & increased conversions.
+canonical URL    : https://apps.shopify.com/shopguide
+<h1> tags ( 1)  : 'ShopGuide | Agentic Commerce'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

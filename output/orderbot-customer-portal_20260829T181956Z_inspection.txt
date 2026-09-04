@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderbot-customer-portal_20260829T181956Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\orderbot-customer-portal_20260829T181956Z.html
+Requested URL    : https://apps.shopify.com/orderbot-customer-portal
+Final URL        : https://apps.shopify.com/orderbot-customer-portal
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 155,940 bytes / 155,851 chars
+Elapsed          : 0.553s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Orderbot Customer Portal - Boost sales by allowing customers to quickly re-order. | Shopify App Store
+meta description : Enable your customers to quickly and easily re-order from their previous order history.  Choose to re-order a single item, or an entire order. 
+
+Cu...
+canonical URL    : https://apps.shopify.com/orderbot-customer-portal
+<h1> tags ( 1)  : 'Orderbot Customer Portal'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

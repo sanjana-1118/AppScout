@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/solay",
+  "fetch_timestamp": "2026-08-29T18:35:56.798240+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\solay_20260829T183556Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\solay_20260829T183556Z.html",
+    "url": "https://apps.shopify.com/solay",
+    "final_url": "https://apps.shopify.com/solay",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 203975,
+    "body_text_length": 203886,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.578944,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Solay: AI shop & marketing - Neta builds your listings, markets them, and closes the sale | Shopify App Store",
+    "meta_description": "One AI runs your whole shop: the listings and the marketing. Neta learns your brand and products, writes your product listings (titles, description...",
+    "canonical_url": "https://apps.shopify.com/solay",
+    "h1_tags": [
+      "Solay: AI shop & marketing"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Solay: AI shop & marketing",
+    "app_slug": "solay",
+    "app_url": "https://apps.shopify.com/solay",
+    "developer_name": "Solay",
+    "description": "One AI runs your whole shop: the listings and the marketing. Neta learns your brand and products, writes your product listings (titles, description...",
+    "average_rating": null,
+    "review_count": null,
+    "category": "Marketplaces"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\solay_20260829T183556Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\solay_20260829T183556Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [
+      "average_rating",
+      "review_count"
+    ],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Solay: AI shop & marketing",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "solay",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/solay",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Solay",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "One AI runs your whole shop: the listings and the marketing. Neta learns your brand and products, writes your product listings (titles, description...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": null,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": null,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Marketplaces",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

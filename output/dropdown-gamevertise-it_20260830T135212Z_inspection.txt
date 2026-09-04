@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropdown-gamevertise-it_20260830T135212Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dropdown-gamevertise-it_20260830T135212Z.html
+Requested URL    : https://apps.shopify.com/dropdown-gamevertise-it
+Final URL        : https://apps.shopify.com/dropdown-gamevertise-it
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,795 bytes / 205,702 chars
+Elapsed          : 0.744s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Email Popup & Discount Game - Gamified popup for email capture, discounts & exit intent | Shopify App Store
+meta description : Standard email popups get ignored. This one gets played. Shoppers catch your branded items to unlock a discount, so they opt in because they want t...
+canonical URL    : https://apps.shopify.com/dropdown-gamevertise-it
+<h1> tags ( 1)  : 'Email Popup & Discount Game'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

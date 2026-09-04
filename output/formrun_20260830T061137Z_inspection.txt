@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\formrun_20260830T061137Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\formrun_20260830T061137Z.html
+Requested URL    : https://apps.shopify.com/formrun
+Final URL        : https://apps.shopify.com/formrun
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 181,767 bytes / 179,028 chars
+Elapsed          : 0.531s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : formrun ‑ フォーム作成・顧客管理 - 30秒でフォーム作成！ 問い合わせ等のフォーム作成・顧客管理・自動返信メールもかんたん。 | Shopify App Store
+meta description : 多種多様なテンプレートから1つを選択することで、エンジニアの手を借りずとも誰でも簡単にフォーム作成することができ、フォームから送信された顧客情報をステータス毎にチームで管理することができるボード画面、複数人で利用できるメール機能により、顧客獲得からコミュニケーション対応の生産性向上に貢献します...
+canonical URL    : https://apps.shopify.com/formrun
+<h1> tags ( 1)  : 'formrun ‑ フォーム作成・顧客管理'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

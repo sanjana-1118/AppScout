@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-app_20260830T045030Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\price-app_20260830T045030Z.html
+Requested URL    : https://apps.shopify.com/price-app
+Final URL        : https://apps.shopify.com/price-app
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,212 bytes / 178,118 chars
+Elapsed          : 0.729s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dailed: EU Price History - Show the lowest 30-day price and comply with the EU... | Shopify App Store
+meta description : Automatically track and display the lowest 30-day product price to comply with the EU Omnibus Laws. Fully customizable Shopify app with no coding required.
+canonical URL    : https://apps.shopify.com/price-app
+<h1> tags ( 1)  : 'Dailed: EU Price History'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

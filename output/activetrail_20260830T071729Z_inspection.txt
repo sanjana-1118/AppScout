@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\activetrail_20260830T071729Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\activetrail_20260830T071729Z.html
+Requested URL    : https://apps.shopify.com/activetrail
+Final URL        : https://apps.shopify.com/activetrail
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,248 bytes / 178,161 chars
+Elapsed          : 0.658s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ActiveTrail Analytics & BI - Easily connect your shop to ActiveTrail's analytics and BI | Shopify App Store
+meta description : Easily connects your store to ActiveTrail's extensive platform. Customer data, orders, and site activity sync in real time so your campaigns always...
+canonical URL    : https://apps.shopify.com/activetrail
+<h1> tags ( 1)  : 'ActiveTrail Analytics & BI'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

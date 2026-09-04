@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qwqer-india_20260830T144959Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\qwqer-india_20260830T144959Z.html
+Requested URL    : https://apps.shopify.com/qwqer-india
+Final URL        : https://apps.shopify.com/qwqer-india
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,896 bytes / 172,803 chars
+Elapsed          : 0.880s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : QWQER India - Your trusted partner for deliveries and transportation | Shopify App Store
+meta description : QWQER India is a shipping and carrier service app designed for Shopify stores. It calculates shipping charges, delivers orders , and updates the delivery status
+canonical URL    : https://apps.shopify.com/qwqer-india
+<h1> tags ( 1)  : 'QWQER India'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

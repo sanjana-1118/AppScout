@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oview_20260830T052014Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\oview_20260830T052014Z.html
+Requested URL    : https://apps.shopify.com/oview
+Final URL        : https://apps.shopify.com/oview
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,252 bytes / 199,146 chars
+Elapsed          : 0.565s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : oView helloCash Sync - Connect your online shop with helloCash POS | Shopify App Store
+meta description : Shopify App oView helloCash Sync ✓ helloCash POS mit shopify verbinden ➨ 14 Tage kostenlos, gleich installieren!
+canonical URL    : https://apps.shopify.com/oview
+<h1> tags ( 1)  : 'oView helloCash Sync'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

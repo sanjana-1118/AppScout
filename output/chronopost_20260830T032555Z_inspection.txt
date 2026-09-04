@@ -1,0 +1,32 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chronopost_20260830T032555Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\chronopost_20260830T032555Z.html
+Requested URL    : https://apps.shopify.com/chronopost
+Final URL        : https://apps.shopify.com/chronopost
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 206,335 bytes / 206,177 chars
+Elapsed          : 0.636s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Chronopost - Ship easily within France and internationally | Shopify App Store
+meta description : Delivery in Europe
+- Home delivery service in France and more than 230 countries
+- Ad-Valorem insurance
+- Automatic national and international ship...
+canonical URL    : https://apps.shopify.com/chronopost
+<h1> tags ( 1)  : 'Chronopost'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

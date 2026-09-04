@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackshift_20260830T073644Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\trackshift_20260830T073644Z.html
+Requested URL    : https://apps.shopify.com/trackshift
+Final URL        : https://apps.shopify.com/trackshift
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 209,475 bytes / 209,366 chars
+Elapsed          : 0.835s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PixelShift ‑Meta Pixel, Tiktok - Stop missing sales data. Works with Meta, TikTok, GA4 &... | Shopify App Store
+meta description : Connect Meta Pixel, TikTok, GA4, Google Ads, LinkedIn, Pinterest, Bing & Snapchat to Shopify. Fix broken tracking and see every sale. No developer needed.
+canonical URL    : https://apps.shopify.com/trackshift
+<h1> tags ( 1)  : 'PixelShift ‑Meta Pixel, Tiktok'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\terms-conditions_20260830T162138Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\terms-conditions_20260830T162138Z.html
+Requested URL    : https://apps.shopify.com/terms-conditions
+Final URL        : https://apps.shopify.com/terms-conditions
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,975 bytes / 171,880 chars
+Elapsed          : 0.948s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Complianz Terms and Conditions - Guided setup to generate Terms & Conditions for online stores | Shopify App Store
+meta description : Create a Terms and Conditions page for your online store by answering a few questions. Generate tailored content and publish it as a store page.
+canonical URL    : https://apps.shopify.com/terms-conditions
+<h1> tags ( 1)  : 'Complianz Terms and Conditions'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

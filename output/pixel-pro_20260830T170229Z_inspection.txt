@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixel-pro_20260830T170229Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pixel-pro_20260830T170229Z.html
+Requested URL    : https://apps.shopify.com/pixel-pro
+Final URL        : https://apps.shopify.com/pixel-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,765 bytes / 163,676 chars
+Elapsed          : 0.886s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pixel Pro - Server-side Meta & TikTok pixel for accurate ad tracking | Shopify App Store
+meta description : Pixel Pro installs Meta Pixel and TikTok Pixel on your store and sends conversion events directly from your server using Meta Conversions API and T...
+canonical URL    : https://apps.shopify.com/pixel-pro
+<h1> tags ( 1)  : 'Pixel Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\altly-alt-text-generator_20260829T185712Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\altly-alt-text-generator_20260829T185712Z.html
+Requested URL    : https://apps.shopify.com/altly-alt-text-generator
+Final URL        : https://apps.shopify.com/altly-alt-text-generator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 187,159 bytes / 187,068 chars
+Elapsed          : 0.512s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : TM AI Alt Image Text SEO -  Auto alt text for every image. SEO + accessibility, done. | Shopify App Store
+meta description : Empty alt text is invisible to Google Images. Altly fixes that in one scan: it walks every product, collection, and blog image in your store and wr...
+canonical URL    : https://apps.shopify.com/altly-alt-text-generator
+<h1> tags ( 1)  : 'TM AI Alt Image Text SEO'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

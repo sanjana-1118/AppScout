@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\3cliques-direct_20260830T142145Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\3cliques-direct_20260830T142145Z.html
+Requested URL    : https://apps.shopify.com/3cliques-direct
+Final URL        : https://apps.shopify.com/3cliques-direct
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 194,402 bytes / 194,279 chars
+Elapsed          : 0.945s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 3cliques - Dropshipping Sourcing Fulfillment Platform | Shopify App Store
+meta description : Our team rich experienced cooperate with dropshipper,provide quality
+dropshipping service.   improve the quality and do super shipping to client. 3...
+canonical URL    : https://apps.shopify.com/3cliques-direct
+<h1> tags ( 1)  : '3cliques'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

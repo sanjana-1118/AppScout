@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\groovejar_20260830T072339Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\groovejar_20260830T072339Z.html
+Requested URL    : https://apps.shopify.com/groovejar
+Final URL        : https://apps.shopify.com/groovejar
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,213 bytes / 213,100 chars
+Elapsed          : 0.647s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : GrooveJar ‑ Conversion Tools - Convert Visitors Into Customers With Email Popups and More | Shopify App Store
+meta description : Capture leads with countdown timer popups and video funnels. Auto-enroll in email sequences.
+canonical URL    : https://apps.shopify.com/groovejar
+<h1> tags ( 1)  : 'GrooveJar ‑ Conversion Tools'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

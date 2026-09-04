@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dori_20260830T153520Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dori_20260830T153520Z.html
+Requested URL    : https://apps.shopify.com/dori
+Final URL        : https://apps.shopify.com/dori
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,663 bytes / 229,550 chars
+Elapsed          : 0.885s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dori: AI Shopping Assistant - AI shopping assistant for discovery, recommendations & upsells | Shopify App Store
+meta description : Dori AI shopping assistant for Shopify - smart search, FAQ chatbot, product recommendations, upsell & cross-sell. 60+ languages. No-code setup. Free plan.
+canonical URL    : https://apps.shopify.com/dori
+<h1> tags ( 1)  : 'Dori: AI Shopping Assistant'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\365nails-dropship-connector_20260830T182830Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\365nails-dropship-connector_20260830T182830Z.html
+Requested URL    : https://apps.shopify.com/365nails-dropship-connector
+Final URL        : https://apps.shopify.com/365nails-dropship-connector
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 161,928 bytes / 161,713 chars
+Elapsed          : 0.545s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : 365nails Dropship Connector - Press-on nail dropshipping with product sync and fulfillment | Shopify App Store
+meta description : 365nails Dropship Connector lets you sell press-on nails without holding inventory. Connect your Shopify store to access hundreds of ready-stock st...
+canonical URL    : https://apps.shopify.com/365nails-dropship-connector
+<h1> tags ( 1)  : '365nails Dropship Connector'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

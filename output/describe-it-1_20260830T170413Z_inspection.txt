@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\describe-it-1_20260830T170413Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\describe-it-1_20260830T170413Z.html
+Requested URL    : https://apps.shopify.com/describe-it-1
+Final URL        : https://apps.shopify.com/describe-it-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 184,970 bytes / 184,857 chars
+Elapsed          : 0.778s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Describe‑it - Audit listings and write SEO copy right inside your editor. | Shopify App Store
+meta description : Instantly audit product listings and write SEO descriptions, Google ads, and Instagram captions directly inside the Shopify editor to launch products faster.
+canonical URL    : https://apps.shopify.com/describe-it-1
+<h1> tags ( 1)  : 'Describe‑it'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

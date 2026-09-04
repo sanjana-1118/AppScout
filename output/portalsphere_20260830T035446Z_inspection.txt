@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\portalsphere_20260830T035446Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\portalsphere_20260830T035446Z.html
+Requested URL    : https://apps.shopify.com/portalsphere
+Final URL        : https://apps.shopify.com/portalsphere
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 244,036 bytes / 243,911 chars
+Elapsed          : 0.906s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : PortalSphere | B2B Wholesale - Modern B2B growth engine that goes beyond wholesale basics. | Shopify App Store
+meta description : PortalSphere transforms Shopify stores into powerful wholesale portals, increasing revenue with bulk pricing and B2B-tailored upsells. Try it today!
+canonical URL    : https://apps.shopify.com/portalsphere
+<h1> tags ( 1)  : 'PortalSphere | B2B Wholesale'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

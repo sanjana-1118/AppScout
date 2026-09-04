@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\showcaseai_20260830T163820Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\showcaseai_20260830T163820Z.html
+Requested URL    : https://apps.shopify.com/showcaseai
+Final URL        : https://apps.shopify.com/showcaseai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 192,330 bytes / 192,227 chars
+Elapsed          : 0.496s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ShowcaseAI Product Video Maker - Turn product images into engaging marketing videos | Shopify App Store
+meta description : Create product videos from your images using AI. Showcase AI helps Shopify merchants make marketing videos for product pages, ads, and social media in minutes.
+canonical URL    : https://apps.shopify.com/showcaseai
+<h1> tags ( 1)  : 'ShowcaseAI Product Video Maker'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

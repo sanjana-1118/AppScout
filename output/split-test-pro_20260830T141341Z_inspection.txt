@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\split-test-pro_20260830T141341Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\split-test-pro_20260830T141341Z.html
+Requested URL    : https://apps.shopify.com/split-test-pro
+Final URL        : https://apps.shopify.com/split-test-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,940 bytes / 178,851 chars
+Elapsed          : 0.675s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Split Test Pro - The A/B testing with AI-powered analysis | Shopify App Store
+meta description : Run A/B, multivariate, and redirect tests on any page. Bayesian stats, AI pre-launch QA & analysis, native & custom metrics. 7-day free trial.
+canonical URL    : https://apps.shopify.com/split-test-pro
+<h1> tags ( 1)  : 'Split Test Pro'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

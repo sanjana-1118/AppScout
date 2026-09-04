@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-fire-tools_20260829T190900Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-fire-tools_20260829T190900Z.html
+Requested URL    : https://apps.shopify.com/seo-fire-tools
+Final URL        : https://apps.shopify.com/seo-fire-tools
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 199,072 bytes / 198,957 chars
+Elapsed          : 0.586s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SEO FIRE TOOLS SUITE - AI SEO for every product — turn Google searches into... | Shopify App Store
+meta description : SEO Fire Tools uses AI to optimize your Shopify product and collection SEO — meta tags, image alt text, and schema — to rank higher and win organic traffic.
+canonical URL    : https://apps.shopify.com/seo-fire-tools
+<h1> tags ( 1)  : 'SEO FIRE TOOLS SUITE'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pennylane-order-invoicer_20260830T052055Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pennylane-order-invoicer_20260830T052055Z.html
+Requested URL    : https://apps.shopify.com/pennylane-order-invoicer
+Final URL        : https://apps.shopify.com/pennylane-order-invoicer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 213,232 bytes / 213,052 chars
+Elapsed          : 0.596s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Connecteur factures Pennylane - Connecter Pennylane pour générer des factures électroniques | Shopify App Store
+meta description : Connectez Shopify à Pennylane pour générer vos factures automatiquement. 
+Préparez-vous à la réforme de la facturation électronique sans effort.
+canonical URL    : https://apps.shopify.com/pennylane-order-invoicer?locale=fr
+<h1> tags ( 1)  : 'Connecteur factures Pennylane'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

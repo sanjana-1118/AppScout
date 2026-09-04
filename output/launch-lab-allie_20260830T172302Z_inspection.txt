@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\launch-lab-allie_20260830T172302Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\launch-lab-allie_20260830T172302Z.html
+Requested URL    : https://apps.shopify.com/launch-lab-allie
+Final URL        : https://apps.shopify.com/launch-lab-allie
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 178,736 bytes / 178,647 chars
+Elapsed          : 0.819s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Allie - Allie generates emails on brand in seconds | Shopify App Store
+meta description : Connect your tools and Allie learns your brand in seconds. It then uses that information to find missed revenue opportunities and create emails rea...
+canonical URL    : https://apps.shopify.com/launch-lab-allie
+<h1> tags ( 1)  : 'Allie'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

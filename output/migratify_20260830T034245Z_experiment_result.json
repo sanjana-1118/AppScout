@@ -1,0 +1,121 @@
+{
+  "target_url": "https://apps.shopify.com/migratify",
+  "fetch_timestamp": "2026-08-30T03:42:45.729361+00:00",
+  "inspection_summary": {
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\migratify_20260830T034245Z.meta.json",
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\migratify_20260830T034245Z.html",
+    "url": "https://apps.shopify.com/migratify",
+    "final_url": "https://apps.shopify.com/migratify",
+    "status_code": 200,
+    "content_type": "text/html; charset=utf-8",
+    "body_bytes_length": 221472,
+    "body_text_length": 221363,
+    "encoding": "utf-8",
+    "elapsed_seconds": 0.523989,
+    "is_html": true,
+    "is_json": false,
+    "title_tag": "Migratify: Copy Products + AI - AI Product import: Migrate products from 100+ platforms easily | Shopify App Store",
+    "meta_description": "Import products from Amazon, Etsy, eBay, WooCommerce, BigCommerce, and 100+ other platforms. Just paste a URL to start importing. For Shopee, AliEx...",
+    "canonical_url": "https://apps.shopify.com/migratify",
+    "h1_tags": [
+      "Migratify: Copy Products + AI"
+    ],
+    "json_ld_count": 1,
+    "script_count": 7,
+    "inline_json_keys": [],
+    "notes": [
+      "Encoding: 'utf-8' (server-declared)",
+      "Found 1 JSON-LD block(s) — structured data may be available.",
+      "Body contains 'captcha' or 'cf-challenge' — server may have returned a challenge page instead of the app listing."
+    ]
+  },
+  "extracted_data": {
+    "app_name": "Migratify: Copy Products + AI",
+    "app_slug": "migratify",
+    "app_url": "https://apps.shopify.com/migratify",
+    "developer_name": "Santech Software Development Services",
+    "description": "Import products from Amazon, Etsy, eBay, WooCommerce, BigCommerce, and 100+ other platforms. Just paste a URL to start importing. For Shopee, AliEx...",
+    "average_rating": 4.4,
+    "review_count": 53,
+    "category": "Store data importer"
+  },
+  "extraction_meta": {
+    "html_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\migratify_20260830T034245Z.html",
+    "meta_path": "C:\\Sanjana\\Spryntworks\\Projects\\AppScout\\data\\raw\\migratify_20260830T034245Z.meta.json",
+    "sources": {
+      "app_url": "canonical_link",
+      "app_slug": "canonical_url_path",
+      "app_name": "json_ld.name",
+      "developer_name": "json_ld.brand",
+      "description": "meta_description",
+      "average_rating": "json_ld.aggregateRating.ratingValue",
+      "review_count": "json_ld.aggregateRating.ratingCount",
+      "category": "app_specific_category_anchor"
+    },
+    "missing": [],
+    "warnings": []
+  },
+  "validation": {
+    "ground_truth_comparison": {
+      "app_name": {
+        "expected": "Judge.me Product Reviews App",
+        "actual": "Migratify: Copy Products + AI",
+        "status": "fail"
+      },
+      "app_slug": {
+        "expected": "judgeme",
+        "actual": "migratify",
+        "status": "fail"
+      },
+      "app_url": {
+        "expected": "https://apps.shopify.com/judgeme",
+        "actual": "https://apps.shopify.com/migratify",
+        "status": "fail"
+      },
+      "developer_name": {
+        "expected": "Judge.me",
+        "actual": "Santech Software Development Services",
+        "status": "fail"
+      },
+      "description": {
+        "expected": "Send unlimited, automatic review requests via email, SMS, and push. Display stars and reviews on storefront, share reviews on social media and Google Shopping.",
+        "actual": "Import products from Amazon, Etsy, eBay, WooCommerce, BigCommerce, and 100+ other platforms. Just paste a URL to start importing. For Shopee, AliEx...",
+        "status": "fail"
+      },
+      "average_rating": {
+        "expected": 5.0,
+        "actual": 4.4,
+        "status": "fail"
+      },
+      "review_count": {
+        "expected": 44288,
+        "actual": 53,
+        "status": "fail"
+      },
+      "category": {
+        "expected": "Product reviews",
+        "actual": "Store data importer",
+        "status": "fail"
+      }
+    },
+    "sanity_checks": {
+      "app_name_nonempty_string": true,
+      "app_name_length_lt_200": true,
+      "app_slug_nonempty_string": true,
+      "app_url_shopify_prefix": true,
+      "developer_name_valid": true,
+      "description_valid": true,
+      "average_rating_valid": true,
+      "review_count_valid": true,
+      "category_valid": true
+    },
+    "summary": {
+      "checked_fields": 8,
+      "passed_fields": 0,
+      "failed_fields": 8,
+      "not_checked_fields": [],
+      "all_checked_fields_passed": false,
+      "all_sanity_checks_passed": true
+    }
+  }
+}

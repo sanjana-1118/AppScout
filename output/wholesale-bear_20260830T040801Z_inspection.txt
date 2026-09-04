@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-bear_20260830T040801Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\wholesale-bear_20260830T040801Z.html
+Requested URL    : https://apps.shopify.com/wholesale-bear
+Final URL        : https://apps.shopify.com/wholesale-bear
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 229,046 bytes / 228,935 chars
+Elapsed          : 0.486s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Wholesale Bear ‑ Bulk Discount - Offer wholesale pricing and easily grow your B2B sales | Shopify App Store
+meta description : Our Shopify wholesale app adds a special wholesale b2b pricing catalog to your store. It's built to enable faster add-to-carts & quantity management for stores.
+canonical URL    : https://apps.shopify.com/wholesale-bear
+<h1> tags ( 1)  : 'Wholesale Bear ‑ Bulk Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

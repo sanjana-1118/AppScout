@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\complete-order-protection_20260830T151503Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\complete-order-protection_20260830T151503Z.html
+Requested URL    : https://apps.shopify.com/complete-order-protection
+Final URL        : https://apps.shopify.com/complete-order-protection
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,744 bytes / 180,651 chars
+Elapsed          : 0.958s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Complete Order Protection - Boost Revenue & Delight Customers with Shipping Protection | Shopify App Store
+meta description : Protect your orders and increase profits with our fully integrated shipping protection platform.
+canonical URL    : https://apps.shopify.com/complete-order-protection
+<h1> tags ( 1)  : 'Complete Order Protection'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

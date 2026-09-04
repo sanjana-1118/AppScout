@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellerwix_20260830T145623Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\sellerwix_20260830T145623Z.html
+Requested URL    : https://apps.shopify.com/sellerwix
+Final URL        : https://apps.shopify.com/sellerwix
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 175,221 bytes / 175,124 chars
+Elapsed          : 0.862s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Sellerwix - Streamline your Store with automated POD management tool | Shopify App Store
+meta description : Sellerwix streamlines your print-on-demand business by automating order syncing, supplier fulfillment, and shipping label generation—all in one pla...
+canonical URL    : https://apps.shopify.com/sellerwix
+<h1> tags ( 1)  : 'Sellerwix'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

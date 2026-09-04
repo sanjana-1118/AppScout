@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profit-peak-analytics_20260830T071420Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\profit-peak-analytics_20260830T071420Z.html
+Requested URL    : https://apps.shopify.com/profit-peak-analytics
+Final URL        : https://apps.shopify.com/profit-peak-analytics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 208,918 bytes / 208,811 chars
+Elapsed          : 0.564s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : ProfitPeak - Stop guessing. Start knowing what drives profit. | Shopify App Store
+meta description : ProfitPeak connects your Shopify ads, inventory, and financials into one source of truth. Sherpa tells you exactly what to do next.
+canonical URL    : https://apps.shopify.com/profit-peak-analytics
+<h1> tags ( 1)  : 'ProfitPeak'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

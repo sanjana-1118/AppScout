@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dx-notify-me_20260830T180104Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dx-notify-me_20260830T180104Z.html
+Requested URL    : https://apps.shopify.com/dx-notify-me
+Final URL        : https://apps.shopify.com/dx-notify-me
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 183,627 bytes / 183,534 chars
+Elapsed          : 0.681s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Dx Notify Me - Convert out-of-stock demand into real revenue | Shopify App Store
+meta description : Enable users to receive restock alerts and pre-order out-of-stock products with Dx Notify Me, helping merchants recover lost sales and capture dema...
+canonical URL    : https://apps.shopify.com/dx-notify-me
+<h1> tags ( 1)  : 'Dx Notify Me'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

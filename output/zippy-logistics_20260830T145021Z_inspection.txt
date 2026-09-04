@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zippy-logistics_20260830T145021Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\zippy-logistics_20260830T145021Z.html
+Requested URL    : https://apps.shopify.com/zippy-logistics
+Final URL        : https://apps.shopify.com/zippy-logistics
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 154,755 bytes / 154,666 chars
+Elapsed          : 0.790s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Efficient Logistics - Simplify & Optimise Your Order Fulfilment with Efficient | Shopify App Store
+meta description : Efficient Logistics streamlines your operations, providing real-time visibility and control over your shipments. With features like simple to use i...
+canonical URL    : https://apps.shopify.com/zippy-logistics
+<h1> tags ( 1)  : 'Efficient Logistics'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

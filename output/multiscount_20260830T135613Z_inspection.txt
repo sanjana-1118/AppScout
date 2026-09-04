@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multiscount_20260830T135613Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\multiscount_20260830T135613Z.html
+Requested URL    : https://apps.shopify.com/multiscount
+Final URL        : https://apps.shopify.com/multiscount
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 228,522 bytes / 228,424 chars
+Elapsed          : 0.870s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Multiscount: Tiered Discounts - Next generation of stackable and tiered discounts | Shopify App Store
+meta description : Multiscount: The all-in-one solution for boosting AOV, customer engagement, and sales with flexible stackable and tiered discounts for Shopify stores.
+canonical URL    : https://apps.shopify.com/multiscount
+<h1> tags ( 1)  : 'Multiscount: Tiered Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

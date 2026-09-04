@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instafeed-instagram-feed-1_20260830T152705Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\instafeed-instagram-feed-1_20260830T152705Z.html
+Requested URL    : https://apps.shopify.com/instafeed-instagram-feed-1
+Final URL        : https://apps.shopify.com/instafeed-instagram-feed-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 252,049 bytes / 251,926 chars
+Elapsed          : 0.972s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Omega InstaFeed Instagram Feed - Auto-sync Instagram feed & UGC posts to your store | Shopify App Store
+meta description : Social proof, Auto-sync Instagram feed & UGC posts to your store, AI template
+canonical URL    : https://apps.shopify.com/instafeed-instagram-feed-1
+<h1> tags ( 1)  : 'Omega InstaFeed Instagram Feed'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\compare-at-price_20260830T064223Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\compare-at-price_20260830T064223Z.html
+Requested URL    : https://apps.shopify.com/compare-at-price
+Final URL        : https://apps.shopify.com/compare-at-price
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 172,404 bytes / 172,291 chars
+Elapsed          : 0.578s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : WF ‑ Compare At Amount - Customize your checkout UI through adding a discount indicator | Shopify App Store
+meta description : Easily manage and customize customer order cancellations with flexible settings, allowing for refunds, subscriptions, and restocks. Personalize UI and text
+canonical URL    : https://apps.shopify.com/compare-at-price
+<h1> tags ( 1)  : 'WF ‑ Compare At Amount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,30 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\premium-store-locator_20260830T034002Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\premium-store-locator_20260830T034002Z.html
+Requested URL    : https://apps.shopify.com/premium-store-locator
+Final URL        : https://apps.shopify.com/premium-store-locator
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 190,606 bytes / 190,514 chars
+Elapsed          : 0.519s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : LocatePro by Digital Landmark - Help users find their way to your physical stores | Shopify App Store
+meta description : Elevate your customer experience with the 'LocatePro by Digital Landmark
+' app. Effortlessly display all your physical retail locations, dealers, d...
+canonical URL    : https://apps.shopify.com/premium-store-locator
+<h1> tags ( 1)  : 'LocatePro by Digital Landmark'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

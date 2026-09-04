@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dmtoleadapi_20260830T162026Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\dmtoleadapi_20260830T162026Z.html
+Requested URL    : https://apps.shopify.com/dmtoleadapi
+Final URL        : https://apps.shopify.com/dmtoleadapi
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 168,268 bytes / 168,179 chars
+Elapsed          : 0.963s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : dmtolead - AI chatbot for product questions, recommendations, and support | Shopify App Store
+meta description : Add an AI chatbot to your Shopify store that answers product, stock, shipping, and order questions, recommends products, and shows chats in Shopify admin.
+canonical URL    : https://apps.shopify.com/dmtoleadapi
+<h1> tags ( 1)  : 'dmtolead'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

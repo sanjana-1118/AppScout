@@ -1,0 +1,31 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-mark_20260830T134802Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\social-mark_20260830T134802Z.html
+Requested URL    : https://apps.shopify.com/social-mark
+Final URL        : https://apps.shopify.com/social-mark
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 153,492 bytes / 153,366 chars
+Elapsed          : 1.370s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Amhook - Ajoute une FAQ dynamique sur tes pages produits. | Shopify App Store
+meta description : Combien de visiteurs ont quitté votre site parce qu'il ne trouvait pas de réponse à leurs interrogations?
+
+Pour au final finir chez le concurrent p...
+canonical URL    : https://apps.shopify.com/social-mark?locale=fr
+<h1> tags ( 1)  : 'Amhook'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

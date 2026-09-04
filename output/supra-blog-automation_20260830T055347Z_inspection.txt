@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supra-blog-automation_20260830T055347Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\supra-blog-automation_20260830T055347Z.html
+Requested URL    : https://apps.shopify.com/supra-blog-automation
+Final URL        : https://apps.shopify.com/supra-blog-automation
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,931 bytes / 205,836 chars
+Elapsed          : 0.931s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Supra Blog Automation - Automated SEO Blog Posts Engine for your Store | Shopify App Store
+meta description : Create high-quality AI blog posts with built-in SEO, images, and automation. Schedule content, boost rankings, and grow traffic effortlessly.
+canonical URL    : https://apps.shopify.com/supra-blog-automation
+<h1> tags ( 1)  : 'Supra Blog Automation'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pos-malaysia-plugin_20260829T192221Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pos-malaysia-plugin_20260829T192221Z.html
+Requested URL    : https://apps.shopify.com/pos-malaysia-plugin
+Final URL        : https://apps.shopify.com/pos-malaysia-plugin
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 174,991 bytes / 174,902 chars
+Elapsed          : 0.760s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Pos Malaysia - Manage and process your Pos Malaysia orders | Shopify App Store
+meta description : The Pos Malaysia for Shopify is your best friend in managing all your business' shipping needs! We'll help you create shipping e-consignment notes,...
+canonical URL    : https://apps.shopify.com/pos-malaysia-plugin
+<h1> tags ( 1)  : 'Pos Malaysia'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

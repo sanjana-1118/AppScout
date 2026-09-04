@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onsk-1_20260830T065119Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\onsk-1_20260830T065119Z.html
+Requested URL    : https://apps.shopify.com/onsk-1
+Final URL        : https://apps.shopify.com/onsk-1
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 163,776 bytes / 163,627 chars
+Elapsed          : 0.559s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Ønsk - La kunder legge til dine produkter i Ønsk-appen enkelt! | Shopify App Store
+meta description : Legg til en "Legg til i Ønsk"-knapp på produktsidene dine. La kundene lagre produkter til ønskelisten sin i Ønsk-appen. Enkel tilpasning via Shopify Theme Edito
+canonical URL    : https://apps.shopify.com/onsk-1?locale=nb
+<h1> tags ( 1)  : 'Ønsk'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\makerpantry_20260831T041708Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\makerpantry_20260831T041708Z.html
+Requested URL    : https://apps.shopify.com/makerpantry
+Final URL        : https://apps.shopify.com/makerpantry
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 180,026 bytes / 179,927 chars
+Elapsed          : 0.700s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : MakerPantry: Materials & BOM - Know how many products you can make from materials on... | Shopify App Store
+meta description : MakerPantry tracks the oils, lye, fragrance, jars and labels that go into your handmade products. Give each product a recipe, and MakerPantry works...
+canonical URL    : https://apps.shopify.com/makerpantry
+<h1> tags ( 1)  : 'MakerPantry: Materials & BOM'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

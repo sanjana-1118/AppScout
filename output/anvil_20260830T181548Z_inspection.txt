@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anvil_20260830T181548Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\anvil_20260830T181548Z.html
+Requested URL    : https://apps.shopify.com/anvil
+Final URL        : https://apps.shopify.com/anvil
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 186,998 bytes / 186,909 chars
+Elapsed          : 0.930s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Anvil - Manage purchase orders and reorder stock before you run out | Shopify App Store
+meta description : Anvil manages purchase orders, suppliers, and multi-location inventory for Shopify stores. Know what to reorder, and sync stock and costs to Shopify.
+canonical URL    : https://apps.shopify.com/anvil
+<h1> tags ( 1)  : 'Anvil'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\puco-discounts_20260830T142919Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\puco-discounts_20260830T142919Z.html
+Requested URL    : https://apps.shopify.com/puco-discounts
+Final URL        : https://apps.shopify.com/puco-discounts
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 225,094 bytes / 225,001 chars
+Elapsed          : 0.785s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Puco Shipping Discounts - Offer custom shipping discount to customer based on conditions | Shopify App Store
+meta description : Free shipping is not enough for shipping discounts. Puco is a comprehensive and fast solution to help merchants create customized shipping discount...
+canonical URL    : https://apps.shopify.com/puco-discounts
+<h1> tags ( 1)  : 'Puco Shipping Discounts'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

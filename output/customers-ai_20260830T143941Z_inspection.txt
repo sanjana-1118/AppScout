@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customers-ai_20260830T143941Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customers-ai_20260830T143941Z.html
+Requested URL    : https://apps.shopify.com/customers-ai
+Final URL        : https://apps.shopify.com/customers-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 224,229 bytes / 224,122 chars
+Elapsed          : 0.814s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Customers.ai Visitor ID - Identify and track anonymous website visitors | Shopify App Store
+meta description : Identify names and emails of your anonymous website visitors for easy email and Meta ads retargeting. No pops or forms needed.
+canonical URL    : https://apps.shopify.com/customers-ai
+<h1> tags ( 1)  : 'Customers.ai Visitor ID'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

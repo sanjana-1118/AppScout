@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-luv-surveys_20260831T034655Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\customer-luv-surveys_20260831T034655Z.html
+Requested URL    : https://apps.shopify.com/customer-luv-surveys
+Final URL        : https://apps.shopify.com/customer-luv-surveys
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 193,308 bytes / 193,215 chars
+Elapsed          : 0.876s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Customer Luv Surveys - Post-purchase surveys on your thank-you page | Shopify App Store
+meta description : One-question post-purchase surveys on your thank-you page. Learn where customers really came from, branch with conditional logic, sync Klaviyo & GA4. Free plan.
+canonical URL    : https://apps.shopify.com/customer-luv-surveys
+<h1> tags ( 1)  : 'Customer Luv Surveys'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

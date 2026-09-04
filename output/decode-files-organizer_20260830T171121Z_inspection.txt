@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decode-files-organizer_20260830T171121Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\decode-files-organizer_20260830T171121Z.html
+Requested URL    : https://apps.shopify.com/decode-files-organizer
+Final URL        : https://apps.shopify.com/decode-files-organizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 169,598 bytes / 169,509 chars
+Elapsed          : 0.471s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Decode Files Organizer - Organize files with categories and fast, simple search | Shopify App Store
+meta description : Decode Files Organizer helps you organize files with a clear category-based structure. Easily group, search, and manage media from a single interface. Designed
+canonical URL    : https://apps.shopify.com/decode-files-organizer
+<h1> tags ( 1)  : 'Decode Files Organizer'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

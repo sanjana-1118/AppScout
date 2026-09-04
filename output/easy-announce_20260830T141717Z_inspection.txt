@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-announce_20260830T141717Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\easy-announce_20260830T141717Z.html
+Requested URL    : https://apps.shopify.com/easy-announce
+Final URL        : https://apps.shopify.com/easy-announce
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 162,131 bytes / 162,042 chars
+Elapsed          : 0.864s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Easy Announcement Bar - Customizable bars,widgets & popups for impactful notifications | Shopify App Store
+meta description : Elevate your stores store's outreach with Easy Announce. Craft dynamic announcement bars, banners, and popups. Customize for engaging customer interactions.
+canonical URL    : https://apps.shopify.com/easy-announce
+<h1> tags ( 1)  : 'Easy Announcement Bar'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

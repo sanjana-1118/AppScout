@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-writing_20260830T055203Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\seo-writing_20260830T055203Z.html
+Requested URL    : https://apps.shopify.com/seo-writing
+Final URL        : https://apps.shopify.com/seo-writing
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 197,052 bytes / 196,959 chars
+Elapsed          : 0.638s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : SEO WRITING - Create and publish content in 1-Click | Shopify App Store
+meta description : SEO WRITING is an all-in-one content solution featuring Super Page - a super agent that scans top-ranking competitors in search results, extracts t...
+canonical URL    : https://apps.shopify.com/seo-writing
+<h1> tags ( 1)  : 'SEO WRITING'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

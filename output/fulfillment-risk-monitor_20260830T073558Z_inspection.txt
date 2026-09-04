@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfillment-risk-monitor_20260830T073558Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\fulfillment-risk-monitor_20260830T073558Z.html
+Requested URL    : https://apps.shopify.com/fulfillment-risk-monitor
+Final URL        : https://apps.shopify.com/fulfillment-risk-monitor
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,691 bytes / 171,578 chars
+Elapsed          : 0.629s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Buildensity‑FulfillRiskMonitor - Detect shipment delays before customers complain | Shopify App Store
+meta description : Monitor fulfillment performance and detect shipment delays, blocked orders, partial fulfillments, and missing tracking before customers complain.
+canonical URL    : https://apps.shopify.com/fulfillment-risk-monitor
+<h1> tags ( 1)  : 'Buildensity‑FulfillRiskMonitor'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

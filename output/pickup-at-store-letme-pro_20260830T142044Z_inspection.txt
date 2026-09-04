@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pickup-at-store-letme-pro_20260830T142044Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\pickup-at-store-letme-pro_20260830T142044Z.html
+Requested URL    : https://apps.shopify.com/pickup-at-store-letme-pro
+Final URL        : https://apps.shopify.com/pickup-at-store-letme-pro
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 211,935 bytes / 211,846 chars
+Elapsed          : 0.706s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Yanet: Pickup Delivery Date - Add scheduled store pickup, local delivery time & date picker. | Shopify App Store
+meta description : Add scheduled store pickup, order delivery date & time picker to your cart page (Click & Collect)
+canonical URL    : https://apps.shopify.com/pickup-at-store-letme-pro
+<h1> tags ( 1)  : 'Yanet: Pickup Delivery Date'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

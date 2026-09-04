@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\canva-add-pages_20260830T152105Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\canva-add-pages_20260830T152105Z.html
+Requested URL    : https://apps.shopify.com/canva-add-pages
+Final URL        : https://apps.shopify.com/canva-add-pages
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 205,557 bytes / 205,449 chars
+Elapsed          : 0.895s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Canva AI Landing Page Builder - Link your Canva websites to your store | Shopify App Store
+meta description : Connect your Canva website to your Shopify store effortlessly with our no-code app. One-click integration for seamless syncing. Get started in seconds! 🚀
+canonical URL    : https://apps.shopify.com/canva-add-pages
+<h1> tags ( 1)  : 'Canva AI Landing Page Builder'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

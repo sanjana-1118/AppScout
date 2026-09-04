@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ap-speed-optimizer_20260829T184738Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\ap-speed-optimizer_20260829T184738Z.html
+Requested URL    : https://apps.shopify.com/ap-speed-optimizer
+Final URL        : https://apps.shopify.com/ap-speed-optimizer
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 239,942 bytes / 239,841 chars
+Elapsed          : 0.633s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : Avada Image & Page Speed Up - Auto speed optimization with expert support for faster stores | Shopify App Store
+meta description : Avada Image & Speed optimizer helps compress images, optimize alt text to boosts site speed and improve SEO
+canonical URL    : https://apps.shopify.com/ap-speed-optimizer
+<h1> tags ( 1)  : 'Avada Image & Page Speed Up'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-423_20260830T144603Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\shopify-application-423_20260830T144603Z.html
+Requested URL    : https://apps.shopify.com/shopify-application-423
+Final URL        : https://apps.shopify.com/shopify-application-423
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 171,691 bytes / 171,101 chars
+Elapsed          : 1.135s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : UR: Customer Shipping Discount - Automatic shipping discounts for customers based on tags. | Shopify App Store
+meta description : 「シンプル顧客タグ送料割引｜お手軽顧客タグ送料無料」は、Shopify 向けの送料割引アプリです。シンプルな料金体系で追加課金なし。日本製のため、日本語サポートも完備しています。
+canonical URL    : https://apps.shopify.com/shopify-application-423
+<h1> tags ( 1)  : 'UR: Customer Shipping Discount'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================

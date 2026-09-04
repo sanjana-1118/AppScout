@@ -1,0 +1,29 @@
+========================================================================
+APPSCOUT - PHASE 1 INSPECTION REPORT
+========================================================================
+Meta file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feehelper-ai_20260830T073304Z.meta.json
+HTML file        : C:\Sanjana\Spryntworks\Projects\AppScout\data\raw\feehelper-ai_20260830T073304Z.html
+Requested URL    : https://apps.shopify.com/feehelper-ai
+Final URL        : https://apps.shopify.com/feehelper-ai
+Status code      : 200
+Content-Type     : text/html; charset=utf-8
+Encoding         : utf-8
+Body size        : 167,490 bytes / 167,381 chars
+Elapsed          : 0.582s
+Is HTML          : True
+Is JSON          : False
+------------------------------------------------------------------------
+HTML metadata
+------------------------------------------------------------------------
+<title>          : feehelper‑ai - Track real profit beyond revenue and sales totals | Shopify App Store
+meta description : Track real Shopify profit with fee, shipping, margin, and cost analytics for ecommerce stores.
+canonical URL    : https://apps.shopify.com/feehelper-ai
+<h1> tags ( 1)  : 'feehelper‑ai'
+JSON-LD blocks   : 1
+<script> count   : 7
+------------------------------------------------------------------------
+Notes / observations
+------------------------------------------------------------------------
+  • Encoding: 'utf-8' (server-declared)
+  • Found 1 JSON-LD block(s) — structured data may be available.
+========================================================================
