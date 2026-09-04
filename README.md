@@ -98,7 +98,7 @@ AppScout/
 ### 1. Prerequisites
 - **Python 3.12+**
 - **Node.js 20+** & **npm**
-- **PostgreSQL 18.6+** running locally or via cloud host
+- **PostgreSQL 18.6+** installed and running locally
 
 ---
 
@@ -201,8 +201,8 @@ AppScout includes comprehensive automated verification suites to ensure backend 
 | **Phase 1: Data Collection & Ingestion** | **Completed** | 25,633 frontier targets crawled, 21,502 apps persisted in PostgreSQL. |
 | **Phase 2: Full-Stack Platform & Stabilization** | **Completed** | FastAPI backend, React SaaS dashboard (7 views), zero errors verified. |
 | **Pre-Deployment Hardening & Auditing** | **Completed** | Dynamic API endpoints, CORS configuration, React ErrorBoundary, clean UI. |
-| **Remote Cloud Server Deployment** | **Pending** | Awaiting cloud hosting credentials and target production database URL. |
-| **Phase 3: App Ranking Methodology** | **Pending** | To be designed and evaluated following live cloud deployment. |
+| **Live Online Deployment** | **Pending** | Awaiting web hosting setup to publish live on the internet with a public link. |
+| **Phase 3: App Ranking Methodology** | **Pending** | To be designed and evaluated following live deployment. |
 
 ---
 
