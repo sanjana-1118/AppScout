@@ -36,8 +36,10 @@ class Base(DeclarativeBase):
 def get_database_url() -> str:
     """Retrieve the PostgreSQL connection URL from the environment."""
     url = os.getenv("DATABASE_URL", DEFAULT_DATABASE_URL)
-    # Ensure postgresql+psycopg driver scheme if standard postgresql:// is provided
-    if url.startswith("postgresql://"):
+    # Ensure postgresql+psycopg driver scheme if standard postgres:// or postgresql:// is provided
+    if url.startswith("postgres://"):
+        url = url.replace("postgres://", "postgresql+psycopg://", 1)
+    elif url.startswith("postgresql://"):
         url = url.replace("postgresql://", "postgresql+psycopg://", 1)
     return url
 
