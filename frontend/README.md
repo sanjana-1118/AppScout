@@ -4,6 +4,8 @@ The **AppScout Frontend** is a modern Single Page Application (SPA) designed for
 
 Built with **React 19**, **TypeScript**, and **Vite 8**, it communicates asynchronously with the AppScout FastAPI backend using a strongly typed native `fetch()` client.
 
+![AppScout Frontend Architecture](../docs/assets/frontend-architecture.svg)
+
 ---
 
 ## 1. Features & Core Views

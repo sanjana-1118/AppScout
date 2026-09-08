@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="feBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080e1a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="feCardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="reactCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="blueNav" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="indigoView" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#4338ca"/>
+    </linearGradient>
+    <linearGradient id="amberModal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="emeraldApi" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="feShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1100" height="680" rx="16" fill="url(#feBgGrad)"/>
+  
+  <!-- Subtle Grid -->
+  <g stroke="#334155" stroke-width="0.5" opacity="0.3">
+    <line x1="100" y1="0" x2="100" y2="680"/><line x1="300" y1="0" x2="300" y2="680"/>
+    <line x1="500" y1="0" x2="500" y2="680"/><line x1="700" y1="0" x2="700" y2="680"/>
+    <line x1="900" y1="0" x2="900" y2="680"/>
+    <line x1="0" y1="100" x2="1100" y2="100"/><line x1="0" y1="300" x2="1100" y2="300"/>
+    <line x1="0" y1="500" x2="1100" y2="500"/>
+  </g>
+
+  <!-- Header -->
+  <g transform="translate(50, 45)">
+    <rect width="40" height="40" rx="8" fill="url(#reactCyan)"/>
+    <!-- React Atom Glyph -->
+    <ellipse cx="70" cy="65" rx="10" ry="4" stroke="#ffffff" stroke-width="1.2" fill="none" transform="rotate(30 70 65) translate(-50, -45)"/>
+    <ellipse cx="70" cy="65" rx="10" ry="4" stroke="#ffffff" stroke-width="1.2" fill="none" transform="rotate(-30 70 65) translate(-50, -45)"/>
+    <circle cx="20" cy="20" r="2.5" fill="#ffffff"/>
+    <text x="54" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#f8fafc">AppScout Frontend Architecture</text>
+    <text x="54" y="44" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#94a3b8">React 19 · TypeScript · Vite 8 · Tailwind CSS · Native Fetch API Client · Single Page App</text>
+  </g>
+
+  <!-- Inter-Module Flow Lines -->
+  <g stroke="#06b6d4" stroke-width="1.8" stroke-dasharray="4,4" fill="none" opacity="0.45">
+    <path d="M 280 220 L 330 220"/>
+    <path d="M 640 220 L 700 220"/>
+    <path d="M 485 460 L 485 500"/>
+    <path d="M 640 560 L 700 560"/>
+  </g>
+
+  <!-- Flow Arrows -->
+  <g fill="#06b6d4">
+    <polygon points="330,216 340,220 330,224"/>
+    <polygon points="700,216 710,220 700,224"/>
+    <polygon points="481,500 485,510 489,500"/>
+    <polygon points="700,556 710,560 700,564"/>
+  </g>
+
+  <!-- ==================== COLUMN 1: ENTRY & SHELL ==================== -->
+  <g transform="translate(50, 120)" filter="url(#feShadow)">
+    <rect width="230" height="500" rx="12" fill="url(#feCardGrad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="230" height="42" rx="12" fill="#1e293b"/>
+    <rect y="30" width="230" height="12" fill="#1e293b"/>
+    <circle cx="24" cy="21" r="8" fill="url(#blueNav)"/>
+    <text x="42" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f8fafc">Entry &amp; App Shell</text>
+
+    <!-- index.html & main.tsx -->
+    <g transform="translate(14, 55)">
+      <rect width="202" height="66" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="10" y="20" font-family="monospace" font-size="11" font-weight="700" fill="#38bdf8">frontend/src/main.tsx</text>
+      <text x="10" y="38" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">createRoot(document.getElementById('root'))</text>
+      <text x="10" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">Mounts &lt;App /&gt; with strict types</text>
+    </g>
+
+    <!-- App.tsx Root Layout -->
+    <g transform="translate(14, 130)">
+      <rect width="202" height="150" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="10" y="20" font-family="monospace" font-size="11" font-weight="700" fill="#38bdf8">frontend/src/App.tsx</text>
+      <text x="10" y="38" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Root Dashboard Container:</text>
+      <text x="10" y="54" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1">• activeView state navigation</text>
+      <text x="10" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1">• selectedApp state for modal</text>
+      <text x="10" y="86" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1">• initialCategorySlug cross-links</text>
+      <text x="10" y="104" font-family="system-ui, sans-serif" font-size="10" fill="#f59e0b">• Mounts &lt;AppDetailModal /&gt;</text>
+      <text x="10" y="122" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">• Wrapped in ErrorBoundary</text>
+    </g>
+
+    <!-- Shell Components -->
+    <g transform="translate(14, 290)">
+      <rect width="202" height="90" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="10" y="20" font-family="monospace" font-size="11" font-weight="700" fill="#38bdf8">Sidebar &amp; Header</text>
+      <text x="10" y="38" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Sidebar.tsx: 6 View Navigation tabs</text>
+      <text x="10" y="54" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Header.tsx: Dynamic Page title</text>
+      <text x="10" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">Responsive 2-column SaaS layout</text>
+    </g>
+
+    <!-- Styling -->
+    <g transform="translate(14, 390)">
+      <rect width="202" height="94" rx="6" fill="#090d16" stroke="#1e3a8a" stroke-width="1"/>
+      <text x="10" y="20" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#93c5fd">Tailwind CSS 3.4</text>
+      <text x="10" y="38" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">Design Tokens: slate-*, blue-*,</text>
+      <text x="10" y="52" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">emerald-*, amber-*, cyan-*</text>
+      <text x="10" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#60a5fa">Clean responsive glassmorphic UI</text>
+    </g>
+  </g>
+
+  <!-- ==================== COLUMN 2: CORE VIEWS ==================== -->
+  <g transform="translate(340, 120)" filter="url(#feShadow)">
+    <rect width="300" height="340" rx="12" fill="url(#feCardGrad)" stroke="#6366f1" stroke-width="1.5"/>
+    <rect width="300" height="42" rx="12" fill="#1e293b"/>
+    <rect y="30" width="300" height="12" fill="#1e293b"/>
+    <circle cx="24" cy="21" r="8" fill="url(#indigoView)"/>
+    <text x="42" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f8fafc">Interactive Views (src/views/)</text>
+
+    <!-- 6 Views -->
+    <g transform="translate(14, 55)">
+      <!-- View 1 -->
+      <rect width="272" height="40" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#818cf8">HomeView.tsx</text>
+      <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Landing intro, ecosystem stats &amp; quick-action cards</text>
+
+      <!-- View 2 -->
+      <g transform="translate(0, 46)">
+        <rect width="272" height="40" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#818cf8">OverviewView.tsx</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Market KPIs, review availability bar &amp; rating charts</text>
+      </g>
+
+      <!-- View 3 -->
+      <g transform="translate(0, 92)">
+        <rect width="272" height="40" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#818cf8">AppExplorerView.tsx</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">21.5k apps, debounced search, facet filters &amp; paging</text>
+      </g>
+
+      <!-- View 4 -->
+      <g transform="translate(0, 138)">
+        <rect width="272" height="40" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#818cf8">CategoryIntelligenceView.tsx</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Single-card workspace: 3 cohorts &amp; Top N selector</text>
+      </g>
+
+      <!-- View 5 -->
+      <g transform="translate(0, 184)">
+        <rect width="272" height="40" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#818cf8">PricingIntelligenceView.tsx</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">42k plan tiers, price percentiles &amp; plan explorer table</text>
+      </g>
+
+      <!-- View 6 -->
+      <g transform="translate(0, 230)">
+        <rect width="272" height="40" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#818cf8">ReviewsExplorerView.tsx</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">738k merchant reviews, keyword search &amp; star filter</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ==================== COLUMN 3: GLOBAL MODAL & COMPONENTS ==================== -->
+  <g transform="translate(710, 120)" filter="url(#feShadow)">
+    <rect width="340" height="340" rx="12" fill="url(#feCardGrad)" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect width="340" height="42" rx="12" fill="#1e293b"/>
+    <rect y="30" width="340" height="12" fill="#1e293b"/>
+    <circle cx="24" cy="21" r="8" fill="url(#amberModal)"/>
+    <text x="42" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f8fafc">Global Modal &amp; UI Components</text>
+
+    <!-- AppDetailModal -->
+    <g transform="translate(14, 55)">
+      <rect width="312" height="150" rx="8" fill="#181308" stroke="#78350f" stroke-width="1"/>
+      <text x="12" y="20" font-family="monospace" font-size="11" font-weight="700" fill="#fbbf24">AppDetailModal.tsx</text>
+      <text x="12" y="38" font-family="system-ui, sans-serif" font-size="10" fill="#fde68a">• Developer credentials &amp; official descriptions</text>
+      <text x="12" y="54" font-family="system-ui, sans-serif" font-size="10" fill="#fde68a">• Structured plan cards with pricing cadence</text>
+      <text x="12" y="72" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#f59e0b">Three-State Review Coverage Logic:</text>
+      <text x="12" y="90" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1">  Case A: Stored reviews available (N reviews badge + excerpts)</text>
+      <text x="12" y="106" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1">  Case B: Public reviews on Shopify, but uncollected in DB (amber notice)</text>
+      <text x="12" y="122" font-family="system-ui, sans-serif" font-size="10" fill="#cbd5e1">  Case C: Zero public reviews on Shopify (neutral notice)</text>
+      <text x="12" y="138" font-family="system-ui, sans-serif" font-size="10" fill="#38bdf8">• Active "View all reviews" cross-navigation link</text>
+    </g>
+
+    <!-- Reusable Widgets -->
+    <g transform="translate(14, 215)">
+      <rect width="312" height="110" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+      <text x="12" y="20" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#f1f5f9">Reusable Component Library (src/components/)</text>
+      <text x="12" y="38" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">• Badge.tsx: RatingBadge, PricingBadge</text>
+      <text x="12" y="54" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">• KPICard.tsx: Metrics card with trend indicators</text>
+      <text x="12" y="70" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">• StatusStates.tsx: LoadingState, ErrorState, InfoTooltip</text>
+      <text x="12" y="86" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">• ErrorBoundary.tsx: React crash isolation boundary</text>
+      <text x="12" y="102" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">Strict Loading State Priority: Loading → Error → Data → Empty</text>
+    </g>
+  </g>
+
+  <!-- ==================== COLUMN 4: API CLIENT & UTILITIES ==================== -->
+  <g transform="translate(340, 480)" filter="url(#feShadow)">
+    <rect width="710" height="140" rx="12" fill="url(#feCardGrad)" stroke="#10b981" stroke-width="1.5"/>
+    <rect width="710" height="36" rx="12" fill="#1e293b"/>
+    <rect y="26" width="710" height="10" fill="#1e293b"/>
+    <circle cx="22" cy="18" r="8" fill="url(#emeraldApi)"/>
+    <text x="38" y="23" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f8fafc">Typed Native Fetch API Client (src/api/) &amp; Formatters</text>
+
+    <g transform="translate(14, 46)">
+      <!-- Box 1: client.ts -->
+      <rect width="216" height="80" rx="6" fill="#0f172a" stroke="#064e3b" stroke-width="1"/>
+      <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#6ee7b7">client.ts</text>
+      <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• Typed wrapper over native fetch()</text>
+      <text x="10" y="48" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• Automatic query param serialization</text>
+      <text x="10" y="62" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• ApiError class with status &amp; detail</text>
+      <text x="10" y="74" font-family="system-ui, sans-serif" font-size="9" fill="#10b981">Vite Proxy: /api → http://127.0.0.1:8000</text>
+
+      <!-- Box 2: Domain Clients -->
+      <g transform="translate(230, 0)">
+        <rect width="216" height="80" rx="6" fill="#0f172a" stroke="#064e3b" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#6ee7b7">Domain Clients</text>
+        <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• apps.ts: fetchApps, fetchAppDetail</text>
+        <text x="10" y="48" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• categories.ts: fetchCategories, Detail</text>
+        <text x="10" y="62" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• pricing.ts: fetchPricingOverview, Plans</text>
+        <text x="10" y="74" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• reviews.ts: fetchReviews, Stats</text>
+      </g>
+
+      <!-- Box 3: Utilities -->
+      <g transform="translate(460, 0)">
+        <rect width="216" height="80" rx="6" fill="#0f172a" stroke="#064e3b" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#6ee7b7">Utilities (src/utils/)</text>
+        <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• formatters.ts</text>
+        <text x="20" y="48" font-family="system-ui, sans-serif" font-size="9" fill="#64748b">formatCurrency, formatCompactNumber</text>
+        <text x="10" y="62" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">• deduplicateCategories.ts</text>
+        <text x="20" y="74" font-family="system-ui, sans-serif" font-size="9" fill="#64748b">Deduplicates multi-path taxonomy badges</text>
+      </g>
+    </g>
+  </g>
+</svg>

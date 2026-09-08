@@ -2,6 +2,8 @@
 
 The **AppScout Backend** is a high-performance asynchronous REST API service built with **FastAPI**, **Python 3.12+**, and **SQLAlchemy 2.0+**. It serves catalog queries, market analytics, category rankings, and review explorations over an audited PostgreSQL database.
 
+![AppScout Backend Architecture](../docs/assets/backend-architecture.svg)
+
 ---
 
 ## 1. Key Responsibilities

@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="fastapiAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="blueAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="purpleAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#7e22ce"/>
+    </linearGradient>
+    <linearGradient id="amberAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1100" height="680" rx="16" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle Grid Pattern -->
+  <g stroke="#1f2937" stroke-width="0.5" opacity="0.4">
+    <line x1="100" y1="0" x2="100" y2="680"/><line x1="300" y1="0" x2="300" y2="680"/>
+    <line x1="500" y1="0" x2="500" y2="680"/><line x1="700" y1="0" x2="700" y2="680"/>
+    <line x1="900" y1="0" x2="900" y2="680"/>
+    <line x1="0" y1="100" x2="1100" y2="100"/><line x1="0" y1="300" x2="1100" y2="300"/>
+    <line x1="0" y1="500" x2="1100" y2="500"/>
+  </g>
+
+  <!-- Header -->
+  <g transform="translate(50, 45)">
+    <rect width="40" height="40" rx="8" fill="url(#fastapiAccent)"/>
+    <!-- FastApi Lightning Bolt -->
+    <path d="M 72 57 L 66 67 L 70 67 L 68 75 L 75 65 L 71 65 Z" fill="#ffffff" transform="translate(-46, -42)"/>
+    <text x="54" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#f9fafb">AppScout Backend Architecture</text>
+    <text x="54" y="44" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#9ca3af">FastAPI 0.115+ · Python 3.12+ · SQLAlchemy 2.0+ · Pydantic v2 · PostgreSQL 18.6+</text>
+  </g>
+
+  <!-- Inter-Module Connectors -->
+  <g stroke="#38bdf8" stroke-width="1.8" stroke-dasharray="4,4" fill="none" opacity="0.5">
+    <!-- Entry to Routers -->
+    <path d="M 280 230 L 360 230"/>
+    <!-- Routers to Schemas -->
+    <path d="M 680 230 L 750 230"/>
+    <!-- Routers to Dependencies -->
+    <path d="M 520 460 L 520 510"/>
+    <!-- Dependencies to DB -->
+    <path d="M 680 570 L 750 570"/>
+  </g>
+
+  <!-- Flow Arrows -->
+  <g fill="#38bdf8">
+    <polygon points="360,226 370,230 360,234"/>
+    <polygon points="750,226 760,230 750,234"/>
+    <polygon points="516,510 520,520 524,510"/>
+    <polygon points="750,566 760,570 750,574"/>
+  </g>
+
+  <!-- ==================== SECTION 1: ENTRY & CONFIGURATION ==================== -->
+  <g transform="translate(50, 120)" filter="url(#shadow)">
+    <rect width="230" height="500" rx="12" fill="url(#cardGrad)" stroke="#374151" stroke-width="1.5"/>
+    <rect width="230" height="42" rx="12" fill="#1f2937"/>
+    <rect y="30" width="230" height="12" fill="#1f2937"/>
+    <circle cx="24" cy="21" r="8" fill="url(#blueAccent)"/>
+    <text x="42" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f9fafb">Entry &amp; Configuration</text>
+
+    <!-- Card: main.py -->
+    <g transform="translate(14, 60)">
+      <rect width="202" height="150" rx="8" fill="#111827" stroke="#374151" stroke-width="1"/>
+      <text x="12" y="24" font-family="monospace" font-size="12" font-weight="700" fill="#38bdf8">backend/main.py</text>
+      <text x="12" y="44" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• FastAPI(title="AppScout")</text>
+      <text x="12" y="62" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• CORSMiddleware configuration</text>
+      <text x="12" y="80" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• Router registration (6 routers)</text>
+      <text x="12" y="98" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• Root GET / service metadata</text>
+      <text x="12" y="116" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• OpenAPI (/docs) &amp; ReDoc</text>
+      <text x="12" y="134" font-family="system-ui, sans-serif" font-size="10" fill="#10b981">Uvicorn ASGI Listener :8000</text>
+    </g>
+
+    <!-- Card: config.py -->
+    <g transform="translate(14, 226)">
+      <rect width="202" height="140" rx="8" fill="#111827" stroke="#374151" stroke-width="1"/>
+      <text x="12" y="24" font-family="monospace" font-size="12" font-weight="700" fill="#38bdf8">backend/config.py</text>
+      <text x="12" y="44" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• Pydantic BaseSettings</text>
+      <text x="12" y="62" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• DATABASE_URL resolver</text>
+      <text x="12" y="80" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• DB_POOL_SIZE (default 20)</text>
+      <text x="12" y="98" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• DB_MAX_OVERFLOW (30)</text>
+      <text x="12" y="116" font-family="system-ui, sans-serif" font-size="11" fill="#9ca3af">• CORS_ORIGINS parsing</text>
+    </g>
+
+    <!-- Card: .env binding -->
+    <g transform="translate(14, 380)">
+      <rect width="202" height="96" rx="8" fill="#0f172a" stroke="#1e3a8a" stroke-width="1"/>
+      <text x="12" y="22" font-family="monospace" font-size="11" font-weight="700" fill="#93c5fd">Environment (.env)</text>
+      <text x="12" y="40" font-family="monospace" font-size="10" fill="#64748b">DATABASE_URL=postgresql+...</text>
+      <text x="12" y="56" font-family="monospace" font-size="10" fill="#64748b">API_HOST=127.0.0.1</text>
+      <text x="12" y="72" font-family="monospace" font-size="10" fill="#64748b">API_PORT=8000</text>
+      <text x="12" y="88" font-family="monospace" font-size="10" fill="#64748b">CORS_ORIGINS=http://localhost...</text>
+    </g>
+  </g>
+
+  <!-- ==================== SECTION 2: DOMAIN ROUTERS ==================== -->
+  <g transform="translate(370, 120)" filter="url(#shadow)">
+    <rect width="310" height="340" rx="12" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.5"/>
+    <rect width="310" height="42" rx="12" fill="#1f2937"/>
+    <rect y="30" width="310" height="12" fill="#1f2937"/>
+    <circle cx="24" cy="21" r="8" fill="url(#fastapiAccent)"/>
+    <text x="42" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f9fafb">Domain Routers (backend/routers/)</text>
+
+    <!-- 6 Router Modules -->
+    <g transform="translate(14, 55)">
+      <!-- Router 1 -->
+      <rect width="282" height="40" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+      <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#34d399">overview.py</text>
+      <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">GET /api/overview (KPIs, review availability, pricing)</text>
+
+      <!-- Router 2 -->
+      <g transform="translate(0, 46)">
+        <rect width="282" height="40" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#34d399">apps.py</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">GET /api/apps (filters, search) · GET /api/apps/{slug}</text>
+      </g>
+
+      <!-- Router 3 -->
+      <g transform="translate(0, 92)">
+        <rect width="282" height="40" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#34d399">categories.py</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">GET /api/categories · /api/categories/{slug} (rankings)</text>
+      </g>
+
+      <!-- Router 4 -->
+      <g transform="translate(0, 138)">
+        <rect width="282" height="40" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#34d399">pricing.py</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">GET /api/pricing/overview · /api/pricing/plans</text>
+      </g>
+
+      <!-- Router 5 -->
+      <g transform="translate(0, 184)">
+        <rect width="282" height="40" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#34d399">reviews.py</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">GET /api/reviews (keyword/rating) · /api/reviews/stats</text>
+      </g>
+
+      <!-- Router 6 -->
+      <g transform="translate(0, 230)">
+        <rect width="282" height="40" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#34d399">coverage.py</text>
+        <text x="10" y="32" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">GET /api/coverage (reconciliation) · GET /api/health</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ==================== SECTION 3: DEPENDENCIES & INJECTION ==================== -->
+  <g transform="translate(370, 520)" filter="url(#shadow)">
+    <rect width="310" height="100" rx="12" fill="url(#cardGrad)" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect width="310" height="34" rx="12" fill="#1f2937"/>
+    <rect y="24" width="310" height="10" fill="#1f2937"/>
+    <circle cx="22" cy="17" r="7" fill="url(#amberAccent)"/>
+    <text x="38" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#f9fafb">Dependencies (backend/dependencies.py)</text>
+
+    <g transform="translate(14, 44)">
+      <text x="4" y="16" font-family="monospace" font-size="11" fill="#fcd34d">• get_db_session()</text>
+      <text x="170" y="16" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">Yields scoped DB session</text>
+      <text x="4" y="36" font-family="monospace" font-size="11" fill="#fcd34d">• get_pagination()</text>
+      <text x="170" y="36" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">Validates page/limit params</text>
+    </g>
+  </g>
+
+  <!-- ==================== SECTION 4: SCHEMAS & SERIALIZATION ==================== -->
+  <g transform="translate(760, 120)" filter="url(#shadow)">
+    <rect width="290" height="340" rx="12" fill="url(#cardGrad)" stroke="#a855f7" stroke-width="1.5"/>
+    <rect width="290" height="42" rx="12" fill="#1f2937"/>
+    <rect y="30" width="290" height="12" fill="#1f2937"/>
+    <circle cx="24" cy="21" r="8" fill="url(#purpleAccent)"/>
+    <text x="42" y="26" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#f9fafb">Schemas (backend/schemas/)</text>
+
+    <!-- Schema Items -->
+    <g transform="translate(14, 55)">
+      <!-- Item 1 -->
+      <rect width="262" height="46" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+      <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#c084fc">common.py</text>
+      <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">Generic PaginatedResponse[T] (total, page, limit)</text>
+
+      <!-- Item 2 -->
+      <g transform="translate(0, 52)">
+        <rect width="262" height="46" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#c084fc">apps.py &amp; categories.py</text>
+        <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">AppListItem, AppDetail, CategoryDetail, Evidence</text>
+      </g>
+
+      <!-- Item 3 -->
+      <g transform="translate(0, 104)">
+        <rect width="262" height="46" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#c084fc">pricing.py</text>
+        <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">PricingOverviewResponse, PlanExplorerItem</text>
+      </g>
+
+      <!-- Item 4 -->
+      <g transform="translate(0, 156)">
+        <rect width="262" height="46" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+        <text x="10" y="18" font-family="monospace" font-size="11" font-weight="700" fill="#c084fc">reviews.py</text>
+        <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">ReviewItem, ReviewsStatsResponse, Distribution</text>
+      </g>
+
+      <!-- Item 5 -->
+      <g transform="translate(0, 208)">
+        <rect width="262" height="58" rx="6" fill="#0f172a" stroke="#4c1d95" stroke-width="1"/>
+        <text x="10" y="18" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#e9d5ff">Pydantic v2 Serialization</text>
+        <text x="10" y="34" font-family="system-ui, sans-serif" font-size="10" fill="#a78bfa">Strict response validation</text>
+        <text x="10" y="48" font-family="system-ui, sans-serif" font-size="10" fill="#64748b">Automatic OpenAPI JSON schema generation</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ==================== SECTION 5: PERSISTENCE & ORM MODELS ==================== -->
+  <g transform="translate(760, 500)" filter="url(#shadow)">
+    <rect width="290" height="120" rx="12" fill="url(#cardGrad)" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect width="290" height="34" rx="12" fill="#1f2937"/>
+    <rect y="24" width="290" height="10" fill="#1f2937"/>
+    <circle cx="22" cy="17" r="7" fill="url(#blueAccent)"/>
+    <text x="38" y="21" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#f9fafb">ORM Models (SQLAlchemy 2.0)</text>
+
+    <g transform="translate(14, 44)">
+      <text x="4" y="16" font-family="system-ui, sans-serif" font-size="11" fill="#93c5fd">• experiment.db.models</text>
+      <text x="160" y="16" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">App, Category, Plan</text>
+      <text x="4" y="36" font-family="system-ui, sans-serif" font-size="11" fill="#93c5fd">• experiment.reviews.models</text>
+      <text x="160" y="36" font-family="system-ui, sans-serif" font-size="10" fill="#9ca3af">Review (738k rows)</text>
+      <text x="4" y="56" font-family="system-ui, sans-serif" font-size="10" fill="#60a5fa">Connection Pool: size=20, max_overflow=30, recycle=1800s</text>
+    </g>
+  </g>
+</svg>

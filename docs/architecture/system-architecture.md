@@ -12,6 +12,11 @@ AppScout is structured as a decoupled full-stack monorepo consisting of:
 * **Persistence Layer**: A relational PostgreSQL database (tested on PostgreSQL 18.6+ and compatible with serverless Neon Cloud).
 * **Data Pipeline**: A Python-based crawling, extraction, validation, and ingestion engine that collects and normalizes catalog and review data from the public Shopify App Store.
 
+![AppScout System Architecture](../assets/system-architecture.svg)
+
+<details>
+<summary>View Mermaid Source Diagram</summary>
+
 ```mermaid
 graph TD
     subgraph ExternalSources ["External Sources"]
@@ -81,6 +86,8 @@ graph TD
     API -->|JSON REST over HTTP| UI
 ```
 
+</details>
+
 ---
 
 ## 2. Major Components & Responsibilities
@@ -103,6 +110,8 @@ graph TD
   * Computes market aggregations, statistical review evidence distributions, and ranked cohorts.
   * Manages database sessions safely via FastAPI dependencies (`get_db_session`), connection pooling, parameter validation, and pagination bounds.
   * Configures Cross-Origin Resource Sharing (CORS) middleware to allow seamless local development and production origin management.
+
+![AppScout Backend Architecture](../assets/backend-architecture.svg)
 
 ### 2.3 Relational Persistence Layer (PostgreSQL)
 * **Engine**: PostgreSQL 18.6+ (tested locally and verified on Neon Cloud serverless PostgreSQL).
