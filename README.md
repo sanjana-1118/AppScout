@@ -1,211 +1,135 @@
-# AppScout — Shopify App Market Intelligence Platform
+# AppScout
 
-AppScout is a comprehensive market intelligence platform for the Shopify App Store. Built on a verified, real-world database of **21,502 canonical applications**, **166 taxonomy categories**, and **42,326 structured pricing tiers**, AppScout empowers merchants, developers, and eCommerce researchers to analyze market saturation, pricing strategies, and merchant sentiment with complete data transparency.
-
----
-
-## Key Highlights & Ecosystem Metrics
-
-- **Total Active Shopify Apps:** 21,502 canonical applications stored in PostgreSQL.
-- **Taxonomy Categories:** 166 normalized Shopify App Store categories.
-- **Structured Pricing Plans:** 42,326 parsed plan tiers (32,658 positive paid tiers + 9,668 zero-dollar free tiers).
-- **Merchant Review Intelligence:** 20,978 verified merchant reviews across 451 priority applications.
-- **Ecosystem Rating Distribution:** 8,339 rated apps (38.78% with $\ge 1$ review; 4.74 / 5.0 average) and 13,163 unreviewed apps (61.22%).
-- **Pricing Benchmarks (Paid Tiers):** Median: **$21.00/mo**, Average: **$66.89/mo**, 25th Percentile: **$9.99/mo**, 75th Percentile: **$59.00/mo**.
-- **100% Data Accounting:** 25,633 discovered frontier URLs reconciled with 0 unaccounted apps ($21,502\text{ active} + 4,130\text{ rejected} + 1\text{ redirect} = 25,633$).
+> A market intelligence and analytics platform for the Shopify App Store, built on an audited database of 21,502 canonical applications, 166 taxonomy categories, 42,326 structured pricing tiers, and 738,101 verified merchant reviews.
 
 ---
 
-## Dashboard Views
+## 1. Project Overview
 
-AppScout features seven dedicated views built with a clean SaaS aesthetic:
+**AppScout** is a full-stack eCommerce market intelligence platform designed to help developers, merchants, and market analysts navigate the Shopify App Store.
 
-1. **Home:** Product introduction, core value proposition, key platform stats, and quick navigation cards.
-2. **Overview:** Executive market summary, high-level KPIs, top reviewed market leaders (e.g. Judge.me, TikTok, Shopify Flow), and commercial pricing breakdown.
-3. **App Explorer:** Interactive app catalog with real-time text search, pricing model filters (Free, Freemium, Paid, Unknown), category filters, pagination, and an in-depth App Detail modal displaying full descriptions, plans, and reviews.
-4. **App Categories:** Complete 166-category taxonomy browser with app density counts, average review counts, and category deep-dives.
-5. **App Pricing:** Pricing intelligence dashboard featuring tier distributions, billing frequency breakdowns (monthly, annual), free trial penetration (50.94%), and searchable plan explorer.
-6. **App Reviews:** Merchant review explorer with 1-star to 5-star rating filters, keyword search, merchant location metadata, and review cards.
-7. **Data Coverage:** Data transparency and audit page providing proof of frontier reconciliation, field fill rates, and PostgreSQL database health.
+### What Problem Does AppScout Solve?
+The public Shopify App Store contains over 21,000 active applications, but public listings are cluttered with extreme rating inflation (over 95% of reviews are 4 or 5 stars), unproven 1-review apps ranking artificially high, and opaque monetization models. 
 
----
-
-## Technology Stack
-
-### Backend & Data Pipeline
-- **Language:** Python 3.12+
-- **Framework:** [FastAPI](https://fastapi.tiangolo.com/) (Asynchronous REST API)
-- **Database:** [PostgreSQL 18.6](https://www.postgresql.org/) (Relational database with connection pooling)
-- **ORM & Validation:** SQLAlchemy 2.0+ & Pydantic v2
-- **Data Scraping & Extraction:** `httpx`, `BeautifulSoup4`, JSON-LD structured schemas, and fallback CSS selectors
-
-### Frontend Web Application
-- **Library:** [React 19](https://react.dev/)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Bundler & Tooling:** [Vite 8](https://vitejs.dev/)
-- **Styling:** Vanilla CSS design tokens with Tailwind CSS utility classes
-- **Icons:** Lucide React
+AppScout solves this by collecting and normalizing empirical marketplace data into transparent, statistically defensible market signals:
+* **Statistically Defensible Rankings**: Applies sample-size evidence thresholds ($\ge 20$ reviews for highest-rated, $\ge 10$ for lowest-rated) so 1-review apps never distort category leaderboards.
+* **Commercial Transparency**: Unpacks 42,326 discrete pricing tiers to benchmark median prices, billing cadences, and free trial penetration across 166 categories.
+* **Review Verification**: Indexes 738,101 merchant reviews with SHA-256 fingerprint deduplication, star-rating stratification, and full-text keyword search.
 
 ---
 
-## Project Structure
+## 2. Key Features
+
+* **Market Overview**: Executive dashboard with high-level ecosystem KPIs, review availability distribution, commercial model breakdown, and star rating distributions.
+* **App Explorer**: Interactive directory covering all 21,502 applications with real-time text search, multi-facet category and pricing filters, rating boundaries, and sorting.
+* **Category Intelligence**: Unified single-card workspace across all 166 categories featuring app density, average ratings, commercial breakdowns, evidence distributions, and ranked application cohorts (Most-Reviewed, Highest-Rated, Lowest-Rated) with a Top 10/20/30/50 count selector.
+* **Pricing Intelligence**: Monetization analytics across 42,326 plan tiers with median price anchors ($21.00/mo), billing cadence shares, and a searchable plan explorer table.
+* **Review Explorer**: Fast full-text keyword search across 738,101 merchant reviews with star rating filters, merchant location tags, and usage duration metadata.
+* **App Detail Modal**: Comprehensive application profile modal presenting developer credentials, official descriptions, category tags, structured plan cards, and merchant review excerpts with transparent three-state coverage notices (Cases A, B, and C).
+
+---
+
+## 3. Technology Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | React 19, TypeScript, Vite 8, Tailwind CSS, Lucide React, native `fetch()` |
+| **Backend** | FastAPI, Python 3.12+, SQLAlchemy 2.0+, Pydantic v2, Uvicorn ASGI |
+| **Database** | PostgreSQL 18.6+ (Neon Cloud / Local PostgreSQL) |
+| **Data Collection** | Python 3.12+, `requests`, `beautifulsoup4`, JSON-LD Schema Parsers |
+| **Review Processing** | SHA-256 Fingerprint Deduplication, Star Sentiment Stratification, SQL `ILIKE` Search |
+| **Testing & Quality** | Oxlint, TypeScript (`tsc -b`), Python smoke and functional acceptance tests |
+
+---
+
+## 4. Project Structure
 
 ```text
 AppScout/
-├── backend/
-│   ├── main.py                  # FastAPI application entrypoint & CORS middleware
-│   ├── config.py                # Environment configuration (Database URL, CORS origins)
-│   ├── database.py              # SQLAlchemy engine & session management
-│   ├── dependencies.py          # Query parameters & pagination dependencies
-│   ├── models/                  # SQLAlchemy ORM models (App, Category, Plan, Review)
-│   ├── schemas/                 # Pydantic validation schemas
-│   └── routers/                 # API endpoint routers
-│       ├── overview.py          # /api/overview
-│       ├── apps.py              # /api/apps, /api/apps/{slug}
-│       ├── categories.py        # /api/categories, /api/categories/{slug}
-│       ├── pricing.py           # /api/pricing/overview, /api/pricing/plans
-│       ├── reviews.py           # /api/reviews/stats, /api/reviews
-│       └── coverage.py          # /api/coverage, /api/health
-├── frontend/
-│   ├── src/
-│   │   ├── api/                 # Centralized API clients (apps, categories, pricing, reviews)
-│   │   ├── components/          # Reusable UI components (Header, Sidebar, Modals, ErrorBoundary)
-│   │   ├── views/               # Seven core dashboard views
-│   │   │   ├── HomeView.tsx
-│   │   │   ├── OverviewView.tsx
-│   │   │   ├── AppExplorerView.tsx
-│   │   │   ├── CategoryIntelligenceView.tsx
-│   │   │   ├── PricingIntelligenceView.tsx
-│   │   │   ├── ReviewsExplorerView.tsx
-│   │   │   └── DataCoverageView.tsx
-│   │   ├── utils/               # Formatting utilities (currency, categories, pricing types)
-│   │   ├── App.tsx              # Main layout, view switching & error boundaries
-│   │   └── index.css            # Global design system & SaaS themes
-│   ├── .env.example             # Frontend environment variable documentation
-│   └── package.json             # Frontend dependencies & scripts
-├── data/                        # Verified master frontier & collection schemas
-├── tests/                       # Automated functional acceptance test suites
-├── test_backend_api.py          # 14-endpoint FastAPI test suite
-├── METRIC_DEFINITIONS.md        # Single source of truth for all calculations
-├── requirements.txt             # Python backend dependencies
-└── .env.example                 # Root environment variable documentation
+├── appscout_backup.dump             # Canonical PostgreSQL database backup (9.25 MB)
+├── backend/                         # FastAPI application, routers, dependencies, and schemas
+│   ├── main.py                      # Application entrypoint & CORS middleware
+│   ├── config.py                    # Environment settings
+│   ├── routers/                     # REST API routers (overview, apps, categories, pricing, reviews)
+│   └── schemas/                     # Pydantic v2 validation models
+├── docs/                            # Comprehensive technical documentation suite
+│   ├── index.md                     # Documentation entrypoint & hub
+│   ├── architecture/                # System architecture, data pipeline, ranking, frontend
+│   ├── reference/                   # REST API reference, database schema, project structure
+│   └── operations/                  # Setup, testing, troubleshooting
+├── frontend/                        # React 19 Single Page Application (Vite + TypeScript)
+│   ├── src/views/                   # Core dashboard views (Home, Overview, Explorer, Categories, etc.)
+│   ├── src/components/              # Reusable UI widgets (AppDetailModal, Badges, Sidebar)
+│   └── src/api/                     # Strongly typed native fetch() API clients
+├── experiment/                      # Collection engine, database models, and review scrapers
+│   ├── db/                          # SQLAlchemy database engine and ORM models
+│   └── reviews/                     # Review collection runner and deduplication logic
+├── data/                            # Frontier files, ingestion checkpoints, and schemas
+└── tests/                           # Functional acceptance and e2e test suites
 ```
 
 ---
 
-## Getting Started
+## 5. Getting Started
 
-### 1. Prerequisites
-- **Python 3.12+**
-- **Node.js 20+** & **npm**
-- **PostgreSQL 18.6+** installed and running locally
+### Quick Start (Local Development)
 
----
-
-### 2. Backend Setup
-
-1. **Create and activate a Python virtual environment:**
+1. **Clone the repository**:
    ```bash
-   # Windows (PowerShell)
+   git clone https://github.com/your-org/appscout.git
+   cd appscout
+   ```
+
+2. **Configure Backend & Database**:
+   ```bash
+   cp .env.example .env
+   # Restore PostgreSQL database from appscout_backup.dump if needed
+   createdb -U postgres appscout
+   pg_restore -U postgres -d appscout -v appscout_backup.dump
+
    python -m venv .venv
-   .venv\Scripts\Activate.ps1
-
-   # macOS / Linux
-   python3 -m venv .venv
-   source .venv/bin/activate
-   ```
-
-2. **Install Python dependencies:**
-   ```bash
+   .venv\Scripts\Activate.ps1   # On Windows (or 'source .venv/bin/activate' on Unix)
    pip install -r requirements.txt
-   ```
-
-3. **Configure environment variables:**
-   Copy `.env.example` to `.env` and verify your database connection:
-   ```ini
-   DATABASE_URL=postgresql://postgres:postgres@localhost:5432/appscout
-   API_HOST=127.0.0.1
-   API_PORT=8000
-   CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
-   ```
-
-4. **Start the FastAPI backend server:**
-   ```bash
    uvicorn backend.main:app --host 127.0.0.1 --port 8000 --reload
    ```
-   *The API will be available at `http://127.0.0.1:8000`. Interactive documentation is available at `http://127.0.0.1:8000/docs`.*
 
----
-
-### 3. Frontend Setup
-
-1. **Navigate to the frontend directory:**
+3. **Configure & Launch Frontend**:
    ```bash
    cd frontend
-   ```
-
-2. **Install Node packages:**
-   ```bash
    npm install
-   ```
-
-3. **Configure environment variables (optional):**
-   Copy `.env.example` to `.env` if pointing to an external backend URL:
-   ```ini
-   VITE_API_URL=http://127.0.0.1:8000/api
-   ```
-   *(If left empty, requests automatically default to `/api`, which is proxied by Vite in development.)*
-
-4. **Start the development server:**
-   ```bash
    npm run dev
    ```
-   *Open `http://localhost:5173` in your browser to view the dashboard.*
+
+4. **Access the Application**:
+   * Frontend: [http://localhost:5173](http://localhost:5173)
+   * Backend API Docs: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+For comprehensive setup steps, prerequisites, and environment variable details, see the **[Setup Guide](docs/operations/setup-and-installation.md)**.
 
 ---
 
-## Testing & Verification
+## 6. Technical Documentation Suite
 
-AppScout includes comprehensive automated verification suites to ensure backend reliability, query accuracy, and zero compilation errors:
+Complete documentation is organized in the [`docs/`](docs/) directory:
 
-1. **Backend API Test Suite (14 Endpoints):**
-   ```bash
-   python test_backend_api.py
-   ```
-   *Verifies database connectivity, search endpoints, pagination, category trees, and coverage health.*
+### Architecture & Design
+* **[System Architecture](docs/architecture/system-architecture.md)** — High-level topology, component interactions, and data flow.
+* **[Data Pipeline](docs/architecture/data-pipeline.md)** — Catalog crawling, frontier accounting, and review scraping engine.
+* **[Ranking Methodology](docs/architecture/ranking-methodology.md)** — Statistical evidence thresholds and category ranking cohorts.
+* **[Frontend Architecture](docs/architecture/frontend-architecture.md)** — React 19 layout, state management, and modal lifecycle.
 
-2. **Full Functional Acceptance Suite:**
-   ```bash
-   python tests/test_functional_acceptance.py
-   ```
-   *Verifies metric definitions, mathematical reconciliation balance, empty states, and filter logic across all six data views.*
+### Reference
+* **[API Reference](docs/reference/api-reference.md)** — Complete endpoint paths, query parameters, and response structures.
+* **[Database Schema](docs/reference/database-schema.md)** — Relational tables, ER diagram, foreign keys, and indexes.
+* **[Project Structure & Conventions](docs/reference/project-structure.md)** — Detailed file roadmap and development conventions.
 
-3. **Frontend Production Compilation:**
-   ```bash
-   cd frontend && npm run build
-   ```
-   *Runs TypeScript compilation (`tsc -b`) and Vite production bundle generation.*
-
-4. **Frontend Code Quality & Linter:**
-   ```bash
-   cd frontend && npm run lint
-   ```
-   *Runs Oxlint checks across all TypeScript and React files.*
+### Operations
+* **[Setup & Installation](docs/operations/setup-and-installation.md)** — Step-by-step local installation and database restore.
+* **[Testing & Quality Assurance](docs/operations/testing-and-quality.md)** — Automated smoke tests, acceptance tests, linting, and build.
+* **[Troubleshooting Guide](docs/operations/troubleshooting.md)** — Common operational, database, and network fixes.
 
 ---
 
-## Current Project Status & Roadmap
+## 7. Current Implementation Status
 
-| Stage / Feature | Status | Notes |
-|---|---|---|
-| **Phase 1: Data Collection & Ingestion** | **Completed** | 25,633 frontier targets crawled, 21,502 apps persisted in PostgreSQL. |
-| **Phase 2: Full-Stack Platform & Stabilization** | **Completed** | FastAPI backend, React SaaS dashboard (7 views), zero errors verified. |
-| **Pre-Deployment Hardening & Auditing** | **Completed** | Dynamic API endpoints, CORS configuration, React ErrorBoundary, clean UI. |
-| **Live Online Deployment** | **Pending** | Awaiting web hosting setup to publish live on the internet with a public link. |
-| **Phase 3: App Ranking Methodology** | **Pending** | To be designed and evaluated following live deployment. |
-
----
-
-## License
-
-This project is developed for academic and market intelligence research purposes. All data collected originates from publicly available listings on the Shopify App Store.
+AppScout is currently in active production-ready status. The backend REST service serves all 14 domain endpoints backed by PostgreSQL, and the React frontend builds with zero TypeScript or lint errors. Data coverage accounts for 100% of discovered frontier applications (21,502 active apps, 166 taxonomy categories, 42,326 pricing plans, and 738,101 deduplicated reviews).

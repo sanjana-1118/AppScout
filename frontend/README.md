@@ -1,32 +1,67 @@
-# React + TypeScript + Vite
+# AppScout Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+The **AppScout Frontend** is a modern Single Page Application (SPA) designed for eCommerce analysts, merchants, and developers to explore the Shopify App Store ecosystem.
 
-Currently, two official plugins are available:
+Built with **React 19**, **TypeScript**, and **Vite 8**, it communicates asynchronously with the AppScout FastAPI backend using a strongly typed native `fetch()` client.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 1. Features & Core Views
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Home**: Introduction, key market stats, and quick navigation cards.
+* **Overview**: Executive market KPIs, review availability distribution, pricing model breakdown, and star rating charts.
+* **App Explorer**: Interactive directory of 21k+ applications with search, multi-facet filtering (categories, pricing, rating, trial), and pagination.
+* **App Categories**: Single-card unified category workspace with app density, commercial distribution, review evidence breakdown, and ranked cohorts with Top 10/20/30/50 selector.
+* **App Pricing**: Monetization intelligence across 42,326 structured plan tiers with price percentiles and searchable plan explorer table.
+* **App Reviews**: Merchant review search across 738,101 reviews with star filters and merchant location tags.
+* **App Detail Modal**: Global modal showing full app summaries, developer info, structured pricing cards, and merchant review excerpts.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 2. Getting Started
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+### Prerequisites
+* Node.js `20.x` or newer
+* npm `10.x` or newer
+
+### Installation
+```bash
+npm install
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+### Development Server
+```bash
+npm run dev
+```
+Starts the Vite dev server at [http://localhost:5173](http://localhost:5173). Requests to `/api` are automatically proxied to the backend at `http://127.0.0.1:8000`.
+
+### Code Quality & Linting
+```bash
+npm run lint
+```
+Runs high-speed lint checks using **Oxlint**.
+
+### Production Build
+```bash
+npm run build
+```
+Executes TypeScript type checking (`tsc -b`) and bundles production assets into `dist/`.
+
+---
+
+## 3. Configuration
+
+Environment variables can be specified in `.env`:
+
+```ini
+# Optional: Set remote API endpoint if not using Vite local proxy
+VITE_API_URL=http://127.0.0.1:8000/api
+```
+
+---
+
+## 4. Documentation
+
+For detailed frontend architecture, component specifications, and state management, see:
+* [Frontend Architecture Guide](../docs/architecture/frontend-architecture.md)
+* [System Architecture](../docs/architecture/system-architecture.md)
