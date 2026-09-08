@@ -10,8 +10,6 @@ import {
   ArrowUpRight,
   Database,
   CheckCircle2,
-  AlertCircle,
-  HelpCircle,
 } from 'lucide-react';
 import { KPICard } from '../components/KPICard';
 import { PricingBadge, RatingBadge } from '../components/Badge';

@@ -45,6 +45,7 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
   // Selected category state (null = State A: Category list; not null = State B: Selected category)
   const [selectedCategory, setSelectedCategory] = useState<CategoryItem | null>(null);
   const [loadingDetail, setLoadingDetail] = useState(false);
+  const [detailError, setDetailError] = useState<string | null>(null);
 
   // Active ranking tab: 'most_reviewed' | 'highest_rated' | 'lowest_rated'
   const [activeRankingTab, setActiveRankingTab] = useState<'most_reviewed' | 'highest_rated' | 'lowest_rated'>('most_reviewed');
@@ -63,12 +64,13 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
   // Load detailed category intelligence when user clicks a category
   const loadCategoryDeepDetail = useCallback(async (cat: CategoryItem) => {
     setSelectedCategory(cat);
+    setLoadingDetail(true);
+    setDetailError(null);
     try {
-      setLoadingDetail(true);
       const detail = await fetchCategoryDetail(cat.slug || cat.id, 50);
       setSelectedCategory(detail);
-    } catch {
-      // Keep existing category if deep detail fetch fails
+    } catch (err: any) {
+      setDetailError(err.message || 'Failed to load category intelligence and rankings');
     } finally {
       setLoadingDetail(false);
     }
@@ -274,7 +276,10 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
             {/* Back to Categories Bar & Actions */}
             <div className="flex items-center justify-between pb-5 border-b border-slate-100 gap-4 flex-wrap">
               <button
-                onClick={() => setSelectedCategory(null)}
+                onClick={() => {
+                  setSelectedCategory(null);
+                  setDetailError(null);
+                }}
                 className="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-slate-200 bg-slate-50 text-xs font-bold text-slate-700 hover:bg-slate-100 hover:text-slate-900 hover:border-slate-300 transition-all cursor-pointer shadow-2xs group"
               >
                 <ArrowLeft className="w-3.5 h-3.5 group-hover:-translate-x-0.5 transition-transform" />
@@ -355,39 +360,57 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
                   <InfoTooltip content="Breakdown of apps by public review volume: Sufficient (>=20 reviews), Limited (1-19 reviews), and Unreviewed (0 reviews)." />
                 </h4>
               </div>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-2.5 text-center">
-                <div className="p-3 bg-white rounded-lg border border-emerald-100">
-                  <span className="text-[11px] font-semibold text-emerald-700 block">Sufficient Evidence</span>
-                  <span className="text-base font-bold text-slate-900 font-mono">
-                    {(selectedCategory.evidence_summary?.sufficient_count ?? 0).toLocaleString()}
-                  </span>
-                  <span className="text-[10px] text-slate-400 block mt-0.5">
-                    &ge; 20 reviews ({selectedCategory.app_count > 0 ? `${(((selectedCategory.evidence_summary?.sufficient_count ?? 0) / selectedCategory.app_count) * 100).toFixed(1)}%` : '0%'})
-                  </span>
+              {loadingDetail && !selectedCategory.evidence_summary ? (
+                <div className="py-6 text-center text-xs text-slate-500 flex items-center justify-center gap-2">
+                  <Loader2 className="w-4 h-4 animate-spin text-blue-600" />
+                  <span>Calculating review evidence distribution...</span>
                 </div>
-                <div className="p-3 bg-white rounded-lg border border-amber-100">
-                  <span className="text-[11px] font-semibold text-amber-700 block">Limited Evidence</span>
-                  <span className="text-base font-bold text-slate-900 font-mono">
-                    {(selectedCategory.evidence_summary?.limited_count ?? 0).toLocaleString()}
-                  </span>
-                  <span className="text-[10px] text-slate-400 block mt-0.5">
-                    1–19 reviews ({selectedCategory.app_count > 0 ? `${(((selectedCategory.evidence_summary?.limited_count ?? 0) / selectedCategory.app_count) * 100).toFixed(1)}%` : '0%'})
-                  </span>
+              ) : (
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-2.5 text-center">
+                  <div className="p-3 bg-white rounded-lg border border-emerald-100">
+                    <span className="text-[11px] font-semibold text-emerald-700 block">Sufficient Evidence</span>
+                    <span className="text-base font-bold text-slate-900 font-mono">
+                      {(selectedCategory.evidence_summary?.sufficient_count ?? 0).toLocaleString()}
+                    </span>
+                    <span className="text-[10px] text-slate-400 block mt-0.5">
+                      &ge; 20 reviews ({selectedCategory.app_count > 0 ? `${(((selectedCategory.evidence_summary?.sufficient_count ?? 0) / selectedCategory.app_count) * 100).toFixed(1)}%` : '0%'})
+                    </span>
+                  </div>
+                  <div className="p-3 bg-white rounded-lg border border-amber-100">
+                    <span className="text-[11px] font-semibold text-amber-700 block">Limited Evidence</span>
+                    <span className="text-base font-bold text-slate-900 font-mono">
+                      {(selectedCategory.evidence_summary?.limited_count ?? 0).toLocaleString()}
+                    </span>
+                    <span className="text-[10px] text-slate-400 block mt-0.5">
+                      1–19 reviews ({selectedCategory.app_count > 0 ? `${(((selectedCategory.evidence_summary?.limited_count ?? 0) / selectedCategory.app_count) * 100).toFixed(1)}%` : '0%'})
+                    </span>
+                  </div>
+                  <div className="p-3 bg-white rounded-lg border border-slate-200">
+                    <span className="text-[11px] font-semibold text-slate-600 block">Unreviewed on Shopify</span>
+                    <span className="text-base font-bold text-slate-900 font-mono">
+                      {(selectedCategory.evidence_summary?.unreviewed_count ?? 0).toLocaleString()}
+                    </span>
+                    <span className="text-[10px] text-slate-400 block mt-0.5">
+                      0 reviews ({selectedCategory.app_count > 0 ? `${(((selectedCategory.evidence_summary?.unreviewed_count ?? 0) / selectedCategory.app_count) * 100).toFixed(1)}%` : '0%'})
+                    </span>
+                  </div>
                 </div>
-                <div className="p-3 bg-white rounded-lg border border-slate-200">
-                  <span className="text-[11px] font-semibold text-slate-600 block">Unreviewed on Shopify</span>
-                  <span className="text-base font-bold text-slate-900 font-mono">
-                    {(selectedCategory.evidence_summary?.unreviewed_count ?? 0).toLocaleString()}
-                  </span>
-                  <span className="text-[10px] text-slate-400 block mt-0.5">
-                    0 reviews ({selectedCategory.app_count > 0 ? `${(((selectedCategory.evidence_summary?.unreviewed_count ?? 0) / selectedCategory.app_count) * 100).toFixed(1)}%` : '0%'})
-                  </span>
-                </div>
-              </div>
+              )}
             </div>
 
             {/* Pricing Breakdown in this Category */}
-            {selectedCategory.pricing_breakdown && (
+            {loadingDetail && !selectedCategory.pricing_breakdown ? (
+              <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/50">
+                <h4 className="text-xs font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center">
+                  Category Commercial Breakdown
+                  <InfoTooltip content="Pricing model distribution among apps cataloged in this category." />
+                </h4>
+                <div className="py-4 text-center text-xs text-slate-500 flex items-center justify-center gap-2">
+                  <Loader2 className="w-4 h-4 animate-spin text-blue-600" />
+                  <span>Loading pricing distribution...</span>
+                </div>
+              </div>
+            ) : selectedCategory.pricing_breakdown ? (
               <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/50">
                 <h4 className="text-xs font-bold text-slate-900 uppercase tracking-wider mb-3 flex items-center">
                   Category Commercial Breakdown
@@ -422,7 +445,7 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
                   </div>
                 </div>
               </div>
-            )}
+            ) : null}
 
             {/* App Comparison Tabs */}
             <div className="space-y-4 pt-2">
@@ -445,7 +468,11 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
                           : 'bg-slate-200 text-slate-700'
                       }`}
                     >
-                      {Math.min(rankingLimit, (selectedCategory.most_reviewed_apps || selectedCategory.top_apps || []).length)}
+                      {loadingDetail && !selectedCategory.most_reviewed_apps ? (
+                        <Loader2 className="w-2.5 h-2.5 animate-spin inline" />
+                      ) : (
+                        Math.min(rankingLimit, (selectedCategory.most_reviewed_apps || selectedCategory.top_apps || []).length)
+                      )}
                     </span>
                   </button>
 
@@ -466,7 +493,11 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
                           : 'bg-slate-200 text-slate-700'
                       }`}
                     >
-                      {Math.min(rankingLimit, (selectedCategory.highest_rated_apps || []).length)}
+                      {loadingDetail && !selectedCategory.highest_rated_apps ? (
+                        <Loader2 className="w-2.5 h-2.5 animate-spin inline" />
+                      ) : (
+                        Math.min(rankingLimit, (selectedCategory.highest_rated_apps || []).length)
+                      )}
                     </span>
                   </button>
 
@@ -487,7 +518,11 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
                           : 'bg-slate-200 text-slate-700'
                       }`}
                     >
-                      {Math.min(rankingLimit, (selectedCategory.lowest_rated_apps || []).length)}
+                      {loadingDetail && !selectedCategory.lowest_rated_apps ? (
+                        <Loader2 className="w-2.5 h-2.5 animate-spin inline" />
+                      ) : (
+                        Math.min(rankingLimit, (selectedCategory.lowest_rated_apps || []).length)
+                      )}
                     </span>
                   </button>
                 </div>
@@ -549,15 +584,37 @@ export const CategoryIntelligenceView: React.FC<CategoryIntelligenceViewProps> =
               )}
 
               {/* Dynamic ranking count status indicator */}
-              {displayedApps.length > 0 && (
+              {!loadingDetail && !detailError && displayedApps.length > 0 && (
                 <div className="text-xs text-slate-500 font-medium px-1">
                   Showing the top {displayedApps.length} eligible apps in this category.
                 </div>
               )}
 
-              {/* Apps List / Empty States */}
+              {/* Apps List / Loading / Error / Empty States */}
               <div className="space-y-2.5">
-                {displayedApps.length > 0 ? (
+                {loadingDetail ? (
+                  <div className="p-12 text-center border border-slate-200 rounded-xl bg-slate-50/50 flex flex-col items-center justify-center gap-3">
+                    <Loader2 className="w-6 h-6 animate-spin text-blue-600" />
+                    <div>
+                      <p className="text-sm font-semibold text-slate-700">Loading reviews and rankings...</p>
+                      <p className="text-xs text-slate-400 mt-0.5">Fetching category intelligence and ranking eligible apps</p>
+                    </div>
+                  </div>
+                ) : detailError ? (
+                  <div className="p-8 text-center border border-red-200 rounded-xl bg-red-50/50 text-xs text-red-700 space-y-3">
+                    <AlertCircle className="w-6 h-6 text-red-500 mx-auto" />
+                    <div>
+                      <p className="font-semibold text-sm text-red-900">Failed to load category rankings</p>
+                      <p className="text-xs text-red-600 mt-0.5">{detailError}</p>
+                    </div>
+                    <button
+                      onClick={() => selectedCategory && loadCategoryDeepDetail(selectedCategory)}
+                      className="inline-flex items-center gap-1.5 px-3.5 py-1.5 bg-red-600 text-white rounded-lg font-medium hover:bg-red-700 transition-colors cursor-pointer text-xs shadow-xs"
+                    >
+                      <span>Retry Loading</span>
+                    </button>
+                  </div>
+                ) : displayedApps.length > 0 ? (
                   <>
                     {displayedApps.map((app, index) => (
                       <div

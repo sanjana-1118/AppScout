@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import {
   X,
   ExternalLink,
@@ -33,7 +33,20 @@ export const AppDetailModal: React.FC<AppDetailModalProps> = ({
 }) => {
   const [detail, setDetail] = useState<AppItem | null>(app);
   const [loading, setLoading] = useState(false);
-  const [_error, setError] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
+
+  const loadDeepDetail = useCallback(async (appToLoad: AppItem) => {
+    try {
+      setLoading(true);
+      setError(null);
+      const res = await fetchAppDetail(appToLoad.app_slug || appToLoad.id);
+      setDetail(res);
+    } catch (err: any) {
+      setError(err.message || 'Could not load extended detail');
+    } finally {
+      setLoading(false);
+    }
+  }, []);
 
   useEffect(() => {
     if (!app) {
@@ -41,24 +54,8 @@ export const AppDetailModal: React.FC<AppDetailModalProps> = ({
       return;
     }
     setDetail(app);
-
-    // Fetch live deep detail from backend if app has a slug or id
-    const loadDeepDetail = async () => {
-      try {
-        setLoading(true);
-        setError(null);
-        const res = await fetchAppDetail(app.app_slug || app.id);
-        setDetail(res);
-      } catch (err: any) {
-        // Fallback to currently passed summary app object if individual detail fails
-        setError(err.message || 'Could not load extended detail');
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    loadDeepDetail();
-  }, [app]);
+    loadDeepDetail(app);
+  }, [app, loadDeepDetail]);
 
   if (!app) return null;
 
@@ -213,6 +210,9 @@ export const AppDetailModal: React.FC<AppDetailModalProps> = ({
               </h4>
               <span className="text-xs text-slate-500 font-mono">
                 {(() => {
+                  if (loading && detail?.stored_review_count === undefined) {
+                    return 'Checking review coverage...';
+                  }
                   const storedCount = detail?.stored_review_count ?? detail?.review_summary?.total_reviews_in_db ?? (currentApp.stored_review_count || 0);
                   const publicCount = currentApp.review_count ?? 0;
                   const hasStored = storedCount > 0;
@@ -228,18 +228,34 @@ export const AppDetailModal: React.FC<AppDetailModalProps> = ({
             </div>
 
             {(() => {
-              const storedCount = detail?.stored_review_count ?? detail?.review_summary?.total_reviews_in_db ?? (currentApp.stored_review_count || 0);
-              const publicCount = currentApp.review_count ?? 0;
-              const hasStoredReviews = storedCount > 0;
-
-              if (loading) {
+              if (loading && !detail?.recent_reviews && !detail?.stored_review_count) {
                 return (
-                  <div className="p-6 text-center text-xs text-slate-400 flex items-center justify-center gap-2 border border-slate-100 rounded-xl bg-slate-50/50">
+                  <div className="p-6 text-center text-xs text-slate-500 flex items-center justify-center gap-2 border border-slate-100 rounded-xl bg-slate-50/50">
                     <Loader2 className="w-4 h-4 animate-spin text-blue-600" />
-                    <span>Checking review dataset coverage...</span>
+                    <span>Loading reviews and coverage...</span>
                   </div>
                 );
               }
+
+              if (error && !detail?.recent_reviews && !detail?.stored_review_count) {
+                return (
+                  <div className="p-4 rounded-xl border border-red-200 bg-red-50/70 text-xs text-red-800 space-y-2 text-center">
+                    <AlertCircle className="w-4 h-4 text-red-500 mx-auto" />
+                    <p className="font-semibold">Failed to load review records</p>
+                    <p className="text-[11px] text-red-600">{error}</p>
+                    <button
+                      onClick={() => app && loadDeepDetail(app)}
+                      className="px-3 py-1 bg-red-600 text-white rounded-md text-xs font-semibold hover:bg-red-700 transition-colors cursor-pointer"
+                    >
+                      Retry
+                    </button>
+                  </div>
+                );
+              }
+
+              const storedCount = detail?.stored_review_count ?? detail?.review_summary?.total_reviews_in_db ?? (currentApp.stored_review_count || 0);
+              const publicCount = currentApp.review_count ?? 0;
+              const hasStoredReviews = storedCount > 0;
 
               // Case A: Stored reviews available
               if (hasStoredReviews) {
