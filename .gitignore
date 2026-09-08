@@ -41,7 +41,7 @@ ENV/
 data/raw/*.html
 data/raw/*.json
 !data/raw/.gitkeep
-output/batches/*.json
+output/
 
 # Database backups & local databases
 *.dump

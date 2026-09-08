@@ -1,3 +1,0 @@
-# Inspection report text files land here.
-# Files are named: <app-slug>_<utc-timestamp>_inspection.txt
-# Do not commit real report files — add them to .gitignore.
