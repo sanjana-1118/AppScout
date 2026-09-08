@@ -114,9 +114,10 @@ Complete documentation is organized in the [`docs/`](docs/) directory:
 
 ### Architecture & Design
 * **[System Architecture](docs/architecture/system-architecture.md)** — High-level topology, component interactions, and data flow.
+* **[Backend Architecture](docs/architecture/backend-architecture.md)** — FastAPI service architecture, domain routers, dependency injection, and SQLAlchemy 2.0 ORM patterns.
+* **[Frontend Architecture](docs/architecture/frontend-architecture.md)** — React 19 layout, state management, and modal lifecycle.
 * **[Data Pipeline](docs/architecture/data-pipeline.md)** — Catalog crawling, frontier accounting, and review scraping engine.
 * **[Ranking Methodology](docs/architecture/ranking-methodology.md)** — Statistical evidence thresholds and category ranking cohorts.
-* **[Frontend Architecture](docs/architecture/frontend-architecture.md)** — React 19 layout, state management, and modal lifecycle.
 
 ### Reference
 * **[API Reference](docs/reference/api-reference.md)** — Complete endpoint paths, query parameters, and response structures.

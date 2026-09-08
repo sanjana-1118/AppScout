@@ -64,6 +64,8 @@ Configured via environment variables (or `.env` at root):
 ## 4. Documentation
 
 For detailed backend reference, schemas, and database ERD:
+* [Backend Architecture Guide](../docs/architecture/backend-architecture.md)
 * [API Reference](../docs/reference/api-reference.md)
 * [Database Schema](../docs/reference/database-schema.md)
 * [Ranking & Intelligence Methodology](../docs/architecture/ranking-methodology.md)
+* [System Architecture](../docs/architecture/system-architecture.md)
