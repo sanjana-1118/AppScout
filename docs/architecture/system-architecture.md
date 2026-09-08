@@ -14,23 +14,23 @@ AppScout is structured as a decoupled full-stack monorepo consisting of:
 
 ```mermaid
 graph TD
-    subgraph External Sources
-        Shopify[Shopify App Store Web Pages]
+    subgraph ExternalSources ["External Sources"]
+        Shopify["Shopify App Store Web Pages"]
     end
 
-    subgraph Data Pipeline [Ingestion & Processing]
-        Crawler[Crawler & Catalog Extractor - requests]
-        ReviewEngine[Review Engine & SHA-256 Deduplicator]
-        Validation[Quality Gate Validators]
+    subgraph DataPipeline ["Data Pipeline (Ingestion & Processing)"]
+        Crawler["Crawler & Catalog Extractor - requests"]
+        ReviewEngine["Review Engine & SHA-256 Deduplicator"]
+        Validation["Quality Gate Validators"]
     end
 
-    subgraph Persistence [PostgreSQL Database]
-        DB[(PostgreSQL 18.6+ / Neon)]
-        TableApps[apps - 21,502 rows]
-        TableCats[categories - 166 rows]
-        TableAppCats[app_categories - 32,587 rows]
-        TablePlans[app_pricing_plans - 42,326 rows]
-        TableRevs[reviews - 738,101 rows]
+    subgraph Persistence ["Persistence (PostgreSQL Database)"]
+        DB[("PostgreSQL 18.6+ / Neon")]
+        TableApps["apps - 21,502 rows"]
+        TableCats["categories - 166 rows"]
+        TableAppCats["app_categories - 32,587 rows"]
+        TablePlans["app_pricing_plans - 42,326 rows"]
+        TableRevs["reviews - 738,101 rows"]
         DB --- TableApps
         DB --- TableCats
         DB --- TableAppCats
@@ -38,14 +38,14 @@ graph TD
         DB --- TableRevs
     end
 
-    subgraph Application Layer [FastAPI Backend]
-        API[FastAPI REST API Service]
-        RouterOverview[/api/overview]
-        RouterApps[/api/apps]
-        RouterCats[/api/categories]
-        RouterPricing[/api/pricing]
-        RouterReviews[/api/reviews]
-        RouterCoverage[/api/coverage & /api/health]
+    subgraph ApplicationLayer ["Application Layer (FastAPI Backend)"]
+        API["FastAPI REST API Service"]
+        RouterOverview["/api/overview"]
+        RouterApps["/api/apps"]
+        RouterCats["/api/categories"]
+        RouterPricing["/api/pricing"]
+        RouterReviews["/api/reviews"]
+        RouterCoverage["/api/coverage & /api/health"]
         API --> RouterOverview
         API --> RouterApps
         API --> RouterCats
@@ -54,15 +54,15 @@ graph TD
         API --> RouterCoverage
     end
 
-    subgraph Presentation Layer [React 19 Frontend]
-        UI[React 19 + TypeScript + Vite SPA]
-        ViewHome[Home View]
-        ViewOverview[Overview View]
-        ViewExplorer[App Explorer View]
-        ViewCatIntel[Category Intelligence View]
-        ViewPricing[Pricing Intelligence View]
-        ViewReviews[Reviews Explorer View]
-        ModalDetail[App Detail Modal]
+    subgraph PresentationLayer ["Presentation Layer (React 19 Frontend)"]
+        UI["React 19 + TypeScript + Vite SPA"]
+        ViewHome["Home View"]
+        ViewOverview["Overview View"]
+        ViewExplorer["App Explorer View"]
+        ViewCatIntel["Category Intelligence View"]
+        ViewPricing["Pricing Intelligence View"]
+        ViewReviews["Reviews Explorer View"]
+        ModalDetail["App Detail Modal"]
         UI --> ViewHome
         UI --> ViewOverview
         UI --> ViewExplorer
