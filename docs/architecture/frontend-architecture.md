@@ -6,8 +6,6 @@ The AppScout frontend is a modern single-page web application built with **React
 
 ## 1. Application Layout & Navigation
 
-![AppScout Frontend Architecture](../assets/frontend-architecture.svg)
-
 The root layout in [`frontend/src/App.tsx`](file:///c:/Sanjana/Spryntworks/Projects/AppScout/frontend/src/App.tsx) provides a responsive two-column dashboard:
 
 ```text
