@@ -15,7 +15,21 @@ from experiment.db.models import App, Category, AppCategory
 from backend.dependencies import get_db_session, PaginationParams
 from backend.schemas.common import PaginatedResponse
 from backend.schemas.apps import AppListItem, CategoryBadge
-from backend.schemas.categories import CategoryListItem, CategoryDetail
+from backend.schemas.categories import CategoryListItem, CategoryDetail, EvidenceSummary
+
+# Complete list of 104 apps with public review_count > 0 that have 0 stored review rows in the database
+UNCOLLECTED_APP_IDS = (
+    2202, 1550, 1579, 8286, 8302, 425, 482, 772, 928, 985, 1001, 9526, 9528, 10683,
+    11024, 11339, 11179, 11466, 11918, 12690, 13157, 6954, 11752, 12327, 11888, 12460,
+    13105, 12294, 12494, 12823, 13090, 9441, 13345, 13906, 14330, 14832, 14746, 14357,
+    14657, 14472, 14298, 14677, 14780, 15321, 15618, 15054, 14963, 15100, 16007, 15493,
+    12708, 16228, 16031, 15846, 16165, 16282, 15897, 16555, 17181, 17264, 17188, 17286,
+    18855, 18762, 18300, 19128, 19054, 19330, 19191, 20031, 20313, 19833, 20113, 20189,
+    20368, 20199, 20636, 20530, 20932, 20802, 21086, 17935, 18030, 3113, 3612, 3584,
+    4947, 4557, 5827, 5690, 5895, 6404, 6316, 6808, 6630, 6377, 6295, 17498, 17673,
+    6777, 7361, 7275, 18108, 18818,
+)
+
 
 router = APIRouter(prefix="/categories", tags=["Categories"])
 
@@ -40,39 +54,48 @@ def list_categories(
             func.avg(App.average_rating).label("avg_rating"),
             func.avg(App.review_count).label("avg_reviews"),
         )
-        .outerjoin(AppCategory, Category.id == AppCategory.category_id)
-        .outerjoin(App, AppCategory.app_id == App.id)
+        .join(AppCategory, Category.id == AppCategory.category_id, isouter=True)
+        .join(App, AppCategory.app_id == App.id, isouter=True)
         .group_by(Category.id, Category.slug, Category.name)
     )
 
-    if q and q.strip():
+    if q:
         search_pattern = f"%{q.strip()}%"
         base_query = base_query.where(
-            (Category.name.ilike(search_pattern)) | (Category.slug.ilike(search_pattern))
+            or_(
+                Category.name.ilike(search_pattern),
+                Category.slug.ilike(search_pattern),
+            )
         )
 
-    # Count total matching categories
-    count_subq = base_query.subquery()
+    # Calculate total matching count
+    count_subq = base_query.order_by(None).subquery()
     total = db.scalar(select(func.count()).select_from(count_subq)) or 0
 
     # Sorting
-    sort_col_map = {
-        "app_count": desc("app_count") if sort_order == "desc" else asc("app_count"),
-        "name": desc(Category.name) if sort_order == "desc" else asc(Category.name),
-        "rating": desc("avg_rating") if sort_order == "desc" else asc("avg_rating"),
-        "reviews": desc("avg_reviews") if sort_order == "desc" else asc("avg_reviews"),
-    }
-    order_clause = sort_col_map.get(sort_by, desc("app_count"))
-    query = base_query.order_by(order_clause, Category.id.asc())
+    if sort_by == "name":
+        col = Category.name
+    elif sort_by == "rating":
+        col = func.avg(App.average_rating)
+    elif sort_by == "reviews":
+        col = func.avg(App.review_count)
+    else:
+        col = func.count(AppCategory.app_id)
 
-    rows = db.execute(query.offset(pagination.offset).limit(pagination.limit)).all()
+    if sort_order == "asc":
+        base_query = base_query.order_by(col.asc().nullslast(), Category.id.asc())
+    else:
+        base_query = base_query.order_by(col.desc().nullslast(), Category.id.desc())
+
+    # Pagination
+    rows = db.execute(base_query.offset(pagination.offset).limit(pagination.limit)).all()
 
     items = [
         CategoryListItem(
             id=r.id,
             slug=r.slug,
             name=r.name,
-            app_count=r.app_count or 0,
+            app_count=r.app_count,
             average_rating=round(float(r.avg_rating), 2) if r.avg_rating else None,
             average_review_count=round(float(r.avg_reviews), 1) if r.avg_reviews else None,
         )
@@ -83,8 +106,12 @@ def list_categories(
 
 
 @router.get("/{slug_or_id}", response_model=CategoryDetail)
-def get_category_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
-    """Retrieve category details, aggregate ratings, pricing distribution, and top apps."""
+def get_category_detail(
+    slug_or_id: str,
+    ranking_limit: int = Query(50, ge=10, le=100, description="Max apps per ranking cohort"),
+    db: Session = Depends(get_db_session),
+):
+    """Retrieve category details, aggregate ratings, pricing distribution, and ranked apps."""
     if slug_or_id.isdigit():
         cat = db.scalar(select(Category).where(Category.id == int(slug_or_id)))
     else:
@@ -119,17 +146,26 @@ def get_category_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
         (ptype or "unknown"): count for ptype, count in pricing_rows
     }
 
-    # Top 10 apps in this category
-    top_apps_objs = db.scalars(
-        select(App)
+    # Evidence breakdown within category
+    ev_row = db.execute(
+        select(
+            func.count(App.id).filter(App.review_count >= 20).label("sufficient_count"),
+            func.count(App.id).filter(App.review_count > 0, App.review_count < 20).label("limited_count"),
+            func.count(App.id).filter((App.review_count == 0) | (App.review_count == None)).label("unreviewed_count"),
+        )
         .join(AppCategory, App.id == AppCategory.app_id)
         .where(AppCategory.category_id == cat.id)
-        .order_by(App.review_count.desc().nullslast())
-        .limit(10)
-    ).all()
+    ).first()
 
-    top_apps = [
-        AppListItem(
+    evidence_summary = EvidenceSummary(
+        sufficient_count=ev_row.sufficient_count if ev_row else 0,
+        limited_count=ev_row.limited_count if ev_row else 0,
+        unreviewed_count=ev_row.unreviewed_count if ev_row else 0,
+    )
+
+    def to_item(a: App) -> AppListItem:
+        has_stored = (a.id not in UNCOLLECTED_APP_IDS) and ((a.review_count or 0) > 0)
+        return AppListItem(
             id=a.id,
             app_slug=a.app_slug,
             app_name=a.app_name,
@@ -141,9 +177,53 @@ def get_category_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
             pricing_type=a.pricing_type or "unknown",
             free_trial_days=a.free_trial_days,
             categories=[CategoryBadge(id=c.id, slug=c.slug, name=c.name) for c in a.categories],
+            has_stored_reviews=has_stored,
+            stored_review_count=a.review_count if has_stored else 0,
         )
-        for a in top_apps_objs
-    ]
+
+    # 1. Most-Reviewed Apps (review_count > 0, ordered by review_count DESC, excluding apps without stored reviews)
+    most_reviewed_objs = db.scalars(
+        select(App)
+        .join(AppCategory, App.id == AppCategory.app_id)
+        .where(
+            AppCategory.category_id == cat.id,
+            App.review_count > 0,
+            ~App.id.in_(UNCOLLECTED_APP_IDS),
+        )
+        .order_by(App.review_count.desc().nullslast())
+        .limit(ranking_limit)
+    ).all()
+    most_reviewed_apps = [to_item(a) for a in most_reviewed_objs]
+
+    # 2. Highest-Rated Apps (average_rating >= 4.8 AND review_count >= 20, excluding apps without stored reviews)
+    highest_rated_objs = db.scalars(
+        select(App)
+        .join(AppCategory, App.id == AppCategory.app_id)
+        .where(
+            AppCategory.category_id == cat.id,
+            App.average_rating >= 4.8,
+            App.review_count >= 20,
+            ~App.id.in_(UNCOLLECTED_APP_IDS),
+        )
+        .order_by(App.average_rating.desc().nullslast(), App.review_count.desc().nullslast())
+        .limit(ranking_limit)
+    ).all()
+    highest_rated_apps = [to_item(a) for a in highest_rated_objs]
+
+    # 3. Lowest-Rated Apps (average_rating < 4.0 AND review_count >= 10, excluding apps without stored reviews)
+    lowest_rated_objs = db.scalars(
+        select(App)
+        .join(AppCategory, App.id == AppCategory.app_id)
+        .where(
+            AppCategory.category_id == cat.id,
+            App.average_rating < 4.0,
+            App.review_count >= 10,
+            ~App.id.in_(UNCOLLECTED_APP_IDS),
+        )
+        .order_by(App.average_rating.asc(), App.review_count.desc().nullslast())
+        .limit(ranking_limit)
+    ).all()
+    lowest_rated_apps = [to_item(a) for a in lowest_rated_objs]
 
     return CategoryDetail(
         id=cat.id,
@@ -153,5 +233,9 @@ def get_category_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
         average_rating=avg_rating,
         average_review_count=avg_reviews,
         pricing_breakdown=pricing_breakdown,
-        top_apps=top_apps,
+        evidence_summary=evidence_summary,
+        most_reviewed_apps=most_reviewed_apps,
+        highest_rated_apps=highest_rated_apps,
+        lowest_rated_apps=lowest_rated_apps,
+        top_apps=most_reviewed_apps,
     )

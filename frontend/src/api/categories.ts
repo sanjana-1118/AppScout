@@ -21,6 +21,10 @@ export async function fetchCategories(
   return apiClient<PaginatedResponse<CategoryItem>>('/categories', undefined, params as any);
 }
 
-export async function fetchCategoryDetail(slugOrId: string | number): Promise<CategoryItem> {
-  return apiClient<CategoryItem>(`/categories/${slugOrId}`);
+export async function fetchCategoryDetail(
+  slugOrId: string | number,
+  rankingLimit: number = 50
+): Promise<CategoryItem> {
+  return apiClient<CategoryItem>(`/categories/${slugOrId}`, undefined, { ranking_limit: rankingLimit });
 }
+

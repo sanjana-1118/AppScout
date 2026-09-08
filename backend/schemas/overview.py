@@ -18,8 +18,18 @@ class StatCard(BaseModel):
     description: str | None = None
 
 
+class ReviewAvailability(BaseModel):
+    total_active_apps: int
+    apps_with_public_reviews: int
+    apps_with_no_public_reviews: int
+    total_stored_reviews: int
+    apps_with_stored_reviews: int
+    uncollected_apps_count: int
+
+
 class OverviewDashboardResponse(BaseModel):
     summary: dict[str, StatCard]
+    review_availability: ReviewAvailability
     pricing_distribution: dict[str, int]
     rating_distribution: dict[int, int]
     top_categories: list[CategoryListItem]

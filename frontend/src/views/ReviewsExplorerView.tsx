@@ -24,9 +24,15 @@ import type { PaginatedResponse } from '../api/apps';
 
 interface ReviewsExplorerViewProps {
   onSelectApp?: (app: AppItem) => void;
+  initialAppSlug?: string;
+  onClearInitialAppSlug?: () => void;
 }
 
-export const ReviewsExplorerView: React.FC<ReviewsExplorerViewProps> = ({ onSelectApp }) => {
+export const ReviewsExplorerView: React.FC<ReviewsExplorerViewProps> = ({
+  onSelectApp,
+  initialAppSlug,
+  onClearInitialAppSlug,
+}) => {
   // Stats state
   const [stats, setStats] = useState<ReviewsStatsResponse | null>(null);
 
@@ -48,11 +54,19 @@ export const ReviewsExplorerView: React.FC<ReviewsExplorerViewProps> = ({ onSele
   const [searchTerm, setSearchTerm] = useState('');
   const [debouncedSearch, setDebouncedSearch] = useState('');
   const [selectedRating, setSelectedRating] = useState<number>(0);
-  const [selectedAppSlug, setSelectedAppSlug] = useState<string>('');
+  const [selectedAppSlug, setSelectedAppSlug] = useState<string>(initialAppSlug || '');
   const [sortBy, setSortBy] = useState<'date' | 'rating' | 'newest'>('date');
   const [sortOrder, setSortOrder] = useState<'desc' | 'asc'>('desc');
   const [page, setPage] = useState(1);
   const pageSize = 10;
+
+  // React to initialAppSlug changes
+  useEffect(() => {
+    if (initialAppSlug) {
+      setSelectedAppSlug(initialAppSlug);
+      setPage(1);
+    }
+  }, [initialAppSlug]);
 
   // Debounce search
   useEffect(() => {
@@ -132,17 +146,17 @@ export const ReviewsExplorerView: React.FC<ReviewsExplorerViewProps> = ({ onSele
           </div>
           <div>
             <h3 className="text-lg font-bold text-slate-900 tracking-tight flex items-center">
-              App Reviews
-              <InfoTooltip content="Merchant reviews extracted from public Shopify app store listings across 451 priority applications." />
+              Stored Merchant Reviews
+              <InfoTooltip content="Merchant review records collected and stored in the AppScout database. Up to 1,000 reviews are collected per application due to Shopify directory limits. Public review totals on app listings may be higher." />
             </h3>
             <p className="text-xs text-slate-500">
               {stats ? (
                 <span>
-                  <strong>{stats.total_reviews.toLocaleString()}</strong> reviews collected across{' '}
-                  <strong>{stats.distinct_apps_covered}</strong> priority applications in dataset
+                  <strong>{stats.total_reviews.toLocaleString()}</strong> stored review records across{' '}
+                  <strong>{stats.distinct_apps_covered.toLocaleString()}</strong> applications with collected reviews
                 </span>
               ) : (
-                'Loading review dataset summary...'
+                'Loading stored review dataset...'
               )}
             </p>
           </div>
@@ -175,7 +189,7 @@ export const ReviewsExplorerView: React.FC<ReviewsExplorerViewProps> = ({ onSele
       <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm space-y-3">
         <div className="flex justify-between items-center text-xs font-semibold text-slate-700">
           <span className="flex items-center">
-            Rating Distribution ({stats?.total_reviews.toLocaleString() || '20,978'} total)
+            Rating Distribution ({stats?.total_reviews.toLocaleString() || '738,101'} stored records)
             <InfoTooltip content="Click any star button to filter reviews below to that exact rating score." />
           </span>
           {selectedRating > 0 ? (
@@ -294,14 +308,38 @@ export const ReviewsExplorerView: React.FC<ReviewsExplorerViewProps> = ({ onSele
                 setSelectedRating(0);
                 setSelectedAppSlug('');
                 setPage(1);
+                onClearInitialAppSlug?.();
               }}
-              className="px-3 py-2 text-blue-600 hover:text-blue-800 font-semibold"
+              className="px-3 py-2 text-blue-600 hover:text-blue-800 font-semibold cursor-pointer"
             >
               Clear Filters
             </button>
           )}
         </div>
       </div>
+
+      {/* App Filter Notification Banner */}
+      {selectedAppSlug && (
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-3.5 px-4 flex items-center justify-between text-xs text-blue-900 shadow-2xs">
+          <div className="flex items-center gap-2">
+            <span className="text-slate-600">Filtered to reviews for application:</span>
+            <span className="font-bold font-mono bg-white px-2.5 py-0.5 rounded-md border border-blue-200 text-blue-800">
+              {selectedAppSlug}
+            </span>
+          </div>
+          <button
+            onClick={() => {
+              setSelectedAppSlug('');
+              setPage(1);
+              onClearInitialAppSlug?.();
+            }}
+            className="text-blue-700 hover:text-blue-900 font-semibold flex items-center gap-1 cursor-pointer bg-white px-2.5 py-1 rounded-md border border-blue-200"
+          >
+            <span>Clear App Filter</span>
+            <X className="w-3.5 h-3.5" />
+          </button>
+        </div>
+      )}
 
       {/* 4. Results Header */}
       <div className="flex items-center justify-between text-xs text-slate-500 px-1">

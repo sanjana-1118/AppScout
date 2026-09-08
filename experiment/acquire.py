@@ -63,12 +63,20 @@ def _slug_from_url(url: str) -> str:
     --------
     >>> _slug_from_url("https://apps.shopify.com/some-app?ref=xyz")
     'some-app'
+    >>> _slug_from_url("https://apps.shopify.com/some-app/reviews")
+    'some-app_reviews'
     >>> _slug_from_url("https://apps.shopify.com/")
     'response'
     """
     path = re.sub(r"https?://[^/]+", "", url).strip("/").split("?")[0]
-    last_segment = path.split("/")[-1] if path else ""
-    slug = re.sub(r"[^a-zA-Z0-9_-]", "-", last_segment).strip("-") or "response"
+    segments = [s for s in path.split("/") if s]
+    if len(segments) >= 2 and segments[-1] == "reviews":
+        combined = f"{segments[-2]}_reviews"
+    elif segments:
+        combined = segments[-1]
+    else:
+        combined = "response"
+    slug = re.sub(r"[^a-zA-Z0-9_-]", "-", combined).strip("-") or "response"
     return slug[:64]
 
 
@@ -213,72 +221,36 @@ def _get_session() -> requests.Session:
 def fetch(
     url: str,
     *,
-    raw_dir: str | os.PathLike[str] = "data/raw",
+    raw_dir: str | os.PathLike[str] | None = "data/raw",
     timeout: int = 30,
 ) -> RawResponse:
-    """Make one HTTP GET request and save the raw response as two files.
+    """Make one HTTP GET request and optionally save the raw response as two files.
 
-    If a previously saved response for *url* already exists in *raw_dir*
-    (identified by matching ``requested_url`` in the .meta.json), the saved
-    files are loaded and returned without making a new HTTP request.
+    If raw_dir is None, the response is decoded in memory and returned directly
+    without performing filesystem glob searches or writing files to disk.
 
-    Files written
-    -------------
-    <raw_dir>/<slug>_<timestamp>.html
-        The response body decoded to text and written as UTF-8.
-        Opening this file in a browser gives you the original page.
-    <raw_dir>/<slug>_<timestamp>.meta.json
-        All response metadata: status, headers, encoding details, timing,
-        redirect chain, byte length.  No body content.
-
-    Parameters
-    ----------
-    url : str
-        The full URL to request.
-    raw_dir : path-like
-        Directory where the two files will be written.
-        Created automatically if it does not exist.
-    timeout : int
-        Socket timeout in seconds.  Passed directly to requests.get().
-
-    Returns
-    -------
-    RawResponse
-        A frozen dataclass with html_path and meta_path pointing to the
-        saved files.
-
-    Raises
-    ------
-    requests.exceptions.RequestException
-        Propagated as-is on network failure, timeout, or connection error.
-        acquire does NOT retry.
+    If raw_dir is a path and a previously saved response for *url* already exists,
+    the saved files are loaded and returned without making a new HTTP request.
     """
-    raw_path = Path(raw_dir)
-    raw_path.mkdir(parents=True, exist_ok=True)
-
-    slug = _slug_from_url(url)
-
-    # ── Reuse check ──────────────────────────────────────────────────────────
-    existing = _find_existing(url, slug, raw_path)
-    if existing:
-        html_file, meta_file = existing
-        logger.info(
-            "Reusing existing saved response for %s → %s", url, html_file.name
-        )
-        return _load_existing(html_file, meta_file)
-    # ─────────────────────────────────────────────────────────────────────────
+    raw_path = Path(raw_dir) if raw_dir else None
+    if raw_path:
+        raw_path.mkdir(parents=True, exist_ok=True)
+        slug = _slug_from_url(url)
+        existing = _find_existing(url, slug, raw_path)
+        if existing:
+            html_file, meta_file = existing
+            logger.info("Reusing existing saved response for %s → %s", url, html_file.name)
+            return _load_existing(html_file, meta_file)
 
     logger.info("Requesting URL: %s", url)
 
-    # ── Single request with persistent connection reuse ──────────────────────
     http_session = _get_session()
     response = http_session.get(
         url,
         headers=_DEFAULT_HEADERS,
         timeout=timeout,
-        allow_redirects=True,  # follow normal HTTP redirects (not a bypass)
+        allow_redirects=True,
     )
-    # ─────────────────────────────────────────────────────────────────────────
 
     if response.status_code == 429:
         logger.warning("HTTP 429 Too Many Requests encountered for %s", url)
@@ -291,11 +263,6 @@ def fetch(
         len(response.content),
     )
 
-    # ── Encoding ─────────────────────────────────────────────────────────────
-    # response.content  = raw decompressed bytes (requests handles gzip/br/deflate)
-    # response.encoding = charset from Content-Type header, or ISO-8859-1 if
-    #                     requests heuristically assumed it for text/* responses
-    # response.apparent_encoding = charset-normalizer / chardet detection
     body_text, encoding_used, encoding_source, had_replacements = _decode_body(
         content=response.content,
         server_encoding=response.encoding,
@@ -304,58 +271,46 @@ def fetch(
     if had_replacements:
         logger.warning(
             "Body contains U+FFFD replacement characters — some bytes could not "
-            "be decoded. See 'encoding_had_replacements' in the meta file."
+            "be decoded."
         )
-    # ─────────────────────────────────────────────────────────────────────────
 
-    # ── Redirect chain ───────────────────────────────────────────────────────
-    redirects: list[dict[str, Any]] = [
-        {"from_url": r.url, "status_code": r.status_code}
-        for r in response.history
-    ]
-    # ─────────────────────────────────────────────────────────────────────────
+    html_path_str = ""
+    meta_path_str = ""
 
-    # ── Build file paths ─────────────────────────────────────────────────────
-    timestamp = _timestamp_utc()
-    stem = f"{slug}_{timestamp}"
-    html_path = raw_path / f"{stem}.html"
-    meta_path = raw_path / f"{stem}.meta.json"
-    # ─────────────────────────────────────────────────────────────────────────
+    if raw_path:
+        slug = _slug_from_url(url)
+        redirects: list[dict[str, Any]] = [
+            {"from_url": r.url, "status_code": r.status_code}
+            for r in response.history
+        ]
+        timestamp = _timestamp_utc()
+        stem = f"{slug}_{timestamp}"
+        html_path = raw_path / f"{stem}.html"
+        meta_path = raw_path / f"{stem}.meta.json"
 
-    # ── Save HTML body ───────────────────────────────────────────────────────
-    # The file is ALWAYS written as UTF-8, regardless of the original encoding.
-    # The original encoding is documented in the .meta.json file so it can be
-    # recovered.  Reading the file back with encoding="utf-8" is always correct.
-    html_path.write_text(body_text, encoding="utf-8")
-    logger.info("HTML body saved to: %s", html_path.resolve())
-    # ─────────────────────────────────────────────────────────────────────────
+        html_path.write_text(body_text, encoding="utf-8")
+        logger.info("HTML body saved to: %s", html_path.resolve())
 
-    # ── Save metadata ────────────────────────────────────────────────────────
-    meta: dict[str, Any] = {
-        "experiment_version": "phase1",
-        "fetched_at": datetime.now(timezone.utc).isoformat(),
-        "requested_url": url,
-        "final_url": response.url,
-        "status_code": response.status_code,
-        "content_type": response.headers.get("Content-Type", ""),
-        # Encoding fields — explicitly document what happened.
-        "detected_encoding": encoding_used,
-        "encoding_source": encoding_source,
-        "encoding_had_replacements": had_replacements,
-        # Size
-        "body_bytes_length": len(response.content),
-        # Timing
-        "elapsed_seconds": response.elapsed.total_seconds(),
-        # Redirect chain (empty list if no redirects occurred)
-        "redirects": redirects,
-        # All response headers (original casing preserved)
-        "response_headers": dict(response.headers),
-        # Paths (relative to raw_dir for portability, absolute for convenience)
-        "html_filename": html_path.name,
-    }
-    meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
-    logger.info("Metadata saved to: %s", meta_path.resolve())
-    # ─────────────────────────────────────────────────────────────────────────
+        meta: dict[str, Any] = {
+            "experiment_version": "phase1",
+            "fetched_at": datetime.now(timezone.utc).isoformat(),
+            "requested_url": url,
+            "final_url": response.url,
+            "status_code": response.status_code,
+            "content_type": response.headers.get("Content-Type", ""),
+            "detected_encoding": encoding_used,
+            "encoding_source": encoding_source,
+            "encoding_had_replacements": had_replacements,
+            "body_bytes_length": len(response.content),
+            "elapsed_seconds": response.elapsed.total_seconds(),
+            "redirects": redirects,
+            "response_headers": dict(response.headers),
+            "html_filename": html_path.name,
+        }
+        meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+        logger.info("Metadata saved to: %s", meta_path.resolve())
+        html_path_str = str(html_path.resolve())
+        meta_path_str = str(meta_path.resolve())
 
     return RawResponse(
         url=url,
@@ -366,6 +321,6 @@ def fetch(
         body_bytes_length=len(response.content),
         elapsed_seconds=response.elapsed.total_seconds(),
         encoding=encoding_used,
-        html_path=str(html_path.resolve()),
-        meta_path=str(meta_path.resolve()),
+        html_path=html_path_str,
+        meta_path=meta_path_str,
     )

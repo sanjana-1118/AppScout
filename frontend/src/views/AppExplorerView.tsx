@@ -20,13 +20,19 @@ import {
 
 interface AppExplorerViewProps {
   onSelectApp: (app: AppItem) => void;
+  initialCategorySlug?: string;
+  onClearInitialCategorySlug?: () => void;
 }
 
-export const AppExplorerView: React.FC<AppExplorerViewProps> = ({ onSelectApp }) => {
+export const AppExplorerView: React.FC<AppExplorerViewProps> = ({
+  onSelectApp,
+  initialCategorySlug,
+  onClearInitialCategorySlug,
+}) => {
   // Query parameters state
   const [searchTerm, setSearchTerm] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
-  const [selectedCategory, setSelectedCategory] = useState<string>('all');
+  const [selectedCategory, setSelectedCategory] = useState<string>(initialCategorySlug || 'all');
   const [selectedPricing, setSelectedPricing] = useState<string>('all');
   const [selectedMinRating, setSelectedMinRating] = useState<number>(0);
   const [selectedMinReviews, setSelectedMinReviews] = useState<number>(0);
@@ -41,6 +47,14 @@ export const AppExplorerView: React.FC<AppExplorerViewProps> = ({ onSelectApp })
   const [categoriesList, setCategoriesList] = useState<CategoryItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
+  // Synchronize when initialCategorySlug changes
+  useEffect(() => {
+    if (initialCategorySlug) {
+      setSelectedCategory(initialCategorySlug);
+      setPage(1);
+    }
+  }, [initialCategorySlug]);
 
   // Debounce search query
   useEffect(() => {
@@ -129,6 +143,7 @@ export const AppExplorerView: React.FC<AppExplorerViewProps> = ({ onSelectApp })
     setSortBy('reviews');
     setSortOrder('desc');
     setPage(1);
+    onClearInitialCategorySlug?.();
   };
 
   const hasActiveFilters =

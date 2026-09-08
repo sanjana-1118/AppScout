@@ -64,6 +64,8 @@ class AppListItem(BaseModel):
     pricing_type: str | None = "unknown"
     free_trial_days: int | None = None
     categories: list[CategoryBadge] = Field(default_factory=list)
+    has_stored_reviews: bool = False
+    stored_review_count: int = 0
 
     model_config = ConfigDict(from_attributes=True)
 
@@ -85,6 +87,8 @@ class AppDetail(BaseModel):
     last_scraped_at: datetime | None = None
     created_at: datetime | None = None
     updated_at: datetime | None = None
+    has_stored_reviews: bool = False
+    stored_review_count: int = 0
 
     categories: list[CategoryBadge] = Field(default_factory=list)
     pricing_plans: list[PricingPlanCard] = Field(default_factory=list)

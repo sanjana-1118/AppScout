@@ -14,9 +14,10 @@ from sqlalchemy.orm import Session
 from experiment.db.models import App, Category, AppCategory, AppPricingPlan
 from experiment.reviews.models import Review
 from backend.dependencies import get_db_session
-from backend.schemas.overview import OverviewDashboardResponse, StatCard
+from backend.schemas.overview import OverviewDashboardResponse, StatCard, ReviewAvailability
 from backend.schemas.apps import AppListItem, CategoryBadge
 from backend.schemas.categories import CategoryListItem
+from backend.routers.categories import UNCOLLECTED_APP_IDS
 
 router = APIRouter(prefix="/overview", tags=["Overview"])
 
@@ -30,6 +31,23 @@ def get_ecosystem_overview(db: Session = Depends(get_db_session)):
     total_pricing_plans = db.scalar(select(func.count(AppPricingPlan.id))) or 0
     total_reviews = db.scalar(select(func.count(Review.id))) or 0
     avg_store_rating = db.scalar(select(func.avg(App.average_rating)).where(App.average_rating != None))
+
+    # Review availability breakdown
+    apps_with_public_reviews = db.scalar(select(func.count(App.id)).where(App.review_count > 0)) or 0
+    apps_with_no_public_reviews = db.scalar(
+        select(func.count(App.id)).where((App.review_count == 0) | (App.review_count == None))
+    ) or 0
+    apps_with_stored_reviews = db.scalar(select(func.count(func.distinct(Review.app_id)))) or 0
+    uncollected_apps_count = len(UNCOLLECTED_APP_IDS)
+
+    review_availability = ReviewAvailability(
+        total_active_apps=total_apps,
+        apps_with_public_reviews=apps_with_public_reviews,
+        apps_with_no_public_reviews=apps_with_no_public_reviews,
+        total_stored_reviews=total_reviews,
+        apps_with_stored_reviews=apps_with_stored_reviews,
+        uncollected_apps_count=uncollected_apps_count,
+    )
 
     summary = {
         "total_apps": StatCard(
@@ -117,9 +135,10 @@ def get_ecosystem_overview(db: Session = Depends(get_db_session)):
         for row in top_cat_rows
     ]
 
-    # 5. Top reviewed apps
+    # 5. Top reviewed apps (with stored review evidence)
     top_reviewed_objs = db.scalars(
         select(App)
+        .where(App.review_count > 0, ~App.id.in_(UNCOLLECTED_APP_IDS))
         .order_by(App.review_count.desc().nullslast())
         .limit(5)
     ).all()
@@ -136,14 +155,20 @@ def get_ecosystem_overview(db: Session = Depends(get_db_session)):
             pricing_type=a.pricing_type or "unknown",
             free_trial_days=a.free_trial_days,
             categories=[CategoryBadge(id=c.id, slug=c.slug, name=c.name) for c in a.categories],
+            has_stored_reviews=True,
+            stored_review_count=a.review_count or 0,
         )
         for a in top_reviewed_objs
     ]
 
-    # 6. Top rated apps (minimum 50 reviews to ensure statistical significance)
+    # 6. Top rated apps (minimum 50 reviews to ensure statistical significance, with stored reviews)
     top_rated_objs = db.scalars(
         select(App)
-        .where(App.average_rating != None, App.review_count >= 50)
+        .where(
+            App.average_rating != None,
+            App.review_count >= 50,
+            ~App.id.in_(UNCOLLECTED_APP_IDS),
+        )
         .order_by(App.average_rating.desc().nullslast(), App.review_count.desc().nullslast())
         .limit(5)
     ).all()
@@ -160,12 +185,15 @@ def get_ecosystem_overview(db: Session = Depends(get_db_session)):
             pricing_type=a.pricing_type or "unknown",
             free_trial_days=a.free_trial_days,
             categories=[CategoryBadge(id=c.id, slug=c.slug, name=c.name) for c in a.categories],
+            has_stored_reviews=True,
+            stored_review_count=a.review_count or 0,
         )
         for a in top_rated_objs
     ]
 
     return OverviewDashboardResponse(
         summary=summary,
+        review_availability=review_availability,
         pricing_distribution=pricing_distribution,
         rating_distribution=rating_distribution,
         top_categories=top_categories,

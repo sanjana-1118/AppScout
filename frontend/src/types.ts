@@ -31,6 +31,12 @@ export interface ReviewItem {
   body: string;
 }
 
+export interface ReviewSummary {
+  total_reviews_in_db: number;
+  average_rating_in_db?: number | null;
+  rating_breakdown?: Record<number, number>;
+}
+
 export interface AppItem {
   id: number;
   app_slug: string;
@@ -44,7 +50,16 @@ export interface AppItem {
   free_trial_days: number | null;
   categories: CategoryBadge[];
   pricing_plans?: PricingPlan[];
+  review_summary?: ReviewSummary;
   recent_reviews?: ReviewItem[];
+  has_stored_reviews?: boolean;
+  stored_review_count?: number;
+}
+
+export interface EvidenceSummary {
+  sufficient_count: number;
+  limited_count: number;
+  unreviewed_count: number;
 }
 
 export interface CategoryItem {
@@ -55,6 +70,10 @@ export interface CategoryItem {
   average_rating: number | null;
   average_review_count: number | null;
   pricing_breakdown?: Record<string, number>;
+  evidence_summary?: EvidenceSummary;
+  most_reviewed_apps?: AppItem[];
+  highest_rated_apps?: AppItem[];
+  lowest_rated_apps?: AppItem[];
   top_apps?: AppItem[];
 }
 

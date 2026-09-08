@@ -43,5 +43,15 @@ data/raw/*.json
 !data/raw/.gitkeep
 output/batches/*.json
 
+# Database backups & local databases
+*.dump
+appscout_backup.dump
+*.db
+*.sqlite
+*.sqlite3
+
+# Scratch directory
+scratch/
+
 # Node.js
 node_modules/

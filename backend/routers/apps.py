@@ -25,6 +25,7 @@ from backend.schemas.apps import (
     ReviewSummary,
     ReviewBrief,
 )
+from backend.routers.categories import UNCOLLECTED_APP_IDS
 
 router = APIRouter(prefix="/apps", tags=["Apps"])
 
@@ -124,6 +125,8 @@ def list_apps(
             pricing_type=a.pricing_type or "unknown",
             free_trial_days=a.free_trial_days,
             categories=[CategoryBadge(id=c.id, slug=c.slug, name=c.name) for c in a.categories],
+            has_stored_reviews=(a.id not in UNCOLLECTED_APP_IDS) and ((a.review_count or 0) > 0),
+            stored_review_count=a.review_count if ((a.id not in UNCOLLECTED_APP_IDS) and ((a.review_count or 0) > 0)) else 0,
         )
         for a in app_records
     ]
@@ -214,6 +217,8 @@ def get_app_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
         last_scraped_at=app_obj.last_scraped_at,
         created_at=app_obj.created_at,
         updated_at=app_obj.updated_at,
+        has_stored_reviews=total_revs > 0,
+        stored_review_count=total_revs,
         categories=categories,
         pricing_plans=pricing_plans,
         review_summary=ReviewSummary(

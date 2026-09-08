@@ -11,6 +11,8 @@ import {
   Tag,
   Loader2,
   AlertCircle,
+  MessageSquare,
+  ArrowRight,
 } from 'lucide-react';
 import type { AppItem } from '../types';
 import { PricingBadge, RatingBadge } from './Badge';
@@ -21,12 +23,17 @@ import { formatCategoryName } from '../utils/formatters';
 interface AppDetailModalProps {
   app: AppItem | null;
   onClose: () => void;
+  onViewAllReviews?: (appSlug: string) => void;
 }
 
-export const AppDetailModal: React.FC<AppDetailModalProps> = ({ app, onClose }) => {
+export const AppDetailModal: React.FC<AppDetailModalProps> = ({
+  app,
+  onClose,
+  onViewAllReviews,
+}) => {
   const [detail, setDetail] = useState<AppItem | null>(app);
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [_error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!app) {
@@ -196,61 +203,133 @@ export const AppDetailModal: React.FC<AppDetailModalProps> = ({ app, onClose }) 
             )}
           </div>
 
-          {/* Recent Merchant Reviews */}
+          {/* Merchant Reviews & Coverage */}
           <div>
             <div className="flex items-center justify-between mb-3">
               <h4 className="text-xs font-bold text-slate-400 uppercase tracking-wider flex items-center gap-1.5">
                 <Star className="w-3.5 h-3.5 text-amber-500 fill-amber-400" />
-                Recent Merchant Reviews
-                <InfoTooltip content="Verified merchant feedback extracted for this application in the baseline review dataset." />
+                Merchant Reviews
+                <InfoTooltip content="Verified merchant feedback extracted for this application in the review dataset." />
               </h4>
-              <span className="text-xs text-slate-500">
-                {currentApp.review_count?.toLocaleString() || 0} total reviews on Shopify
+              <span className="text-xs text-slate-500 font-mono">
+                {(() => {
+                  const storedCount = detail?.stored_review_count ?? detail?.review_summary?.total_reviews_in_db ?? (currentApp.stored_review_count || 0);
+                  const publicCount = currentApp.review_count ?? 0;
+                  const hasStored = storedCount > 0;
+                  if (hasStored) {
+                    return `${storedCount.toLocaleString()} stored reviews`;
+                  }
+                  if (publicCount > 0) {
+                    return `${publicCount.toLocaleString()} public on Shopify (uncollected)`;
+                  }
+                  return '0 public reviews';
+                })()}
               </span>
             </div>
 
-            {currentApp.recent_reviews && currentApp.recent_reviews.length > 0 ? (
-              <div className="space-y-3">
-                {currentApp.recent_reviews.map((rev) => (
-                  <div
-                    key={rev.id}
-                    className="p-4 rounded-xl border border-slate-200 bg-slate-50/40 text-xs space-y-2"
-                  >
-                    <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-2">
-                        <span className="font-bold text-slate-900">{rev.reviewer_name || 'Shopify Merchant'}</span>
-                        {rev.reviewer_location && (
-                          <span className="text-slate-400 flex items-center gap-0.5 text-[11px]">
-                            <MapPin className="w-3 h-3" /> {rev.reviewer_location}
-                          </span>
-                        )}
-                      </div>
-                      <div className="flex items-center gap-1 font-semibold text-amber-600">
-                        <Star className="w-3 h-3 fill-amber-400 text-amber-400" />
-                        <span>{rev.rating}.0</span>
-                      </div>
-                    </div>
+            {(() => {
+              const storedCount = detail?.stored_review_count ?? detail?.review_summary?.total_reviews_in_db ?? (currentApp.stored_review_count || 0);
+              const publicCount = currentApp.review_count ?? 0;
+              const hasStoredReviews = storedCount > 0;
 
-                    <p className="text-slate-700 leading-relaxed italic">"{rev.body}"</p>
+              if (loading) {
+                return (
+                  <div className="p-6 text-center text-xs text-slate-400 flex items-center justify-center gap-2 border border-slate-100 rounded-xl bg-slate-50/50">
+                    <Loader2 className="w-4 h-4 animate-spin text-blue-600" />
+                    <span>Checking review dataset coverage...</span>
+                  </div>
+                );
+              }
 
-                    <div className="flex items-center justify-between text-[11px] text-slate-400 pt-1 border-t border-slate-100">
-                      {rev.time_spent_using_app && (
-                        <span className="flex items-center gap-1">
-                          <Clock className="w-3 h-3" /> {rev.time_spent_using_app}
-                        </span>
-                      )}
-                      <span className="flex items-center gap-1">
-                        <Calendar className="w-3 h-3" /> {rev.review_date || 'Recent'}
-                      </span>
+              // Case A: Stored reviews available
+              if (hasStoredReviews) {
+                return (
+                  <div className="space-y-3">
+                    {currentApp.recent_reviews && currentApp.recent_reviews.length > 0 ? (
+                      currentApp.recent_reviews.map((rev) => (
+                        <div
+                          key={rev.id}
+                          className="p-4 rounded-xl border border-slate-200 bg-slate-50/40 text-xs space-y-2"
+                        >
+                          <div className="flex items-center justify-between">
+                            <div className="flex items-center gap-2">
+                              <span className="font-bold text-slate-900">{rev.reviewer_name || 'Shopify Merchant'}</span>
+                              {rev.reviewer_location && (
+                                <span className="text-slate-400 flex items-center gap-0.5 text-[11px]">
+                                  <MapPin className="w-3 h-3" /> {rev.reviewer_location}
+                                </span>
+                              )}
+                            </div>
+                            <div className="flex items-center gap-1 font-semibold text-amber-600">
+                              <Star className="w-3 h-3 fill-amber-400 text-amber-400" />
+                              <span>{rev.rating}.0</span>
+                            </div>
+                          </div>
+
+                          <p className="text-slate-700 leading-relaxed italic">"{rev.body}"</p>
+
+                          <div className="flex items-center justify-between text-[11px] text-slate-400 pt-1 border-t border-slate-100">
+                            {rev.time_spent_using_app && (
+                              <span className="flex items-center gap-1">
+                                <Clock className="w-3 h-3" /> {rev.time_spent_using_app}
+                              </span>
+                            )}
+                            <span className="flex items-center gap-1">
+                              <Calendar className="w-3 h-3" /> {rev.review_date || 'Recent'}
+                            </span>
+                          </div>
+                        </div>
+                      ))
+                    ) : (
+                      <div className="p-4 text-center rounded-lg border border-dashed border-slate-200 text-xs text-slate-400">
+                        Reviews exist in the database, but individual sample excerpts are unavailable.
+                      </div>
+                    )}
+
+                    {/* View All Reviews in App Reviews Flow */}
+                    <div className="pt-2">
+                      <button
+                        onClick={() => {
+                          onClose();
+                          onViewAllReviews?.(currentApp.app_slug);
+                        }}
+                        className="w-full py-2.5 px-4 rounded-xl border border-blue-200 bg-blue-50/90 hover:bg-blue-100 text-blue-700 font-semibold text-xs flex items-center justify-center gap-1.5 transition-all shadow-2xs cursor-pointer group"
+                      >
+                        <MessageSquare className="w-3.5 h-3.5 text-blue-600" />
+                        <span>View all reviews ({storedCount.toLocaleString()})</span>
+                        <ArrowRight className="w-3.5 h-3.5 ml-0.5 group-hover:translate-x-0.5 transition-transform" />
+                      </button>
                     </div>
                   </div>
-                ))}
-              </div>
-            ) : (
-              <div className="p-4 text-center rounded-lg border border-dashed border-slate-200 text-xs text-slate-400">
-                No individual review text stored in the priority review sample for this application.
-              </div>
-            )}
+                );
+              }
+
+              // Case B: Public reviews exist on Shopify, but records were not collected
+              if (publicCount > 0) {
+                return (
+                  <div className="p-4 rounded-xl border border-amber-200 bg-amber-50/70 text-xs text-amber-900 space-y-2">
+                    <div className="flex items-center gap-1.5 font-bold text-amber-950">
+                      <AlertCircle className="w-4 h-4 text-amber-600 shrink-0" />
+                      <span>Review Coverage Notice</span>
+                    </div>
+                    <p className="font-semibold text-amber-950">
+                      Public review records were not collected for this app.
+                    </p>
+                    <p className="text-amber-800 text-[11px] leading-relaxed">
+                      This app has {publicCount.toLocaleString()} public reviews on the Shopify App Store, but individual review records were not collected and are not available in AppScout's dataset.
+                    </p>
+                  </div>
+                );
+              }
+
+              // Case C: Genuinely zero public Shopify reviews
+              return (
+                <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 text-xs text-slate-600 space-y-1">
+                  <p className="font-semibold text-slate-800">No public reviews on Shopify.</p>
+                  <p className="text-slate-500 text-[11px]">This application has zero public merchant reviews recorded on Shopify.</p>
+                </div>
+              );
+            })()}
           </div>
         </div>
 

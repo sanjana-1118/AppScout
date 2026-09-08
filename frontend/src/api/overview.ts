@@ -13,6 +13,15 @@ export interface StatCardData {
   description?: string;
 }
 
+export interface ReviewAvailability {
+  total_active_apps: number;
+  apps_with_public_reviews: number;
+  apps_with_no_public_reviews: number;
+  total_stored_reviews: number;
+  apps_with_stored_reviews: number;
+  uncollected_apps_count: number;
+}
+
 export interface OverviewResponse {
   summary: {
     total_apps: StatCardData;
@@ -21,6 +30,7 @@ export interface OverviewResponse {
     total_reviews: StatCardData;
     average_rating: StatCardData;
   };
+  review_availability: ReviewAvailability;
   pricing_distribution: Record<string, number>;
   rating_distribution: Record<string, number>;
   top_categories: CategoryItem[];

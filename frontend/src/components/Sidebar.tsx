@@ -6,7 +6,6 @@ import {
   FolderTree,
   DollarSign,
   MessageSquare,
-  ShieldCheck,
 } from 'lucide-react';
 import { AppScoutLogo } from './AppScoutLogo';
 
@@ -16,8 +15,7 @@ export type ActiveView =
   | 'apps'
   | 'categories'
   | 'pricing'
-  | 'reviews'
-  | 'coverage';
+  | 'reviews';
 
 interface SidebarProps {
   activeView: ActiveView;
@@ -60,13 +58,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeView, onSelectView }) =>
       id: 'reviews' as ActiveView,
       label: 'App Reviews',
       icon: MessageSquare,
-      description: '20.9k merchant reviews',
-    },
-    {
-      id: 'coverage' as ActiveView,
-      label: 'Data Coverage',
-      icon: ShieldCheck,
-      description: 'Scope & verification',
+      description: '738k merchant reviews',
     },
   ];
 
