@@ -18,6 +18,7 @@ Understanding-oriented design guides covering system topology, data acquisition,
 | **[Frontend Architecture](architecture/frontend-architecture.md)** | React 19 Single Page Application structure, single-card category workspace, global modal mount pattern, and native `fetch` client. |
 | **[Data Pipeline](architecture/data-pipeline.md)** | Complete data acquisition story: leaf-category discovery, XML sitemaps, 25.6k frontier accounting, review scraping, Shopify 1,000-page limit, and SHA-256 deduplication. |
 | **[Ranking Methodology](architecture/ranking-methodology.md)** | Statistical evidence thresholding, rating inflation analysis, three category ranking cohorts, and review availability semantics (Cases A, B, C). |
+| **[MCP Server Architecture](architecture/mcp-architecture.md)** | Model Context Protocol integration, FastMCP stdio runtime, 11 AI-callable tools, Antigravity connection, and ChatGPT status. |
 
 ---
 

@@ -61,10 +61,27 @@ Configured via environment variables (or `.env` at root):
 
 ---
 
-## 4. Documentation
+## 4. Model Context Protocol (MCP) Server
+
+AppScout includes a native **FastMCP** server in `mcp_server/` that exposes 11 market intelligence tools to AI agents like Google Antigravity over `stdio`:
+
+```bash
+# Start MCP server over stdio (Windows)
+.venv\Scripts\python -m mcp_server.server
+
+# Start MCP server over stdio (Linux / macOS)
+.venv/bin/python -m mcp_server.server
+```
+
+The MCP server communicates with this FastAPI backend as its single source of truth via asynchronous `httpx` HTTP requests (`http://127.0.0.1:8000`), with zero direct database queries and zero data duplication.
+
+---
+
+## 5. Documentation
 
 For detailed backend reference, schemas, and database ERD:
 * [Backend Architecture Guide](../docs/architecture/backend-architecture.md)
+* [MCP Server Architecture Guide](../docs/architecture/mcp-architecture.md)
 * [API Reference](../docs/reference/api-reference.md)
 * [Database Schema](../docs/reference/database-schema.md)
 * [Ranking & Intelligence Methodology](../docs/architecture/ranking-methodology.md)

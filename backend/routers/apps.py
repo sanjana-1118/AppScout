@@ -172,22 +172,31 @@ def get_app_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
             )
         )
 
-    # Reviews and Review Summary
-    reviews_in_db = db.scalars(
+    # Reviews and Review Summary (optimized via SQL GROUP BY and LIMIT 10)
+    rating_counts = db.execute(
+        select(Review.rating, func.count(Review.id))
+        .where(or_(Review.app_id == app_obj.id, Review.app_slug == app_obj.app_slug))
+        .group_by(Review.rating)
+    ).all()
+
+    rating_breakdown = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
+    for star, cnt in rating_counts:
+        if star in rating_breakdown:
+            rating_breakdown[star] = cnt
+
+    total_revs = sum(rating_breakdown.values())
+    avg_rev_rating = (
+        round(sum(star * cnt for star, cnt in rating_breakdown.items()) / total_revs, 2)
+        if total_revs > 0
+        else None
+    )
+
+    recent_reviews_in_db = db.scalars(
         select(Review)
         .where(or_(Review.app_id == app_obj.id, Review.app_slug == app_obj.app_slug))
         .order_by(desc(Review.id))
+        .limit(10)
     ).all()
-
-    total_revs = len(reviews_in_db)
-    avg_rev_rating = None
-    rating_breakdown = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
-
-    if total_revs > 0:
-        avg_rev_rating = round(sum(r.rating for r in reviews_in_db) / total_revs, 2)
-        for r in reviews_in_db:
-            if r.rating in rating_breakdown:
-                rating_breakdown[r.rating] += 1
 
     recent_reviews = [
         ReviewBrief(
@@ -199,7 +208,7 @@ def get_app_detail(slug_or_id: str, db: Session = Depends(get_db_session)):
             review_date=r.review_date,
             body=r.body,
         )
-        for r in reviews_in_db[:10]  # top 10 recent
+        for r in recent_reviews_in_db
     ]
 
     return AppDetail(

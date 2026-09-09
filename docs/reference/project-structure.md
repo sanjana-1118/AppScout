@@ -8,22 +8,29 @@ This document details the organization of the AppScout monorepo, explaining the 
 
 ```text
 AppScout/
+├── .agents/                         # Antigravity agent configuration and workspace plugins
+│   └── plugins/appscout/            # AppScout MCP plugin (plugin.json, mcp_config.json)
 ├── .env.example                     # Root environment configuration template
 ├── .gitignore                       # Git ignore patterns (virtualenvs, builds, dumps, db)
+├── mcp_config.json                  # Root Model Context Protocol (MCP) server configuration
+├── mcp_server/                      # FastMCP server exposing 11 tools to AI agents
+│   ├── client.py                    # Asynchronous httpx client calling FastAPI endpoints
+│   ├── config.py                    # Environment settings, timeouts, and stderr logging
+│   └── server.py                    # FastMCP tool registrations and stdio entrypoint
 ├── README.md                        # Primary project entrypoint and high-level guide
-├── requirements.txt                 # Python dependencies for backend and data scripts
+├── requirements.txt                 # Python dependencies (FastAPI, SQLAlchemy, MCP, httpx)
 ├── test_backend_api.py              # Automated 14-endpoint FastAPI smoke test suite
 ├── appscout_backup.dump             # Master PostgreSQL backup dump file (9.25 MB)
 ├── backend/                         # FastAPI application and REST endpoints
 ├── docs/                            # Categorized technical documentation suite
 │   ├── index.md                     # Documentation hub
-│   ├── architecture/                # System architecture, data pipeline, ranking, frontend
+│   ├── architecture/                # System, backend, frontend, data pipeline, ranking, MCP
 │   ├── reference/                   # API reference, database schema, project structure
 │   └── operations/                  # Setup, testing, troubleshooting
 ├── frontend/                        # React 19 + TypeScript + Vite web application
 ├── experiment/                      # Data collection, scraping, and review processing engine
 ├── data/                            # Frontier files, ingestion progress, and schemas
-└── tests/                           # Functional acceptance and e2e test suites
+└── tests/                           # Functional acceptance, parity, and live MCP test suites
 ```
 
 ---
@@ -171,6 +178,11 @@ data/
   * `fastapi>=0.115.0`, `uvicorn>=0.30.0`, `pydantic>=2.9.0`: ASGI API server and validation.
   * `sqlalchemy>=2.0.0`, `psycopg[binary]>=3.1.0`, `python-dotenv>=1.0.0`: PostgreSQL 18.6+ ORM and connection pooling.
 * **`test_backend_api.py`**: Automated 14-endpoint FastAPI smoke test suite verifying status codes, response schemas, and database connectivity.
+* **`tests/test_mcp_server.py`**: MCP unit and parity test suite verifying tool registration, bounds enforcement, stderr isolation, and endpoint parity.
+* **`tests/test_live_mcp_integration.py`**: 14-step live stdio JSON-RPC test suite executing actual MCP client sessions against the running server.
+* **`tests/test_app_detail_parity.py`**: Exact parity verification suite comparing SQL review aggregation against full ORM loads.
+* **`mcp_config.json`**: Standard MCP server configuration file for IDE and client discovery.
+* **`.agents/plugins/appscout/`**: Antigravity workspace plugin registering the AppScout MCP server.
 * **`appscout_backup.dump`**: Master PostgreSQL backup in custom archive format (`-Fc`, 9.25 MB) containing all 21,502 applications, 166 categories, 42,326 plans, and 738,101 reviews.
 * **`.env.example`**: Template for database URLs, pool parameters, API binding, and CORS configuration.
 * **`scratch/`**: Ad-hoc diagnostic and data validation scripts used during development.

@@ -46,6 +46,15 @@ AppScout solves this by collecting and normalizing empirical marketplace data in
 
 ```text
 AppScout/
+├── .agents/                         # Antigravity agent configuration and workspace plugins
+│   └── plugins/appscout/            # AppScout MCP plugin (plugin.json, mcp_config.json)
+├── .env.example                     # Root environment configuration template
+├── .gitignore                       # Git ignore patterns (virtualenvs, builds, dumps, db)
+├── mcp_config.json                  # Root Model Context Protocol (MCP) server configuration
+├── mcp_server/                      # FastMCP server exposing 11 tools to AI agents
+│   ├── client.py                    # Asynchronous httpx client calling FastAPI endpoints
+│   ├── config.py                    # Environment settings, timeouts, and stderr logging
+│   └── server.py                    # FastMCP tool registrations and stdio entrypoint
 ├── appscout_backup.dump             # Canonical PostgreSQL database backup (9.25 MB)
 ├── backend/                         # FastAPI application, routers, dependencies, and schemas
 │   ├── main.py                      # Application entrypoint & CORS middleware
@@ -54,7 +63,7 @@ AppScout/
 │   └── schemas/                     # Pydantic v2 validation models
 ├── docs/                            # Comprehensive technical documentation suite
 │   ├── index.md                     # Documentation entrypoint & hub
-│   ├── architecture/                # System architecture, data pipeline, ranking, frontend
+│   ├── architecture/                # System, backend, frontend, data pipeline, ranking, MCP
 │   ├── reference/                   # REST API reference, database schema, project structure
 │   └── operations/                  # Setup, testing, troubleshooting
 ├── frontend/                        # React 19 Single Page Application (Vite + TypeScript)
@@ -65,7 +74,7 @@ AppScout/
 │   ├── db/                          # SQLAlchemy database engine and ORM models
 │   └── reviews/                     # Review collection runner and deduplication logic
 ├── data/                            # Frontier files, ingestion checkpoints, and schemas
-└── tests/                           # Functional acceptance and e2e test suites
+└── tests/                           # Functional acceptance, parity, and live MCP test suites
 ```
 
 ---
@@ -108,7 +117,72 @@ For comprehensive setup steps, prerequisites, and environment variable details, 
 
 ---
 
-## 6. Technical Documentation Suite
+## 6. Model Context Protocol (MCP) Server for AI Agents
+
+AppScout includes a native **FastMCP** server in `mcp_server/` that exposes verified Shopify App Store intelligence to AI agents such as **Google Antigravity** over the standard `stdio` JSON-RPC transport.
+
+### Architecture Flow
+```text
+Antigravity AI Agent <--> stdio JSON-RPC <--> FastMCP (mcp_server) <--> httpx <--> FastAPI (/api/...) <--> PostgreSQL
+```
+
+* **Single Source of Truth**: The MCP server never touches the database directly; it delegates all requests to the FastAPI backend over HTTP (`http://127.0.0.1:8000`).
+* **Zero Mocks**: Every tool call returns live, verified PostgreSQL marketplace data.
+* **Stream Safety**: Logging routes strictly to `stderr` so standard output remains pristine JSON-RPC.
+
+### The 11 AI-Callable Tools
+1. `check_backend_health` — Diagnostic check of backend and PostgreSQL connectivity.
+2. `get_market_overview` — Macro KPIs: 21.5k apps, 738k reviews, commercial distributions.
+3. `search_apps` — Multi-facet app filtering (keyword, category, rating, reviews, pricing).
+4. `get_app_details` — 360-degree app profile, pricing plans, and merchant reviews.
+5. `get_categories` — 166 taxonomy categories with app volume and mean ratings.
+6. `get_category_intelligence` — Category analytics and competitive ranking cohorts.
+7. `get_pricing_overview` — Monetization analytics across 42.3k discrete plan tiers.
+8. `search_pricing_plans` — Search individual plan tiers by features and price range.
+9. `search_reviews` — Search 738k verified reviews by sentiment, star rating, and keyword.
+10. `get_review_stats` — Review dataset telemetry and star rating distribution.
+11. `get_data_coverage` — Frontier reconciliation, field fill rates, and integrity flags.
+
+### Starting the Server
+```bash
+# Windows
+.venv\Scripts\python -m mcp_server.server
+
+# Linux / macOS
+.venv/bin/python -m mcp_server.server
+```
+
+### Antigravity Connection
+Antigravity automatically discovers and connects to the server via the project's root [`mcp_config.json`](mcp_config.json) or workspace plugin [`.agents/plugins/appscout/mcp_config.json`](.agents/plugins/appscout/mcp_config.json):
+
+```json
+{
+  "mcpServers": {
+    "appscout": {
+      "command": ".venv/Scripts/python.exe",
+      "args": ["-m", "mcp_server.server"],
+      "env": {
+        "APPSCOUT_API_BASE_URL": "http://127.0.0.1:8000"
+      }
+    }
+  }
+}
+```
+*(On Linux/macOS, replace `"command"` with `".venv/bin/python"`).*
+
+### Example Natural Language Questions Answered by MCP
+* *"What is the overall size of the Shopify app ecosystem?"* &rarr; `get_market_overview()`
+* *"Which are the largest app categories?"* &rarr; `get_categories(sort_by="app_count", limit=10)`
+* *"Find highly rated apps with more than 1,000 reviews."* &rarr; `search_apps(min_rating=4.5, min_reviews=1000)`
+* *"What pricing models are most common?"* &rarr; `get_pricing_overview()`
+* *"Show me the details of Judge.me."* &rarr; `get_app_details(slug_or_id="judgeme")`
+
+> [!NOTE]
+> **ChatGPT Connection Status**: The AppScout MCP server currently targets local agent hosts using `stdio` (such as Google Antigravity). OpenAI ChatGPT Actions / Custom GPTs require an external HTTPS reverse proxy, SSE transport, and OAuth authentication, which are **not configured yet**.
+
+---
+
+## 7. Technical Documentation Suite
 
 Complete documentation is organized in the [`docs/`](docs/) directory:
 
@@ -118,6 +192,7 @@ Complete documentation is organized in the [`docs/`](docs/) directory:
 * **[Frontend Architecture](docs/architecture/frontend-architecture.md)** — React 19 layout, state management, and modal lifecycle.
 * **[Data Pipeline](docs/architecture/data-pipeline.md)** — Catalog crawling, frontier accounting, and review scraping engine.
 * **[Ranking Methodology](docs/architecture/ranking-methodology.md)** — Statistical evidence thresholds and category ranking cohorts.
+* **[MCP Server Architecture](docs/architecture/mcp-architecture.md)** — FastMCP service architecture, 11 tool specifications, Antigravity integration, and ChatGPT status.
 
 ### Reference
 * **[API Reference](docs/reference/api-reference.md)** — Complete endpoint paths, query parameters, and response structures.
