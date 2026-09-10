@@ -6,6 +6,9 @@
       "env": {
         "APPSCOUT_API_BASE_URL": "http://127.0.0.1:8000"
       }
+    },
+    "appscout-remote": {
+      "serverUrl": "https://appscout-mcp.onrender.com/mcp"
     }
   }
 }

@@ -143,17 +143,13 @@ Antigravity AI Agent <--> stdio JSON-RPC <--> FastMCP (mcp_server) <--> httpx <-
 10. `get_review_stats` — Review dataset telemetry and star rating distribution.
 11. `get_data_coverage` — Frontier reconciliation, field fill rates, and integrity flags.
 
-### Starting the Server
-```bash
-# Windows
-.venv\Scripts\python -m mcp_server.server
+### Transports & Deployment Options
+The AppScout MCP server supports dual transports:
+* **Local Subprocess (`stdio`)**: Default mode for local Antigravity pair-programming.
+* **Remote Cloud Service (`streamable-http`)**: Cloud-hosted over HTTPS on Render at `https://appscout-mcp.onrender.com/mcp`.
 
-# Linux / macOS
-.venv/bin/python -m mcp_server.server
-```
-
-### Antigravity Connection
-Antigravity automatically discovers and connects to the server via the project's root [`mcp_config.json`](mcp_config.json) or workspace plugin [`.agents/plugins/appscout/mcp_config.json`](.agents/plugins/appscout/mcp_config.json):
+### Antigravity & Client Configuration
+Antigravity connects via [`mcp_config.json`](mcp_config.json) or [`.agents/plugins/appscout/mcp_config.json`](.agents/plugins/appscout/mcp_config.json):
 
 ```json
 {
@@ -164,21 +160,19 @@ Antigravity automatically discovers and connects to the server via the project's
       "env": {
         "APPSCOUT_API_BASE_URL": "http://127.0.0.1:8000"
       }
+    },
+    "appscout-remote": {
+      "serverUrl": "https://appscout-mcp.onrender.com/mcp"
     }
   }
 }
 ```
 *(On Linux/macOS, replace `"command"` with `".venv/bin/python"`).*
 
-### Example Natural Language Questions Answered by MCP
-* *"What is the overall size of the Shopify app ecosystem?"* &rarr; `get_market_overview()`
-* *"Which are the largest app categories?"* &rarr; `get_categories(sort_by="app_count", limit=10)`
-* *"Find highly rated apps with more than 1,000 reviews."* &rarr; `search_apps(min_rating=4.5, min_reviews=1000)`
-* *"What pricing models are most common?"* &rarr; `get_pricing_overview()`
-* *"Show me the details of Judge.me."* &rarr; `get_app_details(slug_or_id="judgeme")`
+> [!TIP]
+> **No Repository Clone Needed for Remote Access**: Any MCP-compatible AI client can connect directly to `https://appscout-mcp.onrender.com/mcp` without installing local Python dependencies or cloning the codebase.
 
-> [!NOTE]
-> **ChatGPT Connection Status**: The AppScout MCP server currently targets local agent hosts using `stdio` (such as Google Antigravity). OpenAI ChatGPT Actions / Custom GPTs require an external HTTPS reverse proxy, SSE transport, and OAuth authentication, which are **not configured yet**.
+For full architectural diagrams, environment variable reference, deployment guides, and troubleshooting steps, see the **[MCP Server Architecture Guide](docs/architecture/mcp-architecture.md)**.
 
 ---
 
