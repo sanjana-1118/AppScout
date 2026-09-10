@@ -10,13 +10,50 @@ from __future__ import annotations
 
 from typing import Literal, Any
 from mcp.server.fastmcp import FastMCP
+from mcp.server.transport_security import TransportSecuritySettings
 
-from mcp_server.config import SERVER_NAME, logger
+from mcp_server.config import (
+    SERVER_NAME,
+    MCP_TRANSPORT,
+    MCP_HOST,
+    MCP_PORT,
+    MCP_ALLOWED_HOSTS,
+    logger,
+)
 from mcp_server.client import default_client
+
+# Build transport security settings for HTTP transports
+# Protect against DNS rebinding while allowing configured reverse-proxy hosts (e.g., Render)
+transport_security = None
+if MCP_ALLOWED_HOSTS:
+    if "*" in MCP_ALLOWED_HOSTS:
+        transport_security = TransportSecuritySettings(enable_dns_rebinding_protection=False)
+    else:
+        # Build allowed hosts and origins including port wildcards
+        expanded_hosts: list[str] = ["127.0.0.1:*", "localhost:*", "[::1]:*"]
+        expanded_origins: list[str] = [
+            "http://127.0.0.1:*",
+            "http://localhost:*",
+            "http://[::1]:*",
+        ]
+        for host in MCP_ALLOWED_HOSTS:
+            expanded_hosts.append(host)
+            if not host.endswith(":*"):
+                expanded_hosts.append(f"{host}:*")
+            expanded_origins.append(f"https://{host}")
+            expanded_origins.append(f"http://{host}")
+        transport_security = TransportSecuritySettings(
+            enable_dns_rebinding_protection=True,
+            allowed_hosts=expanded_hosts,
+            allowed_origins=expanded_origins,
+        )
 
 # Initialize FastMCP Server
 mcp = FastMCP(
     SERVER_NAME,
+    host=MCP_HOST,
+    port=MCP_PORT,
+    transport_security=transport_security,
     instructions=(
         "AppScout MCP Server provides access to verified Shopify App Store intelligence, "
         "covering 21,500+ canonical applications, 166 taxonomy categories, 42,000+ structured pricing "
@@ -316,9 +353,18 @@ async def get_data_coverage() -> dict[str, Any]:
 
 
 def main():
-    """Main execution entrypoint running the AppScout FastMCP server over stdio."""
-    logger.info("Starting AppScout MCP Server (stdio transport)...")
-    mcp.run(transport="stdio")
+    """Main execution entrypoint running the AppScout FastMCP server."""
+    if MCP_TRANSPORT in ("streamable-http", "sse"):
+        logger.info(
+            "Starting AppScout MCP Server (%s transport) on %s:%s (endpoint: /mcp)...",
+            MCP_TRANSPORT,
+            MCP_HOST,
+            MCP_PORT,
+        )
+        mcp.run(transport=MCP_TRANSPORT)  # type: ignore[arg-type]
+    else:
+        logger.info("Starting AppScout MCP Server (stdio transport)...")
+        mcp.run(transport="stdio")
 
 
 if __name__ == "__main__":
