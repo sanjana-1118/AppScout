@@ -8,7 +8,7 @@ from __future__ import annotations
 
 from typing import Literal
 from fastapi import APIRouter, Depends, HTTPException, Query
-from sqlalchemy import func, select, desc, asc
+from sqlalchemy import func, select, desc, asc, or_
 from sqlalchemy.orm import Session
 
 from experiment.db.models import App, Category, AppCategory
